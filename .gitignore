@@ -1,0 +1,4 @@
+﻿tools/vs/obj/*
+tools/vs/.vs/*
+*.pdb
+*.exe

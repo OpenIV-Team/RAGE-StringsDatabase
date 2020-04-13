@@ -1,0 +1,3 @@
+_cache
+_manifest
+amb_camps_rio_00

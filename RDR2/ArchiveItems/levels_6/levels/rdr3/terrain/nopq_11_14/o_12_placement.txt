@@ -1,0 +1,3 @@
+_cache
+_manifest
+o_12_placement

@@ -1,0 +1,2 @@
+_manifest
+new_theater_int

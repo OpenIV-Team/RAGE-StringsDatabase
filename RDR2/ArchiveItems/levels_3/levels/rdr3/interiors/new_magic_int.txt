@@ -1,0 +1,3 @@
+_cache
+_manifest
+new_magic_int

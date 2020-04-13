@@ -1,0 +1,3 @@
+_manifest
+p_storage
+s_caravan

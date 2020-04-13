@@ -1,0 +1,3 @@
+_cache
+_manifest
+six_cabin_int

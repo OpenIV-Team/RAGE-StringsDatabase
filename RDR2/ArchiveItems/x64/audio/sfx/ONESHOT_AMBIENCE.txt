@@ -1,0 +1,8 @@
+birds_flyaway.awc
+lightning_strike_01.awc
+lightning_strike_02.awc
+lightning_strike_03.awc
+rooster.awc
+thunder_roll_01.awc
+thunder_roll_02.awc
+thunder_roll_03.awc

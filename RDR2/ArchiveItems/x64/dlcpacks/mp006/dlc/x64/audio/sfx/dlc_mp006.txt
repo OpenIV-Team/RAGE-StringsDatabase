@@ -1,0 +1,2 @@
+cook.awc
+coyote.awc

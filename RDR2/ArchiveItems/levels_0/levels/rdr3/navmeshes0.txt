@@ -1,0 +1,13 @@
+armoredcar01x
+armoredcar03x
+boatsteam02x
+caboose01x
+coalhopper01x
+ghosttraincaboose
+ghosttraincoalcar
+ghosttrainpassenger
+ghosttrainsteamer
+horseboat
+keelboat
+midlandboxcar05x
+midlandrefrigeratorcar

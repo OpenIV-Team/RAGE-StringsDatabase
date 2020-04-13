@@ -1,0 +1,3 @@
+_cache
+_manifest
+p_06_placement_beechers

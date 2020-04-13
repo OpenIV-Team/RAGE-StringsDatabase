@@ -1,0 +1,4 @@
+_manifest
+w_leftshoulder_strap01
+w_melee_knife03
+w_repeater_strap01

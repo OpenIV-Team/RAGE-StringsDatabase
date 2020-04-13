@@ -1,0 +1,16 @@
+_manifest
+w_melee_brokensword01
+w_melee_hatchet01
+w_melee_hatchet02
+w_melee_hatchet02_hi
+w_melee_hatchet03_hi
+w_melee_hatchet06
+w_melee_knife16
+w_pistol_semiauto01_grip1
+w_pistol_semiauto01_grip2
+w_pistol_semiauto01_grip3
+w_pistol_semiauto01_grip4
+w_revolver_cattleman01
+w_revolver_doubleaction01
+w_shotgun_pumpaction01
+w_shotgun_sawed01

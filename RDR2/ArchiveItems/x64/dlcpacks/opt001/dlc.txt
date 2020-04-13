@@ -1,0 +1,16 @@
+common/data/extrafoldermount.xml
+content.xml
+pack_patch/rorassetpack/x64/levels/rdr3/area/ambient_camps/amb_camps_bgv_00
+pack_patch/rorassetpack/x64/levels/rdr3/area/ambient_camps/amb_camps_tal_00
+pack_patch/rorassetpack/x64/levels/rdr3/area/discoverables/dis_tal_00
+pack_patch/rorassetpack/x64/levels/rdr3/area/jklm_03_06/bea_01_
+pack_patch/rorassetpack/x64/levels/rdr3/area/jklm_03_06/reg_bgv_00
+pack_patch/rorassetpack/x64/levels/rdr3/area/jklm_07_10/jklm_7_10_area_lod_combine_collision
+pack_patch/rorassetpack/x64/levels/rdr3/area/jklm_07_10/reg_hrt_00
+pack_patch/rorassetpack/x64/levels/rdr3/area/nopq_11_14/cvb_01_
+pack_patch/rorassetpack/x64/levels/rdr3/area/nopq_11_14/nopq_11_14_area_lod_combine_collision
+pack_patch/rorassetpack/x64/levels/rdr3/interiors/luc_serial_house_int
+pack_patch/rorassetpack/x64/levels/rdr3/interiors/met_house01_int
+pack_patch/rorassetpack/x64/levels/rdr3/interiors/van_farmhouse01_int
+setup2.xml
+x64/packs/base/models/component_models

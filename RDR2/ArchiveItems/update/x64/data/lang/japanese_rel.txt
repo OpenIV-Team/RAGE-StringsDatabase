@@ -1,0 +1,6 @@
+credit
+fin1aud
+fin2aud
+global
+mc_play
+str1aud

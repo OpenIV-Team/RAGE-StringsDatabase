@@ -1,0 +1,3 @@
+_cache
+_manifest
+maco_shack01_int

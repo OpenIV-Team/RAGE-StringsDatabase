@@ -1,0 +1,3 @@
+_cache
+_manifest
+mp003_area01_supp

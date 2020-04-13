@@ -1,0 +1,3 @@
+_cache
+_manifest
+din_barn_int

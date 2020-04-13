@@ -1,0 +1,3 @@
+_cache
+_manifest
+x_03_placement

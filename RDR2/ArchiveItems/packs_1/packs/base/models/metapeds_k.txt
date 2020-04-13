@@ -1,0 +1,5 @@
+kcup_mr1_001
+kcup_mr1_002_left_handed
+kcup_mr1_002_right_army
+kcup_mr1_002_right_handed
+kcup_mr1_004_right_handed

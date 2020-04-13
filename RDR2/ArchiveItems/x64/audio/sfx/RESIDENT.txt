@@ -1,0 +1,15 @@
+ambience.awc
+animals_footsteps.awc
+collision.awc
+doors.awc
+dummy.awc
+explosions.awc
+feet_materials.awc
+feet_resident.awc
+melee.awc
+movement.awc
+vehicle.collision.awc
+water.awc
+weather.awc
+weather.thunder.awc
+wind.awc

@@ -1,0 +1,4 @@
+shaders/fxdb/sga_vulkan_final.fxdb
+shaders/fxdb/sga_vulkan_final_init.fxdb
+shaders/fxdb/sga_win32_60_final.fxdb
+shaders/fxdb/sga_win32_60_final_init.fxdb

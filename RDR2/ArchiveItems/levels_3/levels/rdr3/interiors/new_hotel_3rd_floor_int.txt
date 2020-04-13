@@ -1,0 +1,3 @@
+_cache
+_manifest
+new_hotel_3rd_floor_int

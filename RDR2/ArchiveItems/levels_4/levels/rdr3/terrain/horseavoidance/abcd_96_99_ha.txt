@@ -1,0 +1,3 @@
+_cache
+_manifest
+abcd_96_99_ha

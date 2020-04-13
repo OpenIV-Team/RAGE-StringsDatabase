@@ -1,0 +1,3 @@
+_cache
+_manifest
+swa_depot01_int

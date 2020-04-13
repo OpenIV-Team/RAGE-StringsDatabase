@@ -1,0 +1,3 @@
+_cache
+_manifest
+scr_shack_int

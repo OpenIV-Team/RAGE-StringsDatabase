@@ -1,0 +1,10 @@
+gore_l_forearm_000
+gore_l_hand_000
+gore_l_hand_001
+gore_l_hand_002
+gore_l_shoulder_000
+gore_r_forearm_000
+gore_r_hand_000
+gore_r_hand_001
+gore_r_hand_002
+gore_r_shoulder_000

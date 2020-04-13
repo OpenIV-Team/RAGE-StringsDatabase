@@ -1,0 +1,3 @@
+_cache
+_manifest
+shack_sw_int

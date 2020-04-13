@@ -1,0 +1,12 @@
+levels/rdr3/ambientscanner
+levels/rdr3/ambientscanner_navmeshswaps
+levels/rdr3/archetype_swaps
+levels/rdr3/cliffpoints
+levels/rdr3/cliffpoints_edit
+levels/rdr3/coverlayers
+levels/rdr3/coverregions_swaps
+levels/rdr3/coverregions0
+levels/rdr3/coverregions1
+levels/rdr3/lodlights
+levels/rdr3/navcustommodelbounds
+levels/rdr3/navmeshes0

@@ -1,0 +1,2 @@
+_manifest
+str_03_

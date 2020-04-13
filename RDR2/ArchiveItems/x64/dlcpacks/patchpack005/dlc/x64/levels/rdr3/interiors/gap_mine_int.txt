@@ -1,0 +1,2 @@
+_manifest
+gap_mine_int

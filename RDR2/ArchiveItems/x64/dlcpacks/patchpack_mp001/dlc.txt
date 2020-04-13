@@ -1,0 +1,13 @@
+common/data/overlayinfo.xml
+content.xml
+setup2.xml
+x64/levels/rdr3/area/ambient_camps/amb_camps_hen_mp
+x64/levels/rdr3/interiors/mp_charcreate_int
+x64/levels/rdr3/interiors/mp_sis_basement_int
+x64/levels/rdr3/props/lev_des/mp001_lev_des_mp
+x64/levels/rdr3/props/lev_des/mp001_set_pieces
+x64/levels/rdr3/props/propgroups
+x64/levels/rdr3/terrain/instance_placement/mp_lobby_01_instance_placement
+x64/levels/rdr3/terrain/instance_placement/mplobby_01_static_collision
+x64/levels/rdr3/terrain/mp_lobby_01
+x64/levels/rdr3/terrain/mp_lobby_01_placement

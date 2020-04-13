@@ -1,0 +1,17 @@
+config/audioconfig.dat8.rel
+config/audioconfig.dat8.rel.nametable
+config/categories.dat30.rel
+config/curves.dat20.rel
+config/dynamix.dat40.rel
+config/game.dat325.rel
+config/optamp.dat14.rel
+config/packlist_rel.txt
+config/proj_curves.dat20.rel
+config/proj_dynamix.dat40.rel
+config/proj_game.dat325.rel
+config/proj_optamp.dat14.rel
+config/proj_sounds.dat98.rel
+config/sounds.dat98.rel
+config/speech2.dat14.rel
+config/speechanimal.dat14.rel
+config/speechsfx.dat14.rel

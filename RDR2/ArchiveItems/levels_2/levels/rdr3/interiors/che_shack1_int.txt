@@ -1,0 +1,3 @@
+_cache
+_manifest
+che_shack1_int

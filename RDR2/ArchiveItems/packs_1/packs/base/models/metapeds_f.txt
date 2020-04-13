@@ -1,0 +1,16 @@
+feathers_fr1_000
+feathers_fr1_001
+feathers_mr1_000
+feathers_mr1_001
+feathers_mr1_002
+feet_fr1_000
+feet_gr1_000
+feet_tr1_001
+feet_tr1_003
+feet_tr1_004
+feet_tr1_005
+feet_tr1_007
+footl_fr1_000_full
+footl_mr1_000_bare
+footr_fr1_000_full
+footr_mr1_000_bare

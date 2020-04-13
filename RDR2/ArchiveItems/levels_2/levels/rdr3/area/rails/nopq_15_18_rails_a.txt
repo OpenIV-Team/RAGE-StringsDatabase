@@ -1,0 +1,3 @@
+_cache
+_manifest
+nopq_15_18_rails_a

@@ -1,0 +1,3 @@
+_cache
+_manifest
+m05_mine_int

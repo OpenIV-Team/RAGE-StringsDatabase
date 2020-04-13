@@ -1,0 +1,15 @@
+textures/deferredprobes/deferred_probes_1024x1024_1
+textures/deferredprobes/deferred_probes_1024x1024_2
+textures/deferredprobes/deferred_probes_1024x1024_3
+textures/ui/ui_discovery
+textures/ui/ui_hud
+textures/ui/ui_itemviewer
+textures/ui/ui_journal_textures
+textures/ui/ui_ledger_textures
+textures/ui/ui_mapcards
+textures/ui/ui_minigames
+textures/ui/ui_newspaper
+textures/ui/ui_pausemenu
+textures/ui/ui_platform
+textures/ui/ui_startup_textures
+textures/ui/ui_swatches

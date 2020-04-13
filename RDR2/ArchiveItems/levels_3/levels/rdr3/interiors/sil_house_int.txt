@@ -1,0 +1,3 @@
+_cache
+_manifest
+sil_house_int

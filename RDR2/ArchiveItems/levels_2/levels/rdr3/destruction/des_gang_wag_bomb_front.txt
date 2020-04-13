@@ -1,0 +1,2 @@
+_manifest
+des_gang_wag_bomb_front

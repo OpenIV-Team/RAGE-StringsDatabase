@@ -1,0 +1,3 @@
+_cache
+_manifest
+dai_farmhouse01_int

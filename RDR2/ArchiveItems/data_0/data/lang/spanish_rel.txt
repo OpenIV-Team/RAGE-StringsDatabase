@@ -1,0 +1,5 @@
+credit
+fin1aud
+fin2aud
+global
+str1aud

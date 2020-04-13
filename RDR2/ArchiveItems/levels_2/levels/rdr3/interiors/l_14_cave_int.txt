@@ -1,0 +1,3 @@
+_cache
+_manifest
+l_14_cave_int

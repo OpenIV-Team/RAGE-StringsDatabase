@@ -1,0 +1,3 @@
+_cache
+_manifest
+qua_shack02_int

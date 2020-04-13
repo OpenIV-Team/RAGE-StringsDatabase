@@ -1,0 +1,2 @@
+_manifest
+int_specialist_shop

@@ -1,0 +1,3 @@
+_cache
+_manifest
+old_storage_int

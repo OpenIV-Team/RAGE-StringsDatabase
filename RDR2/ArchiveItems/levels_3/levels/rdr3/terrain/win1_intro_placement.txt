@@ -1,0 +1,3 @@
+_cache
+_manifest
+win1_intro_placement

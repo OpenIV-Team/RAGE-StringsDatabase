@@ -1,0 +1,3 @@
+_cache
+_manifest
+mic_hideout_int

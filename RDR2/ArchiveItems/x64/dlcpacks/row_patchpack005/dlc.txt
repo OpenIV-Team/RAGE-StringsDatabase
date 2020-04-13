@@ -1,0 +1,4 @@
+content.xml
+setup2.xml
+x64/packs/base/models/component_models
+x64/packs/base/models/component_textures

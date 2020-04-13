@@ -1,0 +1,3 @@
+_cache
+_manifest
+ven_shack01_int

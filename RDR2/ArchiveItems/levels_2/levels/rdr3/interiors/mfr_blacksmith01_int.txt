@@ -1,0 +1,3 @@
+_cache
+_manifest
+mfr_blacksmith01_int

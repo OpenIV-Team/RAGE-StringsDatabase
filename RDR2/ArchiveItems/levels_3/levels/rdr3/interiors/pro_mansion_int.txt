@@ -1,0 +1,3 @@
+_cache
+_manifest
+pro_mansion_int

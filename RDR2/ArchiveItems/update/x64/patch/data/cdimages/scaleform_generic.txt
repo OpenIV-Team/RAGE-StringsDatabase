@@ -1,0 +1,4 @@
+hud_reticle
+hudmanager
+mp_lobby_bg
+mp_scoreboard

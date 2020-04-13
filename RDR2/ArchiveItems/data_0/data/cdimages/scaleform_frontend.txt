@@ -1,0 +1,15 @@
+button_prompts
+clik_shared_components
+font_lib_chinese
+font_lib_editor
+font_lib_efigs
+font_lib_japanese
+font_lib_korean
+font_lib_russian
+font_lib_simplified_chinese
+fullscreenalert
+gun_barrel
+opening_credits
+pause_menu_calibration
+uiobject_scene_generic
+uiobject_scene_mp

@@ -1,0 +1,8 @@
+clik_shared_components
+font_lib_chinese
+font_lib_efigs
+font_lib_japanese
+font_lib_korean
+font_lib_russian
+font_lib_simplified_chinese
+uiobject_scene_mp

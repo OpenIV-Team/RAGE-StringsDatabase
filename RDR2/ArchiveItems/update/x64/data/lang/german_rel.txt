@@ -3,4 +3,9 @@ fin1aud
 fin2aud
 global
 mc_play
+mob1
+mob2
+mob3
+mob4
+mob5
 str1aud

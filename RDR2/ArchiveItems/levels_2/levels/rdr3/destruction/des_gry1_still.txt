@@ -1,2 +1,4 @@
 _manifest
 des_gry1_still
+des_gry1_still_01
+des_gry1_still_01+hidr

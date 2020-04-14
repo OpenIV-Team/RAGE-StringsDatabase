@@ -1,3 +1,17 @@
 _cache
 _manifest
+cablemesh341035_tstd001
+cave_enterance_exit_decal001
+cave_enterance_exit_decal001+hidr
 q03_04_tunnel_exit_int
+q0304_tunnel_exit_low
+q0304_tunnel_exit_low+hidr
+q0304_tunnel_exit_rail
+q0304_tunnel_exit_rocks
+q0304_tunnel_exit_shell
+q0304_tunnel_exit_shell+hidr
+q0304_tunnel_exit_support
+q0304_tunnel_exit_support+hidr
+railway_sca_plates_a001
+tunel_q3_q4_decal_01
+tunel_q3_q4_decal_01+hidr

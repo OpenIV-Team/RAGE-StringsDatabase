@@ -1,2 +1,13 @@
 _cache
 _manifest
+mp001_mp_sis_bsmnt_ceiling_twr
+mp001_mp_sis_bsmnt_ceiling_twr+hidr
+mp001_mp_sis_bsmnt_decals1
+mp001_mp_sis_bsmnt_decals2
+mp001_mp_sis_bsmnt_railing
+mp001_mp_sis_bsmnt_shell
+mp001_mp_sis_bsmnt_shell+hidr
+mp001_mp_sis_bsmnt_stairs_01
+mp001_mp_sis_bsmnt_stairs_01+hidr
+mp001_mp_sis_bsmnt_tower_decal
+mp001_mp_sis_bsmnt_tower_decal+hidr

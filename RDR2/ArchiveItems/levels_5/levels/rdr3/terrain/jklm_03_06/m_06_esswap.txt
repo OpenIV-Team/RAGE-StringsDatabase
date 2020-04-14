@@ -1,3 +1,9 @@
 _cache
 _manifest
+m_06_es_st1_esswap
+m_06_es_st1_esswap_lod
+m_06_es_st1_esswap_slod
+m_06_es_st2_esswap
+m_06_es_st2_esswap_lod
+m_06_es_st2_esswap_slod
 m_06_esswap

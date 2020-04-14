@@ -1,3 +1,16 @@
 _cache
 _manifest
+a_mil_ent_dec
+a_mil_ent_dec+hidr
+a_mil_ent_snw_dec
+a_mil_ent_snw_dec+hidr
 mil_mine_cave_01
+mil_mine_cave_dummy
+mil_mine_cave01_lightbox
+mil_mine_entrance
+mil_mine_entrance+hidr
+mil_mine_int_beam_entrance
+mil_mine_int_beam_entrance+hidr
+mil_mine_refle_proxy_a
+mil_mine_tracks_int01
+mil01mine_light_blocker01

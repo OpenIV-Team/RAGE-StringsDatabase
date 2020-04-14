@@ -1,1 +1,3 @@
 _manifest
+ftr_e_03_decal01
+ftr_e_03_decal01+hidr

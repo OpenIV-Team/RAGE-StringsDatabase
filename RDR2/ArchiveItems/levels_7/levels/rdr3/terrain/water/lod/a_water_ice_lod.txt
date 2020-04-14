@@ -1,3 +1,5 @@
 _cache
 _manifest
 a_water_ice_lod
+a_water_ice_riv_a04_slod3
+a_water_ice_riv_b04_slod3

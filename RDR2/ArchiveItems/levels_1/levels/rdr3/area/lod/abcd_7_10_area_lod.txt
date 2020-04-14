@@ -1,3 +1,8 @@
 _cache
 _manifest
+ab_7_8_area_slod3
+ab_9_10_area_slod3
+abcd_07_10_area_slod4
 abcd_7_10_area_lod
+cd_7_8_area_slod3
+cd_9_10_area_slod3

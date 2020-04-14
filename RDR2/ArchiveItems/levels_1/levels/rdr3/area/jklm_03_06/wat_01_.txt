@@ -1,2 +1,17 @@
 _cache
 _manifest
+wat_01_lightbox
+wat_cabin_smoke
+wat_chickencoop
+wat_chickencoop+hidr
+wat_ext_grave
+wat_ext_grave_lod
+wat_ext_grave+hidr
+wat_ext_shell
+wat_main_cabin
+wat_main_cabin_glue
+wat_main_cabin_glue+hidr
+wat_main_cabin+hidr
+wat_outhouse
+wat_outhouse_lod
+wat_outhouse+hidr

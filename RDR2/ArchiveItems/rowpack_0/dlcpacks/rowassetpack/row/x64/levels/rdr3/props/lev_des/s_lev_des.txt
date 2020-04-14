@@ -1,0 +1,11 @@
+s_armmale01x
+s_corpsepit01x
+s_corpsepit01x+hidr
+s_murdervic01x
+s_murdervic01x+hifr
+s_shrunkenhead01x
+s_shrunkenhead01x+hifr
+s_valbeartrap01x
+s_valbeartrap01x+hidr
+s_valbeartrap02x
+s_valbeartrap02x+hidr

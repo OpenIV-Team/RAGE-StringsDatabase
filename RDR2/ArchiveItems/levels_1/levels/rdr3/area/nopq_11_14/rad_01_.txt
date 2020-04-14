@@ -1,1 +1,10 @@
 _manifest
+rad_01_house_vfx
+rad_audioemitproxy
+rad_house_decal
+rad_house_decal+hidr
+rad_house_roof
+rad_house_roof+hidr
+rad_house_well
+rad_house_well+hidr
+rad01pr_combo_slod

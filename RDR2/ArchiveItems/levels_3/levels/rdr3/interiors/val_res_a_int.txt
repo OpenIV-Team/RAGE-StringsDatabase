@@ -1,3 +1,13 @@
 _cache
 _manifest
+curtain_lightblocker
+curtain_lightblocker001
 val_res_a_int
+val_res_a_int_decal
+val_res_a_int_decal+hidr
+val_res_a_int_details
+val_res_a_int_details+hidr
+val_res_a_int_shadowproxy
+val_res_a_int_shell
+val_res_a_int_shell+hi
+val_res_a_int_shell+hidr

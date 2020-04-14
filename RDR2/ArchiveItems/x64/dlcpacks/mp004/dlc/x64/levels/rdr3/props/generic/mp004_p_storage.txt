@@ -1,2 +1,6 @@
 _manifest
+mp004_p_barreltriple01x
+mp004_p_barreltwin01x
+mp004_p_cratetriple01x
+mp004_p_cratetwin01x
 mp004_p_storage

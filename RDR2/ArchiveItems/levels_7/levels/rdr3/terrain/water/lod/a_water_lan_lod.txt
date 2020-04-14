@@ -1,3 +1,15 @@
 _cache
 _manifest
+a_water_lan_a_007_slod3
+a_water_lan_b_016_slod3
+a_water_lan_b_042_slod3
+a_water_lan_bkdrp23_slod3
+a_water_lan_bkdrp34_slod3
+a_water_lan_bkdrp35_slod3
+a_water_lan_c_007_slod3
+a_water_lan_c_013_slod3
+a_water_lan_c_plcmnt_24_slod3
+a_water_lan_c_plcmnt_25_slod3
+a_water_lan_d_019_slod3
+a_water_lan_d_500_slod3
 a_water_lan_lod

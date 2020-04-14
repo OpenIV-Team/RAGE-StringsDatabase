@@ -1,2 +1,14 @@
 _cache
 _manifest
+mp001_mp_moonshine_int_beam
+mp001_mp_moonshine_int_beam+hidr
+mp001_mp_moonshine_int_dec
+mp001_mp_moonshine_int_dec+hidr
+mp001_mp_moonshine_int_forge
+mp001_mp_moonshine_int_forge+hidr
+mp001_mp_moonshine_int_misc1
+mp001_mp_moonshine_int_misc2
+mp001_mp_moonshine_int_rack
+mp001_mp_moonshine_int_rack+hidr
+mp001_mp_moonshine_int_shell
+mp001_mp_moonshine_int_shell+hidr

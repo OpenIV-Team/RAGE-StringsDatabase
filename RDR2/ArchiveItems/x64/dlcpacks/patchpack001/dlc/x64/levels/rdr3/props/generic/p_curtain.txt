@@ -1,1 +1,5 @@
 _manifest
+p_prohseint_curt_01b
+p_prohseint_curt_01b+hifr
+p_rhogen_curtain01b
+p_rhogen_curtain01b+hifr

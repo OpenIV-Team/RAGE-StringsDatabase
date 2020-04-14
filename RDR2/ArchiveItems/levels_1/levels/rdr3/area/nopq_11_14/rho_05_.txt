@@ -1,2 +1,10 @@
 _manifest
 rho_05_
+rho_05_a
+rho_05_a_dec
+rho_05_a_dec+hidr
+rho_05_a_em
+rho_05_a_em_slod
+rho_05_a+hidr
+rho_05_d_tracks_01
+rho_05_d_tracks_02

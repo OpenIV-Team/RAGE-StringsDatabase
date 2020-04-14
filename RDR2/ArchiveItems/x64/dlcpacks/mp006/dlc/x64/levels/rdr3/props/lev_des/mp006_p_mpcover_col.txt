@@ -1,2 +1,17 @@
 _manifest
+mp006_p_mp_cover_h_col
+mp006_p_mp_cover_hl_col
+mp006_p_mp_cover_s_col
+mp006_p_mp_cover_sh_col
+mp006_p_mp_cover_sl_col
+mp006_p_mp_cover_sm_col
+mp006_p_mp_cover_ss_col
+mp006_p_mp_cover_su_col
+mp006_p_mp_covercomb_hm_col
+mp006_p_mp_covercomb_hm_col+hifr
+mp006_p_mp_covercomb_l_col
+mp006_p_mp_covercomb_lu_col
+mp006_p_mp_covercomb_m_col
+mp006_p_mp_covercomb_mu_col
+mp006_p_mp_covercomb_s_col
 mp006_p_mpcover_col

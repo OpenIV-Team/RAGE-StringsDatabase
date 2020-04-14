@@ -1,3 +1,6 @@
 _cache
 _manifest
+a_water_smp_17_slod3
+a_water_smp_19_slod3
+a_water_smp_23_slod3
 a_water_smp_lod

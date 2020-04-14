@@ -1,3 +1,5 @@
 _cache
 _manifest
 amb_camps_cho_00
+amb_cho_04_ropeends
+amb_cho_cho_02_rope_ends

@@ -6,6 +6,9 @@ agu_02_
 agu_03_
 agu_04_
 agu_05_
+c_11_boobytrap_01
+c_11_notrap_01
+c_13_notrap_01
 cin_01_
 gua_cmp_01
 guama_boat

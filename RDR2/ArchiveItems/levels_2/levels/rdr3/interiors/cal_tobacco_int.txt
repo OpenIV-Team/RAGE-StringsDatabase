@@ -1,3 +1,13 @@
 _cache
 _manifest
+cal_tabacco_lightbox
 cal_tobacco_int
+cal_tobacco_int_decals
+cal_tobacco_int_decals+hidr
+cal_tobacco_int_details
+cal_tobacco_int_details+hidr
+cal_tobacco_int_ref
+cal_tobacco_int_ref+hidr
+cal_tobacco_int_shadowproxy
+cal_tobacco_int_shell
+cal_tobacco_int_shell+hidr

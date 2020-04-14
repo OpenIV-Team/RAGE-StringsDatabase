@@ -1,3 +1,10 @@
 _cache
 _manifest
+bra_boat_int_detail
+bra_boat_int_detail+hidr
+bra_boat_int_ropes
+bra_boat_int_shell
+bra_boat_int_shell+hidr
+bra_boat_int_shelves
+bra_boat_int_shelves+hidr
 bra_boathouse_int

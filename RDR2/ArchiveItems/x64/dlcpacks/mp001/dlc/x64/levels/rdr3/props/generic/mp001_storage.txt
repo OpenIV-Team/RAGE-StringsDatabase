@@ -1,2 +1,8 @@
 _manifest
+mp001_p_barreltriple01x
+mp001_p_barreltwin01x
+mp001_p_cratetriple01x
+mp001_p_cratetwin01x
+mp001_p_mp_crateweapon_01a
+mp001_p_mp_crateweapon_01a+hidr
 mp001_storage

@@ -1,2 +1,4 @@
 _manifest
+mp005_p_mp_cratestack01x
+mp005_p_mp_cratestack01x+hifr
 mp005_p_storage

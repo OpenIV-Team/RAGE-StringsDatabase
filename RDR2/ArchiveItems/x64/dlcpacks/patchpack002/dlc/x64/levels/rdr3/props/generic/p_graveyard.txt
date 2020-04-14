@@ -1,2 +1,4 @@
 _manifest
+p_gravedugcover01x
+p_gravedugcover01x+hifr
 p_graveyard

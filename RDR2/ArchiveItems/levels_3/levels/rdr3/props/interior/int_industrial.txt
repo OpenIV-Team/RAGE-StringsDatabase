@@ -1,2 +1,3 @@
 _manifest
 int_industrial
+int_industrial_deleteme

@@ -1,2 +1,7 @@
 _manifest
+p_cs_envelope02x
+p_cs_gunslingerphoto03x
+p_cs_gunslingerphoto03x+hidr
+p_cs_newspaper_03x
+p_cs_newspaper_03x+hifr
 s_lev_des_rend_targ

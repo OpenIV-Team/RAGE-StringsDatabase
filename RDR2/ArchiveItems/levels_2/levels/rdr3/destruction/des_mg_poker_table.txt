@@ -1,2 +1,6 @@
 _manifest
 des_mg_poker_table
+des_mg_pokertable_01
+des_mg_pokertable_02
+des_mg_pokertable_end
+des_mg_pokertable_start

@@ -1,3 +1,12 @@
 _cache
 _manifest
+val_sal02_int_shadowproxy
+val_sal02_shell01
+val_sal02_shell01+hidr
+val_sal2_ceiling1
+val_sal2_ceiling1+hidr
+val_sal2_details03_decals
+val_sal2_details03_decals+hidr
 val_saloon2_int
+val_saloon2_int_ref
+val_saloon2_int_ref+hidr

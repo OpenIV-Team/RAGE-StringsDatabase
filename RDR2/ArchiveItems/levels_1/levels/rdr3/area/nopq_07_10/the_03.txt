@@ -1,1 +1,13 @@
 _manifest
+the_03__stable01x17
+the_03__stable01x17+hidr
+the_03__th_03_stable_decs
+the_03__th_03_stable_decs+hidr
+the_03__the03_combo01_slod
+the_03_gate
+the_03_gate_00
+the_03_pigpen
+the_03_pigpen+hidr
+the_03_stable
+the_03_stable+hidr
+the_03_vfx_stable

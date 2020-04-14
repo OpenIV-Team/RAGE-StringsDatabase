@@ -1,2 +1,3 @@
 _cache
 _manifest
+mp001_mp_lobby_01p_cube001

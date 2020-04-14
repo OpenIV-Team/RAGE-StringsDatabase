@@ -1,1 +1,3 @@
 _cache
+reg_bgv_murderrock
+reg_bgv_murderrock+hidr

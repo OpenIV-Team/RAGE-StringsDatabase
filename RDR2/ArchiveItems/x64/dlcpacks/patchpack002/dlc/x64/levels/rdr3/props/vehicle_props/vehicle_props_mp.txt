@@ -1,2 +1,5 @@
 _manifest
+p_teamster_break01x_lrg
+p_teamster_break01x_med
+p_teamster_break01x_sml
 vehicle_props_mp

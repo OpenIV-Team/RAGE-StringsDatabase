@@ -1,2 +1,4 @@
 _manifest
 p_farm
+p_waterbucket01x
+p_waterbucket01x+hifr

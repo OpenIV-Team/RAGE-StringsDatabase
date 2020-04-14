@@ -1,3 +1,13 @@
 _cache
 _manifest
+agu_02_tower_dec
+agu_02_towerstep01x
 agu_tower_int
+agu_tower_int_ground
+agu_tower_int_ground+hidr
+agu_tower_int_shell
+agu_tower_int_shell+hidr
+agu_tower_int_supports
+agu_tower_int_uppersteps
+agu_tower_int_uppersteps+hidr
+agu_tower_lightbox

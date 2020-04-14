@@ -1,1 +1,15 @@
 _manifest
+slt_01_scarecrow_lod002
+slt_01_scarecrow_lod003
+slt_01_scarecrow_lod006
+slt_01_scarecrow_lod007
+slt_01_scarecrow_lod008
+slt_01_scarecrow_lod009
+slt_shack_lt_blood
+slt_shack_lt_blood+hidr
+slt_shack_lt_decal
+slt_shack_lt_decal+hidr
+slt_shack_lt_ext
+slt_shack_lt_ext+hidr
+slt_shack_lt_ground_dec01
+slt_shack_lt_ground_dec01+hidr

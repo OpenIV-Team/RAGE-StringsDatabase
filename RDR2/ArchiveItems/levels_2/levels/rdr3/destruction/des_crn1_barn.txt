@@ -1,2 +1,5 @@
 _manifest
 des_crn1_barn
+des_crn1_barn_01
+des_crn1_barn_end
+des_crn1_barn_start

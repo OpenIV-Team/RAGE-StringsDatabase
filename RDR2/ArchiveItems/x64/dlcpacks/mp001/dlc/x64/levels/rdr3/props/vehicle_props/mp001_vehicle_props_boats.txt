@@ -1,2 +1,6 @@
 _manifest
+mp001_p_rowboat_base01x
+mp001_p_rowboat_base01x+hifr
+mp001_p_rowboat_base02x
+mp001_p_veh_rowboatswamp_base01x
 mp001_vehicle_props_boats

@@ -1,2 +1,9 @@
 _manifest
+carni_circuswagon01
+carni_circuswagon01_slod
+carni_circuswagon02
+carni_circuswagon02_slod
+carni_circuswagon02_yolk
+carni_circuswagon03
+carni_circuswagon03_slod
 carni_nbd_01

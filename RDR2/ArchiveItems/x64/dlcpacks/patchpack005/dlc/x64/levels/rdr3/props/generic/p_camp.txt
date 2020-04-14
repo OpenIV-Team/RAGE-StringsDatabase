@@ -1,2 +1,16 @@
 _manifest
+p_amb_tent03x
+p_amb_tent03x+hifr
 p_camp
+p_campfire_coloursmoke01x
+p_campfire_coloursmoke01x+hidr
+p_campfire_under01x
+p_campfire_under01x+hidr
+p_clothesline01x
+p_clothesline01x+hifr
+p_tentarmypup01x
+p_tentarmypup01x+hifr
+p_tentmexican01x
+p_tentmexican01x+hifr
+p_tentmountainmen01x
+p_tentmountainmen01x+hifr

@@ -1,3 +1,15 @@
 _cache
 _manifest
+mic_hideout_ceiling
+mic_hideout_dc
+mic_hideout_floor
+mic_hideout_floor+hidr
 mic_hideout_int
+mic_hideout_int_ref
+mic_hideout_int_ref+hidr
+mic_hideout_int_shadow_proxy
+mic_hideout_ladder
+mic_hideout_ladder+hidr
+mic_hideout_lightbox_001
+mic_hideout_walls
+mic_hideout_walls+hidr

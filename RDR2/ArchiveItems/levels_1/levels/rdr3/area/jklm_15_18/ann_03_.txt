@@ -1,1 +1,9 @@
 _manifest
+ann_03_audiobox_donotdelete
+ann_03_gallow
+ann_03_gallow_d
+ann_03_gallow_d+hidr
+ann_03_gallow+hidr
+ann_03_jail_ext
+ann_03_jail_ext+hidr
+ann_03_vfx_helper

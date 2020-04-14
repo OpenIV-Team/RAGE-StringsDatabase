@@ -1,3 +1,17 @@
 _cache
 _manifest
 dis_blu_00
+dis_blu_00_boar_pits
+dis_blu_00_boar_pits+hidr
+dis_blu_prisonerescape
+dis_blu_prisonerescape+hidr
+dis_blu_shrineforwife
+dis_blu_shrineforwife_ivy
+dis_blu_shrineforwife_ivy+hidr
+dis_blu_shrineforwife_lod
+dis_blu_shrineforwife+hidr
+dis_blu_tree_disc_symb_01
+dis_blu_tree_disc_symb_02
+dis_blu_tree_disc_symb_03
+dis_blu_tree_disc_symb_04
+dis_blu_tree_disc_symb_05

@@ -1,3 +1,9 @@
 _cache
 _manifest
 q_12_swap
+q_12_swap_q_12_09_a
+q_12_swap_q_12_09_a_lod
+q_12_swap_q_12_09_a_slod
+q_12_swap_q_12_09_b
+q_12_swap_q_12_09_b_lod
+q_12_swap_q_12_09_b_slod

@@ -1,2 +1,4 @@
 _manifest
+p_win_blakgenstore_04x
+p_win_blakgenstore_04x+hifr
 p_window

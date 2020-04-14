@@ -1,1 +1,5 @@
 _manifest
+ann_01_houseboat_mooring
+ann_houseboat_lod
+ann_houseboat_ramp
+ann_houseboat_ramp+hidr

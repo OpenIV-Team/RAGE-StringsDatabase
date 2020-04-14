@@ -6,8 +6,11 @@ arm_02
 arm_03
 arm_04
 arm_05
+arm_05_cholera
+arm_05_cholera_lod
 ben_01
 bep_01
+bep_01_cc_graffiti
 cho_rd_sgn
 cri_01_
 fom_01
@@ -31,5 +34,6 @@ tum_04
 tum_05
 twi_01
 two_01
+two_01_cc_graffiti
 ven_01
 wild_04

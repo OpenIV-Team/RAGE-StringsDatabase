@@ -1,1 +1,9 @@
 _manifest
+sbb_glue_ground_01
+sbb_glue_ground_01+hidr
+sbb_shack_b_b_entrance
+sbb_shack_b_b_entrance+hidr
+sbb_shack_b_b_ext
+sbb_shack_b_b_ext+hidr
+sbb_shack_b_b_int_lod
+sbb_shack_b_b_slod

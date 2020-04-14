@@ -1,2 +1,9 @@
 _manifest
 pho_01_
+pho_01_houseboat
+pho_01_houseboat_dec
+pho_01_houseboat_dec+hidr
+pho_01_houseboat_ropes
+pho_01_houseboat+hidr
+pho_01_vfx_001
+pho_houseboat_int_lod

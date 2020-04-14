@@ -1,0 +1,12 @@
+bea_dismembered01x002
+bea_dismembered01x002+hidr
+bea_dismembered01x004
+bea_dismembered01x004+hidr
+bea_dismembered01x005
+bea_dismembered01x005+hidr
+bea_dismembered01x006
+bea_dismembered01x006+hidr
+bea_p_corpseburnedfemale_temp
+bea_p_corpseburnedfemale_temp+hidr
+bea_tree_fallen_006
+bea_tree_fallen_007

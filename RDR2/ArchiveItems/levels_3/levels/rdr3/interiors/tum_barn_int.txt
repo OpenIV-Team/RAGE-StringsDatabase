@@ -1,3 +1,15 @@
 _cache
 _manifest
 tum_barn_int
+tum_barn_int_dc
+tum_barn_int_dc+hidr
+tum_barn_int_int_floor
+tum_barn_int_int_floor+hidr
+tum_barn_int_ref_proxy
+tum_barn_int_ref_proxy+hidr
+tum_barn_int_shadowproxy
+tum_barn_int_shell
+tum_barn_int_shell+hidr
+tum_barn_int_workshop
+tum_barn_int_workshop+hidr
+tum_barn_lightbox

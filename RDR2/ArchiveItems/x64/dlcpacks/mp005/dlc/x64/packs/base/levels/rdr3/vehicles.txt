@@ -1,1 +1,10 @@
 _manifest
+bountywagon01x
+bountywagon01x_hi
+bountywagon01x+hi
+huntercart01
+huntercart01_hi
+huntercart01+hi
+wagonarmoured01x
+wagonarmoured01x_hi
+wagonarmoured01x+hi

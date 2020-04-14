@@ -1,2 +1,14 @@
 _manifest
+p_avoidancebound01x
+p_barricade01x
+p_barricade01x+hifr
+p_barricade03x
+p_barricade04x
+p_barricade05x
+p_barricadewood_lrg01x
+p_barricadewood_lrg01x+hifr
+p_barricadewood_sml01x
 p_barrier
+p_concretesack01x
+p_wallnbd01x
+p_wallnbd01x+hidr

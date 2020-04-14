@@ -1,3 +1,13 @@
 _cache
 _manifest
 qua_shack01_int
+qua_shack01_int_ref_proxy
+qua_shack01_int_ref_proxy+hidr
+qua_shack01_int_shdw_proxy
+qua_shack01_int_shell
+qua_shack01_int_shell+hidr
+qua_shack01_int_stovepipe
+qua_shack01_int_stovepipe+hidr
+qua_shack01_lightbox
+qua_shack1_blood
+qua_shack1_blood+hidr

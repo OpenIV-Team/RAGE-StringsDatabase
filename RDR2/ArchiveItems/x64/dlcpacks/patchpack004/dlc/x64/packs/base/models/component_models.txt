@@ -12,6 +12,7 @@ combovest_mr1_003_undercoat
 combovest_mr1_006_undercoat
 combovest_mr1_016_undercoat
 cs_aberdeenpigfarmer_ms1_merge_2
+cs_creolecaptain_ms1_beard_000
 cs_creolecaptain_ms1_merge_2
 cs_famousgunslinger_02_ms1_merge_2
 cs_famousgunslinger_05_fs1_merge_2
@@ -24,6 +25,8 @@ hat_mr1_127
 head_mr1_0046
 horn_hr1_011
 horn_hr1_012
+mp_afghanpolo_001
+mp_afghanpolo_002
 player_three_ms1_suspenders_000_full
 player_zero_shirt_010_o_b_full
 tatteredoveralls_mr1_001

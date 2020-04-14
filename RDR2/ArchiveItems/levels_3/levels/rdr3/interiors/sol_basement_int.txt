@@ -1,3 +1,16 @@
 _cache
 _manifest
+sol_01_base_int
+sol_01_base_int_decals
+sol_01_base_int_decals+hidr
+sol_01_base_int_misc
+sol_01_base_int_misc+hidr
+sol_01_base_int+hidr
+sol_base_int_ent_shell
+sol_base_int_ent_shell+hidr
 sol_basement_int
+sol_basement_int_ref_a
+sol_basement_int_ref_b
+sol_basement_int_shadow
+sol_basement_lightbox
+sol_basement_lightbox001

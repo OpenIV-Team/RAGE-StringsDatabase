@@ -1,1 +1,9 @@
 _manifest
+shk_it_ext
+shk_it_ext_decals
+shk_it_ext_decals+hidr
+shk_it_ext_veg
+shk_it_ext_veg+hidr
+shk_it_ext+hidr
+shk_shack_it_01_int_lod
+shk_shack_it_01_int_occ

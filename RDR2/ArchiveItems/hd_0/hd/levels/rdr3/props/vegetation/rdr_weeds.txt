@@ -1,1 +1,5 @@
 _manifest
+rdr_weed_ivy_aa_sim
+rdr_weed_tall_reeds_ba_sim
+rdr_weed_tall_reeds_ca_sim
+rdr_weed_tall_reeds_ca_sim+hifr

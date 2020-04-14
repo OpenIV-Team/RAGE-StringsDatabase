@@ -1,2 +1,12 @@
 _manifest
+mp006_p_crate01x_nobrand
+mp006_p_crate01x_nobrand+hifr
+mp006_p_mp006_crate012x
+mp006_p_mp006_crate012x+hifr
+mp006_p_mp006_crate02x
+mp006_p_mp006_crate02x+hifr
+mp006_p_mp006_cratecanvase01x
+mp006_p_mp006_cratecanvase01x+hidr
+mp006_p_mp006_cratecover07x
+mp006_p_mp006_cratecover07x+hifr
 mp006_p_storage

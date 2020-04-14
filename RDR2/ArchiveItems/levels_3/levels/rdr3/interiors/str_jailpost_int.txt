@@ -1,3 +1,17 @@
 _cache
 _manifest
+str_jail_decals01
+str_jail_decals01+hidr
+str_jail_decals02
+str_jail_decals02+hidr
+str_jail_details
+str_jail_details+hidr
+str_jail_details02
+str_jail_shell01
+str_jail_shell01+hidr
+str_jail_unbrokenwall
+str_jail_unbrokenwall+hidr
 str_jailpost_int
+str_jailpost_int_ref_proxy
+str_jailpost_int_ref_proxy+hidr
+str_jailpost_int_shadow_proxy

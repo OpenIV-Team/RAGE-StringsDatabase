@@ -1,2 +1,4 @@
 _manifest
+p_chandelier24x
+p_chandelier24x+hifr
 p_light_hanging01

@@ -1,3 +1,4 @@
 _cache
 _manifest
+y_05_p_box048
 y_05_placement

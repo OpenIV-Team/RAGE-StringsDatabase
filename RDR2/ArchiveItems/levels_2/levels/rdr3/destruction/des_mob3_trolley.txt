@@ -1,2 +1,13 @@
 _manifest
 des_mob3_trolley
+des_mob3_trolley_01
+des_mob3_trolley_01+hidr
+des_mob3_trolley_02
+des_mob3_trolley_03
+des_mob3_trolley_04
+des_mob3_trolley_04+hidr
+des_mob3_trolley_05
+des_mob3_trolley_06
+des_mob3_trolley_07
+des_mob3_trolley_08
+des_mob3_trolley_08+hidr

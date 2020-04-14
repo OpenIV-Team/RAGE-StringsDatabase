@@ -1,3 +1,14 @@
 _cache
 _manifest
 l_08_train_tunnel2_int
+l_08_train_tunnel2_shadow
+l_08_tunnel_rails
+l_08_tunnel_rails+hidr
+l_08p_tunnel2
+l_08p_tunnel2_cc
+l_08p_tunnel2_cc+hidr
+l_08p_tunnel2_railrd
+l_08p_tunnel2_railrd+hidr
+l_08p_tunnel2+hidr
+l08_decalb
+l08_decalb+hidr

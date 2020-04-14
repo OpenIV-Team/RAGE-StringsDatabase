@@ -1,2 +1,16 @@
 _manifest
+p_cl_garment04
+p_cl_garment05
+p_cl_garment06
+p_cl_garment07
+p_cl_garment08
+p_cl_garment10
+p_cl_garment11
+p_cl_gen_articlea
+p_cl_gen_articleb
+p_cl_gen_articlec
+p_cl_gen_articled
+p_cl_gen_articlee
+p_cl_gen_articlef
+p_cl_pin
 p_clothesline

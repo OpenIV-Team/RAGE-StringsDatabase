@@ -1,3 +1,17 @@
 _cache
 _manifest
 amb_camps_hen_00
+amb_hen_amb_cmp_hen_4_rope
+amb_hen_ambcahe00_combo_01_lod
+amb_hen_ambcahe00_combo_slod
+amb_hen_hid_tents02
+amb_hen_hid_tents03
+amb_hen_hid_tents04
+amb_hen_hid_tents05
+amb_hen_hid_tents05+hidr
+amb_hen_hid_tents06
+amb_hen_hid_tents06+hidr
+amb_hen_hid_tents07
+amb_hen_hid_tents07+hidr
+amb_hen_hid_tents08
+amb_hen_hid_tents08+hidr

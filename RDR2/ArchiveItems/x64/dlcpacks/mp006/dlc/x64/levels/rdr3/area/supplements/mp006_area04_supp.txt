@@ -1,3 +1,15 @@
 _cache
 _manifest
+mp006_a4_mshine03_dc
+mp006_a4_mshine03_ext
+mp006_a4_mshine03_ext_lod
+mp006_a4_mshine03_ext_slod1
+mp006_a4_mshine03_fakeint
+mp006_a4_mshine05_dc
+mp006_a4_mshine05_ext
+mp006_a4_mshine05_int_fakeint
+mp006_a4_mshine05_lod
+mp006_a4_mshine05_slod
 mp006_area04_supp
+mp006_mshine05_flasbackint
+mp006_mshine05_flasbackint+hidr

@@ -1,3 +1,10 @@
 _cache
 _manifest
 win_01_
+win_01_dummy_object
+win_05_snowcaps_b
+win_campfire_details
+win_campfire_details+hidr
+win01_combo_01_lod
+win01_combo_slod
+win01_combo04_slod2

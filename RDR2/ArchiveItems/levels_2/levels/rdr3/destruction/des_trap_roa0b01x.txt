@@ -1,2 +1,8 @@
 _manifest
 des_trap_roa0b01x
+des_trap_roa0b01x_01
+des_trap_roa0b01x_01+hidr
+des_trap_roa0b01x_02
+des_trap_roa0b01x_03
+des_trap_roa0b01x_03+hidr
+des_trap_roa0b01x_04

@@ -1,2 +1,10 @@
 _manifest
+mp006_p_veh_cornsacks_rowboat_1
+mp006_p_veh_cornsacks_rowboat_1+hifr
+mp006_p_veh_flatcarkrgat01x_1
+mp006_p_veh_flatcarkrgat01x_1+hifr
+mp006_p_veh_moonshine2_01x
+mp006_p_veh_moonshine2_01x+hifr
+mp006_pg_rowboat_propset01x
+mp006_pg_rowboat_propset01x+hifr
 mp006_vehicle_props

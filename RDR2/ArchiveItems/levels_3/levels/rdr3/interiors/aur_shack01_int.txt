@@ -1,3 +1,14 @@
 _cache
 _manifest
+aur_shack_int_blankets
+aur_shack_int_blankets+hidr
+aur_shack_int_decals
+aur_shack_int_decals+hidr
+aur_shack_int_mousetrap
+aur_shack_int_mousetrap+hidr
+aur_shack_int_shell
+aur_shack_int_shell+hidr
+aur_shack_int_sink
+aur_shack_int_sink+hidr
 aur_shack01_int
+aur_shack01_lightbox

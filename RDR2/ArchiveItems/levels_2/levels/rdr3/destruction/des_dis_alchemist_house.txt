@@ -1,2 +1,17 @@
 _manifest
+des_dis_alchemist_01
+des_dis_alchemist_02
+des_dis_alchemist_02+hidr
+des_dis_alchemist_03
+des_dis_alchemist_04
+des_dis_alchemist_05
+des_dis_alchemist_06
+des_dis_alchemist_07
+des_dis_alchemist_07+hidr
+des_dis_alchemist_08
+des_dis_alchemist_08+hidr
+des_dis_alchemist_09
+des_dis_alchemist_09+hidr
+des_dis_alchemist_10
+des_dis_alchemist_10+hidr
 des_dis_alchemist_house

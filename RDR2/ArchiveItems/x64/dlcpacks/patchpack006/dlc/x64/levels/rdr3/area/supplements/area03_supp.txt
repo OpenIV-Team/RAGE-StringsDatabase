@@ -1,3 +1,9 @@
 _cache
 _manifest
 area03_supp
+mp006_gala_dock_addition
+mp006_gala_dock_addition_lod
+mp006_gala_dock_addition_slod
+mp006_gala_dock_addition+hidr
+mp006_gala_dock_dc
+mp006_gala_dock_dc+hidr

@@ -1,1 +1,7 @@
 _manifest
+stagecoach004_2x
+stagecoach004_2x_hi
+stagecoach004_2x+hi
+wagon05x_2
+wagon05x_2_hi
+wagon05x_2+hi

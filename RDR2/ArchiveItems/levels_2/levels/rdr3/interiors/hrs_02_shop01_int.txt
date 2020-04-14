@@ -1,3 +1,17 @@
 _cache
 _manifest
+hrs_02_lightbox_001
+hrs_02_shop_int_beams
+hrs_02_shop_int_beams+hidr
+hrs_02_shop_int_dec
+hrs_02_shop_int_dec+hidr
+hrs_02_shop_int_details
+hrs_02_shop_int_details+hidr
+hrs_02_shop_int_floor
+hrs_02_shop_int_floor+hidr
+hrs_02_shop_int_shop
+hrs_02_shop_int_shop+hidr
 hrs_02_shop01_int
+hrs_02_shop01_int_ref_proxy
+hrs_02_shop01_int_ref_proxy+hidr
+hrs_02_shop01_int_shdw_proxy

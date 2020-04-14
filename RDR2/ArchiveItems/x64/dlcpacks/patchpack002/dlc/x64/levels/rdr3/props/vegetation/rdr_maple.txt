@@ -1,2 +1,8 @@
 _manifest
+p_sap_maple_ba_sim
+p_sap_maple_ba_sim+hifr
+p_tree_maple_02
+p_tree_maple_02+hidr
+p_tree_maple_03
+p_tree_maple_03+hidr
 rdr_maple

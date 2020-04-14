@@ -1,2 +1,6 @@
 _manifest
 des_smg2_fortwall
+des_smg2_fortwall_01
+des_smg2_fortwall_01+hidr
+des_smg2_fortwall_02
+des_smg2_fortwall_03

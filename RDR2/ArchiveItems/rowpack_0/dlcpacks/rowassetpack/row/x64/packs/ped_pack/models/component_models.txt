@@ -5,6 +5,9 @@ cs_chelonianmaster_01_ms1_hands_001
 cs_kieran_ms1_miss_000
 cs_kieran_ms1_neckgore_000
 cs_kieran_ms1_nude_lower_000
+cs_misstimmins_strawberry_ms1_nude_lower_000
+cs_misstimmins_strawberry_ms1_nude_lower_001
+cs_misstimmins_strawberry_ms1_nude_lower_002
 gore_gib_l_calf_000
 gore_gib_l_forearm_000
 gore_gib_l_thigh_000
@@ -36,7 +39,14 @@ goreh_mr1_001
 goreh_mr1_003
 goreh_mr1_005
 lowertorso_mr1_000
+lowertorso_mr1_001
 lowertorso_mr1_002
+lowertorso_mr1_003
 lowertorso_mr1_016
+lowertorso_mt1_000
+lowertorso_mt1_001
+lowertorso_mt1_002
+lowertorso_mt1_003
+lowertorso_mt1_016
 player_zero_nude_lower_000
 uppertorso_fr1_055_corset001

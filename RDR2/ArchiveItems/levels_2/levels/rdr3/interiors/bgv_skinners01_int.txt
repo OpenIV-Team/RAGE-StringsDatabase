@@ -1,3 +1,16 @@
 _cache
 _manifest
+bgv_skinners_lightbox
 bgv_skinners01_int
+bgv_skinners01_int_blanket
+bgv_skinners01_int_blanket+hidr
+bgv_skinners01_int_blanket2
+bgv_skinners01_int_blanket2+hidr
+bgv_skinners01_int_dc
+bgv_skinners01_int_dc+hidr
+bgv_skinners01_int_floor
+bgv_skinners01_int_floor+hidr
+bgv_skinners01_int_frame
+bgv_skinners01_int_frame+hidr
+bgv_skinners01_int_shell
+bgv_skinners01_int_shell+hidr

@@ -1,2 +1,12 @@
 _manifest
+assetviewer_platform
+av_platform_fake
+p_avplatform_whiterender
+p_avplatform_whiterenderint
+p_gen_avplatform_horsemeasure
+p_gen_avplatform_horsemeasure+hidr
+p_gen_avplatform_wood
+p_gen_avplatform_wood_no_light
+p_gen_avplatform_wood2
+p_gen_avplatform_wood2+hidr
 platforms

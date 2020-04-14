@@ -1,2 +1,4 @@
 _manifest
 mp005_p_door
+mp005_p_dooraberdeen03x
+mp005_p_dooraberdeen03x+hifr

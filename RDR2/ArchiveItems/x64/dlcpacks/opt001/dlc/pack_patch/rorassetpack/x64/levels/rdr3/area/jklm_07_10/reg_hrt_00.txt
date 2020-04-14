@@ -1,0 +1,6 @@
+reg_hrt_corpse
+reg_hrt_corpse_00
+reg_hrt_corpse_01
+reg_hrt_corpse+hidr
+reg_hrt_treecarving_a
+reg_hrt_treecarving_b

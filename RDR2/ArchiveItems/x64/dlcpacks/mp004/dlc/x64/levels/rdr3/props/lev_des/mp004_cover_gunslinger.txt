@@ -1,2 +1,10 @@
 _manifest
 mp004_cover_gunslinger
+mp004_p_mpcover_gunslinger01
+mp004_p_mpcover_gunslinger02
+mp004_p_mpcover_gunslinger03
+mp004_p_mpcover_gunslinger04
+mp004_p_mpcover_gunslinger05
+mp004_p_mpcover_gunslinger06
+mp004_p_mpcover_gunslinger07
+mp004_p_mpcover_gunslinger08

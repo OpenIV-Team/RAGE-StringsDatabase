@@ -1,2 +1,4 @@
 _manifest
+p_bed20madex
+p_bed20madex+hifr
 p_bedroom

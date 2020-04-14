@@ -1,2 +1,8 @@
 _manifest
+mp001_collision_explorergear_left
+mp001_collision_explorergear_right
+mp001_cs_mp_jmontezhead_01
+mp001_cs_mp_jmontezhead_01+hifr
+mp001_p_glass003x_lqd
+mp001_p_glass003x_lqd+hifr
 mp001_set_pieces

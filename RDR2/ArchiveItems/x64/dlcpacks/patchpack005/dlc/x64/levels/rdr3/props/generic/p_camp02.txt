@@ -1,2 +1,4 @@
 _manifest
+p_ambtentstripe01x
+p_ambtentstripe01x+hifr
 p_camp02

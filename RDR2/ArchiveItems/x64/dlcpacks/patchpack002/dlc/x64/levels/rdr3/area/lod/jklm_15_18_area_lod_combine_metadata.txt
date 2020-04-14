@@ -6,6 +6,8 @@ ann_02_
 ann_03_
 ann_04_
 ann_05_
+ann_05_house
+ann_05_house_es
 ann_houseboat
 but_01_
 cop_01_
@@ -13,6 +15,8 @@ hrs_02
 jklm_15_18_area_lod
 roa_rd_sgn_
 roc_01_
+roc_01_garden01_die
+roc_01_garden01_nice
 shack_b_c
 shack_it_01
 shack_it_02
@@ -20,6 +24,8 @@ shack_lon_
 van_01_
 van_01_vfx
 van_02
+van_02_cc_graffiti
+van_02_horseboat
 van_03
 van_04
 wild_03

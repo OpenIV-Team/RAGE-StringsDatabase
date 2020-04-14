@@ -1,3 +1,16 @@
 _cache
 _manifest
 dis_gap_00
+dis_gap_abandoned_d
+dis_gap_abandoned_d+hidr
+dis_gap_abandoned_veg
+dis_gap_abandoned_veg+hidr
+dis_gap_abandonedmission
+dis_gap_abandonedmission_lod
+dis_gap_abandonedmission_slod
+dis_gap_abandonedmission+hidr
+dis_gap_cc_graffiti
+dis_gap_disga00_combo_12_lod
+dis_gap_disga00_combo_slod
+dis_gap_prehistoricdecal01
+dis_gap_prehistoricdecal01+hidr

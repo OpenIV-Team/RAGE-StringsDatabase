@@ -1,2 +1,9 @@
 _manifest
 kud_01
+kud_01_shack
+kud_01_shack_d
+kud_01_shack_d+hidr
+kud_01_shack_glue_
+kud_01_shack_glue_+hidr
+kud_01_shack_int_lod
+kud_01_shack+hidr

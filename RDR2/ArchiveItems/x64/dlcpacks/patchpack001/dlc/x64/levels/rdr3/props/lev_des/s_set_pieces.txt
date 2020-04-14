@@ -1,1 +1,3 @@
 _manifest
+s_pic_younggrimshaw
+s_pic_younggrimshaw+hidr

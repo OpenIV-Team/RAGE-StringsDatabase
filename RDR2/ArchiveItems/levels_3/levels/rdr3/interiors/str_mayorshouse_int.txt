@@ -1,3 +1,16 @@
 _cache
 _manifest
+lightblocker
+str_03_mayor_int_01
+str_03_mayor_int_01+hidr
+str_03_mayor_int_02
+str_03_mayor_int_02+hidr
+str_03_mayor_int_dec
+str_03_mayor_int_dec+hidr
+str_03_mayor_int_shell
+str_03_mayor_int_shell+hidr
+str_mayor_lightbox
+str_mayorhouse_shadow_proxy
 str_mayorshouse_int
+str_mayorshouse_int_ref
+str_mayorshouse_int_ref+hidr

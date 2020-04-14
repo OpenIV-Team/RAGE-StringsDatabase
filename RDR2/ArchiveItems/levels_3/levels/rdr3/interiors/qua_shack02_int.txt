@@ -1,3 +1,15 @@
 _cache
 _manifest
 qua_shack02_int
+qua_shack02_int_cage01
+qua_shack02_int_cage01+hidr
+qua_shack02_int_floor
+qua_shack02_int_ropes01
+qua_shack02_int_shadowproxy
+qua_shack02_int_shell
+qua_shack02_int_shell_ref
+qua_shack02_int_shell_ref+hidr
+qua_shack02_int_shell+hidr
+qua_shack02_int_shelves
+qua_shack02_int_shelves+hidr
+qua_shack02_lightbox

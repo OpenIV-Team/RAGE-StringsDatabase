@@ -1,3 +1,16 @@
 _cache
 _manifest
 bpl_swampcabin_int
+bpl_swampcabin_int_dec
+bpl_swampcabin_int_dec+hidr
+bpl_swampcabin_int_detail
+bpl_swampcabin_int_detail+hidr
+bpl_swampcabin_int_floor
+bpl_swampcabin_int_floor+hidr
+bpl_swampcabin_int_ref
+bpl_swampcabin_int_ref+hidr
+bpl_swampcabin_int_roof
+bpl_swampcabin_int_shadow
+bpl_swampcabin_int_walls
+bpl_swampcabin_int_walls+hidr
+swampcabin_lightbox

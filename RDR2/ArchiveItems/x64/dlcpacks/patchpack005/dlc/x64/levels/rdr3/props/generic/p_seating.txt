@@ -1,1 +1,3 @@
 _manifest
+p_sit_chairwicker01b
+p_sit_chairwicker01b+hifr

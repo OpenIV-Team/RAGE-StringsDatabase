@@ -1,0 +1,17 @@
+str_vfx_rain_03_srtsign
+str_vfx_rain_bridge_log001
+str_vfx_rain_carpenter
+str_vfx_rain_flume01
+str_vfx_rain_frt
+str_vfx_rain_gallows
+str_vfx_rain_hotel_ext
+str_vfx_rain_jail01
+str_vfx_rain_mayorshse
+str_vfx_rain_mill01_ext
+str_vfx_rain_nemhouse01
+str_vfx_rain_outhouse02
+str_vfx_rain_playerhse01
+str_vfx_rain_res02_ext
+str_vfx_rain_srtsign01
+str_vfx_rain_watertrack
+str_vfx_rain_whore_wash

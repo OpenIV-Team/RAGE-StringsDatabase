@@ -1,3 +1,12 @@
 _cache
 _manifest
+pro_man_shell_shdowproxy
+pro_mansion_details01_tnt
+pro_mansion_details01_tnt+hidr
+pro_mansion_fireplace
+pro_mansion_fireplace+hidr
 pro_mansion_int
+pro_mansion_reflblocker
+pro_mansion_shell
+pro_mansion_shell+hidr
+pro_mansion_stairs

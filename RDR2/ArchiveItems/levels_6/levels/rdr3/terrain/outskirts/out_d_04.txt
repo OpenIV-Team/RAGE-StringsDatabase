@@ -1,3 +1,6 @@
 _cache
 _manifest
 out_d_04
+out_d_04_hd_13
+out_d_04_hd_13_lod
+out_d_04_hd_14_slod

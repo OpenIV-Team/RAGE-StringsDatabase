@@ -1,2 +1,17 @@
 _manifest
+mp005_s_cn_1700_nyt
+mp005_s_cn_1787_1c_apt
+mp005_s_cn_1789_pctm
+mp005_s_cn_1792_1866_5cnick
+mp005_s_cn_1792_1870_qpd
+mp005_s_cn_1792_qlp
+mp005_s_cn_1794_1795_sd_fh
+mp005_s_cn_1795_1797_5d_shetr
+mp005_s_cn_1796_halfpen_ctn
+mp005_s_cn_1797_1804_10d_lc
+mp005_s_cn_1798_1804_sd_db
+mp005_s_cn_1800_1805_s5c_dbhd
+mp005_s_cn_1800_1888_5d_cb
+mp005_s_cn_1800_1899_25c_sg
+mp005_s_cn_1800_1899_gd_lo
 mp005_s_mp_coins

@@ -1,2 +1,6 @@
 _manifest
 des_gang_amb_wag_bomb
+des_wagon_bomb_01
+des_wagon_bomb_end
+des_wagon_bomb_start
+des_wagon_bomb_start+hidr

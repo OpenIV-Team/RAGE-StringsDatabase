@@ -1,1 +1,16 @@
 _manifest
+val_03_doctor_ext
+val_03_doctor_ext_em_hd
+val_03_doctor_ext+hidr
+val_03_houseforrent
+val_03_houseforrent_ladder
+val_03_houseforrent_ladder+hidr
+val_03_houseforrent+hidr
+val_03_jail_ext
+val_03_jail_ext+hidr
+val_03_mudtrack_dcl
+val_03_room4rent_enlssum
+val_03_room4rent_enlssum_dtls
+val_03_room4rent_enlssum+hidr
+val_genstore_ext
+val_genstore_ext+hidr

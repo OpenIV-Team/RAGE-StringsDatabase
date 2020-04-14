@@ -1,2 +1,6 @@
 _cache
 _manifest
+dis_grz_00_frozencamp02
+dis_grz_00_frozencamp02+hidr
+dis_grz_00_horse_corpse2
+dis_grz_00_horse_corpse2+hidr

@@ -1,2 +1,3 @@
 _manifest
 mp004_p_kitchen
+mp004_p_spoonmid01x_liquid

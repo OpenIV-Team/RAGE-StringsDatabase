@@ -1,1 +1,14 @@
 _manifest
+new_boats_crane_02
+new_boats_crane_02_slod
+new_boats_shp_10_cabin
+new_boats_shp_10_d
+new_boats_shp_10_d2
+new_boats_shp_10_d2+hidr
+new_boats_shp_10_hull
+new_boats_shp_10_masts
+new_boats_shp_10_rail1
+new_boats_shp_10_rail2
+new_boats_shp_10_rail3
+new_boats_shp_10_ropes
+new_boats_shp_10_slod

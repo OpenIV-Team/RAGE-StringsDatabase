@@ -1,2 +1,7 @@
 _manifest
+mp001_collision_explorergear
+mp001_cs_mp_jmontezhead_01
+mp001_cs_mp_jmontezhead_01+hifr
+mp001_physics_glasses
+mp001_physics_hat
 mp001_set_pieces

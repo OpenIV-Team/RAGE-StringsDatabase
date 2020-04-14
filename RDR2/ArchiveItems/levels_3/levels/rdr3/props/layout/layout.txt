@@ -1,2 +1,4 @@
 _manifest
+l_door02x
+l_door02x+hidr
 layout

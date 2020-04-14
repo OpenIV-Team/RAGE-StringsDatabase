@@ -1,2 +1,8 @@
 _cache
 _manifest
+mp_moo_04_d
+mp_moo_04_d+hidr
+mp_moo_04_hd
+mp_moo_04_hd+hidr
+mp_moo_04_loc
+mp_moo_04_loc_slod

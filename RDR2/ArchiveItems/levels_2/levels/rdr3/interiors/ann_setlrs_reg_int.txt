@@ -1,3 +1,13 @@
 _cache
 _manifest
 ann_setlrs_reg_int
+ann_setlrs_reg_int_beams
+ann_setlrs_reg_int_bed01
+ann_setlrs_reg_int_bed02
+ann_setlrs_reg_int_fireplace
+ann_setlrs_reg_int_frames
+ann_setlrs_reg_int_lightbox
+ann_setlrs_reg_int_props
+ann_setlrs_reg_int_shell
+ann_setlrs_reg_int_trim
+ann_setlrs_reg_int_upstairs

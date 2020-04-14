@@ -1,1 +1,9 @@
 _manifest
+sbc_shack_b_c_d
+sbc_shack_b_c_d+hidr
+sbc_shack_b_c_entrance
+sbc_shack_b_c_entrance+hidr
+sbc_shack_b_c_ext
+sbc_shack_b_c_ext+hidr
+sbc_shack_b_c_int_lod
+sbc_shack_b_c_slod

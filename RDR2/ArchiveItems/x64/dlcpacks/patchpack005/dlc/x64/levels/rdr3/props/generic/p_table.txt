@@ -1,2 +1,4 @@
 _manifest
 p_table
+p_tablepoker01x
+p_tablepoker01x+hifr

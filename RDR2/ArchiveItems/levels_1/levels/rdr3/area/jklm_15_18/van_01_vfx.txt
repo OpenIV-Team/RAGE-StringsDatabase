@@ -1,0 +1,13 @@
+van_vfx_rain_boatsunk
+van_vfx_rain_depot
+van_vfx_rain_farmhse1
+van_vfx_rain_farmhse2
+van_vfx_rain_hotel
+van_vfx_rain_hseboat02
+van_vfx_rain_lghthse
+van_vfx_rain_rugshop01
+van_vfx_rain_ruin
+van_vfx_rain_sheriff
+van_vfx_rain_tradingpost
+van_vfx_rain_train
+van_vfx_rain_trestle

@@ -1,0 +1,13 @@
+new_wrh_vfx_helper_001
+new_wrh_vfx_helper_002
+new_wrh_vfx_helper_003
+new_wrh_vfx_rain_ext_01
+new_wrh_vfx_rain_factory_2z
+new_wrh_vfx_rain_lanikco_01
+new_wrh_vfx_rain_lanikco_02
+new_wrh_vfx_rain_lg_wal
+new_wrh_vfx_rain_livery001
+new_wrh_vfx_rain_lrg01
+new_wrh_vfx_rain_ovrhng
+new_wrh_vfx_rain_sm_1
+new_wrh_vfx_rain_water_twr

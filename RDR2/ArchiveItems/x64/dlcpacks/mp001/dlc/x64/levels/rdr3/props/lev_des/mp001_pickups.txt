@@ -1,2 +1,13 @@
 _manifest
+mp001_p_cs_photo_amos
+mp001_p_cs_photo_grace
+mp001_p_cs_photo_jeremiah
+mp001_p_cs_photo_teddy
+mp001_p_cs_teddyhelmet01x
+mp001_p_cs_teddyhelmet01x+hidr
 mp001_pickups
+mp001_s_horsearmourbox_left
+mp001_s_horsearmourbox_left+hidr
+mp001_s_mp_ammobox01a
+mp001_s_mp_ammobox01a+hifr
+mp001_s_mp_boxsm01x

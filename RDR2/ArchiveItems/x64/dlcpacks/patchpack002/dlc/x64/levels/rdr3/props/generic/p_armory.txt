@@ -1,2 +1,4 @@
 _manifest
 p_armory
+p_cratetnt03x
+p_cratetnt03x+hifr

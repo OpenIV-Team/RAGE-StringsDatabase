@@ -1,2 +1,4 @@
 _manifest
+p_fitcherbrothe01x
+p_fitcherbrothe01x+hidr
 s_posters

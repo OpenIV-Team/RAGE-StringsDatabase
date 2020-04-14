@@ -1,2 +1,5 @@
 _manifest
+mp005_p_mp_bountyposter01x
+mp005_p_mp_bountyposter02x
+mp005_p_mp_bountyposter03x
 mp005_s_lev_des_rend_targ

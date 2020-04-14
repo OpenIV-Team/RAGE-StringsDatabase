@@ -1,1 +1,13 @@
 _manifest
+cal_slave_audio_proxy
+cal_slavehouse_01_hv_01
+cal_slavehouse_01_hv_01+hidr
+cal_slavehouse_01d
+cal_slavehouse_02
+cal_slavehouse_03
+cal_slavehouse_03d
+cal_slavehouse_04
+cal_slavehouse_04d
+cal_slavehouse_slod
+cal_slavehouse_win_04
+cal03pr_combo_slod

@@ -1,3 +1,11 @@
 _cache
 _manifest
 q03_04_tunnel_exit_int
+q0304_tunlexitblok1
+q0304_tunnel_exit_rail
+q0304_tunnel_exit_rocks
+q0304_tunnel_exit_shell
+q0304_tunnel_exit_shell+hidr
+q0304_tunnel_exit_support
+q0304_tunnel_exit_support+hidr
+railway_sca_plates_a001

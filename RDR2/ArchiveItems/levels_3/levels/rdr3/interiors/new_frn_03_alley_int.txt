@@ -1,3 +1,10 @@
 _cache
 _manifest
 new_frn_03_alley_int
+new_frn_03_alley_int_shd_prxy
+new_frn_03_alley_shutclose
+new_frn_alley_int_decals
+new_frn_alley_int_ref_h
+new_frn_alley_int_ref_h+hidr
+new_frn_alley_int_shell
+new_frn_alley_int_shell+hidr

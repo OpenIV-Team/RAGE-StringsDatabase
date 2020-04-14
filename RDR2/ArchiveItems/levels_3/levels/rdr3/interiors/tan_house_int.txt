@@ -1,3 +1,14 @@
 _cache
 _manifest
 tan_house_int
+tan_house_int_shadow_proxy
+tan_int_bed
+tan_int_bed+hidr
+tan_int_detail
+tan_int_detail+hidr
+tan_int_floor
+tan_int_floor+hidr
+tan_int_wallmud
+tan_int_wallmud+hidr
+tan_int_walls
+tan_int_walls+hidr

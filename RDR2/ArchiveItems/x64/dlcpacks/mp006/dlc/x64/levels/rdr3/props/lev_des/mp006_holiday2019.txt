@@ -1,2 +1,16 @@
 _manifest
 mp006_holiday2019
+mp006_p_veh_xmasnsteamer01x
+mp006_p_veh_xmasnsteamer01x+hifr
+mp006_p_wreath01x
+mp006_p_wreath01x+hidr
+mp006_p_xmas_coal01x
+mp006_p_xmastree01x
+mp006_p_xmastree01x+hidr
+mp006_s_lootablechest03x
+mp006_s_lootablechest03x+hifr
+mp006_s_markercandycane
+mp006_s_markergingerbread
+mp006_s_markergumdrops
+mp006_s_racexmasflag01x
+mp006_s_racexmasflag01x+hifr

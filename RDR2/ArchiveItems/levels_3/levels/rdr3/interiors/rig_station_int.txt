@@ -1,3 +1,15 @@
 _cache
 _manifest
+rig_station_floor
+rig_station_floor+hidr
 rig_station_int
+rig_station_int_counter
+rig_station_int_counter+hidr
+rig_station_int_decals
+rig_station_int_decals+hidr
+rig_station_int_ref
+rig_station_int_ref+hidr
+rig_station_int_shadow_proxy
+rig_station_lightbox
+rig_station_shell
+rig_station_shell+hidr

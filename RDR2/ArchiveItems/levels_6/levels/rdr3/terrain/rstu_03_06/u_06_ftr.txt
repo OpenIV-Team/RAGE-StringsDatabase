@@ -1,2 +1,4 @@
 _manifest
 u_06_ftr
+u_06_ftr_01
+u_06_ftr_02

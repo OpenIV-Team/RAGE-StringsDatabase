@@ -1,3 +1,17 @@
 _cache
 _manifest
+bac_decal_
+bac_decal_+hidr
+bac_tnl_arches
+bac_tnl_ground
+bac_tnl_ground+hidr
+bac_tnl_rock_scree_01
+bac_tnl_shell
+bac_tnl_shell+hidr
+bac_tnl_side_brace
 bac_tunnel_int
+bac_tunnel_int_caps_hd
+bac_tunnel_plates
+bac_tunnel_rails
+bac_tunnel_shadow_proxy
+retaining_walls_03

@@ -1,3 +1,16 @@
 _cache
 _manifest
 civ_cellar_int
+civ_cellar_int_ref_proxy
+civ_cellar_int_ref_proxy+hidr
+civ_cellar_int_shdw_pxy
+civ_cellar_int_shell
+civ_cellar_int_shell+hidr
+civ_cellar_int_shelves
+civ_cellar_int_shelves+hidr
+civ_cellar_int_web
+civ_cellar_int_web+hidr
+civ_cellar_ladder
+civ_cellar_ladder+hidr
+civ_cellar_lightblocker
+civ_cellar_lightbox

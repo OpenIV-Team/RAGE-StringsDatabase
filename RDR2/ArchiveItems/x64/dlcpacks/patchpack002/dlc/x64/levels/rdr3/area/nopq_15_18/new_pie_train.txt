@@ -1,1 +1,5 @@
 _manifest
+new_pie_tr_props_slod
+new_pie_train_outerwall1
+new_pie_train_outerwall1+hidr
+new_pie_train_outerwall6

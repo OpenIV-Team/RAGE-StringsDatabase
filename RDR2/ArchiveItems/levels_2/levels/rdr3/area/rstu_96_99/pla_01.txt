@@ -1,2 +1,11 @@
 _cache
 _manifest
+pla_01__pla01_combo_slod
+pla_01_ground_d
+pla_01_ground_d+hidr
+pla_01_newderrick
+pla_01_newderrick_d
+pla_01_newderrick_d+hidr
+pla_01_newderrick_inside
+pla_01_newderrick_inside+hidr
+pla_01_newderrick+hidr

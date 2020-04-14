@@ -1,2 +1,6 @@
 _manifest
 mp001_camp
+mp001_p_mp_campfire03x
+mp001_p_mp_campfire03x+hidr
+mp001_p_mp_tent_leento03x
+mp001_p_mp_tent_leento03x+hifr

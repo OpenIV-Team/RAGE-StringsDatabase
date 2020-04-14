@@ -1,3 +1,17 @@
 _cache
 _manifest
+col_barn_05_framing
+col_barn_05_posts
+col_barn_05_posts+hidr
+col_barn_05_ropes
+col_barn_05_ropes+hidr
+col_barn_ground
+col_barn_ground+hidr
 col_barn_int
+col_barn_int_ref
+col_barn_int_ref+hidr
+col_barn_int_shadow_proxy
+col_barn_lightbox
+col_barn_log_ends
+col_barn_ropes
+col_barn_walls

@@ -1,0 +1,3 @@
+p_c_horse_01_armour_bags_000
+p_c_horse_01_armour_box_000
+p_c_horse_01_armour_box_001

@@ -1,2 +1,11 @@
 _cache
 _manifest
+mp005_mp_bla_photo_posse_int_decal
+mp005_mp_bla_photo_posse_int_decal+hidr
+mp005_mp_bla_photo_posse_int_gears
+mp005_mp_bla_photo_posse_int_gears+hidr
+mp005_mp_bla_photo_posse_int_ref
+mp005_mp_bla_photo_posse_int_ref+hidr
+mp005_mp_bla_photo_posse_int_shdprxy
+mp005_mp_bla_photo_posse_int_shell
+mp005_mp_bla_photo_posse_int_shell+hidr

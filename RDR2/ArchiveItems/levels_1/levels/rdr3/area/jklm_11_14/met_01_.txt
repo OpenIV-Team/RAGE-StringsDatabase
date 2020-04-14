@@ -1,3 +1,14 @@
 _cache
 _manifest
 met_01_
+met_01_moss
+met_01_moss+hidr
+met_01_roof
+met_01_roof+hidr
+met_01_vfx_001
+met_01_walls01
+met_01_walls01+hidr
+met_glue
+met_glue_03
+met_glue+hidr
+met01_combo_slod

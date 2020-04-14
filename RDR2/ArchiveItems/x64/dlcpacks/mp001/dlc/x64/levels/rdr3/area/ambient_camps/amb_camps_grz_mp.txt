@@ -1,2 +1,6 @@
 _cache
 _manifest
+mp001_mp_grz_cabin_snow01
+mp001_mp_grz_cabin_snow01+hidr
+mp001_mp_grz_dirt_001
+mp001_mp_grz_dirt_001+hidr

@@ -1,3 +1,15 @@
 _cache
 _manifest
+new_trolley_decals
+new_trolley_decals+hidr
+new_trolley_details
+new_trolley_details+hidr
+new_trolley_mailbooth
+new_trolley_shell
+new_trolley_shell+hidr
+new_trolley_ticketbooth
+new_trolley_ticketbooth+hidr
 new_trolleydepot
+new_trolleydepot_ref
+new_trolleydepot_ref+hidr
+new_trolleydepot_shad_proxy

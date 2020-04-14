@@ -1,3 +1,15 @@
 _cache
 _manifest
 val_stable_int
+val_stable_int_detail
+val_stable_int_detail+hidr
+val_stable_int_ground
+val_stable_int_ref
+val_stable_int_shadow
+val_stable_int_shell
+val_stable_int_shell_dec
+val_stable_int_shell_dec+hidr
+val_stable_int_shell+hidr
+val_stable_lightbox
+val_stable_tables
+val_stable_tables+hidr

@@ -1,2 +1,6 @@
 _cache
 _manifest
+reg_hen_dirt_00
+reg_hen_dirt_00+hidr
+reg_hen_rockblock_01
+reg_hen_rockblock_01+hidr

@@ -1,2 +1,5 @@
 _manifest
 des_gang_wag_bomb_back
+des_gang_wagon_back_01
+des_gang_wagon_back_end
+des_gang_wagon_back_start

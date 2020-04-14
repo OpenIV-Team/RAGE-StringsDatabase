@@ -1,2 +1,6 @@
 _manifest
+p_babystroller
+p_babystroller+hifr
 p_vehicle_static
+p_wagonparked01x
+p_wagonparked01x+hifr

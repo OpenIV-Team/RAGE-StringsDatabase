@@ -166,6 +166,7 @@ cs_cleet_ms1_merge_4
 cs_crackpotinventor_ms1_merge_3
 cs_crackpotinventor_ms1_merge_4
 cs_doroetheawicklow_fs1_merge_6
+cs_dutch_ms1_holster_belt_002
 cs_dutch_ms1_mask_003
 cs_dutch_ms1_mask_005
 cs_dutch_ms1_merge_17
@@ -192,6 +193,7 @@ cs_fightref_ms1_merge_2
 cs_frenchartist_ms1_merge_4
 cs_frenchartist_ms1_merge_5
 cs_frenchartist_ms1_merge_6
+cs_frenchartist_ms1_pants_001
 cs_hermitwoman_fs1_merge_2
 cs_hoseamatthews_ms1_blanket_001
 cs_hoseamatthews_ms1_merge_15
@@ -235,6 +237,7 @@ cs_marybeth_fs1_merge_11
 cs_marybeth_fs1_merge_12
 cs_marybeth_fs1_merge_13
 cs_marybeth_fs1_merge_9
+cs_marylinton_fs1_hair_002
 cs_marylinton_fs1_merge_5
 cs_marylinton_fs1_merge_7
 cs_micahbell_ms1_eyepatch_000
@@ -313,6 +316,7 @@ hair_tr1_028
 hair_tr1_039_merge
 hat_mr1_002_alt02
 hat_mr1_003
+hat_mr1_003_alt02
 hat_mr1_003_alt03
 hat_mr1_007_alt02
 hat_mr1_039
@@ -746,6 +750,7 @@ player_zero_hair_s01_l08_p1
 player_zero_hair_s01_l09_p0
 player_zero_hair_s01_l09_p1
 player_zero_hair_s02_l02_p0
+player_zero_hair_s02_l02_p1
 player_zero_hair_s02_l03_p0
 player_zero_hair_s02_l03_p1
 player_zero_hair_s02_l04_p0
@@ -1063,6 +1068,7 @@ uppr_fr1_021
 uppr_fr1_030
 uppr_fr1_030_crinoline
 uppr_fr1_030_oc
+uppr_fr1_030_tattered_crinoline
 uppr_fr1_030_tattered_merge
 uppr_fr1_030_tattered_opencoat
 uppr_fr1_030_tattered_overalls

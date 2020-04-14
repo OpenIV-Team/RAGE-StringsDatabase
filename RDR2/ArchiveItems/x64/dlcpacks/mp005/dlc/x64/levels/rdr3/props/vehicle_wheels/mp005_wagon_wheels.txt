@@ -1,1 +1,5 @@
+mp005_bountywagon01x_wheel_lf
+mp005_bountywagon01x_wheel_lr
+mp005_huntercart01_wheel_lf
+mp005_huntercart01_wheel_lr
 mp005_wagon_wheels

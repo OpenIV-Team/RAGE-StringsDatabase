@@ -1,1 +1,10 @@
 _manifest
+shk_mh_house_01
+shk_mh_house_01_dcl
+shk_mh_house_01_dcl+hidr
+shk_mh_house_01_ivy
+shk_mh_house_01_ivy+hidr
+shk_mh_house_01_win
+shk_mh_house_01_win+hidr
+shk_mh_house_01+hidr
+shk_shackmhpr_combo_slod

@@ -1,2 +1,15 @@
 _manifest
 bra_03_
+bra_corncrib_lod
+bra_cornmill_ext_corncobs
+bra_cornmill_ext_corncobs1
+bra_cornmill_ext_corncrib
+bra_cornmill_ext_corncrib+hidr
+bra_cornmill_ext_grinders
+bra_cornmill_ext_shell
+bra_cornmill_ext_shell+hidr
+bra_muleshed
+bra_muleshed_decal
+bra_muleshed_decal+hidr
+bra_muleshed_lod
+bra_muleshed+hidr

@@ -1,3 +1,17 @@
 _cache
 _manifest
+ann_jail_cell01_details
+ann_jail_cell02_details
+ann_jail_decals
+ann_jail_details
+ann_jail_details+hidr
 ann_jail_int
+ann_jail_int_frame_cell_01
+ann_jail_int_frame_cell_02
+ann_jail_int_shell
+ann_jail_int_shell+hidr
+ann_jail_intshell_ref_proxy
+ann_jail_intshell_ref_proxy+hidr
+ann_jail_main_brickwork
+ann_jail_main_brickwork+hidr
+ann_jail_shadowproxy

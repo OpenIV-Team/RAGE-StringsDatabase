@@ -1,2 +1,3 @@
 _manifest
 mp004_p_clothing
+mp004_p_parasol04x

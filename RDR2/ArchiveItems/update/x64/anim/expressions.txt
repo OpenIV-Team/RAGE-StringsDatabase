@@ -138,5 +138,11 @@ cs_vampire
 cs_warvet
 meta_base_female
 meta_base_male
+p_cs_kettle01x
+p_grindingwheel01x
+p_main_breastmutton01x
 player_three
+s_cottonraw01x
+s_interact_lantern01x
+s_lev_journal_book
 w_sp_bowarrow

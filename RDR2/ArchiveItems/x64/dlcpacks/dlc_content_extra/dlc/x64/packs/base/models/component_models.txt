@@ -1,5 +1,14 @@
 _manifest
 a_c_wolf_medium_merge
 a_c_wolf_merge_7
+cs_herbalist_ms1_accs_000
+cs_herbalist_ms1_beard_000
+cs_herbalist_ms1_boot_000
+cs_herbalist_ms1_bracelets_000
+cs_herbalist_ms1_feathers_000
 cs_herbalist_ms1_merge_2
+cs_herbalist_ms1_nude_upper_000
+cs_herbalist_ms1_pant_000
+cs_herbalist_ms1_ring_000
+cs_herbalist_ms1_uppr_000
 p_c_horse_01_merge_6

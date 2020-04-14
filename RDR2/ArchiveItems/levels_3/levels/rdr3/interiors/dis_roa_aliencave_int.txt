@@ -1,3 +1,10 @@
 _cache
 _manifest
+dis_roa_aliencave_blend
+dis_roa_aliencave_blend+hidr
 dis_roa_aliencave_int
+dis_roa_aliencave_int_shell
+dis_roa_aliencave_int_shell+hidr
+dis_roa_aliencave_leave_dc
+dis_roa_aliencave_leave_dc+hidr
+dis_roa_lightbox

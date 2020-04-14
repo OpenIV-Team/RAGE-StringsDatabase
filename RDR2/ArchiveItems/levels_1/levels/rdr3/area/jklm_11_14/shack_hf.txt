@@ -1,2 +1,14 @@
 _cache
 _manifest
+shf_hf_detail
+shf_hf_detail+hidr
+shf_hf_moss
+shf_hf_moss+hidr
+shf_hf_roof
+shf_hf_roof+hidr
+shf_hf_slod
+shf_hf_walls01
+shf_hf_walls01+hidr
+shf_hf_walls02
+shf_shack_hf_int_lod
+shf_shackhf_combo_slod

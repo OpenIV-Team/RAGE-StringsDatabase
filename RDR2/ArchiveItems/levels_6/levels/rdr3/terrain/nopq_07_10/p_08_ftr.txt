@@ -1,3 +1,13 @@
 _cache
 _manifest
 p_08_ftr
+p_08_ftr_end_d00
+p_08_ftr_end_d01
+p_08_ftr_end_d01+hidr
+p_08_ftr_end_d02
+p_08_ftr_endsum
+p_08_ftr_endsum_lod
+p_08_ftr_endsum_slod
+p_08_ftr_regular
+p_08_ftr_regular_lod
+p_08_ftr_regular_slod

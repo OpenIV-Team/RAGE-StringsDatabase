@@ -1,2 +1,12 @@
 _manifest
+p_huto_01
+p_huto_02
 p_lak_frags
+p_lakdok_fram_01
+p_lakdok_fram_02
+p_lakdok_lad_01
+p_lakdok_post_01
+p_lakdok_tbar_01
+p_lakdok_tbar_02
+p_tabfrag_01a
+p_toilet_01

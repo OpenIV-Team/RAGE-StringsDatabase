@@ -1,3 +1,17 @@
 _cache
 _manifest
+van_bath_decal01
+van_bath_detail
+van_bath_detail+hidr
+van_bedrm_decal02
+van_bedrm_decal02+hidr
+van_bedrm_detail01
+van_bedrm_detail01+hidr
+van_room_int_bath_shell
+van_room_int_bedrm_shell
+van_room_n_bath_shadow
 van_roomnbath_int
+van_roomnbath_lightbox
+van_roomnbath_ligthbox001
+van_roomnbath_ref
+van_roomnbath_ref+hidr

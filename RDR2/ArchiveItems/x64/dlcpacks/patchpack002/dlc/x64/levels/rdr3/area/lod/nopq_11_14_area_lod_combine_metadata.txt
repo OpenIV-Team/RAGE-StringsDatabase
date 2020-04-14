@@ -5,6 +5,7 @@ bra_01_
 bra_02_
 bra_03_
 bra_vfx
+bra_vfx_post_smolder
 cal_01_
 cal_02_
 cal_03_
@@ -12,7 +13,9 @@ cal_04_
 can_01_
 cle_01_
 cle_car_01_
+cle_clive_wagon
 com_01_
+com_muleshed
 cra_01_
 cvb_01_
 cvb_02_
@@ -30,6 +33,8 @@ mac_01_
 maco_01_
 mer_01
 mp_moo_01
+n_1114_watertower01_default
+n_1114_watertower01_feud1
 nopq_11_14_area_lod
 nopq_11_14_rails_a
 nopq_11_14_rails_b
@@ -47,6 +52,9 @@ rho_05_
 sca_mea_bridge
 sca_mea_rd_sgn_
 sha_01_
+sha_ext_shutters_normal
+sha_ext_shutters_normal_lod
+sha_ext_shutters_odriscolls4
 shack_b_b
 shack_cs
 shack_lt

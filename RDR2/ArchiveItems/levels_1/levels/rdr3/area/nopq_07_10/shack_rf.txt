@@ -1,1 +1,13 @@
 _manifest
+spl_shack_rare_dockrope
+spl_shack_rarefish_boat
+spl_shack_rarefish_boat+hidr
+spl_shack_rarefish_cart
+spl_shack_rarefish_cart+hidr
+spl_shack_rarefish_chim
+spl_shack_rarefish_chim+hidr
+spl_shack_rarefish_ext
+spl_shack_rarefish_ext_d
+spl_shack_rarefish_ext_d+hidr
+spl_shack_rarefish_ext+hidr
+spl_shackrf_combo_slod

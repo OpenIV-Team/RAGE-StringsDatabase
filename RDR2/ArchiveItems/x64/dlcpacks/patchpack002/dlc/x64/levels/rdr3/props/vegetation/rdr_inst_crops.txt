@@ -1,2 +1,11 @@
 _manifest
+crp_tobaccoburnt_bb_sim
+crp_tobaccoburnt_bc_sim
+crp_tobaccoplant_ba_sim
+crp_tobaccoplant_bb_sim
+crp_tobaccoplant_bb_sim+hifr
+crp_tobaccoplant_bc_sim
+crp_tobaccoplant_bc_sim+hifr
+crp_tobaccoplant_burnt_cb
+crp_tobaccoplant_burnt_cb+hidr
 rdr_inst_crops

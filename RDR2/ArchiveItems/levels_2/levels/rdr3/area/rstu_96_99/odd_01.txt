@@ -1,2 +1,9 @@
 _cache
 _manifest
+odd_01_maingate
+odd_01_maingate_vfx
+odd_01_maingate+hidr
+odd_01_odd01_combo_slod
+odd_01_oddfellow_gnames
+odd_01_oddfellow_gnames+hidr
+odd_01_slod

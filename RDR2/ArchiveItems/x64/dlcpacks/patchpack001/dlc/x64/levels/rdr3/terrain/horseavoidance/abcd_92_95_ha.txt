@@ -1,3 +1,16 @@
 _cache
 _manifest
 abcd_92_95_ha
+abcd_92_95_ha_03_gapcloser
+abcd_92_95_ha_bee_01_coldummy
+abcd_92_95_ha_blk06_dummy
+abcd_92_95_ha_blk06_dummy_02
+abcd_92_95_ha_decals_00
+abcd_92_95_ha_decals_01
+abcd_92_95_ha_e_01_dum_obj
+abcd_92_95_ha_e_01_dum_obj_2
+abcd_92_95_ha_gapfloor
+abcd_92_95_ha_gapfloor+hidr
+abcd_92_95_ha_pro_worker_dummy
+abcd_92_95_ha_str_01_dummy
+abcd_92_95_ha_the_01_dummy

@@ -755,6 +755,7 @@ common/shaders/db/water_terrainfoam.sps
 common/shaders/db/water_waterfall_highlod.sps
 common/shaders/db/weapon_normal_spec_tnt.sps
 content.xml
+s_11__hd_0_1_-3
 setup2.xml
 x64/anim/creaturemetadata
 x64/anim/expressions

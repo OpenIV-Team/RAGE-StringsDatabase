@@ -1,3 +1,7 @@
 _cache
 _manifest
 c_10_ftr
+c_10_ftr_feature
+c_10_ftr_feature+hidr
+c_10_ftr_lod
+c_10_ftr_slod

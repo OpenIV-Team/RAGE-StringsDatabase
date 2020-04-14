@@ -1,2 +1,8 @@
 _manifest
 cop_01_
+cop_01_vfx_001
+cop_dock_01
+cop_dock_01+hidr
+cop_house_hd
+cop_house_hd+hidr
+cop01pr_combo_dslod

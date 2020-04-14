@@ -1,3 +1,17 @@
 _cache
 _manifest
 han_barn_int
+han_barn_int_debris_01
+han_barn_int_debris_01+hidr
+han_barn_int_ladder
+han_barn_int_ref_proxy
+han_barn_int_ref_proxy+hidr
+han_barn_lightbox
+han_barn_shell
+han_barn_shell+hi
+han_barnground01
+han_barnground01+hidr
+han_barnnew_detail
+han_barnnew_interior
+han_barnnew2
+han_barnroof

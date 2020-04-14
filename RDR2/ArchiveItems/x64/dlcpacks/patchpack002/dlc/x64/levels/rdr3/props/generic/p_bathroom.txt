@@ -1,2 +1,9 @@
 _manifest
+p_bath02x
+p_bath02x+hidr
 p_bathroom
+p_towelrack01x
+p_val_hotel_int_tub_01x
+p_val_hotel_int_tub_01x+hidr
+p_washbasin01x
+p_washbasin01x+hifr

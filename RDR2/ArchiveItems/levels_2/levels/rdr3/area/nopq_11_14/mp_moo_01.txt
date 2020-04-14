@@ -1,1 +1,9 @@
 _manifest
+mp_moo_01_
+mp_moo_01_+hidr
+mp_moo_01_d
+mp_moo_01_d+hidr
+mp_moo_01_loc
+mp_moo_01_loc_slod
+mp_moo_01_mpmo01_combo_slod
+mp_moo_01_vfx_

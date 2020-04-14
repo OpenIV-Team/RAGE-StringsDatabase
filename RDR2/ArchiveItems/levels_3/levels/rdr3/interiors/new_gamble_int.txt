@@ -1,3 +1,13 @@
 _cache
 _manifest
 new_gamble_int
+new_gamble_int_counter
+new_gamble_int_counter+hidr
+new_gamble_int_decals
+new_gamble_int_decals+hidr
+new_gamble_int_ref
+new_gamble_int_ref+hidr
+new_gamble_int_shell
+new_gamble_int_shell+hidr
+new_gamble_lightbox
+new_gamble_shadowproxy

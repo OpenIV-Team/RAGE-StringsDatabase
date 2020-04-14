@@ -1,2 +1,6 @@
 _manifest
 des_wnt1_cabin_collapse
+des_wnt1_cabin_collapse_01
+des_wnt1_cabin_collapse_01+hidr
+des_wnt1_cabin_collapse_02
+des_wnt1_cabin_collapse_02+hidr

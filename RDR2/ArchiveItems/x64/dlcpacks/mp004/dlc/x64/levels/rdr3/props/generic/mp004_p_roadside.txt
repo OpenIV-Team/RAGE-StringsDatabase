@@ -1,2 +1,5 @@
 _manifest
+mp004_p_fort_modular_05
+mp004_p_fort_modular_05_ladder
+mp004_p_fort_modular_05+hidr
 mp004_p_roadside

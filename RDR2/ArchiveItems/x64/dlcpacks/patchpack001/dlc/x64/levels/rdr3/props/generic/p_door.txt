@@ -1,1 +1,7 @@
 _manifest
+p_door_val_genstore
+p_door_val_genstore+hifr
+p_doorbrait01bx
+p_doorbrait01bx+hidr
+p_doorvh_bronte_l
+p_doorvh_bronte_r

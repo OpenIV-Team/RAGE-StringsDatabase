@@ -1,3 +1,13 @@
 _cache
 _manifest
+str_frt_decals01
+str_frt_decals02
 str_frt_int
+str_frt_int_shadow_proxy
+str_frt_lightbox
+str_frt_lightbox002
+str_frt_partition01
+str_frt_partition01+hidr
+str_frt_shelf01
+str_frt_shell01
+str_frt_shell01+hidr

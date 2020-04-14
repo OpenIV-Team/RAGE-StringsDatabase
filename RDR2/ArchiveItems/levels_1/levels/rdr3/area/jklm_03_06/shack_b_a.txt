@@ -1,2 +1,13 @@
 _cache
 _manifest
+sba_glue_002
+sba_glue_002+hidr
+sba_shack_b_a
+sba_shack_b_a_d
+sba_shack_b_a_d+hidr
+sba_shack_b_a_entrance
+sba_shack_b_a_entrance+hidr
+sba_shack_b_a_int_lod
+sba_shack_b_a_slod
+sba_shack_b_a+hi
+sba_shack_b_a+hidr

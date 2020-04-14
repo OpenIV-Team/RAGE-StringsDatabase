@@ -1,3 +1,12 @@
 _cache
 _manifest
 arm_saloon_int
+arm_saloon_int_bar_details
+arm_saloon_int_bar_details+hidr
+arm_saloon_int_decal01
+arm_saloon_int_decal01+hidr
+arm_saloon_int_ref_a
+arm_saloon_int_ref_a+hidr
+arm_saloon_int_shd_prxy
+arm_saloon_int_shell
+arm_saloon_int_shell+hidr

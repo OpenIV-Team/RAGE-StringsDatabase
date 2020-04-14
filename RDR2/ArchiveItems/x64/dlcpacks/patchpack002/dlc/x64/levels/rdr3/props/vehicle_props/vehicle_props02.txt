@@ -1,2 +1,14 @@
 _manifest
+p_veh_pg_vl_traic3_nlt
+p_veh_pg_vl_traic3_nlt+hifr
+p_veh_pg_vl_train1
+p_veh_pg_vl_train1_nlt
+p_veh_pg_vl_train1_nlt+hifr
+p_veh_pg_vl_train1+hifr
+p_veh_pg_vl_trainc2_nt
+p_veh_pg_vl_trainc2_nt+hifr
+p_veh_pg_vl_traincar02x
+p_veh_pg_vl_traincar02x+hi
+p_veh_pg_vl_traincar02x+hifr
+p_veh_traincar02x_noloot2
 vehicle_props02

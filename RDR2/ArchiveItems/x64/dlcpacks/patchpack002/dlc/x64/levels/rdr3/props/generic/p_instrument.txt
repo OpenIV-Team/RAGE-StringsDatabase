@@ -1,2 +1,4 @@
 _manifest
 p_instrument
+p_mandolin01x
+p_mandolin01x+hidr

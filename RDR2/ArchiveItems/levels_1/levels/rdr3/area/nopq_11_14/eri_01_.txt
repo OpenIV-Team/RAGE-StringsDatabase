@@ -1,2 +1,14 @@
 _manifest
 eri_01_
+eri_p_rockwall_01
+eri_p_rockwall_02
+eri_p_rockwall_03
+eri_p_rockwall_04
+eri_p_rockwall_05
+eri_p_rockwall_06
+eri_p_rockwall_07
+eri_quarry01
+eri_quarry01_decals
+eri_quarry01_decals+hidr
+eri_quarry01+hidr
+eri_stonewall006

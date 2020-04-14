@@ -1,3 +1,7 @@
 _cache
 _manifest
 new_art_res
+new_art_res_detail
+new_art_res_detail2
+new_art_res_shad_proxy
+new_art_res_shell

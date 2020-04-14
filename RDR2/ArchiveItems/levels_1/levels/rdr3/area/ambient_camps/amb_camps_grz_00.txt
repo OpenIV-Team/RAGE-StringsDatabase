@@ -1,3 +1,13 @@
 _cache
 _manifest
 amb_camps_grz_00
+amb_grz_cabin_snow01
+amb_grz_cabin_snow01+hidr
+amb_grz_story_hunter_detail01
+amb_grz_story_hunter_detail01+hidr
+amb_grz_story_hunter_details
+amb_grz_story_hunter_details+hidr
+amb_grz_story_treasure_02
+amb_grz_story_treasure_02+hidr
+amb_grz_story_treasure_dtl01
+amb_grz_story_treasure_dtl01+hidr

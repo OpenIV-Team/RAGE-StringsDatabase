@@ -149,6 +149,8 @@ levels/rdr3/interiors/ven_shack01_int
 levels/rdr3/interiors/vet_house_int
 levels/rdr3/interiors/wal_trainstation_int
 levels/rdr3/interiors/wat_cabin_int
+levels/rdr3/minimap/int2736186754
+levels/rdr3/minimap/val_saloon_int_main
 levels/rdr3/props/areas/p_new_01
 levels/rdr3/props/areas/p_sha_01
 levels/rdr3/props/assetviewer/pbr_materials

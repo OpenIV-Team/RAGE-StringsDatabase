@@ -1,2 +1,4 @@
 _manifest
 int_saloon
+s_sdn_menuclipboard01
+s_sdn_menuclipboard01+hidr

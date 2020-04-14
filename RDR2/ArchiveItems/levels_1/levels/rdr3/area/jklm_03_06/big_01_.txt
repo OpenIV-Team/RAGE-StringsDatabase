@@ -1,3 +1,17 @@
 _cache
 _manifest
 big_01_
+big_ext
+big_ext_d
+big_ext_d+hidr
+big_ext+hidr
+big_glue_tree_002
+big_glue_tree_002+hidr
+big_roof_slod
+big_roofb
+big_roofb+hidr
+big_sckldr
+big_sckldr_slod
+big_sckldr02
+big_sckldr02_slod
+big_supports

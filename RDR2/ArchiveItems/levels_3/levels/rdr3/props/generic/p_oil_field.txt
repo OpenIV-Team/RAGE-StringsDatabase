@@ -1,2 +1,11 @@
 _manifest
 p_oil_field
+p_oilcan01x
+p_oilcan02x
+p_oildrum01x
+p_oildrum01x+hidr
+p_oildrum02x
+p_oildrum03x
+p_oildrum03x+hi
+p_pipes01x
+p_pipes01x+hidr

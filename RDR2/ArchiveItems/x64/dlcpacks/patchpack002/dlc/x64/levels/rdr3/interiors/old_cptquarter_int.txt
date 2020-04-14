@@ -1,3 +1,14 @@
 _cache
 _manifest
+old_cpt_int_23
+old_cpt_int_25
+old_cpt_int_25+hidr
+old_cpt_int_det02
+old_cpt_int_det02+hidr
+old_cpt_int_floor
+old_cpt_int_shell
+old_cpt_int_shell+hidr
 old_cptquarter_int
+old_cptqutarter_int_ref
+old_cptqutarter_int_ref+hidr
+old_cptqutarter_shadowproxy

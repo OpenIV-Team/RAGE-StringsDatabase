@@ -1,1 +1,8 @@
 _manifest
+p_awningbills01a
+p_awningbills01b
+p_awningbills01x
+s_tent_maropen01b
+s_tent_maropen01b+hifr
+s_tentmarstonclothfly01b
+s_tentmarstonclothfly01b+hifr

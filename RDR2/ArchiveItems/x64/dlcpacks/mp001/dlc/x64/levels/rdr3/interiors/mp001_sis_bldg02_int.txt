@@ -1,3 +1,13 @@
 _cache
 _manifest
+mp001_sis_bldg02_floor
+mp001_sis_bldg02_floor+hidr
 mp001_sis_bldg02_int
+mp001_sis_bldg02_int_celldecals
+mp001_sis_bldg02_int_celldecals+hidr
+mp001_sis_bldg02_int_jailcell
+mp001_sis_bldg02_int_jailcell+hidr
+mp001_sis_bldg02_int_jaildetail
+mp001_sis_bldg02_int_shellroom
+mp001_sis_jail_temp_refl_only
+mp001_sis_jail_temp_shadow_only

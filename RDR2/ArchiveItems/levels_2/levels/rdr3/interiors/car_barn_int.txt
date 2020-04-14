@@ -1,3 +1,16 @@
 _cache
 _manifest
 car_barn_int
+car_barn_int_dc
+car_barn_int_dc+hidr
+car_barn_int_details
+car_barn_int_details+hidr
+car_barn_int_floor
+car_barn_int_floor+hidr
+car_barn_int_ref
+car_barn_int_ref+hidr
+car_barn_int_shadowproxy
+car_barn_int_shell
+car_barn_int_shell+hidr
+car_barn_int_wallhooks
+car_barn_lightbox

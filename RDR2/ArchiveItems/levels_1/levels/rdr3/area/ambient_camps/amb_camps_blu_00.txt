@@ -1,3 +1,5 @@
 _cache
 _manifest
+amb_blue_2
+amb_blue_2+hidr
 amb_camps_blu_00

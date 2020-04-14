@@ -1,1 +1,15 @@
 _manifest
+p_tree_apple_01
+p_tree_apple_01+hidr
+p_tree_hickory_01
+p_tree_hickory_01+hidr
+p_tree_hickory_02
+p_tree_hickory_02+hidr
+p_tree_orange_01
+p_tree_orange_01+hifr
+p_tree_pine_newburnt_02
+p_tree_pine_newburnt_02+hidr
+p_tree_pine_newburnt_03
+p_tree_pine_newburnt_03+hidr
+p_tree_pine_newburnt_04
+p_tree_pine_newburnt_04+hidr

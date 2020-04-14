@@ -1,1 +1,10 @@
 _manifest
+cal_carriage_audio_proxy
+cal_carriage_house_decal
+cal_carriage_house_decal+hidr
+cal_carriage_house_ext
+cal_carriage_house_ext+hidr
+cal_carriage_house_int_lod
+cal_stable_01
+cal_stable_01+hidr
+cal04pr_combo_slod

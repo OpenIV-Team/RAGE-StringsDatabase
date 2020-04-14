@@ -1,1 +1,13 @@
 _manifest
+src_rc_chimney_stack
+src_rc_chimney_stack+hidr
+src_rc_decaling
+src_rc_decaling+hidr
+src_rc_exterior
+src_rc_exterior+hidr
+src_rc_outhouse
+src_rc_outhouse+hidr
+src_rc_roof
+src_rc_roof+hidr
+src_shack_rc_int_lod
+src_shackrc_combo_dslod

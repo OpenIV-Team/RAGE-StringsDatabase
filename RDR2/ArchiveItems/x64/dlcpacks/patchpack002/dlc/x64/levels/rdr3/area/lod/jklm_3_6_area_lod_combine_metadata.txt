@@ -10,6 +10,7 @@ mic_hid
 min_01_
 pro_01_
 reg_bgv_00
+reg_bgv_skinnermass01
 shack_b_a
 shack_fe2
 shack_hb

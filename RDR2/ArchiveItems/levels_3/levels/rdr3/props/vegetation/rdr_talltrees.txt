@@ -1,2 +1,13 @@
 _manifest
+p_tree_log_redwood_01
+p_tree_log_redwood_01+hidr
+p_tree_redwood_05
+p_tree_redwood_05_lg
+p_tree_redwood_05_lg+hidr
+p_tree_redwood_05_md
+p_tree_redwood_05_mf
+p_tree_redwood_05_mf+hidr
+p_tree_redwood_05_sm
+p_tree_redwood_05_sm+hidr
+p_tree_redwood_05+hidr
 rdr_talltrees

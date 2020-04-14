@@ -1,3 +1,11 @@
 _cache
 _manifest
+lak_houseruined_in_shadowproxy
 lak_houseruined_int
+lak_houseruined_int_ref
+lak_houseruined_int_ref+hidr
+lak_hsruind_int_boards
+lak_hsruind_int_boards+hidr
+lak_hsruind_int_floor
+lak_hsruind_int_floor+hidr
+lak_hsruind_int_shell

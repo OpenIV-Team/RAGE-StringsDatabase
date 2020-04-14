@@ -1,2 +1,9 @@
 _manifest
+p_chimneyind00x
+p_chimneyind00x+hidr
 p_rooftop
+p_vent00x
+p_vent00x+hidr
+p_ventroof00x
+p_ventroof00x+hidr
+p_ventroof01x

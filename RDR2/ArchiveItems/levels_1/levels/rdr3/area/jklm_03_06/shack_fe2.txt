@@ -1,2 +1,10 @@
 _cache
 _manifest
+sfe2_dis_cheatsnow
+sfe2_dis_defacedgrave_01
+sfe2_dis_defacedgrave_01+hidr
+sfe2_dis_defacedgrave_02
+sfe2_dis_defacedgrave_02+hidr
+sfe2_dis_defacedgrave_slod
+sfe2_dis_defgrave_02_deb
+sfe2_dis_defgrave_02_deb+hidr

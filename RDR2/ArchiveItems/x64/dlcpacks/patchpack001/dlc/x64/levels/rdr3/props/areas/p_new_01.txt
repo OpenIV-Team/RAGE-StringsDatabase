@@ -1,1 +1,3 @@
 _manifest
+p_benchnbx03x
+p_benchnbx03x+hifr

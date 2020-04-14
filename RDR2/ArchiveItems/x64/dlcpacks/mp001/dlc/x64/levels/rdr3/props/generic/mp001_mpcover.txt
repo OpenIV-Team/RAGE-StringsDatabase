@@ -1,2 +1,4 @@
 _manifest
 mp001_mpcover
+mp001_p_mp_cover_s_spc
+mp001_p_mp_cover_s_spc+hifr

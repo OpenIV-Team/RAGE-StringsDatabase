@@ -1,2 +1,4 @@
 _manifest
+mp005_p_fortmercerbarricade01x
+mp005_p_fortmercerbarricade01x+hifr
 mp005_p_mpcover_fm

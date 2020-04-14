@@ -1,3 +1,10 @@
 _cache
 _manifest
+a_water_rnk_elys_02_slod3
+a_water_rnk_l_04_slod3
 a_water_rnk_lod
+a_water_rnk_m_05_slod3
+a_water_rnk_m_06_slod3
+a_water_rnk_u_a_01_slod3
+a_water_rnk_u_b_01_slod3
+a_water_rnk_u_b_02_slod3

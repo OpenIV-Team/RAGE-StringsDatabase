@@ -1,3 +1,4 @@
 _cache
 _manifest
 k_07_placement_vfx
+k_07p_vfx_testbox

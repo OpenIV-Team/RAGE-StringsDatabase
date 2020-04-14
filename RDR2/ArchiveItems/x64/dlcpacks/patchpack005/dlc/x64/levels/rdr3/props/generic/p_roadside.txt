@@ -1,2 +1,6 @@
 _manifest
+p_hitchingpost01x_dmg
+p_hitchingpost01x_dmg+hidr
+p_lamppost01x
 p_roadside
+prop_flagpole_1a

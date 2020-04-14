@@ -1,1 +1,13 @@
 _manifest
+sha_supplybox_brand005
+sha_supplybox_brand005+hidr
+sha_supplybox_brand04
+sha_supplybox_brand04+hidr
+sha_supplybox009
+sha_supplybox014
+sha_supplybox03
+sha_supplybox03+hidr
+sha_supplyboxhigh2
+sha_supplyboxhigh3
+sha_supplyboxlow
+sha_teatin004

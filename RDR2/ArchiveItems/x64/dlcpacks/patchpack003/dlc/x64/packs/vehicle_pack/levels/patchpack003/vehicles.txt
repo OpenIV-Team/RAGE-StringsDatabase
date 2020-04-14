@@ -1,11 +1,16 @@
 _manifest
 rowboatswamp
 rowboatswamp_hi
+rowboatswamp+hi
 rowboatswamp02
 rowboatswamp02_hi
+rowboatswamp02+hi
 wagoncircus01x
 wagoncircus01x_hi
+wagoncircus01x+hi
 wagoncircus02x
 wagoncircus02x_hi
+wagoncircus02x+hi
 wagonprison01x
 wagonprison01x_hi
+wagonprison01x+hi

@@ -1,1 +1,3 @@
 _manifest
+ftr_curtains010
+ftr_curtains010+hidr

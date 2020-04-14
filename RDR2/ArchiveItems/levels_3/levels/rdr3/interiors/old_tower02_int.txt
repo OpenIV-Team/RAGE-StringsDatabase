@@ -1,3 +1,9 @@
 _cache
 _manifest
 old_tower02_int
+old_tower02_int_dc
+old_tower02_int_dc+hidr
+old_tower02_int_ladder
+old_tower02_int_shell
+old_tower02_int_shell+hidr
+old_tower02_lightbox

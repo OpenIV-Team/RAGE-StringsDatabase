@@ -1,3 +1,17 @@
 _cache
 _manifest
 shack_bv_int
+shack_bv_int_bits
+shack_bv_int_ceiling
+shack_bv_int_dc
+shack_bv_int_dc+hidr
+shack_bv_int_floor
+shack_bv_int_floor+hidr
+shack_bv_int_frames
+shack_bv_int_frames+hidr
+shack_bv_int_ref_proxy
+shack_bv_int_ref_proxy+hidr
+shack_bv_int_shadowproxy
+shack_bv_int_walls
+shack_bv_lightblocker
+shack_bv_lightbox

@@ -1,2 +1,5 @@
 _manifest
 des_str_jail_exp
+des_str_jail_exp_01
+des_str_jail_exp_01+hidr
+des_str_jail_exp_02

@@ -1,2 +1,12 @@
 _manifest
+p_targetarchery01x
+p_targetarchery01x_2
+p_targetarchery01x_3
+p_targetarchery01x+hi
+p_targetarchery02x
+p_targetarchery02x_2
+p_targetarchery02x_3
+p_targetarchery03x
+p_targetarchery03x_2
+p_targetarchery03x_3
 s_minigame

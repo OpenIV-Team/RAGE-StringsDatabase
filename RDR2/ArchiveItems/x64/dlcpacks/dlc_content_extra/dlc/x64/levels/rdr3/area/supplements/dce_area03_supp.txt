@@ -1,3 +1,7 @@
 _cache
 _manifest
 dce_area03_supp
+sppack_a3sup_bolgertree
+sppack_a3sup_bolgertree+hidr
+sppack_a3sup_shrkth_crate
+sppack_a3sup_shrkth_crate+hidr

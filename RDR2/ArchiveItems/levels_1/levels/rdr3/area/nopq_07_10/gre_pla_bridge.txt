@@ -1,1 +1,12 @@
 _manifest
+gpb_pla_trestle01
+gpb_pla_trestle01_dec
+gpb_pla_trestle01_det
+gpb_pla_trestle02
+gpb_pla_trestle02_dec
+gpb_pla_trestle02_det
+gpb_pla_trestle03
+gpb_pla_trestle03_dec
+gpb_pla_trestle03_det
+gpb_pla_trestle04
+gpb_pla_trestle04_dec

@@ -1,2 +1,4 @@
 _manifest
 des_mob1_fence
+des_mob1_fence_01
+des_mob1_fence_01+hidr

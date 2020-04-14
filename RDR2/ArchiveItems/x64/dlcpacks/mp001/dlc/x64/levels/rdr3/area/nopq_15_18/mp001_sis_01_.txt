@@ -1,3 +1,11 @@
 _cache
 _manifest
+mp001_mp_sis_01_blocker
+mp001_mp_sis_01_bsmntdoor
+mp001_mp_sis_01_bsmntdoor+hidr
+mp001_mp_sis_basement_int_lod
+mp001_mp_sis_tower1_int_lod001
+mp001_mp_sis_tower1_int_lod002
+mp001_mp_sis_tower2_int_lod
+mp001_mp_sis_tower3_int_lod
 mp001_sis_01_

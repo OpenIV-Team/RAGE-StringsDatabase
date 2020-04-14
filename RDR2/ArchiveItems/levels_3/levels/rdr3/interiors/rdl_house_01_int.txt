@@ -1,3 +1,15 @@
 _cache
 _manifest
+ceilinghook01
 rdl_house_01_int
+rdl_house_01_int_ref_proxy
+rdl_house_01_int_ref_proxy+hidr
+rdl_house_01_int_shd_proxy
+rdl_house_01_lightbox
+rdl_house01_int_ceiling
+rdl_house01_int_floor
+rdl_house01_int_floor+hidr
+rdl_house01_int_misc
+rdl_house01_int_misc+hidr
+rdl_house01_int_shell
+rdl_house01_int_shell+hidr

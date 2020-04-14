@@ -1,3 +1,10 @@
 _cache
 _manifest
 val_res_01_f_int
+val_res_f_bed
+val_res_f_bed+hidr
+val_res_f_decal1
+val_res_f_decal1+hidr
+val_res_f_shadowproxy
+val_res_f_shell
+val_res_f_shell+hidr

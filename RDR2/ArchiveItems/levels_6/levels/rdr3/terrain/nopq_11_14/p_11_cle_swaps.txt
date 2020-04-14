@@ -1,3 +1,11 @@
 _cache
 _manifest
 p_11_cle_swaps
+p_11_cle_swaps_ground_d
+p_11_cle_swaps_ground_d+hidr
+p_11_cle_swaps_post
+p_11_cle_swaps_post_lod
+p_11_cle_swaps_post_slod
+p_11_cle_swaps_pre
+p_11_cle_swaps_pre_lod
+p_11_cle_swaps_pre_slod

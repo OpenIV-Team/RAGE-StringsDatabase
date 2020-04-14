@@ -14,6 +14,7 @@ new_com_04
 new_com_05
 new_com_06
 new_com_07
+new_com_07_nohotel
 new_com_church
 new_com_rds
 new_emissive

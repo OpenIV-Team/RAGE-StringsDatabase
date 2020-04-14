@@ -1,3 +1,7 @@
 _cache
 _manifest
+amb_bay_lecloth3_008
+amb_bay_lecloth3_008+hidr
+amb_bay_oldmattress01
+amb_bay_oldmattress01+hidr
 amb_camps_bay_00

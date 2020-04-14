@@ -1,2 +1,9 @@
 _manifest
 p_sha_01
+p_sha_man_fireplace01
+p_sha_man_fireplace01+hidr
+sha_man_piano01
+sha_man_piano01+hi
+sha_man_piano01+hidr
+sha_man_piano02
+sha_man_piano02+hidr

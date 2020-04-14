@@ -1,3 +1,7 @@
 _cache
 _manifest
 gua_out_d_01
+gua_out_d_01_08
+gua_out_d_01_25
+gua_out_d_01_36
+gua_out_d_01_40

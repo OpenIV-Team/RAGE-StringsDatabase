@@ -1,2 +1,10 @@
 _manifest
 p_cloth
+p_clothbalconya01x
+p_clothbalconya01x_ren
+p_clothbalconyc01x
+p_clothbalconyd01x
+p_clothbalconye01x
+p_clothcurtain01x
+p_clothcurtain01x+hifr
+p_veh_flatcarcloth01x

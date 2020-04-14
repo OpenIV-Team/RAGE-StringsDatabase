@@ -25,7 +25,13 @@ shack_fe
 six_01_
 val_01_
 val_02_
+val_02_lockdown_bank
+val_02_lockdown_gun
+val_02_lockdown_hotel
+val_02_lockdown_law
 val_03_
+val_03_default_jail
+val_03_props_lockdown_jail
 val_04_
 val_05_
 val_06_

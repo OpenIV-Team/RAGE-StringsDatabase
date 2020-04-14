@@ -1,4 +1,5 @@
 _manifest
+a_c_cougar_01_carcass_001
 a_c_fishchainpickerel_01_sm_merge
 a_c_javelina_01_merge_2
 a_c_snakeferdelance_01_merge_2
@@ -104,6 +105,7 @@ hair_fr1_024
 hair_fr1_024_alt01
 hair_fr1_026
 hair_fr1_026_alt01
+hair_fr1_026_co
 hair_fr1_028
 hair_fr1_049
 hair_fr1_049_dishevelled
@@ -197,6 +199,7 @@ player_zero_ust_000_o_u_vest
 player_zero_vest_018_co_short_chap
 policecombo_fr1_001
 policecombo_mr1_001
+policecombo_mr1_001_nobelt
 scarf_fr1_023
 scarf_mr1_005
 sdobesemen_01_mf1_merge_2

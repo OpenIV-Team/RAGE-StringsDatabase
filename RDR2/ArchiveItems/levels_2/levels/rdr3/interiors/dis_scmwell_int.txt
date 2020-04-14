@@ -1,3 +1,9 @@
 _cache
 _manifest
 dis_scmwell_int
+dis_scmwell_int_decal
+dis_scmwell_int_decal+hidr
+dis_scmwell_int_shell
+dis_scmwell_int_shell_dec
+dis_scmwell_int_shell+hidr
+dis_scmwell_lightbox

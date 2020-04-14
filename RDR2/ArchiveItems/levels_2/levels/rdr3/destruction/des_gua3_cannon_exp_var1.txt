@@ -1,2 +1,8 @@
 _manifest
 des_gua3_cannon_exp_var1
+des_gua3_cannon_exp_var1_01
+des_gua3_cannon_exp_var1_02
+des_gua3_cannon_exp_var1_03
+des_gua3_cannon_exp_var1_04
+des_gua3_cannon_exp_var1_end
+des_gua3_cannon_exp_var1_start

@@ -1,2 +1,10 @@
 _cache
 _manifest
+mp001_mp_sis_tower01_int_shell
+mp001_mp_sis_tower01_int_shell+hidr
+mp001_mp_sis_tower1_ceiling
+mp001_mp_sis_tower1_ceiling+hidr
+mp001_mp_sis_tower1_decals2
+mp001_mp_sis_tower1_decals2+hidr
+mp001_mp_sis_tower1_railing
+mp001_mp_sis_tower1_stairs

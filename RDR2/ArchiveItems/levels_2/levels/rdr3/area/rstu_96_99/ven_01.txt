@@ -1,2 +1,11 @@
 _cache
 _manifest
+ven_01__ven01_combo_slod
+ven_01_barn
+ven_01_barn_vfx
+ven_01_barn+hidr
+ven_01_house
+ven_01_house_vfx
+ven_01_house+hidr
+ven_01_outhouse_vfx
+ven_01_vfx_helper

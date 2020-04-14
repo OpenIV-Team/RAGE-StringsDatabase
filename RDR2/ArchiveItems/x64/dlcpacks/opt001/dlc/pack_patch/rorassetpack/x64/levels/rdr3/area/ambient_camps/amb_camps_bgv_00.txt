@@ -1,1 +1,7 @@
 _cache
+amb_bgv_birds02x001
+amb_bgv_birds02x001+hidr
+amb_bgv_corpses006
+amb_bgv_corpses006+hidr
+amb_bgv_p_bodyparts04x
+amb_bgv_p_bodyparts04x+hidr

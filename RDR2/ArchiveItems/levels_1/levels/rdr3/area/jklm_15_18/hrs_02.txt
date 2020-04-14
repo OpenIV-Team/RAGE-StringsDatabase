@@ -1,1 +1,17 @@
 _manifest
+hrs_02_house
+hrs_02_house_decal
+hrs_02_house_decal+hidr
+hrs_02_house+hidr
+hrs_02_shop_blacksmith
+hrs_02_shop_blacksmith+hidr
+hrs_02_shop_dec
+hrs_02_shop_dec+hidr
+hrs_02_shop_shell
+hrs_02_shop_shell+hidr
+hrs_02_stable
+hrs_02_stable_dec
+hrs_02_stable_dec+hidr
+hrs_02_vfx_001
+hrs_02_vfx_002
+hrs_02_vfx_003

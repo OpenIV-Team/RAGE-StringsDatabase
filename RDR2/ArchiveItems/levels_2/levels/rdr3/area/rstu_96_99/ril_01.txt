@@ -1,2 +1,12 @@
 _cache
 _manifest
+ril_01__ril01_combo_slod
+ril_01_occ_ph
+ril_01_structure01
+ril_01_structure01_det
+ril_01_structure01_vfx
+ril_01_structure01+hidr
+ril_01_wall
+ril_01_wall_det
+ril_01_wall_det+hidr
+ril_01_wall+hidr

@@ -1,3 +1,16 @@
 _cache
 _manifest
 ldj_shack01_int
+ldj_shack01_int_ceiling
+ldj_shack01_int_cheats
+ldj_shack01_int_dec
+ldj_shack01_int_dec+hidr
+ldj_shack01_int_floor
+ldj_shack01_int_floor+hidr
+ldj_shack01_int_misc
+ldj_shack01_int_misc+hidr
+ldj_shack01_int_ref
+ldj_shack01_int_ref+hidr
+ldj_shack01_int_shad
+ldj_shack01_int_walls
+ldj_shack01_int_walls+hidr

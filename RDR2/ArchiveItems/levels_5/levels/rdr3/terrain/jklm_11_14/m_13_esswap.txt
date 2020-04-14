@@ -1,3 +1,10 @@
 _cache
 _manifest
+m_13_es_st1_esslod
+m_13_es_st1_essslod
+m_13_es_st1_esswap
+m_13_es_st1_esswap+hidr
+m_13_es_st2_esslod
+m_13_es_st2_essslod
+m_13_es_st2_esswap
 m_13_esswap

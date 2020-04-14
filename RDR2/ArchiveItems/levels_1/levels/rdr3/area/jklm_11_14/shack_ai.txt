@@ -1,2 +1,15 @@
 _cache
 _manifest
+sai_shack_ai
+sai_shack_ai_detail
+sai_shack_ai_front
+sai_shack_ai_front+hidr
+sai_shack_ai_int_lod
+sai_shack_ai+hi
+sai_shack_ai+hidr
+sai_shackai_d
+sai_shackai_d+hidr
+sai_shackai_front_dc
+sai_shackai_front_dc+hidr
+sai_shackai_veg
+sai_shackai_veg+hidr

@@ -1,1 +1,3 @@
 _manifest
+the_01_exoticshop
+the_01_exoticshop+hidr

@@ -1,1 +1,3 @@
 _manifest
+cle_clive_wagon
+cle_clive_wagon+hidr

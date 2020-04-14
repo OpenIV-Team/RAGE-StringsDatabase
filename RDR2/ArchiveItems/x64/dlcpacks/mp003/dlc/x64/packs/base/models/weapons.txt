@@ -1,1 +1,9 @@
 _manifest
+w_repeater_evans01
+w_repeater_evans01_grip1
+w_repeater_evans01_grip2
+w_repeater_evans01_grip3
+w_repeater_evans01_sight1
+w_repeater_evans01_sight2
+w_repeater_evans01_wrap1
+w_repeater_evans01+hi

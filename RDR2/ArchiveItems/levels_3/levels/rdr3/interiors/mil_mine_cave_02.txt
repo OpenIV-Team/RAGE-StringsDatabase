@@ -1,3 +1,11 @@
 _cache
 _manifest
+light_blockr_0
+light_blockr_001
+mil_mine_beamdual
+mil_mine_beamdual+hidr
 mil_mine_cave_02
+mil_mine_refle_proxy_b
+mil_mine_room2
+mil_mine_snowblocker
+mil_mine_tracks_int02

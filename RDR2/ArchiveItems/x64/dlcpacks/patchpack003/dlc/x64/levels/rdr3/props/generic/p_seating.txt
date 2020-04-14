@@ -1,2 +1,4 @@
 _manifest
+p_bistrochair01x
+p_bistrochair01x+hifr
 p_seating

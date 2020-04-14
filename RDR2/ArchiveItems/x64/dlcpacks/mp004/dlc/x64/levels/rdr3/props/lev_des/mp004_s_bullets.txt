@@ -1,2 +1,4 @@
 _manifest
+mp004_s_ammo_lemat_pistol
+mp004_s_ammo_lemat_shotgun
 mp004_s_bullets

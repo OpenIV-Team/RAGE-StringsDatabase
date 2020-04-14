@@ -1,1 +1,3 @@
 _manifest
+p_doc_botset05x
+p_doc_botset05x+hifr

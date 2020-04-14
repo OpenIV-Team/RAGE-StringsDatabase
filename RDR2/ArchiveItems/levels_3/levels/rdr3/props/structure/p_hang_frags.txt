@@ -1,2 +1,8 @@
 _manifest
 p_hang_frags
+p_hng_ent_01
+p_hng_stb_01
+p_hng_stb_02
+p_hng_stb_03
+p_hng_toi
+p_hng_toi+hifr

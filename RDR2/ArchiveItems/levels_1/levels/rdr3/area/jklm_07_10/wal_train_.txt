@@ -1,1 +1,13 @@
 _manifest
+wal_01_shippingstand
+wal_01_shippingstand+hidr
+wal_cotton_bales00_slod
+wal_stn_ext
+wal_stn_ext_d
+wal_stn_ext_d+hidr
+wal_stn_ext_d2
+wal_stn_ext_glue
+wal_stn_ext_platform
+wal_stn_ext+hidr
+wal_stn_outlook
+wal_stn_outlook+hidr

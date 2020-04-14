@@ -1,2 +1,10 @@
 _manifest
 p_ofw_frags
+p_ofw_post_01
+p_ofw_post_01+hifr
+p_ofw_pst_02
+p_ofw_pst_02+hifr
+p_ofw_rail_01
+p_ofw_rail_01+hifr
+p_ofw_win_01
+p_ofw_win_01+hifr

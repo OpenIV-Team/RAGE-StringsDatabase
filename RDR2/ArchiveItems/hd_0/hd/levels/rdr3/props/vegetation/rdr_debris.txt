@@ -1,1 +1,17 @@
 _manifest
+p_tree_fallen_01
+p_tree_log_06a_up
+p_tree_log_06a_up+hidr
+p_tree_log_07_upb
+p_tree_log_07_upb+hidr
+p_tree_log_07a_up
+p_tree_log_07a_up+hidr
+p_tree_log_07a_upb
+p_tree_log_07a_upb+hidr
+p_tree_log_08_upb
+p_tree_log_08_upb+hidr
+p_tree_log_10_upb
+p_tree_log_12_dead
+p_tree_log_12_dead+hidr
+rdr_debris_bevdam_cor_aa
+rdr_debris_bevdam_cor_ab

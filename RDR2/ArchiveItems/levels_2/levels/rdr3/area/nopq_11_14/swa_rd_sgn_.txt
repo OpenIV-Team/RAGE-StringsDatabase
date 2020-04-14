@@ -1,1 +1,7 @@
 _manifest
+swa_rd_02_dcl
+swa_rd_03_dcl
+swa_rd_04_dcl
+swa_rd_07
+swa_rd_07_lod
+swa_rd_07+hidr

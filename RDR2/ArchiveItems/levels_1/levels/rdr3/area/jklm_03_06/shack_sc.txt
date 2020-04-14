@@ -1,2 +1,7 @@
 _cache
 _manifest
+ssc_cabin_01
+ssc_cabin_01_dec
+ssc_cabin_01+hidr
+ssc_cabin_02
+ssc_cabin_02+hidr

@@ -1,2 +1,17 @@
 _cache
 _manifest
+ldj_01__ldj01_combo_slod
+ldj_01__tum_03_wall_01
+ldj_01__tum_03_wall_01_l
+ldj_01__tum_03_wall_02
+ldj_01__tum_03_wall_02_l
+ldj_01__tum_03_wall_03
+ldj_01__tum_03_wall_03_l
+ldj_01_main_ext
+ldj_01_main_ext_vfx
+ldj_01_main_ext+hidr
+ldj_01_main_roads
+ldj_01_main_roads+hidr
+ldj_01_new_d
+ldj_01_new_d+hidr
+ldj_01_outhouse_vfx

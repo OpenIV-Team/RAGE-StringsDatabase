@@ -2,6 +2,13 @@ _cache
 _manifest
 aur_01_
 bee_01_
+bee_01_chimney_stage01
+bee_01_chimney_stage02
+bee_01_house_minigame_fl
+bee_building_roomwalls_01
+bee_building_roomwalls_02
+bee_building_roomwalls_03
+bee_woodpile_01
 big_val_bridge
 big_val_rd_sgn_
 des_str_jail
@@ -11,6 +18,8 @@ man_01_
 mp_moo_05
 nopq_3_6_area_lod
 nopq_3_6_rails_a
+sds_well_cover
+sds_well_cover_lod
 shack_ds
 shack_mh
 shack_rc
@@ -21,3 +30,5 @@ str_03_
 str_04_
 tan_01_
 tax_01_
+tax_shutters_closed
+tax_shutters_opened

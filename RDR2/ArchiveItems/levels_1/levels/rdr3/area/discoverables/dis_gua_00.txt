@@ -1,3 +1,10 @@
 _cache
 _manifest
+dis_grm_birdpoo01
+dis_grm_birdpoo02
+dis_grm_birdpoo03
+dis_grm_birdpoo04
+dis_grm_birdpoo05
+dis_grm_corpse
+dis_grm_corpse+hidr
 dis_gua_00

@@ -1,1 +1,4 @@
 _manifest
+cas_e_01_occ_test_box
+cas_proxy_ipl08_2_slod
+cas_proxy_ipl08_slod

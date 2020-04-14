@@ -1,3 +1,11 @@
 _cache
 _manifest
+cablemesh6239_tstd001
 hea_tunnel_01
+hea_tunnel_01_rails
+hea_tunnel_01_rails+hidr
+hea_tunnel_01_shadowmesh
+hea_tunnel_01_shell
+hea_tunnel_01_shell+hidr
+hea_tunnel_terrain
+hea_tunnel_terrain+hidr

@@ -1,2 +1,14 @@
 _manifest
 des_gua3_cannon_exp_ig
+des_gua3_cannon_exp_ig_01
+des_gua3_cannon_exp_ig_02
+des_gua3_cannon_exp_ig_03
+des_gua3_cannon_exp_ig_04
+des_gua3_cannon_exp_ig_05
+des_gua3_cannon_exp_ig_06
+des_gua3_cannon_exp_ig_07
+des_gua3_cannon_exp_ig_08
+des_gua3_cannon_exp_ig_09
+des_gua3_cannon_exp_ig_10
+des_gua3_cannon_exp_ig_end
+des_gua3_cannon_exp_ig_start

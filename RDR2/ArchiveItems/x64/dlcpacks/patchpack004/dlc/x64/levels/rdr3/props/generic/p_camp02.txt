@@ -1,2 +1,9 @@
 _manifest
+p_ambtentdebris01x
+p_ambtentdebris01x+hi
+p_ambtentdebris01x+hidr
+p_ambtentdebris02x
+p_ambtentdebris02x+hidr
+p_ambtentdebris03x
+p_ambtentdebris03x+hidr
 p_camp02

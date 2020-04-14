@@ -1,2 +1,14 @@
 _manifest
 int_jail
+p_jailgroup01x
+p_jailgroup02x
+p_jailgroup03x
+p_lampcombine01x
+p_lampcombine01x+hifr
+p_maskcombined01x
+p_mattresscombined01x
+p_paperstackcom01x
+p_paperstackcom01x+hifr
+p_sealsetcombined01x
+p_sealsetcombined01x+hifr
+p_spittooncombined01x

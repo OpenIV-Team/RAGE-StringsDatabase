@@ -1,2 +1,11 @@
 _manifest
+mp001_armor_ncoalcar01x
+mp001_armor_nsteamer01x
+mp001_armor_privflatcar01x
+mp001_p_genlrg01x
+mp001_p_genlrg01x+hifr
+mp001_p_genmed03x
+mp001_p_genmed03x+hifr
+mp001_p_wagon01x
+mp001_p_wagon01x+hifr
 mp001_vehicle_props

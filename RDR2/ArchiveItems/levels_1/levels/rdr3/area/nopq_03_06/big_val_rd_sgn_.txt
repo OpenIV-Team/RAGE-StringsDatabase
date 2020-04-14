@@ -1,1 +1,8 @@
 _manifest
+bee_val_sign_3
+bee_val_sign_3_lod
+bee_val_sign_3+hidr
+bee_val_sign_rock1a
+bee_val_sign_rock1a+hidr
+bee_val_sign_rock1b
+bee_val_sign_rock1c

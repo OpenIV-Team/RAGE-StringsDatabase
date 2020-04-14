@@ -1,2 +1,4 @@
 _manifest
 mp001_hunting
+mp001_p_mp_trap05x_lid
+mp001_p_mp_trap05x_nolid

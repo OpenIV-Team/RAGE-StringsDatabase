@@ -1,2 +1,10 @@
 _cache
 _manifest
+sil_01__sil01_combo_slod
+sil_01_outhouse_vfx
+sil_01_stead_detail
+sil_01_steadmain
+sil_01_steadmain_dec
+sil_01_steadmain_dec+hidr
+sil_01_steadmain_vfx
+sil_01_steadmain+hidr

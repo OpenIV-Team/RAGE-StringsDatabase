@@ -1,1 +1,9 @@
 _manifest
+ssk2_dummylightbox
+ssk2_shack_sk2_int_lod
+ssk2_sk2_decals
+ssk2_sk2_decals+hidr
+ssk2_sk2_details
+ssk2_sk2_details+hidr
+ssk2_sk2_ext
+ssk2_sk2_ext+hidr

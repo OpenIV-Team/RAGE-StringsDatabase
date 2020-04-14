@@ -1,2 +1,15 @@
 _cache
 _manifest
+vet_01_dock
+vet_01_dock_d
+vet_01_dock+hidr
+vet_addon
+vet_addon+hidr
+vet_ext_overlays
+vet_ext_overlays+hidr
+vet_house_ext
+vet_house_ext+hidr
+vet_house_int_lod
+vet_roof_ext
+vet_roof_ext+hidr
+vet01_combo_slod

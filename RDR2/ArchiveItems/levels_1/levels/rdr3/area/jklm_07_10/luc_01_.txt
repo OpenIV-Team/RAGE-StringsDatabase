@@ -1,1 +1,12 @@
 _manifest
+luc_01_drclosed
+luc_01_drclosed_lod
+luc_01_serial_dropen
+luc_01_serial_dropen_lod
+luc_01_stopgap
+luc_decals
+luc_decals+hidr
+luc_ruin
+luc_ruin+hidr
+luc_serialhouse
+luc_serialhouse+hidr

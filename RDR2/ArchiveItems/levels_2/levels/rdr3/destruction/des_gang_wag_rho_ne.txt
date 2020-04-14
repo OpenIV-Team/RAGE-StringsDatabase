@@ -1,2 +1,5 @@
 _manifest
 des_gang_wag_rho_ne
+des_gang_wagon_rho_ne_e
+des_gang_wagon_rho_ne_s
+des_gang_wagon_rhodes_ne_01

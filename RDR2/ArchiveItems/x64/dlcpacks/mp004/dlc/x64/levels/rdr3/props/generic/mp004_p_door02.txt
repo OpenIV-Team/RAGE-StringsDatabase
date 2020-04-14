@@ -1,2 +1,4 @@
 _manifest
+mp004_p_door_blackhotel01x_l
+mp004_p_door_blackhotel01x_r
 mp004_p_door02

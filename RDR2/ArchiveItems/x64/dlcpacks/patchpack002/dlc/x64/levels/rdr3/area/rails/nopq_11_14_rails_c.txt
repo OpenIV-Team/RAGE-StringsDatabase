@@ -1,1 +1,3 @@
 _manifest
+n_1114_r_c_sle32
+n_1114_r_c_sle32+hidr

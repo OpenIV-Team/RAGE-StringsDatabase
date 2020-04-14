@@ -1,2 +1,14 @@
 _manifest
+s_cateyetrinket01x_1
+s_cateyetrinket01x_1+hidr
+s_crowbeaktrinket01x_1
+s_crowbeaktrinket01x_1+hidr
+s_hawktalontrinket01x_1
+s_hawktalontrinket01x_1+hidr
+s_sharkteeth_01x_1
+s_sharkteeth_01x_1+hidr
+s_turtleshelltrinket01x_1
+s_turtleshelltrinket01x_1+hidr
+s_wallplaque02x
+s_wallplaque02x+hidr
 sppack_p_trinkets

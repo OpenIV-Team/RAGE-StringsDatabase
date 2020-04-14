@@ -1,2 +1,7 @@
 _manifest
+des_bar_win_end
+des_bar_win_start
+des_bar_win_start+hifr
 des_bar_window
+des_bar_window_01
+des_bar_window_02

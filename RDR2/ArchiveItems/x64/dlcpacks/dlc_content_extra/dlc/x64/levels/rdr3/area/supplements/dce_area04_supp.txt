@@ -1,3 +1,9 @@
 _cache
 _manifest
 dce_area04_supp
+sppack_a4sup_aquaduct
+sppack_a4sup_aquaduct+hidr
+sppack_a4sup_elementaltrail
+sppack_a4sup_elementaltrail+hidr
+sppack_a4sup_ropeoverhang
+sppack_a4sup_ropeoverhang+hidr

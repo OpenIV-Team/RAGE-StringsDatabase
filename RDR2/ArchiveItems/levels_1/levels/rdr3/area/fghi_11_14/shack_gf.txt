@@ -1,2 +1,12 @@
 _cache
 _manifest
+sgf_rockshack03
+sgf_rockshack03_blood
+sgf_rockshack03_blood+hidr
+sgf_rockshack03_ivy
+sgf_rockshack03_ivy+hidr
+sgf_rockshack03+hidr
+sgf_rockshack98
+sgf_rockshack99
+sgf_rockshackstones
+sgf_rockshackstones+hidr

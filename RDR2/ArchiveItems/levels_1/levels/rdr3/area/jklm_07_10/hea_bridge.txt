@@ -1,1 +1,15 @@
 _manifest
+hbr_at_trestle_
+hbr_at_trestle_+hidr
+hbr_at_trestle_dec
+hbr_at_trestle_dec+hidr
+hbr_at_trestle_det
+hbr_l_10_temp
+hbr_l_10_temp_dtl
+hbr_l_10_temp_dtl+hidr
+hbr_l_10_temp_slod
+hbr_l_10_temp+hidr
+hbr_log_bridge
+hbr_log_bridge_vak
+hbr_log_bridge_vak+hidr
+hbr_log_bridge+hidr

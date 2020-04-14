@@ -1,2 +1,4 @@
 _cache
 m_09_ftr
+m_09_ftr_decal001
+m_09_ftr_hd

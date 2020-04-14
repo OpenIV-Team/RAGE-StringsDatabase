@@ -1,2 +1,4 @@
 _cache
 _manifest
+fod_ftdiegohd
+fod_ftdiegohd+hidr

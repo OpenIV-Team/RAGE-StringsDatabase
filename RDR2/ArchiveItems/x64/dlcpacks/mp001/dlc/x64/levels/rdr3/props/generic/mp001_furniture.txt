@@ -1,2 +1,3 @@
 _manifest
 mp001_furniture
+mp001_p_mp_endtable02x

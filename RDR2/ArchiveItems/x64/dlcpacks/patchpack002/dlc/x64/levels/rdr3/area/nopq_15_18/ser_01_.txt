@@ -1,1 +1,3 @@
 _manifest
+ser_lightdistance_dummy
+ser_lightdummy

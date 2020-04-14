@@ -1,3 +1,13 @@
 _cache
 _manifest
 arm_bank_int
+arm_bank_int_bars
+arm_bank_int_counter
+arm_bank_int_counter+hidr
+arm_bank_int_decal01
+arm_bank_int_decal01+hidr
+arm_bank_int_details
+arm_bank_int_details+hidr
+arm_bank_int_floor
+arm_bank_int_shell
+arm_bank_int_shell+hidr

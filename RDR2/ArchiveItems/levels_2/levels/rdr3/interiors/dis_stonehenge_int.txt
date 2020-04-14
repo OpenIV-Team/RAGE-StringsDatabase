@@ -1,3 +1,17 @@
 _cache
 _manifest
+dis_stnhng_int_dc00
+dis_stnhng_int_dc00+hidr
+dis_stnhng_int_floor
+dis_stnhng_int_floor_glue
+dis_stnhng_int_floor_glue+hidr
+dis_stnhng_int_floor+hidr
+dis_stnhng_int_rock00
+dis_stnhng_int_rock02
+dis_stnhng_int_shell
+dis_stnhng_int_shell+hidr
+dis_stnhng_int_shellrock
 dis_stonehenge_int
+dis_stonehenge_lightbox
+lightblocker_01
+lightblocker_02

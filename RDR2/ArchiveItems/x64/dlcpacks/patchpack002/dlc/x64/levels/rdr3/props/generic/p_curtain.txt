@@ -1,2 +1,12 @@
 _manifest
 p_curtain
+p_prohseint_curt_01b
+p_prohseint_curt_01b+hifr
+p_rhogen_curtain01b
+p_rhogen_curtain01b+hifr
+p_valsal_curtain01a
+p_valsal_curtain01c
+p_valsal_curtain02a
+p_valsal_curtain02b
+p_valsal_curtain02c
+p_valsal_curtain03a

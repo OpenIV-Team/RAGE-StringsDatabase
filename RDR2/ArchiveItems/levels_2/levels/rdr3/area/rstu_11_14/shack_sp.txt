@@ -1,2 +1,10 @@
 _cache
 _manifest
+ssp_shack_sp_ext
+ssp_shack_sp_ext_d
+ssp_shack_sp_ext_d+hidr
+ssp_shack_sp_ext_winbrd
+ssp_shack_sp_ext_winbrd+hidr
+ssp_shack_sp_ext+hidr
+ssp_shack_sp_veg
+ssp_shack_sp_veg+hidr

@@ -1,0 +1,13 @@
+arm_01_vfx_blacksmith01x
+arm_01_vfx_chkcoop
+arm_01_vfx_coralentry01
+arm_01_vfx_dentis01x
+arm_01_vfx_freightstation01x
+arm_01_vfx_generalbuilding09x
+arm_01_vfx_generalstore01x
+arm_01_vfx_saloon01x
+arm_01_vfx_schoolhouse01x
+arm_01_vfx_sheriffsoffice01x
+arm_01_vfx_stable01x
+arm_01_vfx_stationmain
+arm_01_vfx_undertaker01x

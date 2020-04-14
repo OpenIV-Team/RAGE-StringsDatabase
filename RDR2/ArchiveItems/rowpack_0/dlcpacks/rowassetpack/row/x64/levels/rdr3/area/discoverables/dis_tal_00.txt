@@ -1,0 +1,15 @@
+dis_tal_corpses03x007
+dis_tal_corpses03x007+hidr
+dis_tal_decal002
+dis_tal_decal002+hidr
+dis_tal_dismembered01x001
+dis_tal_dismembered01x001+hidr
+dis_tal_dismembered01x002
+dis_tal_dismembered01x002+hidr
+dis_tal_dismembered01x003
+dis_tal_dismembered01x004
+dis_tal_dismembered01x005
+dis_tal_dismembered01x005+hidr
+dis_tal_ropes
+dis_tal_tree_fallen_005
+dis_tal_tree_fallen_006

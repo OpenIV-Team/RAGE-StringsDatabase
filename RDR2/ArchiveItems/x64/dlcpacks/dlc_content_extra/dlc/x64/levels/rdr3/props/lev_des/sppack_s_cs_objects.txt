@@ -1,2 +1,8 @@
 _manifest
+p_cs_blackwater_hunt01x
+p_cs_blackwater_hunt01x+hidr
+p_cs_camp_return01x
+p_cs_camp_return01x+hidr
+p_cs_laramie_sleeping01x
+p_cs_laramie_sleeping01x+hidr
 sppack_s_cs_objects

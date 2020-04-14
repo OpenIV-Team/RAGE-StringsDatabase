@@ -1,2 +1,8 @@
 _manifest
+p_cratecanvase01x
+p_cratecanvase01x+hidr
+p_cratecanvase02x
+p_cratecanvase02x+hidr
+p_cratestack03x
+p_cratestack03x+hidr
 p_storage

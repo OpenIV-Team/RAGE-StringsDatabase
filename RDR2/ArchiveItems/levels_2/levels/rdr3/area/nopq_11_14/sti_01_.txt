@@ -1,1 +1,3 @@
 _manifest
+sti_dock
+sti_dock+hidr

@@ -1,2 +1,4 @@
 _manifest
 p_hunting
+p_targetframe01x
+p_targetframe01x+hifr

@@ -1,2 +1,9 @@
 _manifest
+mp006_p_dblcello01x
+mp006_p_dblcello01x+hifr
+mp006_p_dbstand01x
+mp006_p_dbstand01x+hidr
+mp006_p_guitar02x
 mp006_p_instrument
+mp006_p_mnshn_washboard01x
+mp006_p_mnshn_washboard01x+hifr

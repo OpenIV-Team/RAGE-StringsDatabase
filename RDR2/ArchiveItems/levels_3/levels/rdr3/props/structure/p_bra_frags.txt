@@ -1,2 +1,13 @@
 _manifest
+bra_01_belbase
+cat_rail_01
+cat_rail_01+hifr
+p_bra_bals_01
+p_bra_bals_01+hifr
 p_bra_frags
+p_bra_gaze_gate001
+p_bra_gaze_gate002
+p_bra_pil_01
+p_bra_pil_01+hifr
+p_bra_shut_01
+p_bra_shut_02

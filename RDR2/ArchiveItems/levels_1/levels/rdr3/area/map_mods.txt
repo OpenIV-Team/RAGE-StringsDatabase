@@ -1,3 +1,8 @@
 _cache
 _manifest
 map_mods
+map_mods_adl_nodirectlight
+map_mods_hso_nodirectlight
+map_mods_mud3b
+map_mods_sca_mea_drought
+map_mods_std1_fog

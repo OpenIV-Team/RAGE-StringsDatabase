@@ -1,3 +1,5 @@
 _cache
 _manifest
 area04_supp
+supp_dis_tal_pit_dsc_cover
+supp_dis_tal_pit_dsc_cover+hidr

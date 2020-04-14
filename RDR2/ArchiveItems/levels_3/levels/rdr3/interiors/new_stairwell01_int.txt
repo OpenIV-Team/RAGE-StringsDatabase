@@ -1,3 +1,14 @@
 _cache
 _manifest
+new_stairway01_railing
+new_stairway01_railing+hidr
+new_stairwell_lightbox
 new_stairwell01_int
+new_stairwell01_int_decal
+new_stairwell01_int_decal+hidr
+new_stairwell01_int_floor
+new_stairwell01_int_floor+hidr
+new_stairwell01_int_walls
+new_stairwell01_int_walls+hidr
+new_stairwell01_windows
+new_stairwell01_windows+hidr

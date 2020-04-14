@@ -1,1 +1,15 @@
 _manifest
+wld_chest30_detail
+wld_chest30_detail+hidr
+wld_chest53_detail
+wld_chest53_detail+hidr
+wld_chest54_cloth
+wld_chest54_cloth+hifr
+wld_chest54_rug
+wld_chest54_rug+hidr
+wld_tempbox3
+wld_treasurehunt_decal
+wld_treasurehunt_decal+hidr
+wld_treasurehunt_detail
+wld_treasurehunt_detail+hidr
+wld_treasurehunt_detail02

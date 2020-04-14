@@ -1,3 +1,14 @@
 _cache
 _manifest
+van_02_lghthse_frames
+van_02_lghthse_ladder
+van_02_lghthse_ladder+hidr
+van_02_spiralstairs
+van_lighthouse_dummy
+van_lighthouse_dummy001
 van_lighthouse_int
+van_lighthouse_int_ref_a
+van_lighthouse_int_ref_b
+van_lighthouse_int_shdw_prxy
+van_lighthouse_int_shell
+van_lighthouse_int_shell+hidr

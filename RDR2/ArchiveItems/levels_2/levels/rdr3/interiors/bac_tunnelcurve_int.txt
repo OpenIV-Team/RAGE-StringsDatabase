@@ -1,3 +1,15 @@
 _cache
 _manifest
+bac_tnlcurve_int_scree
+bac_tun_curve_dec
+bac_tun_curve_dec+hidr
 bac_tunnelcurve_int
+bac_tunnelcurve_int_arch
+bac_tunnelcurve_int_caps_hd
+bac_tunnelcurve_int_ground
+bac_tunnelcurve_int_ground+hidr
+bac_tunnelcurve_int_rails
+bac_tunnelcurve_int_shell
+bac_tunnelcurve_int_wall
+bac_tunnelcurve_int_wall+hidr
+bac_tunnelcurve_shadow_proxy

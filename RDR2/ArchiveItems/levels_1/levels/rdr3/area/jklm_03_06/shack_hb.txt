@@ -1,2 +1,9 @@
 _cache
 _manifest
+shb_shack_ext
+shb_shack_ext_d
+shb_shack_ext_d+hidr
+shb_shack_ext+hidr
+shb_shack_frame_mp
+shb_shack_frame_sp
+shb_shack_int_lod

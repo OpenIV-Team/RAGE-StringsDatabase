@@ -1,3 +1,6 @@
 _cache
 _manifest
 area04_supplements
+sup_fom_01_wallfix_01
+sup_fom_01_wallfix_01+hidr
+sup_stairstepper_dummy

@@ -1,3 +1,4 @@
 _cache
 _manifest
+w_06_p_box042
 w_06_placement

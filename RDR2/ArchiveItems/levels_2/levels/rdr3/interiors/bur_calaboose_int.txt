@@ -1,3 +1,17 @@
 _cache
 _manifest
+bur_bric_int_cell
+bur_bric_int_shell
+bur_bric_int_shell_dec
+bur_bric_int_shell_dec+hidr
+bur_bric_int_shell+hidr
+bur_bric_int_shellground
+bur_bric_int_shellground+hidr
+bur_cal_debris
+bur_cal_debris+hidr
 bur_calaboose_int
+bur_calaboose_lightbox
+bur_calabose_int_ref
+bur_calabose_int_ref+hidr
+bur_calabose_int_shadow
+bur_temp_refl_only

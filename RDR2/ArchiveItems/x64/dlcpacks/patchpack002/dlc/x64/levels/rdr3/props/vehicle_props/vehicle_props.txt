@@ -1,2 +1,6 @@
 _manifest
+p_veh_genmed01x
+p_veh_genmed01x+hifr
+p_veh_trainholdup01x
+p_veh_trainholdup01x+hifr
 vehicle_props

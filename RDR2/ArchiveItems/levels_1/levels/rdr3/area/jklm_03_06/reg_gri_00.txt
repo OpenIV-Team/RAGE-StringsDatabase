@@ -1,3 +1,7 @@
 _cache
 _manifest
 reg_gri_00
+reg_gri_dirt_001
+reg_gri_dirt_001+hidr
+reg_gri_snowafterwinter2
+reg_gri_snowafterwinter2+hidr

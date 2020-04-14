@@ -311,6 +311,7 @@ cs_dutch_ms1_coatshawl_000
 cs_dutch_ms1_fishbag_000
 cs_dutch_ms1_hat_001
 cs_dutch_ms1_hat_003
+cs_dutch_ms1_holster_belt_002
 cs_dutch_ms1_holster_cup_002
 cs_dutch_ms1_mask_003
 cs_dutch_ms1_mask_005

@@ -1,3 +1,15 @@
 _cache
 _manifest
+new_pie_tunnel_dest
+new_pie_tunnel_dest+hidr
 new_pie_tunnel_int
+new_pie_tunnel_int_shd_prxy
+new_pie_tunnel_lightblkr
+new_pie_tunnel_lightbox
+new_pie_tunnel_lightbox02
+new_pie_tunnel_shaft
+new_pie_tunnel_shaft+hidr
+new_pie_tunnel_trainrm
+new_pie_tunnel_trainrm+hidr
+room_pie_tnnl_shaft_ref
+room_pie_tnnl_trainrm_ref

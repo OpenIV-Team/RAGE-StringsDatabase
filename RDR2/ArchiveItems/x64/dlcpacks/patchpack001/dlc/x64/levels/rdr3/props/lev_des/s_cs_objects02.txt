@@ -1,1 +1,5 @@
 _manifest
+p_cs_oldpaper1889
+p_cs_oldpaper1889+hidr
+s_cs_detonator02x
+s_cs_detonator02x+hifr

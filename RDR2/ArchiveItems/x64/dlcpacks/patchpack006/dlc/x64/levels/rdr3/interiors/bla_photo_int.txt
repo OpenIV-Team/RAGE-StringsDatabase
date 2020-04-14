@@ -1,2 +1,3 @@
 _manifest
 bla_photo_int
+bla_photo_lightbox01

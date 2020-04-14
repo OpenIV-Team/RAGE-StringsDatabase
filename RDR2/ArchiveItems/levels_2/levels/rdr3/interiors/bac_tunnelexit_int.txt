@@ -1,3 +1,16 @@
 _cache
 _manifest
+bac_exit_int_lodlike_hd
+bac_exit_int_lodlike_hd+hidr
+bac_tun_org_01
+bac_tunnelent_arch
+bac_tunnelent_ground
+bac_tunnelent_ground+hidr
+bac_tunnelent_shell
+bac_tunnelent_shell+hidr
+bac_tunnelent_shell001_glue_
+bac_tunnelexit_girder
 bac_tunnelexit_int
+bac_tunnelexit_scree
+bac_tunnelexit_shadowproxy
+bac_tunnelexitq_rails

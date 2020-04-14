@@ -1,3 +1,15 @@
 _cache
 _manifest
+mp006_a2_mshine02_dc
+mp006_a2_mshine02_dc+hidr
+mp006_a2_mshine02_ext
+mp006_a2_mshine02_ext+hidr
+mp006_a2_mshine02_fakeint
+mp006_a2_mshine02_fakeint+hidr
+mp006_a2_mshine02_lod
+mp006_a2_mshine02_slod
 mp006_area02_supp
+mp006_wafpolcyfm_val00
+mp006_wafpolcyfm_val00+hidr
+mp006_wafpolcyfm_val01
+mp006_wafpolcyfm_val01+hidr

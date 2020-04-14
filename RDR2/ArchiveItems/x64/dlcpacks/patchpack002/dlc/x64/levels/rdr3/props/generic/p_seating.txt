@@ -1,2 +1,4 @@
 _manifest
 p_seating
+p_stoolcomfy02x
+p_stoolcomfy02x+hifr

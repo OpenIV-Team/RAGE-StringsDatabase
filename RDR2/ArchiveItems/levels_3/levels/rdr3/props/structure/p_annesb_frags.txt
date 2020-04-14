@@ -1,2 +1,16 @@
 _manifest
+ann_05_rail01x
+ann_05_rail02x
+ann_05_rail03x
+ann_05_rail04x
+p_annesb_fnc_01
+p_annesb_fnc_02
+p_annesb_fnc_03
+p_annesb_fnc_04
 p_annesb_frags
+p_annesb_stair_01
+p_annesb_stair_02
+p_vanh_int_odor1
+p_vanh_int_odor1+hi
+p_vanh_wal_01
+p_vanh_wal_01+hi

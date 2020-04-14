@@ -1,1 +1,2 @@
 _manifest
+val_07_magiclanternint_lod

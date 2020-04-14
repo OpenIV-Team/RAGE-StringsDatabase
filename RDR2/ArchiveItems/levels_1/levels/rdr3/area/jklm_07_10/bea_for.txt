@@ -1,2 +1,9 @@
 _manifest
 bea_for
+bea_for_chimney
+bea_for_chimney_dec
+bea_for_chimney_dec+hidr
+bea_for_chimney+hidr
+bea_for_vega
+bea_for_vega+hidr
+beafopr_combo_slod

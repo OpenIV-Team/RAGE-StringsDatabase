@@ -1,3 +1,13 @@
 _cache
 _manifest
 dce_area01_supp
+sppack_a1sup_clny_add_on
+sppack_a1sup_clny_add_on+hidr
+sppack_a1sup_hcring02_01
+sppack_a1sup_hcring02_01+hidr
+sppack_a1sup_obelisk
+sppack_a1sup_obelisk_dec
+sppack_a1sup_obelisk_dec+hidr
+sppack_a1sup_obelisk+hidr
+sppack_a1sup_sundial_addon
+sppack_a1sup_sundial_addon+hidr

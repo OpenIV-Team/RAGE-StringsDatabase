@@ -1,1 +1,3 @@
 _manifest
+roa_rd_sign_1_dc
+roa_rd_sign_7a

@@ -1,3 +1,11 @@
 _cache
 _manifest
 lar_01_
+lar_01_lightbox
+lar_01_vfx_001
+lar_home_ext
+lar_home_ext_d
+lar_home_ext_d+hidr
+lar_home_ext_veg
+lar_home_ext_veg+hidr
+lar_home_ext+hidr

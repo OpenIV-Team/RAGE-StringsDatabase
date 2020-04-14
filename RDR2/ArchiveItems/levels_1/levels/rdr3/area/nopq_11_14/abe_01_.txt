@@ -1,1 +1,16 @@
 _manifest
+abe_01_ext_01_vfx
+abe_01_house_smoke
+abe_01_pigspens
+abe_01_pigspens_decal
+abe_01_pigspens_decal+hidr
+abe_01_pigspens_vfx
+abe_01_pigspens+hidr
+abe_audio_prop_do_not_delete
+abe_ext_01
+abe_ext_01+hi
+abe_ext_01+hidr
+abe_ext_01d
+abe_ext_01d+hidr
+abe_ext_02d
+abe_ext_02d+hidr

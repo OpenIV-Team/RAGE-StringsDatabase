@@ -1,3 +1,8 @@
 _cache
 _manifest
 o_14_placement_vfx
+o_14v_vfx_fog_lakay
+o_14v_vfx_helper1
+o_14v_vfx_helper2
+o_14v_vfx_helper3
+o_14v_vfx_helper4

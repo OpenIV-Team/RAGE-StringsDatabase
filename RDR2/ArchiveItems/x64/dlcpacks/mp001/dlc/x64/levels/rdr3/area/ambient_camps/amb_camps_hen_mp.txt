@@ -1,2 +1,15 @@
 _cache
 _manifest
+mp001_mp_hen_dirt_00
+mp001_mp_hen_dirt_00+hidr
+mp001_mp_hen_hid_tents02
+mp001_mp_hen_hid_tents03
+mp001_mp_hen_hid_tents04
+mp001_mp_hen_hid_tents05
+mp001_mp_hen_hid_tents05+hidr
+mp001_mp_hen_hid_tents06
+mp001_mp_hen_hid_tents06+hidr
+mp001_mp_hen_hid_tents07
+mp001_mp_hen_hid_tents07+hidr
+mp001_mp_hen_hid_tents08
+mp001_mp_hen_hid_tents08+hidr

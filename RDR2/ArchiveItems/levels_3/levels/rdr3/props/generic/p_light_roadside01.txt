@@ -1,2 +1,10 @@
 _manifest
+p_lampstreet01x
+p_lampstreet01x+hifr
 p_light_roadside01
+p_lightpost01x
+p_lightpost01x+hifr
+p_nbdstreetlamp01x
+p_nbdstreetlamp01x+hifr
+p_torch_02x
+p_torch01x

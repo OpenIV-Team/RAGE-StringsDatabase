@@ -1,3 +1,13 @@
 _cache
 _manifest
 out_c_03
+out_c_03_hd_09
+out_c_03_hd_09_lod
+out_c_03_hd_10
+out_c_03_hd_10_lod
+out_c_03_hd_13
+out_c_03_hd_13_lod
+out_c_03_hd_13_slod
+out_c_03_hd_14
+out_c_03_hd_14_lod
+out_c_03_hd_14_slod

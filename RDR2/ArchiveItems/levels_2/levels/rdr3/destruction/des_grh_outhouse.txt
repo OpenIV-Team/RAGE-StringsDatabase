@@ -1,2 +1,6 @@
 _manifest
 des_grh_outhouse
+des_grh_outhouse_01
+des_grh_outhouse_02
+des_grh_outhouse_03
+des_grh_outhouse_04

@@ -1,2 +1,10 @@
 _manifest
 des_trap_gua01x
+des_trap_gua01x_01
+des_trap_gua01x_01+hidr
+des_trap_gua01x_02
+des_trap_gua01x_02+hidr
+des_trap_gua01x_03
+des_trap_gua01x_03+hidr
+des_trap_gua01x_04
+des_trap_gua01x_04+hidr

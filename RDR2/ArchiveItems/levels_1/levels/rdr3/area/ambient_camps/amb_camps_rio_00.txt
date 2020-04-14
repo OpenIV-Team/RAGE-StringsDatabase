@@ -1,3 +1,13 @@
 _cache
 _manifest
 amb_camps_rio_00
+amb_rio_00
+amb_rio_amb_crio_10_rope
+amb_rio_geo0001
+amb_rio_geo0001+hidr
+amb_rio_geo0002
+amb_rio_geo0002+hidr
+amb_rio_geo0003
+amb_rio_geo0003+hidr
+amb_rio_geo0004
+amb_rio_geo0004+hidr

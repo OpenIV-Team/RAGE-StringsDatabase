@@ -1,2 +1,9 @@
 _cache
 _manifest
+mp001_mp_hrt_odr2_detail5_hrt015
+mp001_mp_hrt_p_gangtablemake01x
+mp001_mp_hrt_p_gangtablemake01x+hidr
+mp001_mp_hrt_p_sawbucktable01x
+mp001_mp_hrt_p_sawbucktable01x+hidr
+mp001_mp_hrt_rug001x
+mp001_mp_hrt_rug001x+hidr

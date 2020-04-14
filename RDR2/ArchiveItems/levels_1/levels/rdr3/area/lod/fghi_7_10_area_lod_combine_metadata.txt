@@ -2,7 +2,9 @@ _cache
 _manifest
 adl_01_
 col_01_
+col_01_chimney_smoke_effect
 col_02_
+col_02_chimney_smoke_effect
 fghi_7_10_area_lod
 grishkg3_01_
 wap_01_

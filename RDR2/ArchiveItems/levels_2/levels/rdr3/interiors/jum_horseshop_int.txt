@@ -1,3 +1,17 @@
 _cache
 _manifest
 jum_horseshop_int
+jum_horseshop_lightbox
+jum_horseshp_int_decals
+jum_horseshp_int_decals+hidr
+jum_horseshp_int_details
+jum_horseshp_int_details001
+jum_horseshp_int_details002
+jum_horseshp_int_details003
+jum_horseshp_int_ground
+jum_horseshp_int_ground+hidr
+jum_horseshp_int_ref_proxy
+jum_horseshp_int_ref_proxy+hidr
+jum_horseshp_int_shadow_proxy
+jum_horseshp_int_shell
+jum_horseshp_int_shell+hidr

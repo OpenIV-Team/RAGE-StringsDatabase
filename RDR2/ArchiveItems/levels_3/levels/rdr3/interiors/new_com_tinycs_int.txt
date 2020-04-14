@@ -1,3 +1,7 @@
 _cache
 _manifest
 new_com_tinycs_int
+new_com_tinycs_int_shell
+new_com_tinycs_int_shell+hidr
+new_com_tinycs_mirror
+new_com_tinycs_mirror+hidr

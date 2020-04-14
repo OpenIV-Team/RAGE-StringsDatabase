@@ -1,3 +1,17 @@
 _cache
 _manifest
+old_sto_decals
+old_sto_decals+hidr
+old_sto_details
+old_sto_details+hidr
+old_sto_floor
+old_sto_furn
+old_sto_furn+hidr
+old_sto_shell
+old_sto_shell+hidr
+old_sto_weapons
 old_storage_int
+old_storage_int_ref_proxy
+old_storage_int_ref_proxy+hidr
+old_storage_int_shadowproxy
+old_storage_lightbox

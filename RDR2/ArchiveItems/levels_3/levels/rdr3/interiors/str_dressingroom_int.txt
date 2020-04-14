@@ -1,3 +1,10 @@
 _cache
 _manifest
 str_dressingroom_int
+str_dressroom_lightbox001
+str_dressroom_mirror
+str_dressroom_mirror+hidr
+str_dressroom_shell
+str_dressroom_shell+hidr
+str_dressroomdressdtl_hdref
+str_dressroomdressdtl_hdref+hidr

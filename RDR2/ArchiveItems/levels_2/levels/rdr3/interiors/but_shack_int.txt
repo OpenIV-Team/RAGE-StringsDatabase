@@ -1,3 +1,15 @@
 _cache
 _manifest
 but_shack_int
+but_shack_int_decals
+but_shack_int_decals+hidr
+but_shack_int_details
+but_shack_int_details+hidr
+but_shack_int_floor
+but_shack_int_floor+hidr
+but_shack_int_shadowproxy
+but_shack_int_shell
+but_shack_int_shell_ref
+but_shack_int_shell_ref+hidr
+but_shack_int_shell+hidr
+but_shack_lightbox

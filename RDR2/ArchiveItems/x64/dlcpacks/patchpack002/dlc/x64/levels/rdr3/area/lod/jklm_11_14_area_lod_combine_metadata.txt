@@ -1,6 +1,7 @@
 _cache
 _manifest
 bac_01_
+bac_01_wire
 but_mine
 car_01_
 civ_01
@@ -8,6 +9,10 @@ cli_01_
 cro_01_
 des_trn4_train_crash
 dis_grz_00
+dis_grz_00_dead_horse
+dis_grz_00_frozencamp01
+dis_grz_00_frozencamp02
+dis_grz_00_frozencamp04
 eme_01_
 eme_trainstation
 jklm_11_14_area_lod

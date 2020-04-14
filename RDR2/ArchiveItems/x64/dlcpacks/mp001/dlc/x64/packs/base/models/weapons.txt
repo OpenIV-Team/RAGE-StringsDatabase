@@ -1,1 +1,3 @@
 _manifest
+w_revolver_doubleaction04
+w_revolver_doubleaction04+hi

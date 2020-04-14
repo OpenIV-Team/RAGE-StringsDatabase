@@ -1,2 +1,9 @@
 _manifest
+mp005_p_mp_filecabinet04x
+mp005_s_interact_detectorm01x
+mp005_s_interact_detectorm01x+hifr
 mp005_s_lev_des
+mp005_s_melee_bolas01
+mp005_s_melee_bolascoiled
+mp005_s_tentdoctor01x
+mp005_s_tentdoctor01x+hifr

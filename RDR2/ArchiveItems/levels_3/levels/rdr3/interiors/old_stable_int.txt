@@ -1,3 +1,15 @@
 _cache
 _manifest
 old_stable_int
+old_stable_int_blend
+old_stable_int_blend+hidr
+old_stable_int_dc
+old_stable_int_dc+hidr
+old_stable_int_detail
+old_stable_int_detail+hidr
+old_stable_int_floor
+old_stable_int_floor+hidr
+old_stable_int_frame
+old_stable_int_shell
+old_stable_int_shell+hidr
+old_stable_lightbox

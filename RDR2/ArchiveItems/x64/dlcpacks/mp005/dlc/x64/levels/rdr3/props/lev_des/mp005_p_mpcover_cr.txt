@@ -1,2 +1,17 @@
 _manifest
+mp005_p_mp_cover_h_cr
+mp005_p_mp_cover_hl_cr
+mp005_p_mp_cover_s_cr
+mp005_p_mp_cover_s_cr+hifr
+mp005_p_mp_cover_sh_cr
+mp005_p_mp_cover_sl_cr
+mp005_p_mp_cover_sm_cr
+mp005_p_mp_cover_ss_cr
+mp005_p_mp_cover_su_cr
+mp005_p_mp_covercomb_hm_cr
+mp005_p_mp_covercomb_l_cr
+mp005_p_mp_covercomb_lu_cr
+mp005_p_mp_covercomb_m_cr
+mp005_p_mp_covercomb_mu_cr
+mp005_p_mp_covercomb_s_cr
 mp005_p_mpcover_cr

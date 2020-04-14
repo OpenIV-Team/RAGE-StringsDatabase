@@ -1,3 +1,13 @@
 _cache
 _manifest
 eme_depot_int
+eme_depot_int_decals
+eme_depot_int_decals+hidr
+eme_depot_int_details
+eme_depot_int_details+hidr
+eme_depot_int_ref_proxy
+eme_depot_int_ref_proxy+hidr
+eme_depot_int_shadow_proxy
+eme_depot_int_shell
+eme_depot_int_shell+hidr
+eme_depot_lightbox001

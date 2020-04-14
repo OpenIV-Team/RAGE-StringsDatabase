@@ -1,2 +1,5 @@
 _manifest
 mp001_lev_des_mp
+mp001_p_cs_dynamite01x
+mp001_s_mp_finishline01x
+mp001_s_mp_finishline01x+hi

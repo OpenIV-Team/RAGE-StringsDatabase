@@ -1,3 +1,14 @@
 _cache
 _manifest
+new_shad_bmnt_detail
+new_shad_bmnt_detl02
+new_shad_bmnt_detl02+hidr
+new_shad_decal00
+new_shad_decal00+hidr
+new_shad_decal01
+new_shad_decal01+hidr
+new_shad_main_detail
+new_shad_main_detail+hidr
+new_shad_main_shell
+new_shad_main_shell+hidr
 new_shady_shop_int

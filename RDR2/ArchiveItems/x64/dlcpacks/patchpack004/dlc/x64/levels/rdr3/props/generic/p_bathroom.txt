@@ -1,2 +1,4 @@
 _manifest
 p_bathroom
+p_washbasin01x
+p_washbasin01x+hifr

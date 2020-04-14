@@ -1,3 +1,10 @@
 _cache
 _manifest
+a_water_dak_falls_01_slod3
+a_water_dak_falls_lake_slod3
+a_water_dak_l_05_slod3
+a_water_dak_l_34_slod3
 a_water_dak_lod
+a_water_dak_m_06_slod3
+a_water_dak_u_02_slod3
+a_water_dak_u_09_slod3

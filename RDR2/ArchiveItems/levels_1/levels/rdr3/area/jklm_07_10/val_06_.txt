@@ -1,1 +1,14 @@
 _manifest
+val_06__em001
+val_06__em001+hidr
+val_06_aucb_dec
+val_06_auchouseb_ext
+val_06_auchouseb_ext+hidr
+val_06_auction_int
+val_06_auction_int_dc
+val_06_auction_int_dc+hidr
+val_06_auction_int+hidr
+val_06_pigpen
+val_06_pigpen+hidr
+val_06_stairs_repair01
+val_06_stairs_repair01+hidr

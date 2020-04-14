@@ -1,2 +1,13 @@
 _manifest
+s_bit_cheesewedge1x
+s_bit_cheesewedge1x+hifr
+s_canyonflowerjar01x
+s_canyonflowerjar01x+hifr
+s_inv_highvlcty_revammo01x
+s_inv_highvlcty_revammo01x+hidr
+s_inv_repeater_revammo01x
+s_inv_repeater_revammo01x+hidr
+s_inv_used_revammo01x
+s_inv_used_revammo01x+hidr
+s_mortarpestle01x
 s_pickups

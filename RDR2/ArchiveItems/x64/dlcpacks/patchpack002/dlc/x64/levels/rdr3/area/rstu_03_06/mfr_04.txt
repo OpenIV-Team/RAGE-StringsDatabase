@@ -1,2 +1,4 @@
 _cache
 _manifest
+mfr_04_gate
+mfr_04_gate+hidr

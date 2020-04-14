@@ -1,1 +1,15 @@
 _manifest
+new_com_church_bldg_02
+new_com_church_bldg_d1
+new_com_church_bldg_d2
+new_com_church_bldg_d3
+new_com_church_bldg1
+new_com_church_bldg1+hidr
+new_com_church_ground
+new_com_church_ground+hidr
+new_com_church_walls1
+new_com_church_walls2
+new_com_church_walls3
+new_com_church_walls3+hidr
+new_com_church_yard
+new_com_church_yard+hidr

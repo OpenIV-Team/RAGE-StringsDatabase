@@ -1,3 +1,17 @@
 _cache
 _manifest
+bra_tre_blanket
+bra_tre_blanket+hidr
+bra_tre_cabin_decals
+bra_tre_cabin_decals+hidr
+bra_tre_floor
+bra_tre_floor+hidr
 bra_tre_house_int
+bra_tre_house_int_ref
+bra_tre_house_int_ref+hidr
+bra_tre_house_int_shadowproxy
+bra_tre_int_shell
+bra_tre_int_shell+hidr
+bra_tre_roof002
+bra_tre_wall02
+bra_trehouse_lightbox_001

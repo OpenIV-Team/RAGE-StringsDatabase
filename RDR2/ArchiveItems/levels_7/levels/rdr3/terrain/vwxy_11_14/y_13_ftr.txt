@@ -1,3 +1,8 @@
 _cache
 _manifest
 y_13_ftr
+y_13_ftr_arch
+y_13_ftr_arch_lod
+y_13_ftr_arch_slod
+y_13_ftr_arch+hidr
+y_13_ftr_decal

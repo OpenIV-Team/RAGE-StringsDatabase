@@ -1,2 +1,4 @@
 _manifest
 mp001_armory
+mp001_p_mp_cratetnt03x
+mp001_p_mp_cratetnt03x+hifr

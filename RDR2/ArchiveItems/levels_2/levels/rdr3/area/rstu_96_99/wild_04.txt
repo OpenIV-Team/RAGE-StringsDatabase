@@ -1,1 +1,10 @@
 _manifest
+wdl_catfishtail01decal
+wdl_cowribdecal
+wdl_cowspinedecal
+wdl_cowspinedecal+hidr
+wdl_dearantlersdecal
+wdl_pumalimb02decal
+wdl_pumalimb02decal+hidr
+wdl_spinosaurusdecal
+wdl_tempbox4

@@ -141,6 +141,7 @@ namespace RageStringsDatabase
 
             sw = Stopwatch.StartNew();
             var databaseLines = new List<string>();
+            databaseLines.Add(string.Empty);
             foreach (var hashData in database)
             {
                 var hashLines = hashData.Value;

@@ -1,6 +1,13 @@
 ambience.awc
 animals_footsteps.awc
 collision.awc
+Collisions.Cardboard.awc
+Collisions.Ceramic.awc
+Collisions.Glass.awc
+Collisions.Metal.awc
+Collisions.Misc.awc
+Collisions.Terrain.awc
+Collisions.Wood.awc
 doors.awc
 dummy.awc
 explosions.awc

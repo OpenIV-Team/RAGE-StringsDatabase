@@ -136,6 +136,7 @@ cs_tomdickens
 cs_uncle
 cs_vampire
 cs_warvet
+default
 meta_base_female
 meta_base_male
 p_cs_kettle01x

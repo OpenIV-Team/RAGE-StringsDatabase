@@ -1,4 +1,5 @@
 movies/FFX_lightleak01_720p_250k.bk2
+movies/FFX_lightleak01_EE_720p_250k.bk2
 movies/landingPage/bayouNwa01_crop.bk2
 movies/landingPage/bayouNwa02_crop.bk2
 movies/landingPage/bigValley01_crop.bk2

@@ -1,2 +1,5 @@
 armadillo
 horse
+rabbit
+SNAKE
+SPARROW

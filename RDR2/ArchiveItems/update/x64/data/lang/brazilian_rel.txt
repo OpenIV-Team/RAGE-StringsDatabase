@@ -1,3 +1,4 @@
+camera
 credit
 fin1aud
 fin2aud
@@ -8,4 +9,6 @@ mob2
 mob3
 mob4
 mob5
+RCDIN
+settings
 str1aud

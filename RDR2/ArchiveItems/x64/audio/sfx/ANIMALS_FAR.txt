@@ -1,3 +1,5 @@
+CANADA_GOOSE.awc
+CEDARWAXWING.awc
 chicken.awc
 chickenhawk.awc
 chimp.awc
@@ -14,8 +16,10 @@ oriole.awc
 owl.awc
 pig.awc
 pigeon.awc
+rabbit.awc
 raccoon.awc
 rat.awc
+RAVEN.awc
 retriever.awc
 rhesus.awc
 rooster.awc
@@ -23,3 +27,5 @@ rottweiler.awc
 seagull.awc
 shark.awc
 shepherd.awc
+SNAKE.awc
+SPARROW.awc

@@ -23,6 +23,7 @@ textures/footagepostfx_chapter08
 textures/footagepostfx_chapter09
 textures/footagepostfx_ondemand
 textures/fxdecal
+textures/fxmisc
 textures/fxweather
 textures/gobolight_point
 textures/gobolight_spot

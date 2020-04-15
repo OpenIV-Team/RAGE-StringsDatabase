@@ -339,6 +339,10 @@ levels/rdr3/navmeshes9
 levels/rdr3/perschars
 levels/rdr3/popgroups
 levels/rdr3/popzone
+levels/rdr3/popzone_core
+levels/rdr3/popzone_pedschedule
+levels/rdr3/popzone_spawner
+levels/rdr3/popzone_volume
 levels/rdr3/resident
 levels/rdr3/road_nodes
 levels/rdr3/slownesszones

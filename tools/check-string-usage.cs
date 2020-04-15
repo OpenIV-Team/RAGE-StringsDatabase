@@ -1,8 +1,10 @@
 ﻿using System;
+using System.ComponentModel;
 using System.IO;
 using System.Linq;
 using System.Text;
 using System.Diagnostics;
+using System.Globalization;
 using System.Collections.Generic;
 
 
@@ -88,24 +90,21 @@ namespace RageStringsDatabase
 
         static void CheckStrings(string inputFolder, HashType hash, List<string> strings)
         {
+            var converter = new UInt32Converter();
             var makeHash = HashManager.GetHashFunction(hash);
             var files = Directory.GetFiles(inputFolder, "*.hashes", SearchOption.AllDirectories);
 
-            var testData = new Dictionary<UInt32, string>();
-            foreach (var line in strings)
-            {
-                testData.Add(makeHash(line), line);
-            }
+            var testData = strings.Select(s => new KeyValuePair<UInt32, string>(makeHash(s), s)).ToList();
 
             foreach (var fileName in files)
             {
-                var hashList = File.ReadAllLines(fileName).Select(s => UInt32.Parse(s)).ToDictionary(k => k, v => v);
+                var hashList = File.ReadAllLines(fileName).Select(s => (UInt32)converter.ConvertFromString(s)).ToDictionary(k => k, v => v);
 
                 foreach (var test in testData)
                 {
                     if (hashList.ContainsKey(test.Key))
                     {
-                        Console.WriteLine(string.Format("\"{0}\" used in file {1}", test.Value, fileName));
+                        Console.WriteLine(string.Format("{0}\tUsed in\t{1}", test.Value, fileName));
                     }
                 }
             }

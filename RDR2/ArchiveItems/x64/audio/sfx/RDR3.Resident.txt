@@ -1,8 +1,8 @@
-alarms.awc
-foley.awc
-frontend.awc
-general.awc
-trains.awc
-vehicles.awc
-wagons.awc
-weapons.awc
+ALARMS.awc
+FOLEY.awc
+FRONTEND.awc
+GENERAL.awc
+TRAINS.awc
+VEHICLES.awc
+WAGONS.awc
+WEAPONS.awc

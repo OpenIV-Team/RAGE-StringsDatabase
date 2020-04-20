@@ -1,5 +1,5 @@
-horse_near_01.awc
-horse_near_02.awc
-horse_near_03.awc
-horse_near_04.awc
-horse_near_05.awc
+HORSE_NEAR_01.awc
+HORSE_NEAR_02.awc
+HORSE_NEAR_03.awc
+HORSE_NEAR_04.awc
+HORSE_NEAR_05.awc

@@ -1,1 +1,9 @@
+BALLOON.awc
+BOATSTEAM.awc
 dummy.awc
+Handcart.awc
+RCBOAT.awc
+Steam_Boat_Large.awc
+Streetcar_01.awc
+Streetcar_02.awc
+Train_Interior.awc

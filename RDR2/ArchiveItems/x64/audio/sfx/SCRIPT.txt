@@ -1,5 +1,4 @@
 Abigail_03.awc
-alpha.sps
 ANIMAL_ATTACK.awc
 Appleseed_01.awc
 APPROACH.awc

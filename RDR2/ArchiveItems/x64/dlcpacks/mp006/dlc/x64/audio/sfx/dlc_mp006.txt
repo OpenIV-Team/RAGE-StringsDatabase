@@ -39,7 +39,7 @@ ALLIGATOR.awc
 BEAR.awc
 BEAVER.awc
 BOAR.awc
-cook.awc
+COOK.awc
 COUGAR.awc
 COYOTE.awc
 FOX.awc

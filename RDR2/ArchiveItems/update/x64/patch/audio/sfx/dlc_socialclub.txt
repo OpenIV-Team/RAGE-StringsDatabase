@@ -1,1 +1,1 @@
-Social_Club.awc
+SOCIAL_CLUB.awc

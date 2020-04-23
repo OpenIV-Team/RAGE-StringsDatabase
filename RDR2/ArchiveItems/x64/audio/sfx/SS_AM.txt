@@ -538,6 +538,7 @@ CPS15.awc
 CRCA1.awc
 CRCA2.awc
 CRCA3.awc
+CRCA4.awc
 CRN1.awc
 CRRH1.awc
 CRRH2.awc

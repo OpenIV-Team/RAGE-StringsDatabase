@@ -34,6 +34,7 @@ _0912_KR.awc
 0135_TGH.awc
 0174_AMBUSH.awc
 0175_AMD.awc
+0175_BR.awc
 0175_GELRC.awc
 0175_OT.awc
 0175_RP.awc
@@ -58,6 +59,7 @@ _0912_KR.awc
 0178_PAR.awc
 0178_RP.awc
 0178_TGH.awc
+0179_BR.awc
 0179_CA.awc
 0179_CP.awc
 0179_EX.awc

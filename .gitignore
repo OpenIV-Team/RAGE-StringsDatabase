@@ -4,3 +4,4 @@ tools/vs/.vs/*
 *.exe
 RDR2/ArchiveItems.txt
 RDR2/AudioTracks.txt
+RDR2/TextKeys.txt

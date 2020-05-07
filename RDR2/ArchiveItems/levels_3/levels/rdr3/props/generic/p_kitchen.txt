@@ -175,6 +175,7 @@ p_pot05x
 p_potcrawfish01x
 p_potcrawfish01xb
 p_potsm01a
+p_potsm01x
 p_rho_srs
 p_rustyspoon01x
 p_saladplate02x
@@ -250,4 +251,3 @@ p_woodstove01x
 p_woodstove01x+hidr
 s_bucketoblood01x
 spoonfoodtest
-p_potsm01x

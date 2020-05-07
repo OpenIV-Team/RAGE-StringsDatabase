@@ -75,6 +75,7 @@ outg_c_01_01_lod
 outg_c_01_01_slod
 outg_c_01_02_lod
 outg_c_01_03_lod
+outg_c_01_03_slod
 outg_c_01_04_lod
 outg_c_01_05_lod
 outg_c_01_06_lod
@@ -106,4 +107,3 @@ outg_c_01_hd_13
 outg_c_01_hd_14
 outg_c_01_hd_15
 outg_c_01_hd_16
-outg_c_01_03_slod

@@ -78,10 +78,10 @@ u_96_03_rail_decal_02
 u_96_05_rail_decal_01
 u_96_05_rail_decal_02
 u_96_06_junc_decals
+u_96_06_junc_decals02
 u_96_06_rail_decal_01
 u_96_06_rail_decal_02
 u_96_06_rail_decal_03
 u_96_06_rail_decal_04
 u_96_wgn_crv_dcl_01
 u_96_wgn_crv_dcl_01+hidr
-u_96_06_junc_decals02

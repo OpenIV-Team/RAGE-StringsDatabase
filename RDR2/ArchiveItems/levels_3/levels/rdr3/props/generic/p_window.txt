@@ -222,6 +222,7 @@ p_win_nbd04_white01x+hifr
 p_win_njmpl_clean03x
 p_win_njmpm_clean01x
 p_win_njmpm_clean01x+hi
+p_win_njmpm_clean02x
 p_win_njmpm_frost01x
 p_win_rhochurch_01x
 p_win_rhochurch_01x+hifr
@@ -269,4 +270,3 @@ sha_shutter01
 sha_shutter01+hi
 valbank_justglass01x
 valbank_justglass01x+hi
-p_win_njmpm_clean02x

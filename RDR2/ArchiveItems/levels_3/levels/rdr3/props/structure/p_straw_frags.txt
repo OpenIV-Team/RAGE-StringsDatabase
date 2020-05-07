@@ -29,6 +29,7 @@ p_straw_ho_rail3
 p_straw_ho_s1
 p_straw_ho_s1+hi
 p_straw_ho_txd
+p_straw_may_r1
 p_straw_may_txd
 p_straw_may_txd+hi
 p_straw_ph_r1
@@ -80,4 +81,3 @@ str_01_doc_txd+hi
 str_02_bridge
 str_02_bridge+hi
 str_hotel_ext_txd
-p_straw_may_r1

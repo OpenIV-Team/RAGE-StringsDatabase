@@ -23,6 +23,7 @@ bea_cannibal_cage001
 bea_cannibal_cage002
 bea_cannibal_cage003
 bea_cannibal_cage003+hidr
+bea_cannibal_cage005
 bea_cannibal_cage087
 bea_cannibal_cage088
 bea_cannibal_cage090
@@ -91,4 +92,3 @@ bea01pr_combo28_slod
 bea01pr_combo29_slod
 bea01pr_combo30_slod
 bea01pr_combo31_slod2
-bea_cannibal_cage005

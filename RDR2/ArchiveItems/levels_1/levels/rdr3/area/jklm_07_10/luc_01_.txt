@@ -6,9 +6,9 @@ luc_01_serial_dropen
 luc_01_serial_dropen_lod
 luc_01_stopgap
 luc_01+hi
+luc_decals
 luc_decals+hidr
 luc_ruin
 luc_ruin+hidr
 luc_serialhouse
 luc_serialhouse+hidr
-luc_decals

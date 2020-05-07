@@ -5,6 +5,7 @@ ser_captains_curt01
 ser_captains_curt02
 ser_captains_curt03
 ser_captains_decor01
+ser_captains_decor01+hidr
 ser_captains_det01
 ser_captains_det01+hidr
 ser_captains_det02
@@ -30,4 +31,3 @@ ser_observation_decor01
 ser_observation_floor
 ser_observation_shell
 ser_observation_shell+hidr
-ser_captains_decor01+hidr

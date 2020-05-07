@@ -1118,6 +1118,7 @@ csen4
 csen5au
 csen6au
 csen7
+csen8
 csen9au
 cseshau
 csgr1au
@@ -1762,4 +1763,3 @@ wnt2aud
 wnt4
 wnt4aud
 xcf1aud
-csen8

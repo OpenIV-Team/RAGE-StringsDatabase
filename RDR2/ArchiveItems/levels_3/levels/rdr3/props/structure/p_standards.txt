@@ -7,6 +7,7 @@ i_gen_dresser01x
 i_gen_generator01x
 i_gen_wagonparked01
 p_aa_rails_h
+p_barn_h
 p_barn_h+hidr
 p_barndoorl01_h
 p_barndoorr01_h
@@ -155,4 +156,3 @@ std_walllights
 std_watermel
 std_wildfever
 windmill
-p_barn_h

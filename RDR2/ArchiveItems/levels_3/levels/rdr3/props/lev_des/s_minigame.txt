@@ -519,6 +519,7 @@ prop_chip_black_x2
 prop_chip_black_x3
 prop_chip_black_x4
 prop_chip_black_x5
+prop_chip_black_x6
 prop_chip_black_x7
 prop_chip_black_x8
 prop_chip_black_x9
@@ -582,4 +583,3 @@ s_drugpackage_02x
 s_minigame
 saint_denis_1x
 saint_denis_1x+hidr
-prop_chip_black_x6

@@ -1,0 +1,4 @@
+scenario@amb_work@world_human_gravedig@female_a@core@pl
+scenario@amb_work@world_human_gravedig@female_a@react_look@pl
+scenario@amb_work@world_human_gravedig@male_a@core@pl
+scenario@amb_work@world_human_gravedig@male_a@react_look@pl

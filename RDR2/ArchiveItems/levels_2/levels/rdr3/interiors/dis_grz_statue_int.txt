@@ -28,7 +28,10 @@ dis_grz_statue_int_shell
 dis_grz_statue_int_shell+hidr
 dis_grz_statue_int_statues1
 dis_grz_statue_int_statues2
+dis_grz_statue_int_txd
+dis_grz_statue_int_txd+hi
 dis_grz_statue_lightbox001
 dis_grz_statue_shadowmesh
+hi@dis_grz_statue_int
 j_11_06
 j_11_06+hidr

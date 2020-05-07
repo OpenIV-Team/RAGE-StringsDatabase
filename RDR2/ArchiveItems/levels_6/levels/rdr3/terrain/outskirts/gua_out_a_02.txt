@@ -1,6 +1,8 @@
 _cache
 _manifest
 gua_out_a_02
+gua_out_a_02_long_0
+gua_out_a_02_strm
 outg_a_02_01_lod
 outg_a_02_01_slod
 outg_a_02_02_lod

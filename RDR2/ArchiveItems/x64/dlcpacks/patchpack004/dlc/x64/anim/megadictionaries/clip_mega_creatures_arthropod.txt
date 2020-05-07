@@ -1,1 +1,2 @@
 _manifest
+mega_gen@creatures_arthropod@crab@normal@left

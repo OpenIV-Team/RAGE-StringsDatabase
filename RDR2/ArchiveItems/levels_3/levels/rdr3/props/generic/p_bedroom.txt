@@ -129,6 +129,7 @@ p_foldedblanket01x
 p_foldedblanket02x
 p_foldedrug01x
 p_foldedrug01x+hidr
+p_footlock01
 p_footlocker01x
 p_footlocker07x
 p_footlocker07x_loot
@@ -148,6 +149,8 @@ p_mirror_shave01x+hifr
 p_nightbedking01x
 p_nightbedking01x+hidr
 p_nightstand03x
+p_nightstand03xa
+p_nightstand03xa+hi
 p_nightstand04x
 p_nightstand04x+hidr
 p_nightstandwinter03x

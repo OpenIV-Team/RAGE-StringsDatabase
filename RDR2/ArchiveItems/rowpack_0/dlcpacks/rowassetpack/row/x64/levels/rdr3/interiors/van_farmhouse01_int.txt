@@ -1,3 +1,4 @@
+hi@van_farmhse01_int
 van_03_farmhse_int_winglass
 van_03_farmhse_int_winglass+hidr
 van_03_monster
@@ -6,6 +7,7 @@ van_farmhouse_int_ref_proxy
 van_farmhouse_int_ref_proxy+hidr
 van_farmhouse_shadowpoly
 van_farmhse_lights
+van_farmhse01_int
 van_farmhse01_int_decal01
 van_farmhse01_int_decal01+hidr
 van_farmhse01_int_decal02

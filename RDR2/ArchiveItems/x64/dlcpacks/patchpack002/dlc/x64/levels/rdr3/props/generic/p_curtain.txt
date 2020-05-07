@@ -10,3 +10,4 @@ p_valsal_curtain02a
 p_valsal_curtain02b
 p_valsal_curtain02c
 p_valsal_curtain03a
+p_valsal_curtains

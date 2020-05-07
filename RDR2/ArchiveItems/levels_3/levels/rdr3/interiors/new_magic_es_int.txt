@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@new_magic_es_int
 new_magic_es_curt
 new_magic_es_curtains
 new_magic_es_curtains+hidr
@@ -20,6 +21,7 @@ new_magic_es_int_ref_prox
 new_magic_es_int_ref_prox+hidr
 new_magic_es_int_shadowproxy
 new_magic_es_int_shell
+new_magic_es_int_shell_txd
 new_magic_es_int_shell+hidr
 new_magic_es_lob_bulb_holder
 new_magic_es_lowerrailing

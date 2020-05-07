@@ -1,5 +1,10 @@
 _cache
 _manifest
+hi@tum_02_0
+hi@tum_02_1
+hi@tum_02_2
+hi@tum_02_3
+hi@tum_02_4
 tum_02__tu03_ruins_ext02_rope
 tum_02__tum_genstore_int_lod
 tum_02__tum_jail_int_lod
@@ -7,6 +12,9 @@ tum_02__tum_wall_004
 tum_02__tum_wall_004+hidr
 tum_02__tum_wall_lod
 tum_02__tum02_combo_slod
+tum_02_0
+tum_02_1
+tum_02_2
 tum_02_assay_ext
 tum_02_assay_ext_dcl
 tum_02_assay_ext_dcl+hidr
@@ -36,3 +44,4 @@ tum_02_saloon_ladder_lod
 tum_02_saloon_ladder+hidr
 tum_02_shack
 tum_02_shack_dcl
+tum_02_txd_01

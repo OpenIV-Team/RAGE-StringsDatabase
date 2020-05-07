@@ -1,4 +1,8 @@
 _manifest
+cornwallaniporps
+cornwallaniporps+hi
+p_anncoal01
+p_anncoal01+hi
 p_anncoalbin01x
 p_annconveyor01x
 p_annconveyor01x+hifr
@@ -16,6 +20,8 @@ p_annsteameng01x
 p_annsteameng01x+hifr
 p_boat_oar_01_s
 p_boat_oar_01_s_sea
+p_cs_cedarlog
+p_cs_cedarlog+hi
 p_cs_cedarlog01x
 p_cs_cedarlog02x
 p_cs_cedarlog03x
@@ -36,6 +42,8 @@ p_steamoilpump01x
 p_steamoilpump01x_noanim
 p_tree_fallen_pineprop
 p_tree_fallen_pineprop+hifr
+s_ann_coalchute
+s_ann_coalchute+hi
 s_ann_coalchutes01x
 s_ann_coalchutes02x
 s_hat_scarecrow01x
@@ -45,11 +53,15 @@ s_hat_viking01x+hidr
 s_horsepoop01x
 s_horsepoop02x
 s_horsepoop03x
+s_humandecayposey
 s_humandecayposey_01
 s_humandecayposey_02
 s_humandecayposey_03
 s_humandecayposey_04
+s_humandecayposey+hi
 s_lev_des_skin
+s_male_skeleton
+s_male_skeleton+hi
 s_male_skeleton01
 s_male_skeleton02
 s_male_skeleton03
@@ -72,6 +84,8 @@ s_meatbit_rib_medium01x
 s_meatbit_rib_medium01x+hifr
 s_meatbit_rib_small01x
 s_meatbit_rib_small01x+hifr
+s_meatbits
+s_meatbits+hi
 s_pro_bunkbeds01x
 s_pro_bunkbeds01x+hidr
 s_ratcooked_01x

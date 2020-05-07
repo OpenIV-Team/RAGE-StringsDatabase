@@ -1,6 +1,8 @@
 _cache
 _manifest
 q_13_
+q_13__bkt_1
+q_13__bkt_2
 q_13__hd_0_0_0
 q_13__hd_0_0_1
 q_13__hd_0_0_-1
@@ -74,6 +76,7 @@ q_13__junction_03+hidr
 q_13__junction_04
 q_13__junction_05
 q_13__junction_06
+q_13_+hi
 q_13_03_rail_decal_01
 q_13_03_rail_decal_02
 q_13_03_rail_decal_03
@@ -85,6 +88,7 @@ q_13_06_rail_decal_04
 q_13_08_dtls
 q_13_09_rail_decal_01
 q_13_09_rail_decal_02
+q_13_decal
 q_13_road_blend_dec_01
 q_13_road_decal_01
 q_13_road_decal_02

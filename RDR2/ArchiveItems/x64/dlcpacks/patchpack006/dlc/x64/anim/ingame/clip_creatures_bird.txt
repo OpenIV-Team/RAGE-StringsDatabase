@@ -1,0 +1,6 @@
+creatures_bird@goosecanada@normal@idle@variation@idle_a
+creatures_bird@goosecanada@normal@idle@variation@idle_b
+creatures_bird@goosecanada@normal@idle@variation@idle_c
+creatures_bird@goosecanada@normal@idle@variation@idle_d
+creatures_bird@goosecanada@normal@idle@variation@idle_e
+creatures_bird@heron@normal@idle@variation@idle_d

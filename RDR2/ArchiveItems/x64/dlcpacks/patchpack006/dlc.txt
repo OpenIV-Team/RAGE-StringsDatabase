@@ -1,3 +1,5 @@
+common/data/anim/dictionary_meta/clip_dictionary_budget_flags.meta
+common/data/anim/dictionary_meta/motion_dictionary_budget_flags.meta
 common/data/overlayinfo.xml
 content.xml
 setup2.xml

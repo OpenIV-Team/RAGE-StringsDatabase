@@ -1,11 +1,15 @@
 _cache
 _manifest
 gri_g2_shack_int_lod
+grishkg2_01__0
 grishkg2_01_decal_logends
 grishkg2_01_decal_logends+hidr
 grishkg2_01_shack
 grishkg2_01_shack_cap
 grishkg2_01_shack_cap+hidr
 grishkg2_01_shack+hidr
+grishkg2_01_txd1
+grishkg2_01_txd1+hi
 grishkg2_01_veg
 grishkg2_01_veg+hidr
+hi@grishkg2_01__0

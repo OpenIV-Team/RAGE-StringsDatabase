@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@sil_house_int
 sil_01_stead_int_detail
 sil_01_stead_int_detail+hidr
 sil_01_stead_int_dresser

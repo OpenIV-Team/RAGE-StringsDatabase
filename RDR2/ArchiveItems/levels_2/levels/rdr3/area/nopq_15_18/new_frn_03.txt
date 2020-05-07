@@ -26,6 +26,10 @@ new_frn_03_napoleon_dec
 new_frn_03_napoleon_dec+hidr
 new_frn_03_props_debris_01
 new_frn_03_props_debris_02
+new_frn_03_props_debris_txd
+new_frn_03_txd1
+new_frn_03_txd2
+new_frn_03_txd3
 new_frn03_1200_dec_a_blc01
 new_frn03_1200_dec_b_blc01
 new_frn03_1200_dec_b_det01

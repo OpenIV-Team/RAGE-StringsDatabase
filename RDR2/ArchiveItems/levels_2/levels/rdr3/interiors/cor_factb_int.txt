@@ -26,9 +26,11 @@ cor_factb_details10
 cor_factb_drops
 cor_factb_hoses3
 cor_factb_int
+cor_factb_int_ref
 cor_factb_int_ref_a
 cor_factb_int_ref_b
 cor_factb_int_ref_c
+cor_factb_int_ref+hi
 cor_factb_int_shadowproxy
 cor_factb_pipes010
 cor_factb_pipes03
@@ -47,6 +49,10 @@ cor_factb_storage04
 cor_factb_stuff
 cor_factb_stuff+hidr
 cor_factb_supprt_07
+cor_factory02_int
+cor_factory02_int_shell
+cor_factory02_int+hi
+cor_factoryb_int
 cor_int_tanks01
 cor_oil_tank02
 cor_oil_tank02_a

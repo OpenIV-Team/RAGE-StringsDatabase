@@ -19,3 +19,4 @@ mp005_p_mp_covercomb_m_ch
 mp005_p_mp_covercomb_mu_ch
 mp005_p_mp_covercomb_s_ch
 mp005_p_mpcover_ch
+mp005_p_mpcover_ch+hi

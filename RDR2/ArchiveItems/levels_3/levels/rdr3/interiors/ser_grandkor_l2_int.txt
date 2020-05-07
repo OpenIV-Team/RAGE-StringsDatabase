@@ -1,10 +1,10 @@
 _cache
 _manifest
+hi@ser_grandkor_l2_int
 ser_captains_curt01
 ser_captains_curt02
 ser_captains_curt03
 ser_captains_decor01
-ser_captains_decor01+hidr
 ser_captains_det01
 ser_captains_det01+hidr
 ser_captains_det02
@@ -13,7 +13,10 @@ ser_captains_shell_a
 ser_captains_stuff01
 ser_captains_stuff02
 ser_grandkor_l2_int
+ser_grandkor_l2_int_shell
 ser_grandkor_l2_int_sp
+ser_grandkor_l2_int_txd1
+ser_grandkor_l2_int_txd2
 ser_grandkor_l2_ref2_a
 ser_grandkor_l2_ref2_b
 ser_observ_arches01
@@ -27,3 +30,4 @@ ser_observation_decor01
 ser_observation_floor
 ser_observation_shell
 ser_observation_shell+hidr
+ser_captains_decor01+hidr

@@ -1,8 +1,10 @@
 _cache
 _manifest
 sod_01_vfx_001
+sod_02
 sod_02_house
 sod_02_house_decals
 sod_02_house_decals+hidr
 sod_02_house+hidr
+sod_02+hi
 sod_house_int_lod

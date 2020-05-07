@@ -1,1 +1,11 @@
 _manifest
+mega_mech_wagon@chuckwagon@rear@detached@enter@get_in
+mega_mech_wagon@standard@front@fl@entry_exit@jack
+mega_mech_wagon@standard@front@fr@entry_exit@jack
+mega_mech_wagon@standard@rear@r_detached@land
+mega_mech_wagon@standard@rear@r_detached@transition
+mega_mech_wagon@standard@rear@rl@get_in
+mega_mech_wagon@standard@rear@rl@jack
+mega_mech_wagon@standard@rear@rr@enter@get_in
+mega_mech_wagon@standard@rear@rr@entry_exit@jack
+mega_mech_wagon@wagon05@rear@detached@enter@get_in

@@ -1,4 +1,12 @@
 _manifest
+p_int_rock_txd_01
+p_int_rock_txd_01+hi
+p_int_rock_txd_02
+p_int_rock_txd_02+hi
+p_int_rock_txd_03
+p_int_rock_txd_03+hi
+p_int_rock_txd_04
+p_int_rock_txd_04+hi
 p_int_rock01x
 p_int_rock02x
 p_int_rock03x

@@ -1,0 +1,15 @@
+amb_misc@prop_human_seat_bench@mandolin@female_a@base
+amb_misc@world_human_dancing@female_a@base
+amb_misc@world_human_dancing@female_a@idle_a
+amb_misc@world_human_dancing@female_a@idle_b
+amb_misc@world_human_dancing@female_a@idle_c
+amb_misc@world_human_dancing@female_a@react_look@active_look
+amb_misc@world_human_dancing@female_a@react_look@enter@high
+amb_misc@world_human_dancing@female_a@react_look@enter@low
+amb_misc@world_human_dancing@female_a@react_look@enter@med
+amb_misc@world_human_dancing@female_a@react_look@exit@dismissive
+amb_misc@world_human_dancing@female_a@react_look@exit@generic
+amb_misc@world_human_dancing@female_a@react_look@exit@relieved
+amb_misc@world_human_dancing@female_a@react_look@loop@generic
+amb_misc@world_human_dancing@female_aidle_a
+amb_misc@world_human_dancing@female_aidle_b

@@ -1,1 +1,3 @@
 _manifest
+mega_amb_rest_sit@seat_chair_smoke_roll_female_a@rl
+mega_amb_rest_sit@seat_chair_smoke_roll_grab_female_a@rl

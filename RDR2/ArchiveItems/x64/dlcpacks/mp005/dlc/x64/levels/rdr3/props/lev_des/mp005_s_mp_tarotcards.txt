@@ -112,3 +112,5 @@ mp005_s_cardt_qus+hifr
 mp005_s_cardt_quw
 mp005_s_cardt_quw+hifr
 mp005_s_mp_tarotcards
+mp005_tarot_cards
+mp005_tarot_cards+hi

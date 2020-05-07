@@ -1,6 +1,9 @@
 _cache
 _manifest
 k_13_
+k_13__bkt_1
+k_13__bkt_2
+k_13__bkt_3
 k_13__decs
 k_13__decs+hidr
 k_13__hd_0_0_0
@@ -70,6 +73,7 @@ k_13__hd_0_-4_3
 k_13__hd_0_-4_-3
 k_13__hd_0_-4_3+hidr
 k_13__hd_0_-4_-4
+k_13_+hi
 k_13_05_decal001
 k_13_08_decal001
 k_13_08_decal001+hidr

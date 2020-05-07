@@ -1,0 +1,7 @@
+ai_damage@dam_ad
+ai_damage@dead@base
+ai_damage@dead@fall
+ai_damage@incapacitated
+ai_damage@ko@base
+ai_damage@ko@base@shot
+ai_damage@rec_civi

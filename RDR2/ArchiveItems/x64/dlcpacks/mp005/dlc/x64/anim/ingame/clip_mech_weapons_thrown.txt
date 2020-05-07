@@ -1,0 +1,5 @@
+mech_weapons_thrown@ready_high@base@weapon@knife@intro@sweep
+mech_weapons_thrown@ready_high@base@weapon@knife@trans@aim_to_drawn
+mech_weapons_thrown@ready_high@crouch@base@aim@sweep@intro@sweep
+mech_weapons_thrown@ready_high@crouch@base@weapon@knife@intro@sweep
+mech_weapons_thrown@ready_low@crouch@base@aim@sweep@intro@sweep

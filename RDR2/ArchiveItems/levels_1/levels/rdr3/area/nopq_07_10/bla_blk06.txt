@@ -4,10 +4,12 @@ bla_barn01x_decal
 bla_barn01x_decal+hidr
 bla_barn01x+hidr
 bla_blk06
+bla_blk06_em
 bla_blk06_em_slod
 bla_blk06_props_debris_00
 bla_blk06_props_debris_01
 bla_blk06_props_debris_02
+bla_blk06_props_debris_txd
 bla_blk06_props_dummy
 bla_blk06_slum01
 bla_blk06_slum01_d
@@ -16,6 +18,7 @@ bla_blk06_slum01_em
 bla_blk06_slum01+hidr
 bla_blk06_stagecoach
 bla_blk06_stagecoach+hidr
+bla_blk06+hi
 bla_freightstation_dec
 bla_freightstation_dec+hidr
 bla_freightstation_ext01

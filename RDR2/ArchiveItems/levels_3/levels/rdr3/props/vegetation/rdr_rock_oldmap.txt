@@ -54,6 +54,8 @@ old_hen_rock_scree_sim_08
 old_hen_rock_scree_sim_09
 old_hen_rock_scree_sim_10
 old_hen_rock_scree_sim_11
+rdr_rock_old_2
+rdr_rock_old_2+hi
 rdr_rock_oldmap
 rio_red_rock_01
 rio_red_rock_01+hidr

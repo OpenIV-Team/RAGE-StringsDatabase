@@ -1,6 +1,9 @@
 _cache
 _manifest
 n_10_
+n_10__bkt_0
+n_10__bkt_2
+n_10__bkt_3
 n_10__hd_0_0_0
 n_10__hd_0_0_1
 n_10__hd_0_0_-1
@@ -70,6 +73,7 @@ n_10__hd_0_-4_-4
 n_10__junction
 n_10__junction_join_de01
 n_10__junction_join_de04
+n_10_+hi
 n_10_01_decal01
 n_10_01_decal01+hidr
 n_10_01_decal02

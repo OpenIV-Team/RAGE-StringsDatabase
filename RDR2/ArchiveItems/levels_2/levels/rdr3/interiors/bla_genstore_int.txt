@@ -24,7 +24,11 @@ bla_genst_main_detail_fur+hidr
 bla_genst_main_detail+hidr
 bla_genst_upper_railing
 bla_genstore_int
+bla_genstore_int_shell
+bla_genstore_int_txd
+bla_genstore_int_txd+hi
 bla_genstore_lightbox
 bla_genstore_lightbox001
 bla_genstore_reflection_proxy
 bla_genstore_reflection_proxy+hidr
+hi@bla_genstore_int

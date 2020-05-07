@@ -1,0 +1,3 @@
+mech_hogtie@human@throw_body
+mech_hogtie@human@throw_body@into_wagon
+mech_hogtie@human_dead@throw_body@into_wagon

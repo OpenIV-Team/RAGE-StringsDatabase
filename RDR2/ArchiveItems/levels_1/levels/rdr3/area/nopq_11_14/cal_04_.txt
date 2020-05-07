@@ -1,4 +1,6 @@
 _manifest
+cal_04_txd
+cal_04_txd+hi
 cal_carriage_audio_proxy
 cal_carriage_house_decal
 cal_carriage_house_decal+hidr

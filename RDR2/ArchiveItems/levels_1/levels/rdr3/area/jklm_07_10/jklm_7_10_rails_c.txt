@@ -1,4 +1,6 @@
 _manifest
+j_710_r_c_rails
+j_710_r_c_rails+hi
 j_710_r_c_sle00
 j_710_r_c_sle00_dec
 j_710_r_c_sle00_lod
@@ -27,6 +29,8 @@ j_710_r_c_sle13
 j_710_r_c_steel00
 j_710_r_c_steel01
 j_710_r_c_steel02
+j_710_r_c_tres
+j_710_r_c_tres+hi
 j_710_r_c_tres00
 j_710_r_c_tres00_dec
 j_710_r_c_tres00_det

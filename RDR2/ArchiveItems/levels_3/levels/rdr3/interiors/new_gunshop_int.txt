@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@new_gunshop_int
 new_gun_decal
 new_gun_decal+hidr
 new_gun_details1
@@ -15,6 +16,8 @@ new_gunshop_int_open
 new_gunshop_int_open+hidr
 new_gunshop_int_ref_proxy
 new_gunshop_int_ref_proxy+hidr
+new_gunshop_int_shell
+new_gunshop_int_txd
 sdn_gun_pistol_sign
 sdn_gun_psttray
 sdn_gun_psttray001

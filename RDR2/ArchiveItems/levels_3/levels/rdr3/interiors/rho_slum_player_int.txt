@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@rho_slum_player_int
 rho_player_int_shdwproxy
 rho_slum_bed_made
 rho_slum_bed_made+hidr
@@ -24,6 +25,7 @@ rho_slum_player_broken_stage2
 rho_slum_player_int
 rho_slum_player_int_ref
 rho_slum_player_int_ref+hidr
+rho_slum_player_int_shell
 rho_slum_player_mirror
 rho_slum_player_mirror+hidr
 rho_slum_player_shell

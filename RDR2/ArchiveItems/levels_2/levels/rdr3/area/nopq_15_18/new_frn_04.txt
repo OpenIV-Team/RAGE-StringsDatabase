@@ -42,10 +42,13 @@ new_frn_04_props_bulbemit01
 new_frn_04_props_bulbemit02
 new_frn_04_props_debris_01
 new_frn_04_props_debris_02
+new_frn_04_props_debris_txd
 new_frn_04_props_vfx01
 new_frn_04_props_vfx02
 new_frn_04_saloon
 new_frn_04_saloon_detail
 new_frn_04_saloon_ground_decal
 new_frn_04_saloon+hidr
+new_frn_04_txd1
+new_frn_04_txd2
 new_frn_04_water

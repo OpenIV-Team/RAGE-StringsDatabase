@@ -1,3 +1,5 @@
 _cache
 _manifest
 mp004_area03_supp
+mp004_area3_playlistmarker_01
+mp004_supp_gfh_anthony_objects_saintdenis

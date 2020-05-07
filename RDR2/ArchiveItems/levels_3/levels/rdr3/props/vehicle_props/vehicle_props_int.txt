@@ -1,4 +1,6 @@
 _manifest
+boxcar04x_interior
+boxcar04x_interior+hi
 p_armoredcar01x_interior
 p_armoredcar01x_interior+hidr
 p_armoredcar03x_interior
@@ -49,6 +51,7 @@ p_boxcar_winter04_brand
 p_boxcar_winter04_brand+hidr
 p_boxcar_winter04_brand2
 p_boxcar_winter04_brand2+hidr
+p_boxcar_winter4
 p_boxcar_winter4_01x
 p_boxcar_winter4_01x+hifr
 p_boxcar_winter4_02x
@@ -161,6 +164,8 @@ p_privatearmoured_detail2+hidr
 p_privatearmoured_pset_low
 p_privatearmoured_windr
 p_privatearmoured_windr+hidr
+p_privatearmoured01x_details
+p_privatearmoured01x_details+hi
 p_privatearmoured01x_interior
 p_privatearmoured01x_interior+hi
 p_privatearmoured01x_interior+hidr

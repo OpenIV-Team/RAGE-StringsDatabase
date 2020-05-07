@@ -1,0 +1,3 @@
+veh_mountedweapon@hotchkiss@base
+veh_mountedweapon@hotchkiss@enter_exit
+veh_mountedweapon@hotchkiss@front@exit@to@land@normal@get_out@male

@@ -13,4 +13,6 @@ car_barn_int_shadowproxy
 car_barn_int_shell
 car_barn_int_shell+hidr
 car_barn_int_wallhooks
+car_barn_int+hi
 car_barn_lightbox
+hi@car_barn_int

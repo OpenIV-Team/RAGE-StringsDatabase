@@ -1,0 +1,15 @@
+script@mech@crafting_fallbacks@craft_bullets_explosive
+script@mech@crafting_fallbacks@craft_bullets_split
+script@mech@crafting_fallbacks@craft_fire_bottle
+script@mech@crafting_fallbacks@craft_improved_arrows
+script@mech@crafting_fallbacks@craft_improved_tomahawk
+script@mech@crafting_fallbacks@craft_modify_arrows
+script@mech@crafting_fallbacks@craft_poison_throwingknives
+script@mech@crafting_fallbacks@craft_throwingknives_improved
+script@mech@crafting_fallbacks@craft_volatile_dynamite
+script@mech@dismantle_weapons
+script@mech@horse_saddle_transfer
+script@mech@horse_saddle_transfer_dead
+script@mech@horse_saddle_transfer_live
+script@mech@player_sleep_bed
+script@mech@stow_saddle_fallback

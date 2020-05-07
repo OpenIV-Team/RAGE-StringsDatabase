@@ -2,3 +2,5 @@ _cache
 _manifest
 x_96_p_box027
 x_96_placement
+x_96_placement_strm
+x_96_placement_strm_0

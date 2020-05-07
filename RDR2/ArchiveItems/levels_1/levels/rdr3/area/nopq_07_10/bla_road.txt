@@ -59,6 +59,7 @@ bla_road_props_debris_12
 bla_road_props_debris_13
 bla_road_props_debris_14
 bla_road_props_debris_30
+bla_road_props_debris_txd
 bla_road_sidewalk01
 bla_road_sidewalk01_lod
 bla_road_sidewalk02
@@ -70,6 +71,12 @@ bla_road_track_decal_03a
 bla_road_track_decal_03b
 bla_road_track_decal_03d
 bla_road_track_decal_04
+bla_road_txd
+bla_road_txd_ne
+bla_road_txd_nw
+bla_road_txd_se
+bla_road_txd_sw
+bla_road_txd+hi
 bla_sidewalk_02_lod
 bla_sidewalk_lumber_016
 bla_sidewalk_lumber_016+hidr

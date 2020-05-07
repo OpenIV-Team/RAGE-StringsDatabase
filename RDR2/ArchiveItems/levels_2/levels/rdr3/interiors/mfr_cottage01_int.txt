@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@mfr_cottage01_int
 mfr_cottage_int_brceiling
 mfr_cottage_int_ceiling
 mfr_cottage_int_curtain
@@ -13,3 +14,7 @@ mfr_cottage_int_shad
 mfr_cottage_int_shell
 mfr_cottage_int_shell+hidr
 mfr_cottage01_int
+mfr_cottage01_int_txd
+mfr_cottage01_int_txd+hi
+mfr_cottage01_reflprox
+mfr_cottage01_reflprox+hi

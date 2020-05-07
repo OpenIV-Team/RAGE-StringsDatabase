@@ -18,3 +18,4 @@ cin_tor_shell+hidr
 cin_tor_shelves
 cin_tor_shelves+hidr
 cin_tor_window_frame
+hi@cin_tor_int

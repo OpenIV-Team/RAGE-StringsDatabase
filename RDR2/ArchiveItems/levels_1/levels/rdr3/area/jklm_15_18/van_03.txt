@@ -24,5 +24,7 @@ van_03_props_null
 van_03_wagon04
 van_03_wagon04+hidr
 van_farmhse01_int_lod
+van_horn_03
+van_horn_03+hi
 van_man_int_lod
 van03pr_combo04_dslod

@@ -1,6 +1,7 @@
 _cache
 _manifest
 arm_01__arm01_combo_slod
+arm_01_0
 arm_01_cattlepen01
 arm_01_fire_debris_a
 arm_01_fire_debris_a_lod
@@ -29,6 +30,7 @@ arm_01_stationmain_scarletfvr
 arm_01_stationmain_scarletfvr+hidr
 arm_01_stationmain+hidr
 arm_01_stnmain_scarletfvr_lod
+arm_01_txd_01
 arm_01_vfx_bonefire_a
 arm_01_vfx_bonefire_ab
 arm_01_vfx_bonefire_abc
@@ -39,3 +41,4 @@ arm_01_vfx_bonefire_c
 arm_01_vfx_smoulder_a
 arm_01_vfx_smoulder_b
 arm_01_vfx_smoulder_c
+hi@arm_01_0

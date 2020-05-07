@@ -1,6 +1,8 @@
 _cache
 _manifest
 j_07_placement_vfx
+j_07_placement_vfx_long_0
+j_07_placement_vfx_strm
 j_07p_vfx_helper_001
 j_07p_vfx_helper_002
 j_07p_vfx_helper_003

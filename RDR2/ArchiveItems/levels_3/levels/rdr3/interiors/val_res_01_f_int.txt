@@ -1,6 +1,8 @@
 _cache
 _manifest
+hi@val_res_01_f_int
 val_res_01_f_int
+val_res_01_f_int_txd
 val_res_f_bed
 val_res_f_bed+hidr
 val_res_f_decal1

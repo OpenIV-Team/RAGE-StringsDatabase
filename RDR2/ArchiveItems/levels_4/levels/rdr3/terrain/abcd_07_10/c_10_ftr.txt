@@ -4,4 +4,6 @@ c_10_ftr
 c_10_ftr_feature
 c_10_ftr_feature+hidr
 c_10_ftr_lod
+c_10_ftr_long_0
 c_10_ftr_slod
+c_10_ftr_strm

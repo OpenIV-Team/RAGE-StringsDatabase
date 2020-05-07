@@ -1,5 +1,6 @@
 _manifest
 dai_01_
+dai_01_+hi
 dai_01_ext_b_vfx
 dai_01_ext_vfx
 dai_01_farm_house_vfx

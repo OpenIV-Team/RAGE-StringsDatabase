@@ -1,4 +1,5 @@
 _manifest
+lon_01
 lon_01_audio_emit_proxy_dnd
 lon_01_home_dec
 lon_01_home_dec+hidr
@@ -20,6 +21,7 @@ lon_01_shed001_weeds+hidr
 lon_01_shed001+hidr
 lon_01_vfx_001
 lon_01_vfx_002
+lon_01+hi
 lon_doors
 lon_doors_slod
 lon_doors+hidr

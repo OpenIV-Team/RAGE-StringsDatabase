@@ -15,6 +15,7 @@ gri_bridge_02_det
 gri_bridge_02_lod_01_d
 gri_bridge_02_slod
 gri_bridge_02+hidr
+gri_bridge+hi
 gri_bridgeplanks_01
 gri_ropebridge_01
 gri_ropebridge_02

@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@pro_worker_house_int
 pro_bed_made
 pro_bed_unmade
 pro_decal02

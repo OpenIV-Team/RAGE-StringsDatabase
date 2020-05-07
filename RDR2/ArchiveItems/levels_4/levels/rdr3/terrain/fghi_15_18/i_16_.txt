@@ -66,5 +66,6 @@ i_16__hd_0_-4_-2
 i_16__hd_0_-4_3
 i_16__hd_0_-4_-3
 i_16__hd_0_-4_-4
+i_16_+hi
 i_16_hillborderdecal
 i_16_hillborderdecal+hidr

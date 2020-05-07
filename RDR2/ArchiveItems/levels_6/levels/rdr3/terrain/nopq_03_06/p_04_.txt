@@ -1,6 +1,8 @@
 _cache
 _manifest
 p_04_
+p_04__bkt_1
+p_04__bkt_2
 p_04__hd_0_0_0
 p_04__hd_0_0_1
 p_04__hd_0_0_-1
@@ -67,5 +69,6 @@ p_04__hd_0_-4_-2
 p_04__hd_0_-4_3
 p_04__hd_0_-4_-3
 p_04__hd_0_-4_-4
+p_04_+hi
 p_04_terraindecal_01
 p_04_terraindecal_02

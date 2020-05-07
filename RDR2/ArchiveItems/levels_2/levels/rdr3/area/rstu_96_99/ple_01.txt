@@ -1,6 +1,8 @@
 _cache
 _manifest
+hi@ple_01_0
 ple_01__ple01_combo_slod
+ple_01_0
 ple_01_new_mgates
 ple_01_new_mgates+hidr
 ple_01_outhouse_vfx

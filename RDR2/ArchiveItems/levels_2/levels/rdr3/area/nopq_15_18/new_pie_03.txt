@@ -11,6 +11,7 @@ new_pie_03_debris_01
 new_pie_03_debris_02
 new_pie_03_debris_03
 new_pie_03_debris_04
+new_pie_03_debris_txd
 new_pie_03_dec_00
 new_pie_03_dec_00+hidr
 new_pie_03_dec_01
@@ -69,6 +70,7 @@ new_pie_03_planks4
 new_pie_03_props_dedfish_00
 new_pie_03_props_dedfish_01
 new_pie_03_props_dedfish_02
+new_pie_03_props_dedfish_txd
 new_pie_03_rds_wood
 new_pie_03_seawall1
 new_pie_03_seawall2
@@ -98,6 +100,7 @@ new_pie_03_trackcover
 new_pie_03_trackcover_d
 new_pie_03_trackcover_d+hidr
 new_pie_03_transdock
+new_pie_03_txd1
 new_pie_03_wdbrds1
 new_pie_03_wdpile_prxslod
 new_pie_03_wrh

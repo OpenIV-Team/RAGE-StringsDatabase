@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@shack_b_c_int
 shack_b_c_int
 shack_b_c_int_br1_details
 shack_b_c_int_br1_details+hidr

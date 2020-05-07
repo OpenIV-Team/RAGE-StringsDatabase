@@ -10,5 +10,7 @@ shf_hf_slod
 shf_hf_walls01
 shf_hf_walls01+hidr
 shf_hf_walls02
+shf_shack_hf
 shf_shack_hf_int_lod
+shf_shack_hf+hi
 shf_shackhf_combo_slod

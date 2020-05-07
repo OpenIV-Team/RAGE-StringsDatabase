@@ -1,6 +1,9 @@
 _cache
 _manifest
 v_04_
+v_04__bkt_0
+v_04__bkt_2
+v_04__bkt_3
 v_04__hd_0_0_0
 v_04__hd_0_0_1
 v_04__hd_0_0_-1
@@ -67,5 +70,6 @@ v_04__hd_0_-4_-2
 v_04__hd_0_-4_3
 v_04__hd_0_-4_-3
 v_04__hd_0_-4_-4
+v_04_+hi
 v_04_decals
 v_04_decals+hidr

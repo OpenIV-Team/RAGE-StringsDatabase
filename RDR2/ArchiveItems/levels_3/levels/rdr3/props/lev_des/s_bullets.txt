@@ -1,4 +1,9 @@
 _manifest
+ammo
+ammo_45mm
+ammo+hi
+ancientarrowheads
+ancientarrowheads+hi
 p_ancientarrowhead01x
 p_ancientarrowhead02x
 p_ancientarrowhead03x
@@ -35,6 +40,7 @@ s_shell_9mm
 s_shell_grenade
 s_shell_rifle
 s_shell_sg
+s_shell_sg_mod
 s_shell_sg_mod1
 s_shell_sg_mod2
 s_shell_sg_mod3
@@ -62,3 +68,4 @@ w_dis_sho_pumpaction01
 w_dis_sho_repeating01
 w_dis_sho_sawed01
 w_dis_sho_semiauto01
+w_dis_weapons

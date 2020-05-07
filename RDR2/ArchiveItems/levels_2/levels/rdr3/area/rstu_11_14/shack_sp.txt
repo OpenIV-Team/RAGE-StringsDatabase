@@ -1,5 +1,7 @@
 _cache
 _manifest
+hi@shack_sp_0
+shack_sp_0
 ssp_shack_sp_ext
 ssp_shack_sp_ext_d
 ssp_shack_sp_ext_d+hidr

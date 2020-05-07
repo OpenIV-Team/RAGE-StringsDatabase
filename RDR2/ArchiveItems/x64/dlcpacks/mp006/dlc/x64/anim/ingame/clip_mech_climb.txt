@@ -1,0 +1,4 @@
+mech_climb@base@vertical@clamber_exits
+mech_climb@base@vertical@run@vault
+mech_climb@base@vertical@stand@vault
+mech_climb@base@vertical@walk@vault

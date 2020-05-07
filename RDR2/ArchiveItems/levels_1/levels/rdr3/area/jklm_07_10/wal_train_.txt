@@ -11,3 +11,5 @@ wal_stn_ext_platform
 wal_stn_ext+hidr
 wal_stn_outlook
 wal_stn_outlook+hidr
+wal_train
+wal_train+hi

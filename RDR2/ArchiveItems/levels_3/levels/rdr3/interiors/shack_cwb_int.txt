@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@shack_cwb_int
 scw_cwb_shack_curt
 scw_cwb_shack_curt2
 scw_cwb_shack_curt2+hidr

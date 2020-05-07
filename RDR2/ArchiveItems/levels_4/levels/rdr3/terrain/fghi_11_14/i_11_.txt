@@ -1,6 +1,9 @@
 _cache
 _manifest
 i_11_
+i_11__bkt_0
+i_11__bkt_1
+i_11__bkt_2
 i_11__hd_0_0_0
 i_11__hd_0_0_1
 i_11__hd_0_0_-1
@@ -69,6 +72,7 @@ i_11__hd_0_-4_-2+hidr
 i_11__hd_0_-4_3
 i_11__hd_0_-4_-3
 i_11__hd_0_-4_-4
+i_11_+hi
 i_11_01_decal
 i_11_blend_dec001
 i_11_blend_dec001+hidr

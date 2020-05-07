@@ -1,1 +1,11 @@
 _manifest
+mega_veh_horseback@action@left@male
+mega_veh_horseback@action@right@male
+mega_veh_horseback@aim@front@longarms@base
+mega_veh_horseback@seat_saddle@male@normal@idle
+mega_veh_horseback@standard@left@bonded
+mega_veh_horseback@standard@left@get_on
+mega_veh_horseback@standard@left@occluded
+mega_veh_horseback@standard@right@bonded
+mega_veh_horseback@standard@right@get_on
+mega_veh_horseback@standard@right@occluded

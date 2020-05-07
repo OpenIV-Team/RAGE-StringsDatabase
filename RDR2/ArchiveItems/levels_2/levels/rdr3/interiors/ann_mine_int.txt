@@ -29,6 +29,8 @@ ann_02_mine_entrance_02
 ann_02_mine_entrance_02+hidr
 ann_coal_dec_01
 ann_entrance_main_shadow
+ann_int
+ann_int+hi
 ann_mine_center
 ann_mine_center_vfx
 ann_mine_centerrocks
@@ -43,6 +45,7 @@ ann_mine_entrancebeam2_vfx
 ann_mine_gobbin
 ann_mine_gobbin+hidr
 ann_mine_int
+ann_mine_int_main
 ann_mine_ladder_01
 ann_mine_ladder_02
 ann_mine_ladder_03

@@ -1,6 +1,9 @@
 _cache
 _manifest
 l_07_
+l_07__bkt_1
+l_07__bkt_2
+l_07__bkt_3
 l_07__hd_0_0_0
 l_07__hd_0_0_1
 l_07__hd_0_0_-1
@@ -73,12 +76,14 @@ l_07__j_07_dewaterlevel
 l_07__j_07_dewaterlevel_01
 l_07__l07_cave_decal
 l_07__l07_cave_decal+hidr
+l_07_+hi
 l_07_04_rail_decal_01
 l_07_07_decal001
 l_07_07_decal002
 l_07_07_decal003
 l_07_07_rail_decal_02
 l_07_clifftop_decal001
+l_07_decal
 l_07_decal_01
 l_07_decal_02
 l_07_decal_03

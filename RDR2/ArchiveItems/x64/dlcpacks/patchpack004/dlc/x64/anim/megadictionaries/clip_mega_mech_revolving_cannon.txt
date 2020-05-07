@@ -1,1 +1,3 @@
 _manifest
+mega_mech_revolving_cannon@enter@get_in
+mega_mech_revolving_cannon@enter@jack

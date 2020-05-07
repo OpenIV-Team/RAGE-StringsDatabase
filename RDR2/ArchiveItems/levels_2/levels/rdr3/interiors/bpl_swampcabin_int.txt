@@ -13,4 +13,6 @@ bpl_swampcabin_int_roof
 bpl_swampcabin_int_shadow
 bpl_swampcabin_int_walls
 bpl_swampcabin_int_walls+hidr
+bpl_swampcabin_int+hi
+hi@bpl_swampcabin_int
 swampcabin_lightbox

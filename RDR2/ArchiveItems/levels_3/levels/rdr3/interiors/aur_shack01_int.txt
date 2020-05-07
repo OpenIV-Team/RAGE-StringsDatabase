@@ -12,3 +12,4 @@ aur_shack_int_sink
 aur_shack_int_sink+hidr
 aur_shack01_int
 aur_shack01_lightbox
+hi@aur_shack01_int

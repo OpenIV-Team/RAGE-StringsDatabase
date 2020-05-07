@@ -1,7 +1,10 @@
 _cache
 _manifest
 win_01_
+win_01__strm
 win_01_dummy_object
+win_05_
+win_05_+hi
 win_05_snowcaps_b
 win_campfire_details
 win_campfire_details+hidr

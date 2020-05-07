@@ -1,0 +1,4 @@
+mech_grapple@blade@_male@_ambient@_healthy@mounted@_base
+mech_grapple@lasso@_male@_ambient@_healthy@mounted@_streamed
+mech_grapple@pistol@_male@_ambient@_healthy@mounted@_streamed
+mech_grapple@unarmed@_male@_ambient@_healthy@mounted@_streamed

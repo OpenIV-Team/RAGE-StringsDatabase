@@ -15,3 +15,5 @@ ben_shack_int_groupdummy
 ben_shack_int_ref
 ben_shack_int_ref+hidr
 ben_shack_int_shadowproxy
+ben_shack_int+hi
+hi@ben_shack_int

@@ -1,9 +1,11 @@
 _cache
 _manifest
+hi@lak_houseruined_int
 lak_houseruined_in_shadowproxy
 lak_houseruined_int
 lak_houseruined_int_ref
 lak_houseruined_int_ref+hidr
+lak_houseruined_int+hi
 lak_hsruind_int_boards
 lak_hsruind_int_boards+hidr
 lak_hsruind_int_floor

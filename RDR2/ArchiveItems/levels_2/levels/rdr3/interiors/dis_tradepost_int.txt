@@ -11,3 +11,4 @@ dis_tradepost_int_detail+hidr
 dis_tradepost_int_shell
 dis_tradepost_int_shell+hidr
 dis_tradepost_lightbox
+hi@dis_tradepost_int

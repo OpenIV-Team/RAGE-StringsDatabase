@@ -12,3 +12,4 @@ des_gua3_cannon_exp_ig_09
 des_gua3_cannon_exp_ig_10
 des_gua3_cannon_exp_ig_end
 des_gua3_cannon_exp_ig_start
+des_gua3_cannon_exp_ig+hi

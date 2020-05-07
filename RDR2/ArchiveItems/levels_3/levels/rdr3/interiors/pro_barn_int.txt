@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@pro_barn_int
 pro_barn_int
 pro_barn_int_floor
 pro_barn_int_floor+hidr

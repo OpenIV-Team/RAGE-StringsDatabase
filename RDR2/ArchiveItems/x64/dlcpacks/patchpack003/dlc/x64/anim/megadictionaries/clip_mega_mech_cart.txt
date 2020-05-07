@@ -1,1 +1,4 @@
 _manifest
+mega_mech_cart@buggy@front@fl@in_seat@male@sitting
+mega_mech_cart@standard@front@fl@enter@jack
+mega_mech_cart@standard@front@fl@in_seat@male@sitting

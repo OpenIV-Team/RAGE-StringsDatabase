@@ -1,7 +1,15 @@
 _manifest
+mp005_cratetrader
+mp005_cratetrader+hi
 mp005_mp_cratetrader01x
 mp005_mp_cratetrader01x+hifr
 mp005_mp_nondes_cratetrader01x
+mp005_mp_photobackdrop01x
+mp005_mp_photobackdrop01x+hi
+mp005_mp_photobackdrop02x
+mp005_mp_photobackdrop02x+hi
+mp005_mpcover_gunslinger
+mp005_mpcover_gunslinger+hi
 mp005_p_bla_photo01x_bla
 mp005_p_bla_photo01x_std
 mp005_p_car_int_chestdressing02x_1

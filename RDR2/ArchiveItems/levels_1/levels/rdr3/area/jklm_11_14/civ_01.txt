@@ -62,6 +62,8 @@ civ_twr_2_logs
 civ_twr_3_ext_dec_02
 civ_twr_3_int_dec
 civ_twr_4_int_dec
+civ_vine
+civ_vine+hi
 civ_vine2_001
 civ_vine2_004
 civ_vine2_005

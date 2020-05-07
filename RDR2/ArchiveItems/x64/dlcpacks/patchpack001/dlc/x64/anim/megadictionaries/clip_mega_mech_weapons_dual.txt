@@ -1,1 +1,4 @@
 _manifest
+mega_mech_weapons_dual@mauser
+mega_mech_weapons_dual@semiauto
+mega_mech_weapons_dual@stand

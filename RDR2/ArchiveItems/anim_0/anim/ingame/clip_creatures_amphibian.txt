@@ -1,0 +1,9 @@
+creatures_amphibian@frogbull@swimming@surface
+creatures_amphibian@frogbull@swimming@surface@base
+creatures_amphibian@toad@normal@death
+creatures_amphibian@toad@normal@idle@idle_variation@idle_a
+creatures_amphibian@toad@normal@idle@idle_variation@idle_b
+creatures_amphibian@toad@normal@idle@idle_variation@idle_c
+creatures_amphibian@toad@normal@idle@idle_variation@idle_d
+creatures_amphibian@turtlesea@swimming@surface
+creatures_amphibian@turtlesea@swimming@surface@base

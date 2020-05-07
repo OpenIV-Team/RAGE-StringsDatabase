@@ -1,6 +1,8 @@
 _cache
 _manifest
+hi@jum_horseshop_int
 jum_horseshop_int
+jum_horseshop_int+hi
 jum_horseshop_lightbox
 jum_horseshp_int_decals
 jum_horseshp_int_decals+hidr

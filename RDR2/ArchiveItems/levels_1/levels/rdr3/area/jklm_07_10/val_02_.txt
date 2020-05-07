@@ -1,8 +1,11 @@
 _manifest
+val_02
+val_02__em
 val_02__em_slod
 val_02__em001
 val_02__em002
 val_02__em003
+val_02_lockdown
 val_02_lockdown_bank
 val_02_lockdown_bank_slod
 val_02_lockdown_gun
@@ -13,8 +16,10 @@ val_02_lockdown_hotel_slod
 val_02_lockdown_hotel+hidr
 val_02_lockdown_law
 val_02_lockdown_law_slod
+val_02_lockdown+hi
 val_02_props_debris01
 val_02_props_debris01+hidr
+val_02+hi
 val_audioemitter
 val_audioemitterprox2
 val_audioemitterprox3

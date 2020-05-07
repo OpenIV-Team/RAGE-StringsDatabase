@@ -10,7 +10,9 @@ civ_cellar_int_shelves
 civ_cellar_int_shelves+hidr
 civ_cellar_int_web
 civ_cellar_int_web+hidr
+civ_cellar_int+hi
 civ_cellar_ladder
 civ_cellar_ladder+hidr
 civ_cellar_lightblocker
 civ_cellar_lightbox
+hi@civ_cellar_int

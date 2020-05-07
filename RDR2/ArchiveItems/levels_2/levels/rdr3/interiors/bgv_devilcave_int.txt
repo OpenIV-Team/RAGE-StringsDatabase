@@ -11,6 +11,8 @@ bgv_devilcave_int
 bgv_devilcave_lightbox001
 bgv_devilcave_lightbox002
 bgv_devilcave_main1
+bgv_devilscave_int
+bgv_devilscave_int+hi
 bgv_dvlcave_int_ropeb
 bgv_dvlcave_int_ropeb+hidr
 bgv_dvlcave_int_shellmain3
@@ -30,6 +32,7 @@ entrance_dec_0
 entrance_dec_0+hidr
 entrance_dec_001
 entrance_dec_001+hidr
+hi@bgv_devilcave_int
 light_stick_00
 room_main3_decal_01
 smll_lightblocker

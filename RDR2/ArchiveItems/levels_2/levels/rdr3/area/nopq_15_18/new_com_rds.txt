@@ -43,6 +43,7 @@ new_cablemesh69462_tstd001
 new_cablemesh69488_tstd001
 new_cablemesh69490_tstd001
 new_cablemesh92541_hvlit001
+new_com_cablemesh
 new_com_rds_01b
 new_com_rds_01c
 new_com_rds_04a
@@ -109,6 +110,10 @@ new_com_rds_debris_30
 new_com_rds_debris_31
 new_com_rds_debris_32
 new_com_rds_debris_33
+new_com_rds_debris_txd
+new_com_rds_txd1
+new_com_rds_txd2
+new_com_rds_txd3
 new_trolley_stop_blue
 new_trolley_stop_blue+hidr
 newcordpr_combo01_slod

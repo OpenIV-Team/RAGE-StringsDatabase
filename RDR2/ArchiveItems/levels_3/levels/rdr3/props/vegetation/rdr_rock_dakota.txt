@@ -97,4 +97,14 @@ dak_rock_stg345_08
 dak_rock_stg345_08+hidr
 dak_rock_stg345_09
 dak_rock_stg345_09+hidr
+rdr_dak_stg345_02
+rdr_dak_stg345_02+hi
+rdr_rock_dak_03
+rdr_rock_dak_03+hi
+rdr_rock_dak_04
+rdr_rock_dak_04+hi
+rdr_rock_dak_13
+rdr_rock_dak_13+hi
+rdr_rock_dak_scree_1
+rdr_rock_dak_scree_1+hi
 rdr_rock_dakota

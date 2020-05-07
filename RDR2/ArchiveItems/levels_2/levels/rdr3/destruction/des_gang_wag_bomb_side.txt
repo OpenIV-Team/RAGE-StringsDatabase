@@ -1,5 +1,7 @@
 _manifest
 des_gang_wag_bomb_side
+des_gang_wagon_side
 des_gang_wagon_side_01
 des_gang_wagon_side_end
 des_gang_wagon_side_start
+des_gang_wagon_side+hi

@@ -44,6 +44,7 @@ p_forge01x
 p_forge01x+hifr
 p_gardenscoop01x
 p_gardentool01x
+p_gauge
 p_gauge_lg
 p_gauge_s
 p_gavel01x
@@ -55,6 +56,8 @@ p_goldsmeltburner01x
 p_goldsmeltburner01x+hidr
 p_grindingwheel01x
 p_grindingwheel01x+hifr
+p_hammer
+p_hammer+hi
 p_hammer01x
 p_hammer01x+hifr
 p_hammer02x
@@ -119,6 +122,7 @@ p_needle02x
 p_pickaxe01x
 p_poopwheelbarrow02x
 p_poopwheelbarrow02x+hifr
+p_presstools
 p_prybar01x
 p_pulley01x
 p_rake02x

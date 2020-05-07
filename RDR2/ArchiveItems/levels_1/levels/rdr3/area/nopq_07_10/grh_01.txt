@@ -4,6 +4,7 @@ grh_01_chickencoop01_vfx
 grh_01_ext_vfx
 grh_01_outhouse_vfx
 grh_01_ranoke_frame_2_vfx
+grh_01+hi
 grh_chickencoop01
 grh_chickencoop01_d
 grh_ext

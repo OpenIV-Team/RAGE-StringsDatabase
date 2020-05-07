@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@van_hobo_int
 van_hobo_int
 van_hobo_int_ref
 van_hobo_int_ref+hidr

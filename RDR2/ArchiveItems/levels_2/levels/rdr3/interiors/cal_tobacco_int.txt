@@ -11,3 +11,5 @@ cal_tobacco_int_ref+hidr
 cal_tobacco_int_shadowproxy
 cal_tobacco_int_shell
 cal_tobacco_int_shell+hidr
+cal_tobacco_int+hi
+hi@cal_tobacco_int

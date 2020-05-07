@@ -47,7 +47,11 @@ bla_west_res_02+hidr
 bla_west_res_church
 bla_west_res_church_em
 bla_west_res_church+hidr
+bla_west_res_em
 bla_west_res_em_slod
+bla_west_res_props
+bla_west_res_props+hi
+bla_west_res_townburial_hole
 bla_west_res_walla
 bla_west_res_walla_d
 bla_west_res_wallb
@@ -56,4 +60,5 @@ bla_west_res_walle
 bla_west_res_walle_d
 bla_west_res_wallf
 bla_west_res_wallf_d
+bla_west_res+hi
 blawerepr_combo01_slod

@@ -1,1 +1,13 @@
 _manifest
+old
+old_01_gtxd
+old_01_gtxd+hi
+old_cpt_int_gtxd
+old_cpt_int_gtxd+hi
+old_jailsmth_int_gtxd
+old_jailsmth_int_gtxd+hi
+old_storage_int_gtxd
+old_storage_int_gtxd+hi
+old_towers_gtxd
+old_towers_gtxd+hi
+old+hi

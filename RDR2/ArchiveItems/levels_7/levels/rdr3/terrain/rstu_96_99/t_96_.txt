@@ -1,6 +1,8 @@
 _cache
 _manifest
 t_96_
+t_96__bkt_1
+t_96__bkt_3
 t_96__hd_0_0_0
 t_96__hd_0_0_1
 t_96__hd_0_0_-1
@@ -69,6 +71,7 @@ t_96__hd_0_-4_-3
 t_96__hd_0_-4_-4
 t_96__main_track_de002
 t_96__main_track_de01
+t_96_+hi
 t_96_04_rail_decal_01
 t_96_07_decal01
 t_96_07_decal02

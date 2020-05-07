@@ -1,1 +1,3 @@
 _manifest
+revolver_cattleman
+revolver_cattleman+hi

@@ -1,5 +1,9 @@
 _cache
 _manifest
+cin_01__0
+cin_01__1
+cin_01__2
+cin_01__3
 cin_01_bridge_01_new
 cin_01_bridge_01_new_decals
 cin_01_bridge_01_new_rubble
@@ -17,6 +21,8 @@ cin_01_climb03_lod
 cin_01_climb03+hidr
 cin_01_doorway
 cin_01_doorway_slod
+cin_01_em
+cin_01_em+hi
 cin_01_fort_new_rubble_02
 cin_01_ipl_decal
 cin_01_ipl_decal+hidr
@@ -31,6 +37,8 @@ cin_01_post001
 cin_01_post001_lod
 cin_01_stone_decal
 cin_01_stone_decal+hidr
+cin_01_txd
+cin_01_txd+hi
 cin_01_upperbit_em
 cin_01_upperbit_ground01
 cin_01_upperbit_ground01+hidr
@@ -40,6 +48,8 @@ cin_01_upperbit_wall_vfx
 cin_01_upperbit_wall01
 cin_01_upperbit_wall01_lod
 cin_01_upperbit_wall01+hidr
+cin_b_11_
+cin_b_11_+hi
 cin_box001
 cin_box002
 cin_des_smg2_fortwall_end
@@ -50,3 +60,5 @@ cin_sand_glue_002
 cin_sand_glue_003
 cin_tor_int_lod
 cin01_upper_decal001
+hi@cin_01__0
+hi@cin_01__1

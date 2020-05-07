@@ -14,9 +14,11 @@ new_wrh_01_props_debris_02
 new_wrh_01_props_debris_03
 new_wrh_01_props_debris_04
 new_wrh_01_props_debris_05
+new_wrh_01_props_debris_txd
 new_wrh_01_tower
 new_wrh_01_tower_det
 new_wrh_01_tower_det+hidr
 new_wrh_01_tower_wt
 new_wrh_01_tower+hidr
+new_wrh_01_txd1
 newwr01pr_combo01_dslod

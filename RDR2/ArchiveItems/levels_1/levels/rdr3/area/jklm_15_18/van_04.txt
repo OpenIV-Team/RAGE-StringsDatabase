@@ -16,6 +16,7 @@ van_04_poo_03
 van_04_poo_04
 van_04_props_null
 van_horn_01_saloonvines01
+van_horn_04
 van_horn_04_clothesline001
 van_horn_04_clothesline001+hidr
 van_horn_04_debris01b
@@ -29,3 +30,4 @@ van_horn_04_depot+hidr
 van_horn_04_dockruina
 van_horn_04_dockruina_01
 van_horn_04_dockruinb
+van_horn_04+hi

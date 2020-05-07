@@ -1,0 +1,2 @@
+mech_weapons_shortarms@base@weapon@cattleman_str_gesture@left
+mech_weapons_shortarms@base@weapon@cattleman_str_gesture@right

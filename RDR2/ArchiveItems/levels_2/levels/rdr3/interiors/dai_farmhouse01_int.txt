@@ -5,9 +5,13 @@ dai_farmhouse_lightbox01
 dai_farmhouse_lightbox02
 dai_farmhouse_lightbox03
 dai_farmhouse01_int
+dai_farmhouse01_int_ref
 dai_farmhouse01_int_ref_a
 dai_farmhouse01_int_ref_b
 dai_farmhouse01_int_ref_c
+dai_farmhouse01_int_ref+hi
+dai_farmhouse01_txd
+dai_farmhouse01_txd+hi
 dai_int_bedr_decals
 dai_int_main_bedl_decals01
 dai_int_main_bedl_det01
@@ -37,3 +41,4 @@ dai_int_shell_mirror+hidr
 dai_int_shell_walls
 dai_int_shell_walls+hidr
 dai_int_shell_watersink
+hi@dai_farmhouse01_int

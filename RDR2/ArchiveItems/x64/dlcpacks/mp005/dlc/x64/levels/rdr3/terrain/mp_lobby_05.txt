@@ -1,3 +1,4 @@
 _cache
 _manifest
+mp005_mp_lobby_05
 mp005_mp_lobby_05_plane001

@@ -1,5 +1,6 @@
 _manifest
 str_03_
+str_03_+hi
 str_03_01_frt
 str_03_01_frt+hidr
 str_03_audio_box_proxy
@@ -50,6 +51,11 @@ str_03_shipping+hidr
 str_03_srtsign
 str_03_srtsign+hidr
 str_03_stairs01
+str_03_txd2
+str_03_txd2_em
+str_03_txd2+hi
+str_03_txd3
+str_03_txd3+hi
 str_03_upperbridge
 str_03_upperbridge_dcl
 str_03_upperbridge_dcl+hidr

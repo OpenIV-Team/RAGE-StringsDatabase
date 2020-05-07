@@ -15,6 +15,7 @@ p_pebble01x
 p_pebble02x
 p_pebble03x
 p_pebble04x
+p_rockbag01x
 p_rockbag01x_close
 p_rockbag01x_open
 p_torchholder01x

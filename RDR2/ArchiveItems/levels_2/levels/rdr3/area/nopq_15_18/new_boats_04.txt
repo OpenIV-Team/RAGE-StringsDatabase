@@ -1,4 +1,5 @@
 _manifest
+new_boat_04a_txd
 new_boats_shplrg_01_dec
 new_boats_shplrg_01_dec001
 new_boats_shplrg_01_dec002

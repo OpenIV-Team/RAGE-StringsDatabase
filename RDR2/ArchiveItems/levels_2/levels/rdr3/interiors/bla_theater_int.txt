@@ -7,8 +7,11 @@ bla_theater_int_ref
 bla_theater_int_ref+hidr
 bla_theater_int_shd_proxy
 bla_theater_int_shell
+bla_theater_int_shell_txd
 bla_theater_int_shell+hidr
 bla_theater_int_shell2_amv
+bla_theater_int_txd
+bla_theater_int_txd+hi
 bla_theater_lob_decals
 bla_theater_lob_details
 bla_theater_lob_details+hidr
@@ -24,3 +27,4 @@ bla_theater_proj_projectors+hidr
 bla_theater_proj_walls
 bla_theater_proj_walls+hidr
 bla_theatre_proj_electrical
+hi@bla_theater_int

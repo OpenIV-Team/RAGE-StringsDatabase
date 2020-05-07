@@ -9,5 +9,7 @@ src_rc_outhouse
 src_rc_outhouse+hidr
 src_rc_roof
 src_rc_roof+hidr
+src_shack_rc
 src_shack_rc_int_lod
+src_shack_rc+hi
 src_shackrc_combo_dslod

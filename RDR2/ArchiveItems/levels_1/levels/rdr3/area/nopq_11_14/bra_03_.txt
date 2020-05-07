@@ -1,5 +1,6 @@
 _manifest
 bra_03_
+bra_03_+hi
 bra_corncrib_lod
 bra_cornmill_ext_corncobs
 bra_cornmill_ext_corncobs1

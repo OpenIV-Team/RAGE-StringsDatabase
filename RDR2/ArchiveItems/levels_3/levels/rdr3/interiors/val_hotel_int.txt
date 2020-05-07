@@ -28,7 +28,10 @@ val_hotel_int_m_ref_proxy_2
 val_hotel_int_m_ref_proxy_3
 val_hotel_int_m_ref_proxy_4
 val_hotel_int_m_ref_proxy_5
+val_hotel_int_main
 val_hotel_int_shadowproxy
+val_hotel_int_shell
+val_hotel_int_txd
 val_hotel_lower_shell
 val_hotel_lower_shell+hidr
 val_hotel_lowerhall_details

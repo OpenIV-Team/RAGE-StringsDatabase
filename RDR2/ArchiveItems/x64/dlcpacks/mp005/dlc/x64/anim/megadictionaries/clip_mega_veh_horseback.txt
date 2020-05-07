@@ -1,1 +1,10 @@
 _manifest
+mega_gen@veh_horseback@seat_rear@female@right@normal
+mega_gen@veh_horseback@seat_rear@female@right@normal@2
+mega_veh_horseback@aim@front@longarms@base
+mega_veh_horseback@aim@front@shortarms@base
+mega_veh_horseback@seat_rear@female@right@agitated@idle
+mega_veh_horseback@seat_rear@female@right@agitated_high@idle
+mega_veh_horseback@seat_rear@female@right@agitated_medium@idle
+mega_veh_horseback@seat_rear@female@right@normal@idle
+mega_veh_horseback@seat_rear@female@right@normal@slope_max

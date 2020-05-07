@@ -13,6 +13,7 @@ arm_genstore_int
 arm_genstore_int_ref_a_b
 arm_genstore_int_ref_a_b+hidr
 arm_genstore_int_shdw
+arm_genstore_int+hi
 arm_genstore_lights_01
 arm_genstore_lights_02
 arm_genstore_portrait
@@ -31,3 +32,4 @@ arm_gs_sign_revolverammo
 arm_gs_sign_rifle_ammo
 arm_gs_sign_shotgunammo
 arm_gun_sign_pistolammo
+hi@arm_genstore_int

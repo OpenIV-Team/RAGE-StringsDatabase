@@ -3,6 +3,7 @@ _manifest
 eme_00_grave_rocks
 eme_00_grave_rocks+hidr
 eme_01_
+eme_01_+hi
 eme_01_audioproxy
 eme_01_bridge_001
 eme_01_bridge_002
@@ -13,6 +14,8 @@ eme_01_kitty_footprints+hidr
 eme_01_lights_placeholder1
 eme_01_lights_placeholder2
 eme_01_lights_placeholder3
+eme_01_props_txd
+eme_01_props_txd+hi
 eme_01_road_decals01
 eme_01_road_decals03
 eme_01_road_decals04

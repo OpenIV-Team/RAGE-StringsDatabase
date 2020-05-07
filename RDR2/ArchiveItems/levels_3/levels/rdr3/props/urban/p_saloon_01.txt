@@ -49,4 +49,5 @@ p_gen_tablepoker01x
 p_gen_tablepoker01x+hidr
 p_inv_shopbottlesmall01x
 p_saloon_01
+p_saloon01
 topcardpokerhand02x

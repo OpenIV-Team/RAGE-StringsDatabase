@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@new_magic_int
 new_magic_int
 new_magic_int_floor1
 new_magic_int_floor1+hidr
@@ -10,7 +11,9 @@ new_magic_int_ref_proxy_a
 new_magic_int_ref_proxy_b
 new_magic_int_shadowproxy
 new_magic_int_shell
+new_magic_int_shell_txd
 new_magic_int_shell+hidr
+new_magic_int_txd
 new_magic_lob_bulb_holder
 new_magic_lob_curtains
 new_magic_lob_decals

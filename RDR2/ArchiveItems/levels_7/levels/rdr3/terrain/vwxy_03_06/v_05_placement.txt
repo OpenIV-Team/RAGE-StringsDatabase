@@ -2,3 +2,5 @@ _cache
 _manifest
 v_05_p_box034
 v_05_placement
+v_05_placement_strm
+v_05_placement_strm_0

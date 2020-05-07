@@ -12,6 +12,7 @@ new_cablemesh60903_hvlit001
 new_cablemesh60922_hvlit001
 new_cablemesh60995_tstd001
 new_cablemesh61006_tstd001
+new_gar_cablemesh
 new_gar_rds_001
 new_gar_rds_001_decal
 new_gar_rds_001_decal_pom
@@ -40,6 +41,7 @@ new_gar_rds_008_decal
 new_gar_rds_008_decal_pom
 new_gar_rds_cableconnect_02
 new_gar_rds_cableconnect_a03
+new_gar_rds_txd1
 new_trolley_stop_red
 newgardpr_props08_slod
 newgardpr_props09_slod

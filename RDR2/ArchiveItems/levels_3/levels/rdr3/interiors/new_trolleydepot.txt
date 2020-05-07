@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@new_trolleydepot
 new_trolley_decals
 new_trolley_decals+hidr
 new_trolley_details
@@ -13,3 +14,4 @@ new_trolleydepot
 new_trolleydepot_ref
 new_trolleydepot_ref+hidr
 new_trolleydepot_shad_proxy
+new_trolleydepot_txd

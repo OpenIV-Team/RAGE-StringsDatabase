@@ -37,6 +37,8 @@ p_test_cl_articled
 p_test_cl_articlee
 p_test_cl_articlef
 p_test_cl_cluster_a
+p_test_clothesline
+p_test_clothesline+hi
 p_testtintbox
 p_torturetest01x
 p_torturetest01x+hidr
@@ -44,6 +46,8 @@ p_torturetest02x
 p_torturetest02x+hidr
 prop_parasol_01
 prop_parasol_01+hifr
+roughtests
+roughtests+hi
 s_chainlink01x_inst
 s_deerpelttestani01x
 s_door_vault_damage

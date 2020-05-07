@@ -1,6 +1,16 @@
 _manifest
+dlc_content_extra_m1899
+dlc_content_extra_m1899+hi
 mp004_s_ammo_lemat_pistol
 mp004_s_ammo_lemat_shotgun
+pistol_m1899
+pistol_m1899+hi
+repeater_evans
+repeater_evans+hi
+revolver_doubleaction04
+revolver_lemat
+revolver_lemat+hi
+sppacklemat_ammo
 w_pistol_m189902
 w_pistol_m189902_barrel01
 w_pistol_m189902_barrel02

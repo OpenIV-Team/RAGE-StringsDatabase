@@ -16,3 +16,6 @@ agu_hut01_shell
 agu_hut01_shell+hidr
 agu_hut01_stuff01
 agu_hut01_stuff01+hidr
+agu_hut01_txd
+agu_hut01_txd+hi
+hi@agu_hut01_int

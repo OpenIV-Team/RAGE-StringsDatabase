@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@new_saloon02_int
 new_res_02_salslum01_shell
 new_res_02_salslum01_shell+hidr
 new_saloon02_int
@@ -7,6 +8,8 @@ new_saloon02_int_ref_a
 new_saloon02_int_ref_b
 new_saloon02_int_ref_c
 new_saloon02_int_shadowproxy
+new_saloon02_int_shell
+new_saloon02_int_txd
 salslum_back_detail
 salslum_back_detail+hidr
 salslum_back_int_decals02

@@ -58,4 +58,6 @@ gri_rock_snow_09
 gri_rock_snow_09+hidr
 gri_rock_snow_10
 gri_rock_snow_10+hidr
+rdr_rock_gri_11
+rdr_rock_gri_11+hi
 rdr_rock_grizzlies

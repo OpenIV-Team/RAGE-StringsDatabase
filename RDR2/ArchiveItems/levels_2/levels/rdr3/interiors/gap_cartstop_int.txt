@@ -21,11 +21,16 @@ gap_cartstop_int_frames
 gap_cartstop_int_frames+hidr
 gap_cartstop_int_hooks
 gap_cartstop_int_railing
+gap_cartstop_int_ref
 gap_cartstop_int_ref_a
 gap_cartstop_int_ref_b
+gap_cartstop_int_ref+hi
 gap_cartstop_int_rope
 gap_cartstop_int_rope+hidr
 gap_cartstop_int_shell
 gap_cartstop_int_shell+hidr
+gap_cartstop_int_txd
+gap_cartstop_int_txd+hi
 gap_cartstop_lightbox_001
 gap_cartstop_lightbox_002
+hi@gap_cartstop_int

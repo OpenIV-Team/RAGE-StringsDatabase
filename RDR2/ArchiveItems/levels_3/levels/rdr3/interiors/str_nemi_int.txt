@@ -17,6 +17,7 @@ str_nemi_int
 str_nemi_int_reflec_proxy
 str_nemi_int_reflec_proxy+hidr
 str_nemi_int_shadow_proxy
+str_nemi_int_shell
 str_nemi_lace_curtains
 str_nemi_lace_curtains+hidr
 str_nemi_shell_floor

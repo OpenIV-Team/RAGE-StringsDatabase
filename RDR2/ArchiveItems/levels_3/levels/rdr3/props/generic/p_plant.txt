@@ -57,6 +57,8 @@ p_pot_flowerarng23x
 p_pot_flowerarng23x+hifr
 p_pot_flowerarngdead02
 p_pot_flowerarngdead02+hifr
+p_pot_flowerarr10
+p_pot_flowerarr10+hi
 p_pot_leafyvase
 p_pot_leafyvase+hifr
 p_pot_plant_01b
@@ -86,14 +88,18 @@ p_pot_plant_7b
 p_pot_plant_7b+hifr
 p_pot_plant_7c
 p_pot_plant_7c+hifr
+p_potfern_nbx
+p_potfern_nbx+hi
 p_potfernbalcony01x
 p_potfernbalcony01x+hifr
 p_potfernbalcony02x
 p_potfernbalcony02xb
 p_potfernbalcony05xb_a
 p_potfernbalcony05xb_b
+p_weed_strip
 p_weed_strip_aa_int
 p_weed_strip_ab_int
 p_weed_strip_ac_int
 p_weed_strip_ac_int+hifr
 p_weed_strip_ad_int
+p_weed_strip+hi

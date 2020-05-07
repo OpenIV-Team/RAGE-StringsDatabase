@@ -29,6 +29,7 @@ win_snow_shallow3_lod
 win_snow_shallow4
 win_snow_shallow4_lod
 win_snow_slod
+win_snow_strm
 win_snow_win1
 win_snow_win2
 win_snow_win2_slush

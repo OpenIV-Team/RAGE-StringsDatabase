@@ -1,5 +1,6 @@
 _cache
 _manifest
+mp005_mp_reward_lobby_int
 mp005_mp_reward_lobby_int_barn_shell
 mp005_mp_reward_lobby_int_barn_shell+hidr
 mp005_mp_reward_lobby_int_decals

@@ -1,0 +1,11 @@
+script@hideout@beaverhollow@backentrance
+script@hideout@beaverhollow@captivedrag_b
+script@hideout@shadybelle@argument
+script@hideout@shadybelle@campstory
+script@hideout@shadybelle@leadersuicide
+script@hideout@shadybelle@targetpractice
+script@hideout@sixpoint@cabincover
+script@hideout@sixpoint@cabinstorm
+script@hideout@sixpoint@couple
+script@hideout@sixpoint@guard
+script@hideout@sixpoint@robdiscuss

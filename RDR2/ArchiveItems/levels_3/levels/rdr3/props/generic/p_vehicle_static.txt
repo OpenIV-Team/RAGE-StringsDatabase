@@ -60,6 +60,8 @@ p_hrt_wagon02
 p_hrt_wagon02+hifr
 p_hrt_wagon06
 p_hrt_wagon06+hifr
+p_hrt_wagons
+p_hrt_wagons+hi
 p_kittywagon04x
 p_kittywagon04x+hidr
 p_marketcart01x
@@ -81,6 +83,8 @@ p_train_northflatcar01x
 p_train_northflatcar01x+hidr
 p_traindoor01x
 p_traindoor01x+hidr
+p_trainparts
+p_trainparts+hi
 p_trainparts01x
 p_trainparts02x
 p_trainparts02x+hidr
@@ -97,6 +101,8 @@ p_wagon02x
 p_wagon02x+hifr
 p_wagon05x
 p_wagon05x+hifr
+p_wagon2lyrveh
+p_wagon2lyrveh+hi
 p_wagonbroken01x
 p_wagonbroken02x
 p_wagonparked01x
@@ -104,6 +110,7 @@ p_wagonparked01x+hi
 p_wagonparts01x
 p_wagonparts01x+hifr
 p_wagonparts03x
+p_wagonparts04
 p_wagonpin01x
 p_wagonspring01x
 p_wagonwheel01

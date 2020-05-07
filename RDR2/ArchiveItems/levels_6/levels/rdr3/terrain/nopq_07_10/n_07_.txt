@@ -5,6 +5,8 @@ n_07___decal001
 n_07___decal002
 n_07___decal004
 n_07___decals001
+n_07__bkt_2
+n_07__bkt_3
 n_07__grv_d
 n_07__hd_0_0_0
 n_07__hd_0_0_1
@@ -80,6 +82,7 @@ n_07__river_cross
 n_07__rock_decal_02
 n_07__rock_decal_02+hidr
 n_07__rock_decal_03
+n_07_+hi
 n_07_02_decal
 n_07_02_decal+hidr
 n_07_03_decal

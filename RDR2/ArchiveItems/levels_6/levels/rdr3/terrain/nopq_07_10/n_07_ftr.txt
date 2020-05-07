@@ -1,4 +1,6 @@
 _cache
 _manifest
+n_07_ftr_0
+n_07_ftr_1
 n_07ftr_n_07_ftr
 n_07ftr_n_07_ftr+hidr

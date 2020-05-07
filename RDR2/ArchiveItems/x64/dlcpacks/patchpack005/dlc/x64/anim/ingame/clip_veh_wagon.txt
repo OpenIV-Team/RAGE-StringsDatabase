@@ -1,0 +1,2 @@
+veh_wagon@standard@rear@rl@exit@to@land@normal@get_out@male
+veh_wagon@standard@rear@rr@exit@to@land@normal@get_out@male

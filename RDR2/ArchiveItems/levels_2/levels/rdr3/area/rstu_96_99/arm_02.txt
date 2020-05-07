@@ -5,6 +5,7 @@ arm_02__arm_02l_chkcoop_dcl+hidr
 arm_02__arm02_combo06_slod
 arm_02__arm02_combo09_slod
 arm_02__arm02_combo10_slod
+arm_02_0
 arm_02_blacksmith01x
 arm_02_blacksmith01x_cholera
 arm_02_blacksmith01x+hidr
@@ -25,3 +26,6 @@ arm_02_stable01x_cholera_lod
 arm_02_stable01x_scarletfvr
 arm_02_stable01x+hidr
 arm_02_stbl_scarletfvr_lod
+arm_02_txd_01
+hi@arm_02_0
+hi@arm_02_1

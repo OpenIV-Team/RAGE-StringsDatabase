@@ -1,6 +1,8 @@
 _cache
 _manifest
 n_15_
+n_15__bkt_0
+n_15__bkt_2
 n_15__hd_0_0_0
 n_15__hd_0_0_1
 n_15__hd_0_0_-1
@@ -67,6 +69,7 @@ n_15__hd_0_-4_3
 n_15__hd_0_-4_-3
 n_15__hd_0_-4_-4
 n_15__hd_0_-4_-4+hidr
+n_15_+hi
 n_15_02_rail_decal
 n_15_03_decal_01
 n_15_03_decal_01+hidr

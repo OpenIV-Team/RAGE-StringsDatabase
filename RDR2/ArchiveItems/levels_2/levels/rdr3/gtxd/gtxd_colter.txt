@@ -1,2 +1,9 @@
 _manifest
+adler_gtxd
+adler_gtxd+hi
+colint_gtxd
+colint_gtxd+hi
 colter
+colter+hi
+colwin_gtxd
+colwin_gtxd+hi

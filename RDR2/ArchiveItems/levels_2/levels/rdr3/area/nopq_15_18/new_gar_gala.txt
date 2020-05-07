@@ -43,6 +43,7 @@ new_gar_gala_roof00+hidr
 new_gar_gala_roofrear
 new_gar_gala_sideext1
 new_gar_gala_trellis01
+new_gar_gala_txd1
 new_gar_gala_vines
 new_gar_gala_vines+hidr
 new_gar_gala_water_fntn

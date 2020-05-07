@@ -11,6 +11,7 @@ eme_sal_furniture+hidr
 eme_sal_shell
 eme_sal_shell+hidr
 eme_saloon_int
+hi@eme_saloon_int
 mp006_eme_sal_decal_webs
 mp006_eme_sal_decal_webs+hidr
 mp006_eme_sal_dummy

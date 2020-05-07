@@ -1,0 +1,9 @@
+script@mech@crafting_fallbacks@craft_bullets_explosive_f
+script@mech@crafting_fallbacks@craft_bullets_split_f
+script@mech@crafting_fallbacks@craft_fire_bottle_f
+script@mech@crafting_fallbacks@craft_improved_arrows_f
+script@mech@crafting_fallbacks@craft_improved_tomahawk_f
+script@mech@crafting_fallbacks@craft_modify_arrows_f
+script@mech@crafting_fallbacks@craft_poison_throwingknives_f
+script@mech@crafting_fallbacks@craft_throwingknives_improved_f
+script@mech@crafting_fallbacks@craft_volatile_dynamite_f

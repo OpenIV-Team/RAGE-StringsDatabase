@@ -1,5 +1,7 @@
 _cache
 _manifest
+mp001_celeb_screen_desert
+mp001_celeb_screen_snow
 mp001_mp_celeb_details_desert05
 mp001_mp_celeb_grave_snow_01
 mp001_mp_celeb_grave_swamp_01
@@ -58,11 +60,16 @@ mp001_mp_win_set_desert106
 mp001_mp_win_set_desert112
 mp001_mp_winlose_base_lod
 mp001_mp_winlose_base_platform
+mp001_mp_winlose_desert
 mp001_mp_winlose_desert_lod
 mp001_mp_winlose_desert_platform
+mp001_mp_winlose_forest
 mp001_mp_winlose_forest_lod
 mp001_mp_winlose_forest_platform
+mp001_mp_winlose_snow
 mp001_mp_winlose_snow_lod
 mp001_mp_winlose_snow_platform
 mp001_mp_winlose_swalod
+mp001_mp_winlose_swamp
 mp001_mp_winlose_swamp_platform
+mp001_u_07p_winlose

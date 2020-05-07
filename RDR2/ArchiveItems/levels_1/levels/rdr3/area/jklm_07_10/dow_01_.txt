@@ -14,6 +14,8 @@ dow_01_hse_main_vfx
 dow_01_hse_main+hidr
 dow_01_lightbox
 dow_01_proxy
+dow_01_txd
+dow_01_txd+hi
 dow_barn
 dow_barn_shuttersclsd
 dow_barn_shuttersclsd_slod

@@ -1,6 +1,9 @@
 _cache
 _manifest
 p_05_
+p_05__bkt_0
+p_05__bkt_2
+p_05__bkt_3
 p_05__deroad_001
 p_05__hd_0_0_0
 p_05__hd_0_0_1
@@ -70,6 +73,7 @@ p_05__hd_0_-4_-3
 p_05__hd_0_-4_-4
 p_05__hd_0_-4_-4+hidr
 p_05__p05_cliff_decal001
+p_05_+hi
 p_05_07_decal001
 p_05_07_decal002
 p_05_07_decal003

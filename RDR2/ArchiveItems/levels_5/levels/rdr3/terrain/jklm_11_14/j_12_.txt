@@ -1,6 +1,9 @@
 _cache
 _manifest
 j_12_
+j_12__bkt_0
+j_12__bkt_2
+j_12__bkt_3
 j_12__hd_0_0_0
 j_12__hd_0_0_1
 j_12__hd_0_0_-1
@@ -67,6 +70,7 @@ j_12__hd_0_-4_3
 j_12__hd_0_-4_-3
 j_12__hd_0_-4_3+hidr
 j_12__hd_0_-4_-4
+j_12_+hi
 j_12_01_decal
 j_12_05_rail_decal
 j_12_08_rail_decal_01

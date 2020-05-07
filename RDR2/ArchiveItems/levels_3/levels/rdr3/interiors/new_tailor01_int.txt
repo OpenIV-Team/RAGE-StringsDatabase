@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@new_tailor01_int_main
 new_tailer_int_ref_a
 new_tailer_int_ref_a+hidr
 new_tailor_back_decals
@@ -28,6 +29,7 @@ new_tailor_int_ref_b
 new_tailor_int_ref_c
 new_tailor_int_shell
 new_tailor_int_shop_cab
+new_tailor_int_txd
 new_tailor_lightbox
 new_tailor_lightbox001
 new_tailor_lightbox002
@@ -43,4 +45,5 @@ new_tailor_shop_painting+hidr
 new_tailor_shop_walls
 new_tailor_shop_walls+hidr
 new_tailor01_int
+new_tailor01_int_main
 new_tailor01_shadowproxy

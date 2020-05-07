@@ -1,4 +1,11 @@
 _manifest
+carcass_tilable
+carcassverysmall_01
+corpse_01_05
+corpse_01_05+hi
+deadchaingang
+deadchaingang+hi
+femur_01_02
 p_advdecompalligator01x
 p_advdecompalligator01x+hi
 p_advdecompalligator03x
@@ -55,6 +62,8 @@ p_advdecompsuidae01x
 p_advdecompsuidae01x+hifr
 p_alligatorskull01x
 p_alligatorskull01x+hifr
+p_bnsktflt01x
+p_bnsktflt01x+hi
 p_bodypartarm01x
 p_bodypartarm01x+hidr
 p_bodypartarm02x
@@ -66,6 +75,8 @@ p_bodyparthead01x
 p_bodyparthead02x
 p_boneshorse01x
 p_boneshorse02x
+p_boneshuman
+p_boneshuman+hi
 p_boneshuman01x
 p_boneshuman02x
 p_boneshuman03x
@@ -80,6 +91,9 @@ p_bonesskeleton04x
 p_bonesskeleton04x+hifr
 p_bonesskeletonfloat01x
 p_carcass
+p_carcass+hi
+p_carcassbones
+p_carcassbones+hi
 p_carcassboneslg01x
 p_carcassboneslg01x+hifr
 p_carcassbonesmd01x
@@ -103,6 +117,10 @@ p_carcasssmall01x
 p_carcasssnake01x
 p_carcassverysmall01x
 p_carcassverysmallfloat01x
+p_corpse_02_03
+p_corpse_02_03+hi
+p_corpse_04_06
+p_corpse_04_06+hi
 p_corpse01x
 p_corpse02x
 p_corpse03x
@@ -140,6 +158,8 @@ p_dogbone01x
 p_femur01x
 p_femur02x
 p_femur03x
+p_humanskeleton01x
+p_humanskeleton01x+hi
 p_humanskeleton02x_arml
 p_humanskeleton02x_calfr
 p_humanskeleton02x_footr
@@ -154,6 +174,8 @@ p_humanskull02x
 p_massgrave01x
 p_massgrave02x
 p_massgrave03x
+p_massgraves
+p_massgraves+hi
 p_pigfresh01x
 p_roosterfresh01x
 p_roosterfresh01x+hidr

@@ -1,1 +1,7 @@
 _manifest
+horn_hr1_000_c0_000_ab
+horn_hr1_002_c0_000_ab
+horn_hr1_002_c0_001_ab
+horn_hr1_005_c0_000_ab
+horn_hr1_005_c0_001_ab
+horn_hr1_006_c0_000_ab

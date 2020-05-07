@@ -10,6 +10,10 @@ mp006_a4_mshine05_ext
 mp006_a4_mshine05_int_fakeint
 mp006_a4_mshine05_lod
 mp006_a4_mshine05_slod
+mp006_a4supp_moonshine03
+mp006_a4supp_moonshine03_plug
+mp006_a4supp_moonshine05
+mp006_a4supp_moonshine05_plug
 mp006_area04_supp
 mp006_mshine05_flasbackint
 mp006_mshine05_flasbackint+hidr

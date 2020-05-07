@@ -140,6 +140,8 @@ n_1114_a_rrcross_09
 n_1114_a_rrcross_09_detail
 n_1114_r_a_bri00
 n_1114_r_a_bri00+hidr
+n_1114_r_a_rails
+n_1114_r_a_rails+hi
 n_1114_r_a_sle00
 n_1114_r_a_sle00_dec
 n_1114_r_a_sle00_dec+hidr

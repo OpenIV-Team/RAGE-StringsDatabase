@@ -17,9 +17,13 @@ fom_01__fom_leftwing+hidr
 fom_01__fom_rightwing_em
 fom_01__fom01_combo_01_lod
 fom_01__fom01_combo_01_lod001
+fom_01_0
 fom_01_02_d
 fom_01_03_d
 fom_01_04_d
+fom_01_1
+fom_01_2
+fom_01_3
 fom_01_dec
 fom_01_dec+hidr
 fom_01_decal_00
@@ -54,3 +58,8 @@ fom_01_wall_north
 fom_01_wall_north+hidr
 fom_01_wall_south
 fom_01_wall_south+hidr
+hi@fom_01_0
+hi@fom_01_1
+hi@fom_01_2
+hi@fom_01_3
+hi@fom_01_4

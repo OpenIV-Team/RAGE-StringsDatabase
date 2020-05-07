@@ -63,4 +63,10 @@ gua_rubble_rock_01
 gua_rubble_rock_02
 gua_rubble_rock_03
 gua_rubble_rock_04
+rdr_rock_gua_09
+rdr_rock_gua_09+hi
+rdr_rock_gua_scree_01
+rdr_rock_gua_scree_01+hi
+rdr_rock_gua_stones
+rdr_rock_gua_stones+hi
 rdr_rock_guama

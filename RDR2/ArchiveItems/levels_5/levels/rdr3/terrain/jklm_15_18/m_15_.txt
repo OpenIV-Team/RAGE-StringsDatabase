@@ -2,6 +2,9 @@ _cache
 _manifest
 m_15_
 m_15___decal001
+m_15__bkt_1
+m_15__bkt_2
+m_15__bkt_3
 m_15__cover_1
 m_15__hd_0_0_0
 m_15__hd_0_0_1
@@ -69,6 +72,7 @@ m_15__hd_0_-4_-2
 m_15__hd_0_-4_3
 m_15__hd_0_-4_-3
 m_15__hd_0_-4_-4
+m_15_+hi
 m_15_01_rail_decal
 m_15_02_decal01
 m_15_02_rail_decal

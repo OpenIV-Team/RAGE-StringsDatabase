@@ -24,6 +24,7 @@ doc_nurse_decals
 doc_nurse_decals+hidr
 doc_nurse_walls
 doc_nurse_walls+hidr
+hi@new_res_doctor_int
 new_res_doc_shell
 new_res_doc_shell+hidr
 new_res_doctor_int
@@ -31,3 +32,4 @@ new_res_doctor_int_ref_a
 new_res_doctor_int_ref_b
 new_res_doctor_int_ref_c
 new_res_doctor_int_shadowproxy
+new_res_dr_int_txd

@@ -8,3 +8,5 @@ sfe2_dis_defacedgrave_02+hidr
 sfe2_dis_defacedgrave_slod
 sfe2_dis_defgrave_02_deb
 sfe2_dis_defgrave_02_deb+hidr
+sfe2_shack_fe2_dis_01
+sfe2_shack_fe2_dis_01+hi

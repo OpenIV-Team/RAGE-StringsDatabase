@@ -1,0 +1,3 @@
+amb_player@world_human_barcustomer@sober@has_beer@arthur@base
+amb_player@world_human_barcustomer@sober@has_beer@arthur@idle_a
+amb_player@world_human_barcustomer@sober@has_beer@arthur@idle_b

@@ -1,0 +1,13 @@
+script@gfh@ant@ig@ig2_jobbriefs@ig2_jobbriefs
+script@gfh@bon@ig2_jobbriefs@action
+script@gfh@boy@ig2_jobbriefs@jobbriefs
+script@gfh@flaco@ig@ig1@ig1_flaco
+script@gfh@fre@ig2_jobbriefs@jobbriefs
+script@gfh@fre@ig2_jobbriefs@jobbriefs_book_loop
+script@gfh@ham@ig@ig2_jobbriefs@jobbriefs
+script@gfh@joe@ig1_idle@joe_ig1
+script@gfh@lan@ig2_jobbriefs@jobbriefs
+script@gfh@sen@ig@ig2_jobbriefs@ig2_jobbriefs
+script@gfh@shk@ig@ig2_jobbriefs@ig2_jobbriefs
+script@gfh@tre@ig2_jobbriefs@action
+script@gfh@watson@ig@ig1@watson_ig1

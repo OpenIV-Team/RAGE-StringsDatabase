@@ -27,6 +27,7 @@ swa_dep_shack02_decals01
 swa_dep_shack02_decals01+hidr
 swa_dep_shack02+hidr
 swa_dep_warehouse
+swa_dep+hi
 swa_vfx_dep_001
 swa_vfx_dep_aqeduct
 swa_vfx_dep_shack01

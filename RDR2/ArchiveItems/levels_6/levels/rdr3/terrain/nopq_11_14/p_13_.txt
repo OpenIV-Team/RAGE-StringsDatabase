@@ -3,6 +3,8 @@ _manifest
 p_13_
 p_13___decal001
 p_13___decal002
+p_13__bkt_0
+p_13__bkt_3
 p_13__hd_0_0_0
 p_13__hd_0_0_1
 p_13__hd_0_0_-1
@@ -71,11 +73,13 @@ p_13__hd_0_-4_-3
 p_13__hd_0_-4_-4
 p_13__junction_decal
 p_13__junction_decal+hidr
+p_13_+hi
 p_13_03_bridgeblend_01
 p_13_03_bridgeblend_02
 p_13_08_decal_01
 p_13_09_rail_decal_01
 p_13_09_rail_decal_02
+p_13_decal
 p_13_junc_dec_02
 p_13_junc_dec_02+hidr
 p_13_road_decal_01

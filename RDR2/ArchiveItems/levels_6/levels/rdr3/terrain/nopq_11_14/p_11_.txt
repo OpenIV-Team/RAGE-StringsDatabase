@@ -1,6 +1,10 @@
 _cache
 _manifest
 p_11_
+p_11__bkt_0
+p_11__bkt_1
+p_11__bkt_2
+p_11__bkt_3
 p_11__hd_0_0_0
 p_11__hd_0_0_1
 p_11__hd_0_0_-1
@@ -70,4 +74,5 @@ p_11__junction_d00
 p_11__junction_d01
 p_11__p11_plantdecent
 p_11__p11_plantdecent+hidr
+p_11_+hi
 p_11_decal_junc_01

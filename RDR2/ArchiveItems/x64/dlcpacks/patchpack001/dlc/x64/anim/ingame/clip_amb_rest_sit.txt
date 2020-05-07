@@ -1,0 +1,9 @@
+amb_rest_sit@prop_human_seat_chair@roll_smoke@grab@female_a@base
+amb_rest_sit@prop_human_seat_chair@roll_smoke@grab@female_a@react_look@exit@dismissive
+amb_rest_sit@prop_human_seat_chair@roll_smoke@grab@female_a@react_look@exit@relieved
+amb_rest_sit@prop_human_seat_chair@roll_smoke@grab@female_a@trans
+amb_rest_sit@prop_human_seat_chair@roll_smoke@roll@female_a@base
+amb_rest_sit@prop_human_seat_chair@roll_smoke@roll@female_a@react_look@exit@dismissive
+amb_rest_sit@prop_human_seat_chair@roll_smoke@roll@female_a@react_look@exit@relieved
+amb_rest_sit@prop_human_seat_chair@roll_smoke@roll@female_a@trans
+amb_rest_sit@prop_human_seat_chair_table@eating@fork_knife@cutting@female_a@trans

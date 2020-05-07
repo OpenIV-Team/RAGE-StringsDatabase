@@ -14,6 +14,8 @@ p_barber_propset11x
 p_barber_propset11x+hifr
 p_barber_propset12x
 p_barber_propset12x+hifr
+p_barber_propsets
+p_barber_propsets+hi
 p_shavingcups
 p_shavingcups+hifr
 p_shavingcups02

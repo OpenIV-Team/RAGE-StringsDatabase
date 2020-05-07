@@ -1,10 +1,12 @@
 _manifest
+din_01
 din_01_vfx_001
 din_01_vfx_002
 din_01_vfx_003
 din_01_vfx_004
 din_01_vgvines001
 din_01_vgvines001+hidr
+din_01+hi
 din_barn_shutter002
 din_barn_shutter01
 din_chickencoop

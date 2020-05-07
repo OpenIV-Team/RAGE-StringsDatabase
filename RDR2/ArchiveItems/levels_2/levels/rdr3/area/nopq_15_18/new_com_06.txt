@@ -9,6 +9,7 @@ new_com_06_pacific_signage
 new_com_06_props_debris_00
 new_com_06_props_debris_01
 new_com_06_props_debris_02
+new_com_06_props_debris_txd
 new_com_06_sigstation
 new_com_06_sigstation_det_dec
 new_com_06_sigstation_det_dec+hidr
@@ -25,6 +26,9 @@ new_com_06_trainstn_dec
 new_com_06_trainstn_dec+hidr
 new_com_06_trainstn_poles_dec
 new_com_06_trainstn+hidr
+new_com_06_trolleyext
+new_com_06_txd1
+new_com_06_txd2
 new_com_train_canopy_roof
 new_com_train_canopy_roof+hidr
 new_trolley_ext

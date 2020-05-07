@@ -1,6 +1,7 @@
 _cache
 _manifest
 col_bunkhouse_int
+col_bunkhouse_int+hi
 col_bunkhse_int_bed
 col_bunkhse_int_bed+hidr
 col_bunkhse_int_decal
@@ -14,3 +15,4 @@ col_bunkhse_int_weeds_webs
 col_bunkhse_int_weeds_webs+hidr
 col_bunkhse_lights
 col_bunkhse_lights+hidr
+hi@col_bunkhouse_int

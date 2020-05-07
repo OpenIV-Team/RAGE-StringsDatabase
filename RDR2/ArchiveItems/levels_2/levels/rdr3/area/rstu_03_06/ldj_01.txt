@@ -1,5 +1,9 @@
 _cache
 _manifest
+hi@ldj_01_0
+hi@ldj_01_1
+hi@ldj_01_2
+hi@ldj_01_3
 ldj_01__ldj01_combo_slod
 ldj_01__tum_03_wall_01
 ldj_01__tum_03_wall_01_l
@@ -7,6 +11,7 @@ ldj_01__tum_03_wall_02
 ldj_01__tum_03_wall_02_l
 ldj_01__tum_03_wall_03
 ldj_01__tum_03_wall_03_l
+ldj_01_0
 ldj_01_main_ext
 ldj_01_main_ext_vfx
 ldj_01_main_ext+hidr

@@ -1,0 +1,6 @@
+amb_creature_fish@fish_large@break_surface
+amb_creature_fish@fish_large@fish_jumping
+amb_creature_fish@fish_med@break_surface
+amb_creature_fish@fish_med@fish_jumping
+amb_creature_fish@fish_small@break_surface
+amb_creature_fish@fish_small@fish_jumping

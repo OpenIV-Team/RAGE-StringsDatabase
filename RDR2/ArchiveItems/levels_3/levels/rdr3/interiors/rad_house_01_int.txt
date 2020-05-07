@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@rad_house_01_int
 rad_house_01_int
 rad_house_01_ref
 rad_house_01_ref+hidr

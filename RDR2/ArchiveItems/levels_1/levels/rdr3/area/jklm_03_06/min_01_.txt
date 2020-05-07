@@ -137,4 +137,8 @@ min_watertower_01_det_dec+hidr
 min_watertower_01+hidr
 min_win_rail03
 min_win_rail03_parts
+min_winter_mining
+min_winter_mining+hi
+min_winter_mining2
+min_winter_mining2+hi
 min01pr_combo01_slod

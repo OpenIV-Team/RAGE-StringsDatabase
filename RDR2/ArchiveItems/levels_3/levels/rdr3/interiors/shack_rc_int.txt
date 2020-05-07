@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@shack_rc_int
 rc_blanket
 rc_blanket+hidr
 rc_chimney

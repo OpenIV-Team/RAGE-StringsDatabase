@@ -42,4 +42,6 @@ cumb_rock_scree_sim_08
 cumb_rock_scree_sim_09
 cumb_rock_scree_sim_10
 cumb_rock_scree_sim_11
+rdr_rock_cfor_14
+rdr_rock_cfor_14+hi
 rdr_rock_cforest

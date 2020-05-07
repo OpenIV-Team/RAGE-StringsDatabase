@@ -55,12 +55,15 @@ p_clt_colt_ici_8c
 p_clt_colt_ici_8d
 p_clt_colt_ici_8e
 p_clt_colt_ici_8f
+p_clt_colt_icis
+p_clt_colt_icis+hi
 p_clt_gri_ici_01_01
 p_clt_gri_ici_01_02
 p_clt_gri_ici_01_03
 p_clt_gri_ici_01_04
 p_clt_ici_02
 p_clt_ici_03
+p_clt_icicles_spl
 p_clt_min_ici_01a
 p_clt_min_ici_01b
 p_clt_min_ici_01c
@@ -115,6 +118,10 @@ p_clt_wplank_01
 p_clt_wplank_01+hifr
 p_colt_beam_01
 p_colt_frags
+p_colt_frags_adler_txd
+p_colt_frags_adler_txd+hi
+p_colt_frags_col_txd
+p_colt_frags_col_txd+hi
 p_colt_hut_01
 p_colt_hut_01+hifr
 p_colt_hut2_01

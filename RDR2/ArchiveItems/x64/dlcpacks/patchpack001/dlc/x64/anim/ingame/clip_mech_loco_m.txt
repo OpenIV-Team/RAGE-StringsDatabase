@@ -1,0 +1,2 @@
+mech_loco_m@character@arthur@horse_leading@unarmed@hitch
+mech_loco_m@generic@robbing@non_aiming@rifle@catch

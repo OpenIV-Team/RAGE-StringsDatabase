@@ -1,5 +1,6 @@
 _manifest
 pho_01_
+pho_01_+hi
 pho_01_houseboat
 pho_01_houseboat_dec
 pho_01_houseboat_dec+hidr

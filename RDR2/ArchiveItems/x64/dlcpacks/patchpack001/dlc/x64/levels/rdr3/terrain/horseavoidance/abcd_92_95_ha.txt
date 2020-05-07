@@ -13,4 +13,6 @@ abcd_92_95_ha_gapfloor
 abcd_92_95_ha_gapfloor+hidr
 abcd_92_95_ha_pro_worker_dummy
 abcd_92_95_ha_str_01_dummy
+abcd_92_95_ha_strm
+abcd_92_95_ha_strm_0
 abcd_92_95_ha_the_01_dummy

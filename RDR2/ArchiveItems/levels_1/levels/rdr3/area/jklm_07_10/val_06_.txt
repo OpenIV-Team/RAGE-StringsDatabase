@@ -1,4 +1,5 @@
 _manifest
+val_06
 val_06__em001
 val_06__em001+hidr
 val_06_aucb_dec
@@ -12,3 +13,4 @@ val_06_pigpen
 val_06_pigpen+hidr
 val_06_stairs_repair01
 val_06_stairs_repair01+hidr
+val_06+hi

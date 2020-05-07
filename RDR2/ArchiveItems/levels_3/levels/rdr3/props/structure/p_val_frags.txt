@@ -1,6 +1,8 @@
 _manifest
 p_val_frags
 val_p_espst_001
+val_p_frags
+val_p_frags+hi
 val_p_knob_pst_01
 val_p_knob_pst_01_dmg
 val_p_pst_001
@@ -15,6 +17,7 @@ val_p_pst_smt_01_dmg
 val_p_pst_smt_02
 val_p_pst_smt_02_dmg
 val_p_psthb_001
+val_p_sal
 val_p_sal_post_01
 val_p_sal_post_02
 val_p_sal_post_03
@@ -31,6 +34,7 @@ val_p_sal_trail_02
 val_p_sal_trail_03
 val_p_sal_trail_04
 val_p_sal_trail_05
+val_p_sal+hi
 val_p_sgn_ffw_c01
 val_p_sgn_ffw_c01_dmg
 val_p_sgn_tas_01

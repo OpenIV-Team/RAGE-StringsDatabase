@@ -1,5 +1,6 @@
 _cache
 _manifest
+cat_01__0
 cat_01_chimney_vfx_helper
 cat_01_lightbox
 cat_01_vfx_
@@ -22,3 +23,4 @@ cat_shack_01_walls_de+hidr
 cat_shack_01+hidr
 catfish_gname_father
 catfish_gname_son
+hi@cat_01__0

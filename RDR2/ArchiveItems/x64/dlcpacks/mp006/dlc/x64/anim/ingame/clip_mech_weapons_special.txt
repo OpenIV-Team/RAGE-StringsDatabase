@@ -1,0 +1,6 @@
+mech_weapons_special@loco@mp@male@crouch@moonshine_small@idle
+mech_weapons_special@loco@mp@male@crouch@moonshine_small@run
+mech_weapons_special@loco@mp@male@crouch@moonshine_small@walk
+mech_weapons_special@loco@mp@male@normal@moonshine_small@idle
+mech_weapons_special@loco@mp@male@normal@moonshine_small@run
+mech_weapons_special@loco@mp@male@normal@moonshine_small@walk

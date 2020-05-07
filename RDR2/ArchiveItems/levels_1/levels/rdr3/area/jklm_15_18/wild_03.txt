@@ -13,3 +13,5 @@ wld_treasurehunt_decal+hidr
 wld_treasurehunt_detail
 wld_treasurehunt_detail+hidr
 wld_treasurehunt_detail02
+wld_wil_03
+wld_wil_03+hi

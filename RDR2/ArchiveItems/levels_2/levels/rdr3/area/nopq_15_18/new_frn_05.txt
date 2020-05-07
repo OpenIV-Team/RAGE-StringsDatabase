@@ -44,12 +44,16 @@ new_frn_05_props_debris_05
 new_frn_05_props_debris_06
 new_frn_05_props_debris_07
 new_frn_05_props_debris_08
+new_frn_05_props_debris_txd
 new_frn_05_slumsaloon
 new_frn_05_slumsaloon_d
 new_frn_05_slumsaloon_det01
 new_frn_05_slumsaloon+hidr
 new_frn_05_tenantwall
 new_frn_05_tenantwall+hidr
+new_frn_05_txd1
+new_frn_05_txd2
+new_frn_05_txd3
 new_frn05_619bourbon
 new_frn05_619bourbon_det02
 new_frn05_619bourbon+hidr

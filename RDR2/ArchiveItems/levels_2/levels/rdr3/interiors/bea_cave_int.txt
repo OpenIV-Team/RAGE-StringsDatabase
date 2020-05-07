@@ -1,5 +1,6 @@
 _cache
 _manifest
+bea_01_int
 bea_01_int_water
 bea_bear_dec_01
 bea_brokenwagon01
@@ -19,6 +20,10 @@ bea_cave_hall
 bea_cave_hall+hidr
 bea_cave_hallway
 bea_cave_int
+bea_cave_int_terrain
+bea_cave_int_terrain+hi
+bea_cave_int_txd
+bea_cave_int_txd+hi
 bea_cave_ladder_001
 bea_cave_ladder_002
 bea_cave_lightblocker_01

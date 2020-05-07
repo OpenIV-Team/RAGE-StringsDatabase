@@ -1,6 +1,7 @@
 _cache
 _manifest
 met_01_
+met_01_+hi
 met_01_moss
 met_01_moss+hidr
 met_01_roof

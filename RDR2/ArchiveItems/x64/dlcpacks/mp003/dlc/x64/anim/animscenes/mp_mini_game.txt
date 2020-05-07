@@ -1,0 +1,2 @@
+mp_mini_game@fishing@female@shore_unhook_med
+mp_mini_game@fishing@female@shore_unhook_sml

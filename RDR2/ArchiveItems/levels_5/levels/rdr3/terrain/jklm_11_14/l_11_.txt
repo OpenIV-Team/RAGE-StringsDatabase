@@ -1,6 +1,10 @@
 _cache
 _manifest
 l_11_
+l_11__bkt_0
+l_11__bkt_1
+l_11__bkt_2
+l_11__bkt_3
 l_11__hd_0_0_0
 l_11__hd_0_0_1
 l_11__hd_0_0_-1
@@ -68,6 +72,7 @@ l_11__hd_0_-4_-3
 l_11__hd_0_-4_-4
 l_11__tunnel_entrance_decal_01
 l_11__tunnel_entrance_decal_02
+l_11_+hi
 l_11_01_track_decal_01
 l_11_05_track_decal_01
 l_11_08_track_decal_01

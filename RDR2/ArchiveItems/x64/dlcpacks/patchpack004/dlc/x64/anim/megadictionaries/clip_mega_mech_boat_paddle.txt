@@ -1,1 +1,6 @@
 _manifest
+mega_mech_boat_paddle@rowboat@front@left@jack
+mega_mech_boat_paddle@rowboat@front@right@jack
+mega_mech_boat_paddle@rowboat@rear@left@jack
+mega_mech_boat_paddle@rowboat@rear@right@jack
+mega_mech_boat_paddle@rowboat@rear@rl@enter@from@onboard@get_in

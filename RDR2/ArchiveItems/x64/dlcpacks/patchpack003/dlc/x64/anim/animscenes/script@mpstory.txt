@@ -1,0 +1,6 @@
+script@mpstory@mp_poisonherb@ig@ig1_commonbullrush@ig1_commonbullrush
+script@mpstory@mpcgvog3@mpgun2_int_loops@int_loops
+script@mpstory@mpintro@ig2@mpintro_ig2_gang_boss
+script@mpstory@mpintro@ig2@mpintro_ig2_gang_boss_a1
+script@mpstory@mpintro@ig2@mpintro_ig2_gang_boss_a2
+script@mpstory@mpintro@ig2@mpintro_ig2_gang_boss_a3

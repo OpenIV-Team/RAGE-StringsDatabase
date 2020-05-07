@@ -1,1 +1,6 @@
 _manifest
+mega_veh_horseback@aim@front@longarms@base
+mega_veh_horseback@aim@front@shortarms@base
+mega_veh_horseback@seat_saddle@male@normal@canter@1h
+mega_veh_horseback@standard@left@bonded
+mega_veh_horseback@standard@right@bonded

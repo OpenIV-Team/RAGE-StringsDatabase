@@ -24,5 +24,7 @@ new_gar_02_ruins+hidr
 new_gar_02_ter_01
 new_gar_02_ter_02
 new_gar_02_ter_02+hidr
+new_gar_02_txd1_ter
+new_gar_02_txd2
 new_gar_02_woodfence1
 new_gar_02_woodfence4

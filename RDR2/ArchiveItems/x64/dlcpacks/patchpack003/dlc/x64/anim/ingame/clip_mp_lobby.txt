@@ -1,0 +1,2 @@
+mp_lobby@standard@standing@mp_female_c@active_look
+mp_lobby@standard@standing@mp_female_c@base

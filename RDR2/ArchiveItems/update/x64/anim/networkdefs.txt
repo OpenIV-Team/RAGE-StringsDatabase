@@ -1,1 +1,3 @@
 bird
+character_creator
+vehicle

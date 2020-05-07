@@ -1,0 +1,3 @@
+script@fast_travel@establisher@stagecoach@strawberry
+script@fast_travel@intro@camps@gang_camp_exit_beavershollow_1
+script@fast_travel@intro@camps@gang_camp_exit_beavershollow_2

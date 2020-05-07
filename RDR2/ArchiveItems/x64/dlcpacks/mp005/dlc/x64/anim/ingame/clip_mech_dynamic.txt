@@ -1,0 +1,6 @@
+mech_dynamic@prop_player_dynamic_seat_chair_table@arthur@trans
+mech_dynamic@prop_player_dynamic_seat_chair_table@female@trans
+mech_dynamic@prop_player_dynamic_seat_chair_table@stew@arthur@trans
+mech_dynamic@world_player_camp_squat@male_a@idle_a
+mech_dynamic@world_player_camp_squat@male_a@idle_b
+mech_dynamic@world_player_camp_squat@male_a@idle_c

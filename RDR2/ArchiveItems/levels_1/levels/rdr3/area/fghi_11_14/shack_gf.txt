@@ -1,5 +1,7 @@
 _cache
 _manifest
+sgf_
+sgf_+hi
 sgf_rockshack03
 sgf_rockshack03_blood
 sgf_rockshack03_blood+hidr

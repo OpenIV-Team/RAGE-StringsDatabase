@@ -3,4 +3,5 @@ des_brt3_door
 des_brt3_door_01
 des_brt3_door_02
 des_brt3_door_end
+des_brt3_door+hi
 rf_door_start

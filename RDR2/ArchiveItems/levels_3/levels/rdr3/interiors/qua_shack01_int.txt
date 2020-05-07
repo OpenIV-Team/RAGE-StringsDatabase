@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@qua_shack01_int
 qua_shack01_int
 qua_shack01_int_ref_proxy
 qua_shack01_int_ref_proxy+hidr

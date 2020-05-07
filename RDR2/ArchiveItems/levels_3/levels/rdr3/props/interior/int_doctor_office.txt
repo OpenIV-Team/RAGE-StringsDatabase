@@ -1,4 +1,6 @@
 _manifest
+doc_bottle_sets
+doc_bottle_sets+hi
 int_doctor_office
 p_doc_ashbucket01x
 p_doc_ashbucket01x+hifr
@@ -68,3 +70,6 @@ p_rc_creolenogooddeed01x
 p_rc_creolenogooddeed01x+hidr
 s_chocolatebox01x_grp01
 s_chocolatebox01x_grp01+hifr
+st_denis_docs
+st_denis_docs+hi
+val_docs

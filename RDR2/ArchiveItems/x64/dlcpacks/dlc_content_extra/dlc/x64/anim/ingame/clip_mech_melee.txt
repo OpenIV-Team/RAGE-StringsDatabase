@@ -1,0 +1,1 @@
+mech_melee@unarmed@_male@_ambient@_healthy@on_mount@_streamed

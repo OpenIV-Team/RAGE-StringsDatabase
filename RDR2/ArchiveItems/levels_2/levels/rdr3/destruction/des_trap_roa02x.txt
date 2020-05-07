@@ -7,3 +7,4 @@ des_trap_roa02x_03
 des_trap_roa02x_03+hidr
 des_trap_roa02x_04
 des_trap_roa02x_04+hidr
+des_trap_roa02x+hi

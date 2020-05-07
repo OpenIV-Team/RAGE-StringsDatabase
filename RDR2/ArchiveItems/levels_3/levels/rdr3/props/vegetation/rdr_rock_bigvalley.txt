@@ -42,4 +42,8 @@ bgv_rock_scree_sim_10
 bgv_rock_scree_sim_11
 bgv_rock_stones_aa
 bgv_rock_stones_ab
+rdr_rock_bgv_scree
+rdr_rock_bgv_scree+hi
+rdr_rock_bgv_stones
+rdr_rock_bgv_stones+hi
 rdr_rock_bigvalley

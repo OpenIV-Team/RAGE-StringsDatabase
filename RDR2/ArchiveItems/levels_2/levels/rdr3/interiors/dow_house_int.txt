@@ -23,7 +23,9 @@ dow_house_int_ref+hidr
 dow_house_int_shad_proy
 dow_house_int_shell
 dow_house_int_shell+hidr
+dow_house_int+hi
 dow_house_lh
+hi@dow_house_int
 pictureframe08x
 pictureframe08x001
 pictureframe20x_rsref001

@@ -1,6 +1,10 @@
 _cache
 _manifest
 n_09_
+n_09__bkt_0
+n_09__bkt_1
+n_09__bkt_2
+n_09__bkt_3
 n_09__hd_0_0_0
 n_09__hd_0_0_1
 n_09__hd_0_0_-1
@@ -68,6 +72,7 @@ n_09__hd_0_-4_-3
 n_09__hd_0_-4_-4
 n_09__jund
 n_09__jund_02
+n_09_+hi
 n_09_01_decal
 n_09_02_decal01
 n_09_03_decal

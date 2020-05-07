@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@str_jailpost_int
 str_jail_decals01
 str_jail_decals01+hidr
 str_jail_decals02
@@ -15,3 +16,4 @@ str_jailpost_int
 str_jailpost_int_ref_proxy
 str_jailpost_int_ref_proxy+hidr
 str_jailpost_int_shadow_proxy
+str_jailpost_int_txd

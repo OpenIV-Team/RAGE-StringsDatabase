@@ -17,5 +17,6 @@ but_mine_machinery+hidr
 but_mine_tunnel_ent
 but_mine_tunnel_ent+hidr
 but_mine_walls
+but_mine+hi
 but_poisoncave_entry_lod
 butmi_combo_slod

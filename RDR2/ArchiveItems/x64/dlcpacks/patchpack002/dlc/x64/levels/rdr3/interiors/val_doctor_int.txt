@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@val_doctor_int
 val_doc_apothecary02
 val_doc_apothecary02+hidr
 val_doc_backroom_decal01

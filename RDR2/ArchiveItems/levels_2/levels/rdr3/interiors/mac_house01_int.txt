@@ -1,9 +1,12 @@
 _cache
 _manifest
+hi@mac_house01_int
 mac_house01_int
 mac_house01_int_ref
 mac_house01_int_ref+hidr
 mac_house01_int_shad_proxy
+mac_house01_txd
+mac_house01_txd+hi
 mac_int_decals01
 mac_int_decals01+hidr
 mac_int_details01

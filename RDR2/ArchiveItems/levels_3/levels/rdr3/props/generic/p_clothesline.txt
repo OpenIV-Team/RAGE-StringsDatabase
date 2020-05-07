@@ -14,3 +14,5 @@ p_cl_gen_articlee
 p_cl_gen_articlef
 p_cl_pin
 p_clothesline
+p_clothesline_txd
+p_clothesline_txd+hi

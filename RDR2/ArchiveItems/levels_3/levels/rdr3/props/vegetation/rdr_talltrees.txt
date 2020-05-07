@@ -11,3 +11,5 @@ p_tree_redwood_05_sm
 p_tree_redwood_05_sm+hidr
 p_tree_redwood_05+hidr
 rdr_talltrees
+veg_redwood
+veg_redwood+hi

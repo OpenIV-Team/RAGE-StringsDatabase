@@ -1,6 +1,7 @@
 _cache
 _manifest
 h_06_
+h_06__bkt_3
 h_06__hd_0_0_0
 h_06__hd_0_0_1
 h_06__hd_0_0_-1
@@ -70,6 +71,7 @@ h_06__hd_0_-4_-4
 h_06__test_de01
 h_06__test_de01+hidr
 h_06__test_de02
+h_06_+hi
 h_06_decal_02
 h_06_decal_03
 h_06_decal_04

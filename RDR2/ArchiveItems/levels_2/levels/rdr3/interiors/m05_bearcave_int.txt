@@ -14,9 +14,14 @@ m_05_blood_decal_03
 m_05_cave_entry
 m_05_cave_fire
 m_05_cave_lightblocker01
+m_05_int
+m_05_int_shell
+m_05_int_shell+hi
+m_05_int+hi
 m_05_stalagt
 m_05_stalagt+hidr
 m05_bearcave_int
+m05_bearcave_main
 m05_bearcave_shadowbox
 m05_cave_deep
 m05_cave_deep+hidr

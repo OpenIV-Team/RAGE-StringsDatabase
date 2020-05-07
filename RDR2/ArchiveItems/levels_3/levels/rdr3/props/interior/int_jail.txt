@@ -1,5 +1,7 @@
 _manifest
 int_jail
+jail_props
+jail_props+hi
 p_jailgroup01x
 p_jailgroup02x
 p_jailgroup03x

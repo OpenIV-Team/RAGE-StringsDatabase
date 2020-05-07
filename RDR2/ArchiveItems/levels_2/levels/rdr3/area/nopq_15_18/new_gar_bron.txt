@@ -34,6 +34,7 @@ new_gar_bron_shelter_piltops
 new_gar_bron_sla_12
 new_gar_bron_sta_02
 new_gar_bron_sta_02+hidr
+new_gar_bron_txd1
 new_gar_bron_waterfountain
 new_gar_bron_waterfountain_lod
 new_gar_bront_walls_b

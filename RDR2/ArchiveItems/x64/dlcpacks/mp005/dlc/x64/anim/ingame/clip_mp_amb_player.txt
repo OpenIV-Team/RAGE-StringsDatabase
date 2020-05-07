@@ -1,0 +1,2 @@
+mp_amb_player@prop_player_dynamic_seat_chair_table@mp_female_a@trans
+mp_amb_player@prop_player_wash_face_barrel@male_a@base

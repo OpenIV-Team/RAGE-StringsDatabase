@@ -1,5 +1,6 @@
 _manifest
 rho_02_
+rho_02_+hi
 rho_02_bullet_decal_01
 rho_02_bullet_decal_01+hidr
 rho_02_decal_trails01
@@ -25,6 +26,8 @@ rho_02_props_debris_16
 rho_02_props_debris_17
 rho_02_props_debris_19
 rho_02_props_debris_20
+rho_02_props_debris_txd
+rho_02_props_debris_txd+hi
 rho_02_roaddetails04
 rho_02_roaddetails04+hidr
 rho_02_roaddetails05

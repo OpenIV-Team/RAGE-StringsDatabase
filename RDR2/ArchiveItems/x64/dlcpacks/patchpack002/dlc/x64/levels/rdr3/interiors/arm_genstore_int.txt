@@ -24,3 +24,4 @@ arm_gs_sign_revolverammo
 arm_gs_sign_rifle_ammo
 arm_gs_sign_shotgunammo
 arm_gun_sign_pistolammo
+hi@arm_genstore_int

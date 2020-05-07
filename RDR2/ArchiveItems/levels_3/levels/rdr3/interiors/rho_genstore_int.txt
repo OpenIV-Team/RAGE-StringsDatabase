@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@rho_genstore_int
 rho_gen_cheese_sign
 rho_gen_decal_dressrm_hdref
 rho_gen_decal_dressrm_hdref+hidr
@@ -25,5 +26,7 @@ rho_gen_whiskeysign
 rho_genst_hooks
 rho_genstor_int_shadowproxy
 rho_genstore_int
+rho_genstore_int_shell_txd
+rho_genstore_int_txd
 rho_genstore_lightbox
 rho_genstore_lightbox001

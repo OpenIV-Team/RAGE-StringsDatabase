@@ -1,1 +1,6 @@
 _manifest
+mega_mech_grapple@lasso@male@mounted
+mega_mech_grapple@pistol@male@mounted
+mega_mech_grapple@rifle@male@mounted
+mega_mech_grapple@unarmed@male@back
+mega_mech_grapple@unarmed@male@mounted

@@ -1,1 +1,8 @@
 _manifest
+mega_gen@creatures_mammal@beaver@normal
+mega_gen@creatures_mammal@cat@normal
+mega_gen@creatures_mammal@cow@normal
+mega_gen@creatures_mammal@cow@normal@2
+mega_gen@creatures_mammal@dog_pers@sad
+mega_gen@creatures_mammal@moose@normal
+mega_gen@creatures_mammal@sheep@normal

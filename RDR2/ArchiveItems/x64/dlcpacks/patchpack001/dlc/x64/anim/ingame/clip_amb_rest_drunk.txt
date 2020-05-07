@@ -1,0 +1,12 @@
+amb_rest_drunk@world_human_bucket_drink_ladle@ground@female_b@idle_a
+amb_rest_drunk@world_human_bucket_drink_ladle@ground@female_b@idle_b
+amb_rest_drunk@world_human_bucket_drink_ladle@ground@female_b@idle_c
+amb_rest_drunk@world_human_bucket_drink_ladle@ground@female_b@react_look@exit@dismissive
+amb_rest_drunk@world_human_bucket_drink_ladle@ground@female_b@react_look@exit@relieved
+amb_rest_drunk@world_human_bucket_drink_ladle@ground@female_b@stand_exit
+amb_rest_drunk@world_human_drinking@flask@male_a@idle_a
+amb_rest_drunk@world_human_drinking@flask@male_a@idle_b
+amb_rest_drunk@world_human_drinking@flask@male_a@idle_c
+amb_rest_drunk@world_human_drinking@flask@male_a@react_look@exit@dismissive
+amb_rest_drunk@world_human_drinking@flask@male_a@react_look@exit@relieved
+amb_rest_drunk@world_human_drinking@flask@male_a@stand_exit

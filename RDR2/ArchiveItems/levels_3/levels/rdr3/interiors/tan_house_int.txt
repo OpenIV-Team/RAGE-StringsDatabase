@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@tan_house_int
 tan_house_int
 tan_house_int_shadow_proxy
 tan_int_bed

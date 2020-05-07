@@ -6,4 +6,6 @@ dis_scmwell_int_decal+hidr
 dis_scmwell_int_shell
 dis_scmwell_int_shell_dec
 dis_scmwell_int_shell+hidr
+dis_scmwell_int+hi
 dis_scmwell_lightbox
+hi@dis_scmwell_int

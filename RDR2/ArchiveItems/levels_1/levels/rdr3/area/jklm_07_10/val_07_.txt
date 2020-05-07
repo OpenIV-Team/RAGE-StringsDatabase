@@ -1,4 +1,5 @@
 _manifest
+val_07
 val_07_magic_curt_clsd_lod
 val_07_magic_curtain_closed
 val_07_magic_curtain_open
@@ -23,3 +24,4 @@ val_07_resf_ext_lod
 val_07_resf_ext+hidr
 val_07_resf_vines
 val_07_resf_vines+hidr
+val_07+hi

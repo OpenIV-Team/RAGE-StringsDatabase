@@ -1,9 +1,12 @@
 _manifest
+generalstore
+generalstore+hi
 p_bag01x
 p_bag01x+hidr
 p_barreltobacco01x
 p_barreltobacco01x+hifr
 p_basketfruit02x
+p_basketfruit02x+hi
 p_bat_cratestack01x
 p_bat_cratestack01x+hifr
 p_bespoketable01x
@@ -79,11 +82,15 @@ p_cratecanvase01x
 p_cratecanvase01x+hidr
 p_cratecanvase02x
 p_cratecanvase02x+hidr
+p_cratechicken010203
+p_cratechicken010203+hi
 p_cratechicken01x
 p_cratechicken02x
 p_cratechicken02x+hidr
 p_cratechicken03x
 p_cratechicken03x_anim
+p_cratecmn
+p_cratecmn+hi
 p_crateconf01x
 p_crateconf01x+hifr
 p_cratecover01x
@@ -147,6 +154,8 @@ p_group_generalstore+hifr
 p_group_hanging01
 p_group_hanging02
 p_group_hanging03
+p_group_newspaper
+p_group_newspaper+hi
 p_group_newspaper01
 p_group_newspaper01+hifr
 p_group_newspaper02
@@ -205,6 +214,8 @@ p_static_floursack02
 p_static_floursack02+hidr
 p_static_floursacks
 p_static_floursacks01
+p_static_floursacks01_shared
+p_static_floursacks01_shared+hi
 p_storage
 p_trouardscrate01x
 p_trouardscrate01x+hifr
@@ -220,3 +231,7 @@ p_woodbin01x+hifr
 s_crate23x
 s_crate23x+hidr
 s_re_crate14xtop
+val_hanging
+val_hanging+hi
+veg_fruit_crate
+veg_fruit_crate+hi

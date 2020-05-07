@@ -1,0 +1,2 @@
+mp_character_creator@female@fidgets
+mp_character_creator@male@fidgets

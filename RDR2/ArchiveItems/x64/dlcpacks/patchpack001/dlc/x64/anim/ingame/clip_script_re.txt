@@ -1,0 +1,14 @@
+script_re@animal_mauling
+script_re@animal_mauling@dead_horse
+script_re@bandito_shack@sheriff
+script_re@campfire_ambush@tent_ambush
+script_re@hostage_rescue@female@hostage
+script_re@hostage_rescue@female@plead
+script_re@hostage_rescue@male@hostage
+script_re@on_the_run@confrontswindler_killcustomer
+script_re@on_the_run@find_swindler
+script_re@peep_tom@smoking_opium
+script_re@peep_tom@spanking_cowboy
+script_re@rat_infestation
+script_re@train_holdup@lemoyne
+script_re@train_holdup@odriscoll

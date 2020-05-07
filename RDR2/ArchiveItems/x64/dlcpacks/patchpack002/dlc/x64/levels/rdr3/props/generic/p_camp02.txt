@@ -1,4 +1,8 @@
 _manifest
+bottlecrate_camp_themes_a
+bottlecrate_camp_themes_a+hi
+bottlecrate_camp_themes_b
+bottlecrate_camp_themes_b+hi
 p_ambfloorrug03x
 p_ambfloorrug03x+hidr
 p_ambpelt03x

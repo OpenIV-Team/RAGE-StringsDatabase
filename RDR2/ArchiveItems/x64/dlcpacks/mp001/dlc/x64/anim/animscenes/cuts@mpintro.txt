@@ -1,0 +1,7 @@
+cutscene@mpintro_bink
+cutscene@mpintro_int
+cutscene@mpintro_int2
+cutscene@mpintro_mcs1
+cutscene@mpintro_mcs2
+cutscene@mpintro_mcs3
+cutscene@mpintro_mcs4

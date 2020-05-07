@@ -2,6 +2,7 @@ _cache
 _manifest
 art_ticket_details
 art_ticket_details+hidr
+hi@new_art_int
 new_art_floor_shell
 new_art_floor_shell+hidr
 new_art_floors2
@@ -30,11 +31,13 @@ new_art_int_gal1_pre+hidr
 new_art_int_glass
 new_art_int_hall_walls
 new_art_int_main_shell
+new_art_int_mason_txd
 new_art_int_peale
 new_art_int_peale+hidr
 new_art_int_recep_walls
 new_art_int_recep_walls+hidr
 new_art_int_shd_prxy
+new_art_int_shell
 new_art_int_shellwindow
 new_art_int_shellwindow+hidr
 new_art_int_shutteropen
@@ -42,6 +45,7 @@ new_art_int_sign01
 new_art_int_sign02
 new_art_int_tablecloth
 new_art_int_tablecloth+hidr
+new_art_int_txd
 new_art_mason_frames
 new_art_mason_photo01
 new_art_mason_photo02

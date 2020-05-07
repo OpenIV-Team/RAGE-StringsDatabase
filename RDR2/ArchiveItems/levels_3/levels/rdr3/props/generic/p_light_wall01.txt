@@ -2,6 +2,7 @@ _manifest
 p_bulkheadlight02x
 p_bulkheadlight03x
 p_bulkheadlight04x
+p_bulkheadlights
 p_chandelier17x_dmg
 p_chandelier17x_dmg+hifr
 p_dblsconcelight01x
@@ -53,4 +54,7 @@ p_sconcelight01x
 p_sconcelight01x+hifr
 p_wallamp09x
 p_wallamp09x+hifr
+p_walllampexterior01x
+p_walllampexterior04x
 p_walllampnbx06x
+p_wwalllamp

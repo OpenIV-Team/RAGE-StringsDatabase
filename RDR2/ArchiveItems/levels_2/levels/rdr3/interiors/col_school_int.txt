@@ -32,6 +32,11 @@ col_int_scl_cot
 col_int_scl_lightholder_01
 col_school_debris2
 col_school_int
+col_school_int_ref
+col_school_int_ref+hi
+col_school_int_shell
+col_school_int+hi
 col_school_interior_ref
 col_school_interior_ref2
 col_school_interior_sp
+hi@col_school_int

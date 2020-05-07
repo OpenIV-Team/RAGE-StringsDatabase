@@ -1,0 +1,3 @@
+amb_camp@prop_camp_seat_chair@clean_rifle@female_a@idle_a
+amb_camp@prop_camp_seat_chair@clean_rifle@female_a@idle_b
+amb_camp@prop_camp_seat_chair@clean_rifle@female_a@idle_c

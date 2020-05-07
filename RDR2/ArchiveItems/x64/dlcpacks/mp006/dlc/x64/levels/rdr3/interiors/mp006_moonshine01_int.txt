@@ -8,6 +8,8 @@ mp006_lampwall_loc4
 mp006_lampwall_loc5
 mp006_lampwall_ref
 mp006_lampwall_ref+hidr
+mp006_moonshine_interior_txd
+mp006_moonshine_interior_txd+hi
 mp006_moonshine01_int
 mp006_msh_int_bar_bck01
 mp006_msh_int_bar_bck01+hidr

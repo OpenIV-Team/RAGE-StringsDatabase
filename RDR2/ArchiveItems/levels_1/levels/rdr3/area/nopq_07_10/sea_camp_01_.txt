@@ -18,4 +18,6 @@ sea_tower01+hidr
 sea_wood_tarp
 sea_wood_tarp_slod
 sea_wood_tarp+hidr
+sean_camp_00
+sean_camp_00+hi
 sean_ropehangtie

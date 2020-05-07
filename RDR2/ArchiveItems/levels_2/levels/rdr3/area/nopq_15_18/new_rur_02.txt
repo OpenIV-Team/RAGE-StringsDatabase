@@ -1,11 +1,14 @@
 _manifest
 new_glue_base_01
 new_rur_02_canetrain
+new_rur_02_debris_txd
 new_rur_02_shotgun
 new_rur_02_shotgun_glue
 new_rur_02_shotgun+hidr
 new_rur_02_syrup
 new_rur_02_syrup+hidr
+new_rur_02_txd1
+new_rur_02_txd2
 new_rur_vfx_helper_001
 new_rur02_debris_00
 new_rur02_debris_01

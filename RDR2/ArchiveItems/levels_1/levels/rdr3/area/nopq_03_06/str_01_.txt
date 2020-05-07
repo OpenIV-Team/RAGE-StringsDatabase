@@ -1,5 +1,6 @@
 _manifest
 str_01_
+str_01_+hi
 str_01_audio_box_proxy
 str_01_carpenter
 str_01_carpenter+hidr
@@ -13,6 +14,7 @@ str_01_doctor_ext+hidr
 str_01_dr_closed
 str_01_dr_closed_lod
 str_01_dr_closed+hidr
+str_01_em
 str_01_em_slod
 str_01_lights_01
 str_01_outhouse02

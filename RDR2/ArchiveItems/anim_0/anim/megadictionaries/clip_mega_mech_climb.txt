@@ -1,1 +1,7 @@
 _manifest
+mega_gen@mech_climb@base@vertical@fails@long_run@var_0
+mega_gen@mech_climb@base@vertical@fails@short_run@var_0
+mega_gen@mech_climb@base@vertical@fails@stand@var_0
+mega_mech_climb@base@concave
+mega_mech_climb@base@vertical
+mega_mech_climb@cover

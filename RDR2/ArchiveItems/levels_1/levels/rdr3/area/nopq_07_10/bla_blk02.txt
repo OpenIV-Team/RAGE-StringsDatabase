@@ -5,11 +5,13 @@ bla_barber_photo_dec+hidr
 bla_barber_photo_em
 bla_barber_photo+hidr
 bla_blk02
+bla_blk02_em
 bla_blk02_em_slod
 bla_blk02_park_cloth
 bla_blk02_park_cloth+hifr
 bla_blk02_parklights
 bla_blk02_parklights+hidr
+bla_blk02+hi
 bla_chicken_decal
 bla_corner02
 bla_corner02_em

@@ -1,1 +1,11 @@
 _manifest
+bra01gtxd
+bra01gtxd+hi
+bra01mansion
+bra01mansion+hi
+bra01stable
+bra01stable+hi
+bra0203
+bra0203+hi
+braithwaites
+braithwaites+hi

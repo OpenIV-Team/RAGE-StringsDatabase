@@ -9,6 +9,7 @@ din_house_int_ref_a
 din_house_int_ref_b
 din_house_int_ref_b+hidr
 din_house_int_shadowproxy
+din_house_int+hi
 din_hse_bedsheet
 din_hse_bedsheet+hidr
 din_hse_cupboard
@@ -38,3 +39,4 @@ din_hse_int_trim
 din_hse_int_trim+hidr
 din_hse_shell
 din_hse_shell+hidr
+hi@din_house_int

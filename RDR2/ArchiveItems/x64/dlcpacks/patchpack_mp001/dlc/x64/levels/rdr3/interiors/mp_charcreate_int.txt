@@ -1,5 +1,6 @@
 _cache
 _manifest
+mp001_mp_charcreate_int
 mp001_mp_charcreate_lightsholder
 mp001_mp_charcreate_lightsholder02
 mp001_mp_charcrt_mirror_female

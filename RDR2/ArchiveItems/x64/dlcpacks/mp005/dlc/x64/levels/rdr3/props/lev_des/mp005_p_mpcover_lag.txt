@@ -1,4 +1,6 @@
 _manifest
+mp005_mpcover_lag
+mp005_mpcover_lag+hi
 mp005_p_mp_cover_h_lag
 mp005_p_mp_cover_h_lag+hifr
 mp005_p_mp_cover_hl_lag

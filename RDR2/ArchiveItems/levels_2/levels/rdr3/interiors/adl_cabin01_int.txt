@@ -14,11 +14,13 @@ adl_cabin_bed20x+hidr
 adl_cabin_lightbox001
 adl_cabin01_frames
 adl_cabin01_int
+adl_cabin01_int_grey
 adl_cabin01_int_ref_proxy
 adl_cabin01_int_ref_proxy+hidr
 adl_cabin01_int_shadowproxy
 adl_cabin01_int_vfx
 adl_cabin01_int_vfx_02
+adl_cabin01_int+hi
 adl_cabin01_obj_288
 adl_chest_dressing
 adl_chest_dressing+hidr
@@ -72,6 +74,7 @@ adl_woodblends
 after_adl_rugs
 before_adl_rugs
 col_adl_cabin_01_int_w_658
+hi@adl_cabin01_int
 ladder_b
 ladder_b+hidr
 p_potrack02x_temp

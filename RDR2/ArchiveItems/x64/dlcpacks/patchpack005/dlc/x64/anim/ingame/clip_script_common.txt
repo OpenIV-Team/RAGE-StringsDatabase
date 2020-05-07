@@ -1,0 +1,9 @@
+script_common@shared_scenarios@stand@stir_soup@female@base
+script_common@shared_scenarios@stand@stir_soup@female@react_look@active_look
+script_common@shared_scenarios@stand@stir_soup@female@react_look@enter@high
+script_common@shared_scenarios@stand@stir_soup@female@react_look@enter@low
+script_common@shared_scenarios@stand@stir_soup@female@react_look@enter@med
+script_common@shared_scenarios@stand@stir_soup@female@react_look@exit@dismissive
+script_common@shared_scenarios@stand@stir_soup@female@react_look@exit@generic
+script_common@shared_scenarios@stand@stir_soup@female@react_look@exit@relieved
+script_common@shared_scenarios@stand@stir_soup@female@react_look@loop@generic

@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@tum_gunsmith_int
 tum_gun_pistol_sign
 tum_gun_shotgun_sign
 tum_gun_sign_repeater

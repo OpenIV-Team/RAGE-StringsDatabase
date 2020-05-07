@@ -1,0 +1,2 @@
+lightrig_mp@ui_lightrigs@camp_wardrobe
+lightrig_mp@ui_lightrigs@camp_wilderness

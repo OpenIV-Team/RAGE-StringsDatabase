@@ -1,6 +1,8 @@
 _cache
 _manifest
+hi@tum_05_0
 tum_05__tum05_combo_slod
+tum_05_0
 tum_05_barn_main_dec
 tum_05_barn_mainext
 tum_05_barn_mainext+hidr
@@ -10,3 +12,4 @@ tum_05_fence_gatea
 tum_05_fence_gatea+hidr
 tum_05_p_sackdropoffbin
 tum_05_p_sackdropoffbin+hidr
+tum_05_txd_01

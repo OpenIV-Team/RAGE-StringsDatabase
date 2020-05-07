@@ -2,6 +2,7 @@ _cache
 _manifest
 dne_wat_cloth
 dne_wat_cloth+hidr
+hi@wat_cabin_int
 p_mugcoffee01x_rsref001
 p_mugcoffee01x_rsref001+hidr
 wat_base_floor

@@ -1,4 +1,10 @@
 _manifest
+lumber_railties
+lumber_railties+hi
+lumbertxd
+lumbertxd_old
+lumbertxd_old+hi
+lumbertxd+hi
 p_bat_lumber02x
 p_bat_lumber02x+hifr
 p_bat_lumber04bx
@@ -22,10 +28,14 @@ p_cedar_log_08x
 p_cedar_log_09x
 p_cedar_stump_01x
 p_cedar_stump_01x+hidr
+p_cedarlog
+p_cedarlog+hi
 p_group_logpile01
 p_group_lumberpile01
 p_group_lumberwall01
 p_kindling02x
+p_loghalf
+p_loghalf+hi
 p_loghalf01x
 p_loghalf02x
 p_logpile_snow01x
@@ -106,6 +116,8 @@ p_woodpile05x
 p_woodpile05x+hifr
 p_woodpile06x
 p_woodpilechopped01x
+p_woodpilecmb
+p_woodpilecmb+hi
 p_woodplank01x
 p_woodplank02x
 p_woodplank03x

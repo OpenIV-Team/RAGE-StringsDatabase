@@ -1,0 +1,5 @@
+mech_animal_interaction@horse@left@patting@1h@short
+mech_animal_interaction@horse@left@patting@short
+mech_animal_interaction@horse@right@patting@1h@short
+mech_animal_interaction@horse@right@patting@short
+mech_animal_interaction@horse@right@quick_entries

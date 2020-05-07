@@ -27,6 +27,11 @@ gap_01__gap01_combo01_slod
 gap_01__mine_ent_w
 gap_01__mine_ent_w+hidr
 gap_01__ropes
+gap_01_0
+gap_01_1
+gap_01_2
+gap_01_3
+gap_01_4
 gap_01_cart_ext_ramp
 gap_01_cart_ext_ramp_d
 gap_01_cart_ext_ramp2
@@ -43,6 +48,7 @@ gap_01_gap_s_006_vfx
 gap_01_gap_s_007_vfx
 gap_01_gap_s_007b_vfx
 gap_01_gap_s_008_vfx
+gap_01_hd
 gap_01_mine_ent_w_vfx
 gap_01_minetrks_01
 gap_01_minetrks_02
@@ -55,3 +61,10 @@ gap_01_terain_dclb02
 gap_01_terain_dclb03
 gap_01_terain_decals
 gap_01_terain_decals+hidr
+hi@gap_01_0
+hi@gap_01_1
+hi@gap_01_2
+hi@gap_01_3
+hi@gap_01_4
+hi@gap_01_5
+hi@gap_01_6

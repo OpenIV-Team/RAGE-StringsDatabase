@@ -2,4 +2,8 @@ _cache
 _manifest
 fghi_3_6_area_lod
 grishkg2_01_
+grishkg2_01__interior_gri_g2_shack_int_milo_
+grishkg2_01__long_0
+grishkg2_01__strm_0
 shack_mmm
+shack_mmm_strm_0

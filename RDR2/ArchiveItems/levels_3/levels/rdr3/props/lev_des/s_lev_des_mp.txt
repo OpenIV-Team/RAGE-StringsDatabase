@@ -44,6 +44,8 @@ s_moonshinesupplies_m02
 s_moonshinesupplies_s01
 s_moonshinesupplies_s02
 s_mp_campflagus
+s_mp_stone_marker01a
+s_mp_stone_marker01a+hi
 s_mp_stone_marker03a
 s_mp_stone_marker04a
 s_pulleysack01x

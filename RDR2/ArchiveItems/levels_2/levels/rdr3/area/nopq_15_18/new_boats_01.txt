@@ -11,6 +11,7 @@ new_boats_01_gk_vfx003_slights
 new_boats_01_gk_vfx004
 new_boats_01_gk_vfx004_em_slod
 new_boats_01_gk_vfx004_slights
+new_boats_01_grandkorr
 new_boats_01_props_object1
 new_boats_gk_ext_ovmain
 new_boats_gk_ext_ovmain+hidr

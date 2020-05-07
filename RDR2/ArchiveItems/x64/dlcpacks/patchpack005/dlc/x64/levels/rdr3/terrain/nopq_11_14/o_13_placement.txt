@@ -1,4 +1,6 @@
 _cache
 _manifest
 o_13_placement
+o_13_placement_strm
+o_13_placement_strm_0
 o_13p_collision_box

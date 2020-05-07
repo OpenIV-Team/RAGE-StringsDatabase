@@ -4,4 +4,9 @@ amb_bay_lecloth3_008
 amb_bay_lecloth3_008+hidr
 amb_bay_oldmattress01
 amb_bay_oldmattress01+hidr
+amb_camp_bay_squat_macomb
+amb_camp_bay_story_copperhead
+amb_camp_bay_story_specter
+amb_camp_tal_story_emranch
 amb_camps_bay_00
+amb_camps_bay_00_strm

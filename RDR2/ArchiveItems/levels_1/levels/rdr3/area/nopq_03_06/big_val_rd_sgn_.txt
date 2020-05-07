@@ -1,4 +1,6 @@
 _manifest
+bee_rd_sgn
+bee_rd_sgn+hi
 bee_val_sign_3
 bee_val_sign_3_lod
 bee_val_sign_3+hidr

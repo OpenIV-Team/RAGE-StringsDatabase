@@ -4,3 +4,7 @@ amb_bgv_corpses006
 amb_bgv_corpses006+hidr
 amb_bgv_p_bodyparts04x
 amb_bgv_p_bodyparts04x+hidr
+amb_camps_bgv_00_0
+amb_camps_bgv_00_1
+hi@amb_camps_bgv_00_0
+hi@amb_camps_bgv_00_1

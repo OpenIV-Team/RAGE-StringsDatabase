@@ -130,6 +130,7 @@ p_jug01x_a
 p_jug01x_b
 p_jug02x
 p_jug03x
+p_jugstxd
 p_jugwicker01x
 p_liqueurset01x
 p_liqueurset01x+hifr
@@ -152,6 +153,8 @@ p_saloonpropgroup01x
 p_saloonpropgroup02x
 p_saloonpropgroup03x
 p_saloonpropgroup04x
+p_saloonpropgroups
+p_saloonpropgroups+hi
 p_shaker01x
 p_shotglass01x
 p_shotglass01x+hifr

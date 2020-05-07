@@ -6,3 +6,5 @@ des_gua3_cannon_exp_var1_03
 des_gua3_cannon_exp_var1_04
 des_gua3_cannon_exp_var1_end
 des_gua3_cannon_exp_var1_start
+des_gua3_cannon_var1
+des_gua3_cannon_var1+hi

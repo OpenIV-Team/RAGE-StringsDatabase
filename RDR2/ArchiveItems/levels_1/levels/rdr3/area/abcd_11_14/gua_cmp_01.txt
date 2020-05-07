@@ -19,3 +19,9 @@ gua_camp_vines_01
 gua_camp_vines_01+hidr
 gua_camp_walls_01
 gua_camp_walls_01+hidr
+gua_cmp_01_
+gua_cmp_01_+hi
+gua_cmp_01_0
+hi@gua_cmp_01_0
+hi@gua_cmp_01_1
+hi@gua_cmp_01_2

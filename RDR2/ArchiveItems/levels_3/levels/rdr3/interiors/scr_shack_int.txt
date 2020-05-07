@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@scr_shack_int
 scr_shack_ceiling
 scr_shack_ceiling+hidr
 scr_shack_int

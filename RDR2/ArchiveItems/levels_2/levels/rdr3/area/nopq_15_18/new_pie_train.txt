@@ -65,6 +65,7 @@ new_pie_train_debris_30
 new_pie_train_debris_51
 new_pie_train_debris_71
 new_pie_train_debris_76
+new_pie_train_debris_txd
 new_pie_train_depot
 new_pie_train_depot_glue
 new_pie_train_depot+hidr
@@ -140,6 +141,9 @@ new_pie_train_signal_006+hidr
 new_pie_train_staircase
 new_pie_train_tshed_ext
 new_pie_train_tshed_ext+hidr
+new_pie_train_txd1
+new_pie_train_txd2
+new_pie_train_txd3
 new_pie_traincablemesh1_hvlit
 new_shed_open
 new_shed_open+hidr

@@ -36,6 +36,7 @@ new_pie_01_seawall3
 new_pie_01_seawall3+hidr
 new_pie_01_shack
 new_pie_01_shack01
+new_pie_01_txd1
 new_pie_01_ware
 new_pie_01_ware_dest
 new_pie_01_ware_es_d
@@ -49,4 +50,5 @@ new_pie_debris_05
 new_pie_debris_06
 new_pie_debris_07
 new_pie_debris_08
+new_pie_debris_txd
 newpi01pr_combo01_slod

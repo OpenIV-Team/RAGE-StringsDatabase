@@ -38,6 +38,8 @@ dov_lab_int_floor+hidr
 dov_lab_int_ref
 dov_lab_int_ref+hidr
 dov_lab_int_shell
+dov_lab_int_txd
+dov_lab_int_txd+hi
 dov_lab_int_windows
 dov_lab_intscience
 dov_lab_lights01
@@ -50,3 +52,4 @@ dov_power_office_01
 dov_power_office_01+hidr
 dov_power_office_02
 dov_power_office_02_gates
+hi@dov_lab_int

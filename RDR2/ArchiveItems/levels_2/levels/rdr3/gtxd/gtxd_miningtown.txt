@@ -1,1 +1,3 @@
 _manifest
+miningtown
+miningtown+hi

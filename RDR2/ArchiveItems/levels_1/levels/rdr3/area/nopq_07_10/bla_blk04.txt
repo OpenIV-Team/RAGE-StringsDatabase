@@ -1,10 +1,12 @@
 _manifest
 bla_blk04
+bla_blk04_em
 bla_blk04_em_slod
 bla_blk04_gazebo01
 bla_blk04_gazebo01_dec
 bla_blk04_gazebo01_dec+hidr
 bla_blk04_gazebo01+hidr
+bla_blk04+hi
 bla_fishmonger_decal
 bla_fishmonger_decal+hidr
 bla_fishmonger_ext

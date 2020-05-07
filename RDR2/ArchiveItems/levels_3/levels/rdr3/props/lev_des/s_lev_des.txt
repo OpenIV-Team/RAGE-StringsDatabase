@@ -34,6 +34,10 @@ ginseng_p
 goldencurrant_p
 humbirdsage_p
 indtobacco_p
+lev_d_golden
+lev_d_golden+hi
+lev_d_map
+lev_d_map+hi
 milkweed_p
 mp_big_rock_scan_02
 mp_big_rock_scan_07
@@ -57,6 +61,8 @@ p_boatramp01x
 p_bookcasenb01x
 p_brickoblisk01x
 p_brickplug01x
+p_churchbel
+p_churchbel+hi
 p_churchbell01x
 p_churchbell02x
 p_crackpotrod01x

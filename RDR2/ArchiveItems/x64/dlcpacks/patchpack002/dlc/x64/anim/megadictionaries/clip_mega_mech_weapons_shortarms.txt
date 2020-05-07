@@ -1,1 +1,4 @@
 _manifest
+mega_mech_weapons_shortarms@crouch
+mega_mech_weapons_shortarms@stand
+mega_mech_weapons_shortarms@stand_female

@@ -1,6 +1,8 @@
 _cache
 _manifest
 amb_camps_rio_00
+amb_camps_rio_00_strm
+amb_camps_rio_00_strm_0
 amb_rio_00
 amb_rio_amb_crio_10_rope
 amb_rio_geo0001
@@ -11,3 +13,5 @@ amb_rio_geo0003
 amb_rio_geo0003+hidr
 amb_rio_geo0004
 amb_rio_geo0004+hidr
+mp_intro_gang_tumbleweed1
+rio_10_rope_ends

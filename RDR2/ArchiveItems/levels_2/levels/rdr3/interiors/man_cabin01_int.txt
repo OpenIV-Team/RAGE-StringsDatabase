@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@man_cabin01_int
 man_cabin_int_shadow_proxy
 man_cabin01_int
 man_cabin01_int_blkts
@@ -18,4 +19,5 @@ man_cabin01_int_ref
 man_cabin01_int_ref+hidr
 man_cabin01_int_walls
 man_cabin01_int_walls+hidr
+man_cabin01_int+hi
 man_cabin01_ligthbox

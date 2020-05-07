@@ -43,6 +43,7 @@ new_com_03_props_debris_00
 new_com_03_props_debris_01
 new_com_03_props_debris_02
 new_com_03_props_debris_04
+new_com_03_props_debris_txd
 new_com_03_tailors
 new_com_03_tailors+hidr
 new_com_03_taylors_dec
@@ -53,6 +54,8 @@ new_com_03_tennants_dec
 new_com_03_tinycs_ext
 new_com_03_towers
 new_com_03_towers+hidr
+new_com_03_txd1
+new_com_03_txd2
 new_com3_837royal
 new_com3_837royal_d
 new_com3_837royal+hidr

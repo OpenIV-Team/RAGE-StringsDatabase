@@ -1,8 +1,10 @@
 _cache
 _manifest
 mil_04_lightblocker
+mil_cave_int_04_txd
 mil_mine_beamcollapse
 mil_mine_cave_04
+mil_mine_cave_int4
 mil_mine_refle_proxy_d
 mil_mine_room04
 mil_mine_tracks_int04

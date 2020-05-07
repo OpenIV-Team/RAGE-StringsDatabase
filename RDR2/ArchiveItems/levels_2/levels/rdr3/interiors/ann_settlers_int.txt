@@ -27,4 +27,6 @@ ann_settlers_int
 ann_settlers_int_ref
 ann_settlers_int_ref+hidr
 ann_settlers_int_shadowproxy
+ann_settlers_int_shell
+ann_settlers_int+hi
 annsettlers_lightbox

@@ -30,9 +30,11 @@ gap_cavewinch0_support
 gap_cavewinch0_support+hidr
 gap_mine_glend_grnd
 gap_mine_int
+gap_mine_int+hi
 gap_mine_rock01
 gap_rockfall2
 gap_wall_blnd_
 gap_wall_blnd_+hidr
+hi@gap_mine_int
 rail_stack001
 track_template_013

@@ -1,4 +1,6 @@
 _manifest
+rdr_rock_sca_8
+rdr_rock_sca_8+hi
 rdr_rock_smeadow
 sca_rock_01
 sca_rock_01+hidr

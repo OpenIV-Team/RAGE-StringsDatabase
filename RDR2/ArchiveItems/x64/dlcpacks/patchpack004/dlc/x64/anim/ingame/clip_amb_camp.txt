@@ -1,0 +1,11 @@
+amb_camp@prop_camp_seat_chair@clean_rifle@female_a@idle_a
+amb_camp@prop_camp_seat_chair@clean_rifle@female_a@idle_b
+amb_camp@prop_camp_seat_chair@clean_rifle@female_a@idle_c
+amb_camp@prop_camp_seat_chair@clean_rifle@female_a@react_look@exit@dismissive
+amb_camp@prop_camp_seat_chair@clean_rifle@female_a@react_look@exit@relieved
+amb_camp@prop_camp_seat_chair@clean_rifle@male_a@idle_a
+amb_camp@prop_camp_seat_chair@clean_rifle@male_a@idle_b
+amb_camp@prop_camp_seat_chair@clean_rifle@male_a@idle_c
+amb_camp@prop_camp_seat_chair@clean_rifle@male_a@react_look@exit@dismissive
+amb_camp@prop_camp_seat_chair@clean_rifle@male_a@react_look@exit@relieved
+amb_camp@prop_camp_seat_chair@crabtrap@male_a@idle_b

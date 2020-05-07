@@ -1,6 +1,8 @@
 _cache
 _manifest
 q_04_
+q_04__bkt_1
+q_04__bkt_3
 q_04__cliff_d
 q_04__hd_0_0_0
 q_04__hd_0_0_1
@@ -68,6 +70,7 @@ q_04__hd_0_-4_-3
 q_04__hd_0_-4_-4
 q_04__q3_q4_tunnel_grddec
 q_04__q3_q4_tunnel_waldec
+q_04_+hi
 q_04_04_rail_decal_001
 q_04_04_rail_decal_001+hidr
 q_04_decal_track_edge_01

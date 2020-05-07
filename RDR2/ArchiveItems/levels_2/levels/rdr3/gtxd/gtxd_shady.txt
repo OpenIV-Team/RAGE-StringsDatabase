@@ -1,1 +1,11 @@
 _manifest
+sha_0104_gtxd
+sha_0104_gtxd+hi
+sha_frags_gtxd
+sha_frags_gtxd+hi
+sha_mansion_gtxd
+sha_mansion_gtxd+hi
+sha_mansion_int_gtxd
+sha_mansion_int_gtxd+hi
+shady
+shady+hi

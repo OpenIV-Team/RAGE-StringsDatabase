@@ -1,0 +1,12 @@
+mech_grapple@blade@_male@_ambient@_healthy@mounted@_base
+mech_grapple@blade@_male@_ambient@_healthy@mounted@_streamed
+mech_grapple@bow@_male@_ambient@_healthy@mounted@_streamed
+mech_grapple@hatchet@_male@_ambient@_healthy@mounted@_streamed
+mech_grapple@pistol@_male@_ambient@_healthy@mounted@_streamed
+mech_grapple@rifle@_male@_ambient@_healthy@mounted@_streamed
+mech_grapple@unarmed@_male@_ambient@_healthy@front@_streamed
+mech_grapple@unarmed@_male@_ambient@_healthy@front@_variations
+mech_grapple@unarmed@_male@_ambient@_healthy@front@environment@table_smash
+mech_grapple@unarmed@_male@_ambient@_healthy@front@environment@wall_smash
+mech_grapple@unarmed@_male@_ambient@_healthy@front@environment@window_throw
+mech_grapple@unarmed@_male@_ambient@_healthy@mounted@_streamed

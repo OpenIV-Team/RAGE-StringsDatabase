@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@val_stable_int
 val_stable_int
 val_stable_int_detail
 val_stable_int_detail+hidr

@@ -1,6 +1,13 @@
 _cache
 _manifest
 dis_clm_00
+dis_clm_00_0
+dis_clm_00_1
+dis_clm_00_2
+dis_clm_00_strm
+dis_clm_00_strm_0
+dis_clm_01_derail_hd
+dis_clm_01_derail_hd+hi
 dis_clm_derail_1
 dis_clm_derail_1_lod
 dis_clm_derail_10_lod
@@ -50,3 +57,13 @@ dis_clm_shack_gf_derail_goods2+hidr
 dis_clm_shack_lod
 dis_clm_wagon05_lod
 dis_clm_wagon05_slod
+hi@dis_clm_00_0
+hi@dis_clm_00_1
+hi@dis_clm_00_2
+hi@dis_clm_00_3
+hi@dis_clm_00_4
+hi@dis_clm_00_5
+hi@dis_clm_00_6
+hi@dis_clm_00_7
+hi@dis_clm_00_8
+hi@dis_clm_00_9

@@ -11,3 +11,4 @@ des_trn4_train_crash_05
 des_trn4_train_crash_end
 des_trn4_train_crash_end+hidr
 des_trn4_train_crash_start
+des_trn4_train_crash+hi

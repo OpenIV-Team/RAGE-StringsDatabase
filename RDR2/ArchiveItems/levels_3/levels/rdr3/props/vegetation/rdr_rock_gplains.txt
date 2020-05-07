@@ -42,3 +42,5 @@ grp_rock_stones_aa
 grp_rock_stones_aa+hi
 grp_rock_stones_ab
 rdr_rock_gplains
+rdr_rock_gplains_9
+rdr_rock_gplains_9+hi

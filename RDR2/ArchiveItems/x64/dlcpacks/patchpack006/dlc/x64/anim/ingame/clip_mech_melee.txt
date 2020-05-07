@@ -1,0 +1,6 @@
+mech_melee@blade@_male@_ambient@_healthy@_noncombat
+mech_melee@pistol@_male@_ambient@_healthy@_noncombat
+mech_melee@pistol_dual@_male@_ambient@_healthy@_noncombat
+mech_melee@rifle@_male@_ambient@_healthy@_noncombat
+mech_melee@shotgun@_male@_ambient@_healthy@_noncombat
+mech_melee@unarmed@_male@_ambient@_healthy@_streamed

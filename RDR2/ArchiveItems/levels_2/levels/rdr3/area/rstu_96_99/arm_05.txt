@@ -1,5 +1,8 @@
 _cache
 _manifest
+arm_05__corpsepit01
+arm_05_0
+arm_05_1
 arm_05_building05_em
 arm_05_cholera
 arm_05_cholera_lod
@@ -10,6 +13,7 @@ arm_05_corpsepit02
 arm_05_corpsepit03
 arm_05_corpsepit03+hidr
 arm_05_corpsepit04
+arm_05_em
 arm_05_fire_debris01_a
 arm_05_fire_debris01_a_lod
 arm_05_fire_debris01_b
@@ -49,6 +53,7 @@ arm_05_scorch02_dcl
 arm_05_sheriff_int_lod
 arm_05_sheriffsoffice01x
 arm_05_sheriffsoffice01x+hidr
+arm_05_txd_01
 arm_05_vfx_bonefire01_a
 arm_05_vfx_bonefire01_ab
 arm_05_vfx_bonefire01_abc
@@ -69,3 +74,5 @@ arm_05_vfx_smoulder01_c
 arm_05_vfx_smoulder02_a
 arm_05_vfx_smoulder02_b
 arm_05_vfx_smoulder02_c
+hi@arm_05_0
+hi@arm_05_1

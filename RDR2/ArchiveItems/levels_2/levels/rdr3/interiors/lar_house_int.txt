@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@lar_house_int
 jewl_plate
 lar_house_int
 lar_int_decals
@@ -19,3 +20,5 @@ lar_int_stains
 lar_int_stains+hidr
 lar_int_walldetails
 lar_int_walldetails+hidr
+lar_sod_house_int
+lar_sod_house_int+hi

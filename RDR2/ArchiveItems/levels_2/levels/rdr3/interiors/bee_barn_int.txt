@@ -16,4 +16,6 @@ bee_barn_int_ref_proxy+hidr
 bee_barn_int_ropes01
 bee_barn_int_ropes02
 bee_barn_int_shell
+bee_barn_int+hi
 bee_barn_lightbox
+hi@bee_barn_int

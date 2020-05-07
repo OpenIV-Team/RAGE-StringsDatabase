@@ -1,6 +1,7 @@
 _cache
 _manifest
 cli_01_
+cli_01_+hi
 cli_01_awnb_ren
 cli_01_awnb_ren+hifr
 cli_01_dec
@@ -13,6 +14,8 @@ cli_01_penwalls_l
 cli_01_penwalls_l_lod
 cli_01_penwalls+hidr
 cli_01_r_penwalls
+cli_01_r_penwalls_frag_
+cli_01_r_penwalls_frag_+hi
 cli_01_r_penwalls+hifr
 cli_01_vfx_001
 cli_01_vgvines

@@ -1,4 +1,6 @@
 _manifest
+mp005_mpcover_sd
+mp005_mpcover_sd+hi
 mp005_p_mp_cover_h_sd
 mp005_p_mp_cover_hl_sd
 mp005_p_mp_cover_s_sd

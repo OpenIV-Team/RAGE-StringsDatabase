@@ -1,9 +1,11 @@
 _manifest
 rho_04_
+rho_04_+hi
 rho_04_bkdoor
 rho_04_bkdoorshut
 rho_04_d_trash_01
 rho_04_d_trash_01+hidr
+rho_04_em
 rho_04_em_slod
 rho_04_fenceshop_ext
 rho_04_fenceshop_ext+hidr

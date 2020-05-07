@@ -1,0 +1,4 @@
+script@specialped@pdcwv_bum_civil_war_veteran@ig@ig_8@a1_yes_no
+script@specialped@pdmst_mad_scientist@ig@ig_1@ig_1
+script@specialped@pdprj_poor_joe@ig@ig_1@ig_1
+script@specialped@pdsfw_lillianpowell@ig@ig_5@ig_5

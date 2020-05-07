@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@lon_mule_int
 lon_int_hogtie002
 lon_int_hogtie01
 lon_mule_int
@@ -16,6 +17,7 @@ lon_mule_int_shell
 lon_mule_int_shell+hidr
 lon_mule_int_shelving
 lon_mule_int_shelving+hidr
+lon_mule_int+hi
 lon_mule_lightbox
 lon_mule_ref_proxy
 lon_mule_ref_proxy+hidr

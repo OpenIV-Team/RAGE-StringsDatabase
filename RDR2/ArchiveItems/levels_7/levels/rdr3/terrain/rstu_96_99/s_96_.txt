@@ -3,6 +3,7 @@ _manifest
 s_96_
 s_96__03_road_de01a
 s_96__03_road_de01a+hidr
+s_96__bkt_0
 s_96__hd_0_0_0
 s_96__hd_0_0_1
 s_96__hd_0_0_-1
@@ -71,6 +72,7 @@ s_96__hd_0_-4_-3
 s_96__hd_0_-4_-4
 s_96__ranch_de01
 s_96__ranch_de01+hidr
+s_96_+hi
 s_96_01_decl03
 s_96_01_decl05
 s_96_01_decl2

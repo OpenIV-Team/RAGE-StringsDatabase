@@ -2,3 +2,5 @@ _cache
 _manifest
 gua_out_a_03_placement
 gua_out_a_03_placement_ph
+gua_out_a_03_placement_strm
+gua_out_a_03_placement_strm_0

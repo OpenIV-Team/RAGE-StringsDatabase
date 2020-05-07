@@ -1,14 +1,18 @@
 _cache
 _manifest
+reg_bgv
+reg_bgv_
 reg_bgv__sp_wagoncrash_sober
 reg_bgv__sp_wagoncrash_sober+hidr
 reg_bgv__sp_wagoncrashdrunk
 reg_bgv__sp_wagoncrashdrunk+hidr
 reg_bgv__sp_wagoncrsh
 reg_bgv__sp_wagoncrsh+hidr
+reg_bgv_+hi
 reg_bgv_00
 reg_bgv_00_campfiredebris01
 reg_bgv_00_campfiredebris01+hidr
+reg_bgv_00+hi
 reg_bgv_05_cave_fire
 reg_bgv_3bgv3_drunk
 reg_bgv_3bgv3_drunk+hidr
@@ -32,6 +36,8 @@ reg_bgv_coach_mapsobject
 reg_bgv_coach_mapsobject+hidr
 reg_bgv_crashsober01
 reg_bgv_deleteme
+reg_bgv_des_utp2_treefall
+reg_bgv_des_utp2_treefall+hi
 reg_bgv_drunk_decal
 reg_bgv_drunk_decal02
 reg_bgv_drunk_decal03
@@ -62,6 +68,8 @@ reg_bgv_m05_mine_wire
 reg_bgv_m05_mine_wire+hidr
 reg_bgv_m05p_mine_woodends_d
 reg_bgv_m05p_mine_woodends_d+hidr
+reg_bgv_mineext_txd
+reg_bgv_mineext_txd+hi
 reg_bgv_missing_husband_d
 reg_bgv_missing_husband_d+hidr
 reg_bgv_murderrock
@@ -80,11 +88,15 @@ reg_bgv_skinnermass011
 reg_bgv_skinnermass03
 reg_bgv_text_water_grz_lke
 reg_bgv_text_water_grz_lke+hidr
+reg_bgv_treefall
 reg_bgv_treefall_acc_end
 reg_bgv_treefall_acc_start
 reg_bgv_treefall_acc_start+hidr
 reg_bgv_treefall_end
 reg_bgv_treefall_start
+reg_bgv_treefall+hi
+reg_bgv_tunnel
+reg_bgv_tunnel+hi
 reg_bgv_ufodecal01
 reg_bgv_ufodecal01+hidr
 reg_bgv_ufodecal02
@@ -97,3 +109,4 @@ reg_bgv_water_01_grz_lke
 reg_bgv_water_01_grz_lke+hidr
 reg_bgv_wrecked
 reg_bgv_wrecked+hidr
+reg_bgv+hi

@@ -39,6 +39,7 @@ ora_plantation_house_d+hidr
 ora_plantation_p_01_d
 ora_plantation_p_01_d+hidr
 ora_plantation_p_02_d
+ora_plantation+hi
 oraplpr_combo08_slod
 oraplpr_combo09_slod
 oraplpr_combo10_slod

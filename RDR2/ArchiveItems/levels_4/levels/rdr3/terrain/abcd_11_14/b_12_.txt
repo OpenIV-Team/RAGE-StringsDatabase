@@ -1,6 +1,10 @@
 _cache
 _manifest
 b_12_
+b_12__bkt_0
+b_12__bkt_1
+b_12__bkt_2
+b_12__bkt_3
 b_12__grass_de01
 b_12__hd_0_0_0
 b_12__hd_0_0_1

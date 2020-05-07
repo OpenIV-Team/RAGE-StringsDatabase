@@ -1,6 +1,8 @@
 _cache
 _manifest
+cro_01
 cro_01_
+cro_01_+hi
 cro_01_farm_barn
 cro_01_farm_barn+hidr
 cro_01_farm_house
@@ -18,6 +20,7 @@ cro_01_vfx_001
 cro_01_vfx_002
 cro_01_vfx_003
 cro_01_vfx_004
+cro_01+hi
 cro_farm_coops
 cro_farm_coops+hidr
 cro_farm_misc01

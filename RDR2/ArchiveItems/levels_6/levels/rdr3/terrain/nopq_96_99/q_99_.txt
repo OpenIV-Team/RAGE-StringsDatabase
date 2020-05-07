@@ -1,6 +1,8 @@
 _cache
 _manifest
 q_99_
+q_99__bkt_0
+q_99__bkt_1
 q_99__hd_0_0_0
 q_99__hd_0_0_1
 q_99__hd_0_0_-1
@@ -66,6 +68,7 @@ q_99__hd_0_-4_-2
 q_99__hd_0_-4_3
 q_99__hd_0_-4_-3
 q_99__hd_0_-4_-4
+q_99_+hi
 q_99_01_dec
 q_99_01_dec+hidr
 q_99_04_rail_decal_01
@@ -74,3 +77,4 @@ q_99_04_rail_decal_03
 q_99_08_rail_decal_01
 q_99_08_rail_decal_02
 q_99_08_rail_decal_03
+q_99_decal

@@ -4,3 +4,5 @@ gua_out_d_02
 gua_out_d_02_01
 gua_out_d_02_02
 gua_out_d_02_29
+gua_out_d_02_long_0
+gua_out_d_02_strm

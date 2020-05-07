@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@str_mayorshouse_int
 lightblocker
 str_03_mayor_int_01
 str_03_mayor_int_01+hidr
@@ -14,3 +15,4 @@ str_mayorhouse_shadow_proxy
 str_mayorshouse_int
 str_mayorshouse_int_ref
 str_mayorshouse_int_ref+hidr
+str_mayorshouse_int_shell

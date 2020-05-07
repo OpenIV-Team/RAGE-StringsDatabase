@@ -2,6 +2,8 @@ _manifest
 lnn_01_lightbox
 lnn_01_vfx_001
 lnn_clothhang
+lnn_house
+lnn_house+hi
 lnn_house01
 lnn_house01_decals01
 lnn_house01_decals01+hidr

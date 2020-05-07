@@ -1,5 +1,7 @@
 _cache
 _manifest
+grn_01_0
+grn_01_1
 grn_01_debris
 grn_01_debris+hidr
 grn_01_debris02
@@ -9,3 +11,4 @@ grn_01_decal+hidr
 grn_01_main
 grn_01_main_vfx
 grn_01_main+hidr
+hi@grn_01_0

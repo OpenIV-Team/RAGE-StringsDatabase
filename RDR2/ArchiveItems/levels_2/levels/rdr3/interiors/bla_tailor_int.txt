@@ -14,7 +14,10 @@ bla_tailor_int_ref_proxy_a+hidr
 bla_tailor_int_shadowproxy
 bla_tailor_int_shell
 bla_tailor_int_shell+hidr
+bla_tailor_int_txd
+bla_tailor_int_txd+hi
 bla_tailor_main_shop
 bla_tailor_main_shop+hidr
 bla_tailor_mirror
 bla_tailor_mirror+hidr
+hi@bla_tailor_int

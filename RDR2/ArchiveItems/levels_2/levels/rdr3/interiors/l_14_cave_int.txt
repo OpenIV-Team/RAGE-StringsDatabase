@@ -3,6 +3,7 @@ _decal001
 _manifest
 blend_decal
 blend_decal+hidr
+l_14_cave
 l_14_cave_blockade_000
 l_14_cave_blockade_00001
 l_14_cave_blockade_00002
@@ -19,7 +20,12 @@ l_14_cave_glue_002
 l_14_cave_int
 l_14_cave_int_decal002
 l_14_cave_int_floor_moss
+l_14_cave_int_lod
+l_14_cave_int_lod+hi
 l_14_cave_int_roots
+l_14_cave_int_shell
+l_14_cave_int_shell+hi
+l_14_cave_int+hi
 l_14_cave_lightblocker_01
 l_14_cave_lightblocker_02
 l_14_cave_lightblocker_03
@@ -88,6 +94,8 @@ l_14_poisoncave_entry_lod
 l_14_poisoncave_entrya
 l_14_poisoncave_entrya_lod
 l_14_poisoncave_entrya+hidr
+l_14_poisoncave_mid
+l_14_poisoncave_mid+hi
 l_14_poisoncave_mid01
 l_14_poisoncave_mid01_lod
 l_14_poisoncave_mid01a

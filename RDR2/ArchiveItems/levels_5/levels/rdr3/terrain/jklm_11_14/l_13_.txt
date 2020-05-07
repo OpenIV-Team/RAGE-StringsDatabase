@@ -3,6 +3,9 @@ _manifest
 l_13_
 l_13__13_road_de01
 l_13__13_road_de01+hidr
+l_13__bkt_0
+l_13__bkt_2
+l_13__bkt_3
 l_13__hd_0_0_0
 l_13__hd_0_0_1
 l_13__hd_0_0_-1
@@ -75,6 +78,7 @@ l_13__railroaddecal2
 l_13__road_juntion_blend_01
 l_13__road_juntion_blend_03
 l_13__road_juntion_blend_03+hidr
+l_13_+hi
 l_13_01_track_decal_01
 l_13_01_track_decal_02
 l_13_01_track_decal_03

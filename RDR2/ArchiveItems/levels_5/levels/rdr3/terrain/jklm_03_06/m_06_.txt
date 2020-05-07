@@ -1,6 +1,10 @@
 _cache
 _manifest
 m_06_
+m_06__bkt_0
+m_06__bkt_1
+m_06__bkt_2
+m_06__bkt_3
 m_06__derd02
 m_06__derd03
 m_06__derd04
@@ -79,6 +83,7 @@ m_06__junction_d
 m_06__junction_d_2
 m_06__junction_d_3
 m_06__junction_d_4
+m_06_+hi
 m_06_01_decal001
 m_06_01_decal002
 m_06_01_decal003

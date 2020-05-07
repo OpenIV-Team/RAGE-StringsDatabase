@@ -1,1 +1,10 @@
 _manifest
+mega_gen@creatures_reptile@alligator@normal
+mega_gen@creatures_reptile@alligator@normal@transitions
+mega_gen@creatures_reptile@alligator@wading
+mega_gen@creatures_reptile@alligator@wading@transitions
+mega_gen@creatures_reptile@alligator_03@normal
+mega_gen@creatures_reptile@alligator_03@normal@transitions
+mega_gen@creatures_reptile@iguana@normal
+mega_gen@creatures_reptile@snake@normal
+mega_gen@creatures_reptile@turtlesnapping@normal

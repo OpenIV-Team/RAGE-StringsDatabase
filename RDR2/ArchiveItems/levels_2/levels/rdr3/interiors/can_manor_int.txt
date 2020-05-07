@@ -30,4 +30,6 @@ can_manor_int
 can_manor_int_ref
 can_manor_int_ref+hidr
 can_manor_int_shadow_proxy
+can_manor_int+hi
 can_manor_lightbox001
+hi@can_manor_int

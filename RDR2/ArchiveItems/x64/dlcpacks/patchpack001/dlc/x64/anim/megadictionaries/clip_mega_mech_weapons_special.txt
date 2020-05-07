@@ -1,1 +1,3 @@
 _manifest
+mega_mech_weapons_special@binoculars
+mega_mech_weapons_special@lasso

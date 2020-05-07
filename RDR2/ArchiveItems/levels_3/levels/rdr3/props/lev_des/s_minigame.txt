@@ -1,4 +1,18 @@
 _manifest
+chip_bas01x
+chip_bas01x+hi
+chip_bla01x
+chip_bla01x+hi
+chip_camp01x
+chip_camp01x+hi
+chip_fla01x
+chip_fla01x+hi
+chip_kor01x
+chip_kor01x+hi
+chip_opi01x
+chip_opi01x+hi
+chip_val01x
+chip_val01x+hi
 p_bbishop_01x
 p_bking_01x
 p_bknight_01x
@@ -11,6 +25,7 @@ p_bpawn_01x
 p_bqueen_01x
 p_brook_01x
 p_cards_cs01x
+p_cards01
 p_cards01x
 p_cards02x
 p_cardssplit01x
@@ -68,6 +83,7 @@ p_crapsonoff01x
 p_crapsrake01x
 p_crapstable01x
 p_crapstable01x+hidr
+p_crd
 p_crd_01x
 p_crd_01x_new
 p_crd_10_c01x
@@ -216,6 +232,7 @@ p_dice01x
 p_dice02x
 p_diveflag01x
 p_diveflag01x+hifr
+p_domino
 p_domino_0_0
 p_domino_0_1
 p_domino_0_2
@@ -249,6 +266,7 @@ p_domino_set_03x
 p_domino_set_04x
 p_domino_set_05x
 p_domino_set_06x
+p_domino01
 p_domino01_0_0
 p_domino01_0_1
 p_domino01_0_2
@@ -277,6 +295,7 @@ p_domino01_4_6
 p_domino01_5_5
 p_domino01_5_6
 p_domino01_6_6
+p_domino02
 p_domino02_0_0
 p_domino02_0_1
 p_domino02_0_2
@@ -305,6 +324,7 @@ p_domino02_4_6
 p_domino02_5_5
 p_domino02_5_6
 p_domino02_6_6
+p_domino03
 p_domino03_0_0
 p_domino03_0_1
 p_domino03_0_2
@@ -333,6 +353,7 @@ p_domino03_4_6
 p_domino03_5_5
 p_domino03_5_6
 p_domino03_6_6
+p_domino04
 p_domino04_0_0
 p_domino04_0_1
 p_domino04_0_2
@@ -361,6 +382,7 @@ p_domino04_4_6
 p_domino04_5_5
 p_domino04_5_6
 p_domino04_6_6
+p_domino05
 p_domino05_0_0
 p_domino05_0_1
 p_domino05_0_2
@@ -389,6 +411,7 @@ p_domino05_4_6
 p_domino05_5_5
 p_domino05_5_6
 p_domino05_6_6
+p_domino06
 p_domino06_0_0
 p_domino06_0_1
 p_domino06_0_2
@@ -427,6 +450,7 @@ p_fencebroken_pro_02x
 p_fencebroken_pro_02x+hidr
 p_horseshoestake01x
 p_horseshoestake01x+hidr
+p_minigame
 p_pokercaddy01x
 p_pokercaddy01x+hidr
 p_pokercaddy02x
@@ -486,6 +510,8 @@ p_wknight_01x
 p_wpawn_01x
 p_wqueen_01x
 p_wrook_01x
+pokerchips
+pokerchips+hi
 prop_chip_all_x10
 prop_chip_black_x1
 prop_chip_black_x10
@@ -493,7 +519,6 @@ prop_chip_black_x2
 prop_chip_black_x3
 prop_chip_black_x4
 prop_chip_black_x5
-prop_chip_black_x6
 prop_chip_black_x7
 prop_chip_black_x8
 prop_chip_black_x9
@@ -557,3 +582,4 @@ s_drugpackage_02x
 s_minigame
 saint_denis_1x
 saint_denis_1x+hidr
+prop_chip_black_x6

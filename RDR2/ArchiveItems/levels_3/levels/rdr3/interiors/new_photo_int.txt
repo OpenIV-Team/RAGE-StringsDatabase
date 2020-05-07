@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@new_photo_int
 new_photo_int
 new_photo_int_decal01
 new_photo_int_decal01+hidr

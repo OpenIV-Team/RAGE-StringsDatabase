@@ -41,11 +41,13 @@ p_bobcatscat01x
 p_bobcatscat01x+hidr
 p_bobcattuftsfur01x
 p_bobcattuftsfur01x+hidr
+p_boobytrap
 p_boobytrap_guar01x
 p_boobytrap_guar01x+hifr
 p_boobytrap_roanok02x
 p_boobytrap_roanoka01x
 p_boobytrap_roanokb01x
+p_boobytrap+hi
 p_buckscat01x
 p_buckscat01x+hidr
 p_bucktufts01x
@@ -171,6 +173,7 @@ p_hidewolf01x
 p_hidewolf01x+hidr
 p_horn01x
 p_hunting
+p_hunting+hi
 p_huntingbag01x
 p_ihide02x
 p_ihide02x+hidr
@@ -213,6 +216,8 @@ p_rabbitscat01x
 p_rabbitscat01x+hidr
 p_rabbittufts01x
 p_rabbittufts01x+hidr
+p_sha_footprint01x
+p_sha_footprint01x+hi
 p_sha_l_footprint01x
 p_sha_l_footprint02x
 p_sha_r_footprint01x
@@ -247,6 +252,8 @@ p_taxidermyvulture02x
 p_taxidermyvulture03x
 p_taxidermyvulture04x
 p_taxidermyvulture04x+hifr
+p_tradepost
+p_tradepost+hi
 p_trap01x
 p_trap01x_damaged
 p_trap01x_damaged+hidr

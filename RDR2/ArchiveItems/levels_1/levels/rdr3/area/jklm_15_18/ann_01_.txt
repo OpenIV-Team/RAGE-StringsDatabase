@@ -15,6 +15,10 @@ ann_01_terain_decals_01+hidr
 ann_01_terain_decals_02
 ann_01_terain_decals_03
 ann_01_terain_decals_03+hidr
+ann_01_terrain
+ann_01_terrain+hi
+ann_01_txd1
+ann_01_txd1+hi
 ann_02_mine_sup
 ann_02_mine_sup+hidr
 ann_airshaft

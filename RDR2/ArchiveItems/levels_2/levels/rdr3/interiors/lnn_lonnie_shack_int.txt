@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@lnn_lonnie_shack_int
 inn_lonnie_shack_int_shadwprxy
 lnn_cabin_decals01
 lnn_cabin_decals01+hidr
@@ -7,6 +8,8 @@ lnn_cabine_web01
 lnn_cabine_web02
 lnn_house_boards
 lnn_house_brboards
+lnn_house_int_txd
+lnn_house_int_txd+hi
 lnn_house01_brbeams
 lnn_house01_brblankets
 lnn_house01_brblankets+hidr

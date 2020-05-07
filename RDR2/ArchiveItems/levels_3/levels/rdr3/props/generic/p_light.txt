@@ -1,4 +1,6 @@
 _manifest
+basecandles
+moundbase
 p_bulb_g_01x
 p_bulb_g_02x
 p_bulb_g_frosted_01x
@@ -45,6 +47,8 @@ p_lighthouse01x_shield+hifr
 p_lighthouse01x+hidr
 p_moundbase3x
 p_moundbase9x
+p_waxdrip
+p_waxdrip+hi
 p_waxdrip01x
 p_waxdrip02x
 p_waxdrip03x
@@ -56,3 +60,5 @@ p_waxdrip10x
 s_movieprojection01x
 s_omnilightdummy01x
 s_spotlightdummy01x
+waxdrip
+waxdrip+hi

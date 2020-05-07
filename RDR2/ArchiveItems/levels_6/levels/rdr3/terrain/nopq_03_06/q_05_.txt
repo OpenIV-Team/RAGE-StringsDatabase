@@ -1,6 +1,9 @@
 _cache
 _manifest
 q_05_
+q_05__bkt_0
+q_05__bkt_1
+q_05__bkt_2
 q_05__hd_0_0_0
 q_05__hd_0_0_1
 q_05__hd_0_0_-1
@@ -72,6 +75,7 @@ q_05__junc_de05
 q_05__junc_de06
 q_05__junc_de07
 q_05__q05_dec_1
+q_05_+hi
 q_05_03_decal
 q_05_03_decal+hidr
 q_05_05_d

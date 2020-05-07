@@ -2,4 +2,6 @@ _manifest
 p_teamster_break01x_lrg
 p_teamster_break01x_med
 p_teamster_break01x_sml
+teamster_breakables
+teamster_breakables+hi
 vehicle_props_mp

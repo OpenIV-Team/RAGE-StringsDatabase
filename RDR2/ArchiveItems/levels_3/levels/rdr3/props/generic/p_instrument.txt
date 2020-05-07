@@ -83,6 +83,8 @@ p_tonguedepressor01x
 p_trumpet01x
 p_trumpet01x+hifr
 p_viola01x
+p_violin01x
+p_violin01x+hi
 p_whistle01x
 s_firstaidkit_sml01x
 s_firstaidkit_sml01x+hi

@@ -1,6 +1,16 @@
 _cache
 _manifest
 dis_hrt_00
+dis_hrt_00_0
+dis_hrt_00_1
+dis_hrt_00_2
+dis_hrt_00_3
+dis_hrt_00_4
+dis_hrt_00_5
+dis_hrt_00_strm
+dis_hrt_00_strm_0
+dis_hrt_01_txd
+dis_hrt_01_txd+hi
 dis_hrt_animaldig
 dis_hrt_animaldig+hidr
 dis_hrt_dinolady01
@@ -29,8 +39,11 @@ dis_hrt_oildrill_01_ropes
 dis_hrt_oildrill_01_ropes+hidr
 dis_hrt_oildrill_01_slod
 dis_hrt_oildrill_01+hidr
+dis_hrt_oildrill_txd
+dis_hrt_oildrill_txd+hi
 dis_hrt_oildrillladder
 dis_hrt_oildrillladder+hidr
+dis_hrt_p_rock_stash01_ipl
 dis_hrt_rustystove
 dis_hrt_rustystove_lod
 dis_hrt_rustystove+hidr
@@ -54,3 +67,7 @@ dis_hrt_wagon03_slod
 dis_hrt_wagon03+hidr
 dis_hrt_wagon06_lod
 dis_hrt_wagon06_slod
+hi@dis_hrt_00_0
+hi@dis_hrt_00_1
+hi@dis_hrt_00_2
+hi@dis_hrt_00_3

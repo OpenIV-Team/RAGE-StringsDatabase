@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@shack_rarefish_int
 shack_rarefish_beg
 shack_rarefish_end
 shack_rarefish_end+hidr

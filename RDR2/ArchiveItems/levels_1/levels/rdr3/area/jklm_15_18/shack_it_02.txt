@@ -8,3 +8,5 @@ shk_it2_ext_veg
 shk_it2_ext_veg+hidr
 shk_it2_ezzt_hd
 shk_it2_ezzt_hd+hidr
+shk_shack_it_02
+shk_shack_it_02+hi

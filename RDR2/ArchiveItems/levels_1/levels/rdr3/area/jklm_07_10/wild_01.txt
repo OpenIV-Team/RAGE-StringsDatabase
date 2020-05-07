@@ -1,4 +1,7 @@
 _manifest
+wli_01
+wli_01_carving04
+wli_01_carving04+hi
 wli_chest20_dead
 wli_chest20_dead+hidr
 wli_chest20_detail
@@ -25,6 +28,8 @@ wli_cratedebris01+hidr
 wli_cratedebris02
 wli_cratedebris02+hidr
 wli_edsaurustail_decal
+wli_j_06_wreckage
+wli_j_06_wreckage+hi
 wli_j_06_wreckage01
 wli_j_06_wreckage01+hidr
 wli_j_06_wreckage02
@@ -71,4 +76,6 @@ wli_treashunt_log_lod
 wli_treashunt_log_snow
 wli_treashunt_log_snow+hidr
 wli_treashunt_log+hidr
+wli_wil_01_cratedebristxd
+wli_wil_01_cratedebristxd+hi
 wli_wil_turtleshell_decal

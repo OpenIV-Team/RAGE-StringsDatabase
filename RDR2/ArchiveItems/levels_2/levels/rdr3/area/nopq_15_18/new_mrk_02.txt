@@ -17,6 +17,7 @@ new_mrk_02_crtyd_entry
 new_mrk_02_crtyd_entry+hidr
 new_mrk_02_debris_01
 new_mrk_02_debris_02
+new_mrk_02_debris_txd
 new_mrk_02_debris00
 new_mrk_02_debris01
 new_mrk_02_debris02
@@ -41,3 +42,6 @@ new_mrk_02_posters_01+hidr
 new_mrk_02_stablebuild
 new_mrk_02_stablebuild_d
 new_mrk_02_stablebuild+hidr
+new_mrk_02_txd1
+new_mrk_02_txd2
+new_mrk_02_txd3

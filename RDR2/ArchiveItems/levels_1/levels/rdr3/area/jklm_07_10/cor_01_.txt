@@ -1,5 +1,6 @@
 _manifest
 cor_01_
+cor_01_+hi
 cor_01_d_tracks_01
 cor_01_d_tracks_02
 cor_01_d_trash_01
@@ -27,6 +28,10 @@ cor_01_debris_16
 cor_01_debris_17
 cor_01_debris_18
 cor_01_debris_19
+cor_01_debris_txd
+cor_01_debris_txd+hi
+cor_01_es
+cor_01_es+hi
 cor_01_ladder01
 cor_01_ladder01+hidr
 cor_01_lights_attachment_plane

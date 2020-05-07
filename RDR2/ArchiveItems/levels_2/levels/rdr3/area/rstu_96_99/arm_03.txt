@@ -2,6 +2,8 @@ _cache
 _manifest
 arm_03__arm03_combo01_dslod
 arm_03__fakeinterior
+arm_03_0
+arm_03_1
 arm_03_coralentry01
 arm_03_dcl_vomit
 arm_03_dcl_vomit+hidr
@@ -39,6 +41,7 @@ arm_03_saloon_scarletfvr
 arm_03_saloon_scarletfvr_lod
 arm_03_saloon01x
 arm_03_saloon01x+hidr
+arm_03_txd
 arm_03_undertaker_em
 arm_03_undertaker01x
 arm_03_undertaker01x+hidr
@@ -46,3 +49,6 @@ arm_03_undrtkr_cholera
 arm_03_undrtkr_cholera_lod
 arm_03_undrtkr_scarletfvr
 arm_03_undrtkr_scarletfvr_lod
+hi@arm_03_0
+hi@arm_03_1
+hi@arm_03_2

@@ -3,6 +3,8 @@ _manifest
 vet_01_dock
 vet_01_dock_d
 vet_01_dock+hidr
+vet_01_txd
+vet_01_txd+hi
 vet_addon
 vet_addon+hidr
 vet_ext_overlays

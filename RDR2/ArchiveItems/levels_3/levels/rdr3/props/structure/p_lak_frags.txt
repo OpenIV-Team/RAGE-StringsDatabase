@@ -2,6 +2,8 @@ _manifest
 p_huto_01
 p_huto_02
 p_lak_frags
+p_lak_frags_txd
+p_lak_frags_txd+hi
 p_lakdok_fram_01
 p_lakdok_fram_02
 p_lakdok_lad_01

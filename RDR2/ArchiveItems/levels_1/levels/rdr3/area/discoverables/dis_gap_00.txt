@@ -1,6 +1,10 @@
 _cache
 _manifest
 dis_gap_00
+dis_gap_00_0
+dis_gap_00_1
+dis_gap_00_strm
+dis_gap_00_strm_0
 dis_gap_abandoned_d
 dis_gap_abandoned_d+hidr
 dis_gap_abandoned_veg
@@ -14,3 +18,4 @@ dis_gap_disga00_combo_12_lod
 dis_gap_disga00_combo_slod
 dis_gap_prehistoricdecal01
 dis_gap_prehistoricdecal01+hidr
+hi@dis_gap_00_0

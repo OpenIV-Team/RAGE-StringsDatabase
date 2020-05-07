@@ -4,6 +4,7 @@ cas_house_int
 cas_house_int_ref_proxy
 cas_house_int_ref_proxy+hidr
 cas_house_int_shdwprxy
+cas_hse_int
 cas_hse_int_dc
 cas_hse_int_dc+hidr
 cas_hse_int_details
@@ -15,5 +16,7 @@ cas_hse_int_furniture+hidr
 cas_hse_int_meat_hanger
 cas_hse_int_shell
 cas_hse_int_shell+hidr
+cas_hse_int+hi
 cas_int_haning_meats
 cas_lightholder_01
+hi@cas_house_int

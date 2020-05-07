@@ -1,5 +1,8 @@
 _cache
 _manifest
 amb_camps_gap_00
+amb_camps_gap_00_strm
+amb_camps_gap_00_strm_0
+amb_gap_00_rope
 amb_gap_00_ropeends
 amb_gap_16_ropeends

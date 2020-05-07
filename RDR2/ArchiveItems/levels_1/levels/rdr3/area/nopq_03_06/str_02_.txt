@@ -1,5 +1,6 @@
 _manifest
 str_02_
+str_02_+hi
 str_02_audio_box_proxy
 str_02_bridge_log001
 str_02_bridge_log001+hidr

@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@new_saloon01_int_main
 new_emissive_new_d
 new_emissive_new_n
 new_emissive_up_d
@@ -42,6 +43,7 @@ new_saloon01_details1+hidr
 new_saloon01_frontcurt
 new_saloon01_frontcurt+hidr
 new_saloon01_int
+new_saloon01_int_main
 new_saloon01_int_plyrrm
 new_saloon01_int_plyrrm_curt
 new_saloon01_int_plyrrm_curt+hidr
@@ -51,6 +53,8 @@ new_saloon01_int_ref_c
 new_saloon01_int_ref_d
 new_saloon01_int_ref_d+hidr
 new_saloon01_int_shadowproxy
+new_saloon01_int_shell
+new_saloon01_int_txd
 new_saloon01_stairway
 new_saloon01_stairway+hidr
 new_saloon01_stairwayupper

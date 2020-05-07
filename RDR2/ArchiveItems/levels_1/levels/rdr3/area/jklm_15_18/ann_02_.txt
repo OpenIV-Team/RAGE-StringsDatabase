@@ -1,5 +1,6 @@
 _manifest
 ann_02_
+ann_02_+hi
 ann_02_audiobox_donotdelete
 ann_02_blacksmith
 ann_02_blacksmith_em_hd
@@ -7,7 +8,10 @@ ann_02_blacksmith_frag
 ann_02_blacksmith_frag+hifr
 ann_02_blacksmith+hidr
 ann_02_bsmith_glue
+ann_02_decals
+ann_02_decals+hi
 ann_02_edgerope
+ann_02_em
 ann_02_locker_room
 ann_02_locker_room_d
 ann_02_locker_room_em_hd

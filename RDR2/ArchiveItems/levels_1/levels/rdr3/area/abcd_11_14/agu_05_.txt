@@ -1,6 +1,8 @@
 _cache
 _manifest
 agu_05_
+agu_05__0
+agu_05_+hi
 agu_05_cloth_001a
 agu_05_cloth_001c
 agu_05_cloth_002a
@@ -45,6 +47,9 @@ agu_05_ruinwalls_04
 agu_05_ruinwalls_04+hidr
 agu_05_ruinwalls_05
 agu_05_ruinwalls_05+hidr
+agu_05_txd2
 agu_05_vines_01
 agu_05_vines_02
 agu_rope_002
+hi@agu_05__0
+hi@agu_05__1

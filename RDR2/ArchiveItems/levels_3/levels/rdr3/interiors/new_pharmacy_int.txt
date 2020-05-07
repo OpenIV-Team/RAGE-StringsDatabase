@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@new_pharmacy_int
 new_pharmacy_cabinet
 new_pharmacy_curtains01
 new_pharmacy_decals01
@@ -11,6 +12,7 @@ new_pharmacy_glass
 new_pharmacy_int
 new_pharmacy_int_ref
 new_pharmacy_int_ref+hidr
+new_pharmacy_int_txd
 new_pharmacy_pole01
 new_pharmacy_post
 new_pharmacy_shadowproxy

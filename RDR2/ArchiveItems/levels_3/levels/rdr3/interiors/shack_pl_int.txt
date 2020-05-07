@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@shack_pl_int
 shack_pl_int
 shack_pl_int_decals
 shack_pl_int_decals+hidr

@@ -1,0 +1,4 @@
+script@playercamp@pick_orchid_plant@base_plant
+script@playercamp@warning_murfree_brood@action
+script@playercamp@warning_murfree_brood@action_kneeling
+script@playercamp@warning_skinner_brothers@action_kneeling

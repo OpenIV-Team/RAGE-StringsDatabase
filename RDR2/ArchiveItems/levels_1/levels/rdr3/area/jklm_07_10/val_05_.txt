@@ -1,4 +1,5 @@
 _manifest
+val_05
 val_05__em_slod
 val_05__em001
 val_05__em001_slod
@@ -10,12 +11,15 @@ val_05_audioproxy2
 val_05_church_dec
 val_05_church_ext
 val_05_church_ext+hidr
+val_05_em
 val_05_glue_02
 val_05_grvestne_01_glue
 val_05_grvestne_02_glue
 val_05_grvestne_03_glue
 val_05_pigpen_a
 val_05_pigpen_a+hidr
+val_05_props
+val_05_props+hi
 val_05_res_a
 val_05_res_a_dcl
 val_05_res_a+hidr
@@ -30,6 +34,7 @@ val_05_res_e_dcl+hidr
 val_05_res_e_veg
 val_05_res_e_veg+hidr
 val_05_res_e+hidr
+val_05+hi
 val_06_sign_chadwickfarm
 val_06_sign_chadwickfarm+hidr
 val_gravenames

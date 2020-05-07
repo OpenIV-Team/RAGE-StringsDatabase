@@ -1,7 +1,17 @@
 _cache
 _manifest
+hi@swc_01_0
+hi@swc_01_1
+hi@swc_01_2
+hi@swc_01_3
+hi@swc_01_4
+hi@swc_01_5
 swc_01__de01
 swc_01__de01+hidr
+swc_01_0
+swc_01_1
+swc_01_2
+swc_01_3
 swc_01_bridge_rr04_a
 swc_01_bridge_rr04_a_det
 swc_01_bridge_rr04_a_sle

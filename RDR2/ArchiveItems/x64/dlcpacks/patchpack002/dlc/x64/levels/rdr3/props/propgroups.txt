@@ -1,0 +1,9 @@
+pg_ambcamp01x_tent_canvas_leanto01
+pg_ambcamp01x_tent_canvas_wedge_stripe
+pg_ambcamp01x_tent_leanto01
+pg_ambcamp01x_tent_pup
+pg_ambcamp01x_tent_pupstripe_glamp
+pg_re_campfireambush02x
+pg_re_inbredgang01x
+pg_veh_traincar01x
+pg_veh_wagonsuffrage_lanterns01

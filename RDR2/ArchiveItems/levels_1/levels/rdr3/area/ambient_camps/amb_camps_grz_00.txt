@@ -1,6 +1,10 @@
 _cache
 _manifest
+amb_camp_gre_story_hunter
+amb_camp_gre_story_treasure
+amb_camp_grz_finale2
 amb_camps_grz_00
+amb_camps_grz_00_strm
 amb_grz_cabin_snow01
 amb_grz_cabin_snow01+hidr
 amb_grz_story_hunter_detail01

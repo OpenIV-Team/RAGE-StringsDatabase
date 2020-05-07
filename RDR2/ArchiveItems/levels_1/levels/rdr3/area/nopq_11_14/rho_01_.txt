@@ -1,6 +1,8 @@
 _manifest
 rho_01_
+rho_01_+hi
 rho_01_area2_em_slod
+rho_01_audio_proxy
 rho_01_cttgn_plank01
 rho_01_decal_trails010a
 rho_01_decal_trails010b
@@ -14,9 +16,12 @@ rho_01_decal_trails07a
 rho_01_decal_trails07b
 rho_01_doctor_barn
 rho_01_doctor_barn+hidr
+rho_01_em
 rho_01_mangazeebo
 rho_01_mangazeebo+hidr
 rho_01_manure002
+rho_01_props_debris_txd
+rho_01_props_debris_txd+hi
 rho_01_props_debris00
 rho_01_props_debris00_a
 rho_01_props_debris00_b

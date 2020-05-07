@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@pro_workshop_int
 pro_work_int_shadowproxy
 pro_workshop_int
 pro_workshop_int_ref

@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@tum_genstore_int
 tum_02_genstore_int_shell
 tum_02_genstore_int_shell+hidr
 tum_gen_dressrm_decal_hdrefl

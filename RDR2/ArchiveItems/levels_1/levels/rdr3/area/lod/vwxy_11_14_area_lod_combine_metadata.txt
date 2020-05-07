@@ -1,4 +1,5 @@
 _cache
 _manifest
 miy_01_
+miy_01__strm_0
 vwxy_11_14_area_lod

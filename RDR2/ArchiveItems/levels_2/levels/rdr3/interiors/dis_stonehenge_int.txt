@@ -11,7 +11,10 @@ dis_stnhng_int_rock02
 dis_stnhng_int_shell
 dis_stnhng_int_shell+hidr
 dis_stnhng_int_shellrock
+dis_stonehendge_int
+dis_stonehendge_int+hi
 dis_stonehenge_int
 dis_stonehenge_lightbox
+hi@dis_stonehenge_int
 lightblocker_01
 lightblocker_02

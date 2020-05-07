@@ -1,5 +1,11 @@
 _cache
 _manifest
+col_02
+col_02__0
+col_02__1
+col_02__2
+col_02__3
+col_02__4
 col_02_barn_barrels
 col_02_barn_barrels+hidr
 col_02_barn_damage
@@ -56,4 +62,10 @@ col_02_stbl_01_ropes01
 col_02_stbl_01_ropes02
 col_02_stbl_01_snow
 col_02_wagon
+col_02+hi
 col_shack_lon_shutters
+hi@col_02__0
+hi@col_02__1
+hi@col_02__2
+hi@col_02__3
+hi@col_02__4

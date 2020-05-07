@@ -1,4 +1,5 @@
 _manifest
+cvb_02_kudzu
 cvb_02_kudzu_slod_01
 cvb_02_kudzu_slod_02
 cvb_02_kudzu_slod_03
@@ -29,6 +30,7 @@ cvb_02_kudzu_wall_10_decal
 cvb_02_kudzu_wall_11_decal
 cvb_02_kudzu_wall_12
 cvb_02_kudzu_wall_12_decal
+cvb_02_kudzu+hi
 cvb_02_ruinfact_awn
 cvb_02_ruinfact_awn+hidr
 cvb_02_ruinfact_deck_dec
@@ -61,6 +63,12 @@ cvb_02_ruinfactory_top3+hidr
 cvb_02_ruinfactory+hidr
 cvb_02_signal_1
 cvb_02_signal_1+hidr
+cvb_02_txd1
+cvb_02_txd1+hi
+cvb_02_txd2
+cvb_02_txd2+hi
+cvb_02_veg
+cvb_02_veg+hi
 cvb_02_vfx_001
 cvb_02_vfx_002
 cvb_kudzu_boat_002

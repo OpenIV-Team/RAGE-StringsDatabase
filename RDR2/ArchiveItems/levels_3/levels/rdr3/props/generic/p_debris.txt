@@ -42,12 +42,20 @@ p_debisdoor02x+hidr
 p_debris
 p_debris_ash01x
 p_debris_ash01x+hidr
+p_debris_brokensticks
+p_debris_brokensticks+hi
 p_debris_nbd_docks_01
 p_debris_nbd_docks_01_static
+p_debris_nbd_docks_01_txd
+p_debris_nbd_docks_01_txd+hi
 p_debris_nbd_docks_02
 p_debris_nbd_docks_02_static
 p_debris_nbd_docks_03
 p_debris_nbd_docks_03_l_static
+p_debris_nbd_docks_moss
+p_debris_nbd_docks_moss_a
+p_debris_nbd_docks_moss_a+hi
+p_debris_nbd_docks_moss+hi
 p_debris_nbd_docks_mossh2
 p_debris_nbd_docks_mossh3
 p_debris_nbd_docks_weed1
@@ -64,6 +72,8 @@ p_debris07x
 p_debris07x+hifr
 p_debris08x
 p_debris08x+hifr
+p_debrisboard
+p_debrisboard+hi
 p_debrisboard01x
 p_debrisboard02x
 p_debrisboard03x
@@ -102,6 +112,8 @@ p_debrisboard27x
 p_debrisboards01x
 p_debrisboards02x
 p_debrisboards03x
+p_debrispile
+p_debrispile+hi
 p_debrispile01x
 p_debrispile02x
 p_debrispile03x
@@ -148,6 +160,8 @@ p_poopile01x
 p_poopile01x+hidr
 p_potsbroken02
 p_potsbroken03
+p_road_debris01_txd
+p_road_debris01_txd+hi
 p_sackapple01x
 p_sackapple01x+hifr
 p_sackpear01x
@@ -165,3 +179,4 @@ p_wall_wood_0001+hifr
 p_wolfpoop01x
 p_wolfpoop02x
 p_wolfpoop03x
+potsbroken

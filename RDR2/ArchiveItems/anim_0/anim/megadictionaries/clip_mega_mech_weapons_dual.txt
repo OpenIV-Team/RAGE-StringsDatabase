@@ -1,1 +1,14 @@
 _manifest
+mega_mech_weapons_dual@cattleman
+mega_mech_weapons_dual@doubleaction
+mega_mech_weapons_dual@lantern
+mega_mech_weapons_dual@mauser
+mega_mech_weapons_dual@sawedoff
+mega_mech_weapons_dual@schofield
+mega_mech_weapons_dual@semiauto
+mega_mech_weapons_dual@stand
+mega_mech_weapons_dual@torch
+mega_mech_weapons_dual@volcanic
+mega_mega_mech_weapons_dual@crouch
+mega_mega_mech_weapons_dual@loco
+mega_mega_mech_weapons_dual@underfire

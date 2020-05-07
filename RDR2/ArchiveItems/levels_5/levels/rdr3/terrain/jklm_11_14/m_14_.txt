@@ -3,6 +3,9 @@ _manifest
 m_14_
 m_14___decal001
 m_14___decal001+hidr
+m_14__bkt_1
+m_14__bkt_2
+m_14__bkt_3
 m_14__hd_0_0_0
 m_14__hd_0_0_1
 m_14__hd_0_0_-1
@@ -69,11 +72,13 @@ m_14__hd_0_-4_3
 m_14__hd_0_-4_-3
 m_14__hd_0_-4_-4
 m_14__leaves
+m_14_+hi
 m_14_08_decal
 m_14_09_decal001
 m_14_09_rail_decal_01
 m_14_09_rail_decal_02
 m_14_09_rail_decal_03
+m_14_decal
 m_14_junc_dec001
 m_14_junc_dec001+hidr
 m_14_leaf_decals00

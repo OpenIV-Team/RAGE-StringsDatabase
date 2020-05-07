@@ -58,6 +58,8 @@ mp005_s_posse_medtable03x+hidr
 mp005_s_posse_medtable04x
 mp005_s_posse_medtable04x+hidr
 mp005_s_posse_table_bountyhunter02x
+mp005_s_posse_tent_bountyhunter
+mp005_s_posse_tent_bountyhunter+hi
 mp005_s_posse_tent_bountyhunter01x
 mp005_s_posse_tent_bountyhunter01x+hidr
 mp005_s_posse_tent_bountyhunter02x
@@ -70,6 +72,8 @@ mp005_s_posse_tent_bountyhunter06x
 mp005_s_posse_tent_bountyhunter06x+hifr
 mp005_s_posse_tent_bountyhunter07x
 mp005_s_posse_tent_bountyhunter07x+hifr
+mp005_s_posse_tent_collector
+mp005_s_posse_tent_collector+hi
 mp005_s_posse_tent_collector01x
 mp005_s_posse_tent_collector01x+hifr
 mp005_s_posse_tent_collector02x
@@ -84,6 +88,8 @@ mp005_s_posse_tent_collector06x
 mp005_s_posse_tent_collector06x+hifr
 mp005_s_posse_tent_collector07x
 mp005_s_posse_tent_collector07x+hifr
+mp005_s_posse_tent_trader
+mp005_s_posse_tent_trader+hi
 mp005_s_posse_tent_trader01x
 mp005_s_posse_tent_trader01x+hifr
 mp005_s_posse_tent_trader02x

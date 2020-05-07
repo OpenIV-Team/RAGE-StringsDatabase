@@ -1,6 +1,9 @@
 _cache
 _manifest
 m_07_
+m_07__bkt_0
+m_07__bkt_1
+m_07__bkt_3
 m_07__crossingdecal
 m_07__crossingdecal_01
 m_07__hd_0_0_0
@@ -77,6 +80,7 @@ m_07__road_decal03
 m_07__road_decal04
 m_07__road_decal05
 m_07__roaddecal0005
+m_07_+hi
 m_07_02_rail_decal_01
 m_07_02_rail_decal_02
 m_07_04_decal_01

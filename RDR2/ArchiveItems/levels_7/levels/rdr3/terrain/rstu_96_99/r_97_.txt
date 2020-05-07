@@ -1,6 +1,7 @@
 _cache
 _manifest
 r_97_
+r_97__bkt_0
 r_97__hd_0_0_0
 r_97__hd_0_0_1
 r_97__hd_0_0_-1
@@ -67,6 +68,7 @@ r_97__hd_0_-4_-2
 r_97__hd_0_-4_3
 r_97__hd_0_-4_-3
 r_97__hd_0_-4_-4
+r_97_+hi
 r_97_01_decal
 r_97_01_decal+hidr
 r_97_01_rail_decal_01

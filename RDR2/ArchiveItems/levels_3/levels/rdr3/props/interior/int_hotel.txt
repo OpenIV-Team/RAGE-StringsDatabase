@@ -28,6 +28,7 @@ p_sidetablecombo01x+hifr
 p_suitcasecombo01x
 p_suitcasecombo01x+hifr
 p_teatray01
+p_teatray01+hi
 p_teatraycombo01x
 p_teatraycombo02x
 p_telegramcombo01x

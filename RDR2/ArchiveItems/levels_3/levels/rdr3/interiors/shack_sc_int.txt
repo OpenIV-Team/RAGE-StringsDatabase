@@ -1,6 +1,7 @@
 _cache
 _manifest
 ao_box
+hi@shack_sc_int
 shack_sc_int
 shack_sc_int_blood001
 shack_sc_int_blood001+hidr

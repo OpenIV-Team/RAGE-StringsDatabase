@@ -1,6 +1,9 @@
 _cache
 _manifest
 h_06_placement_vfx
+h_06_placement_vfx_long_0
+h_06_placement_vfx_strm
+h_06_placement_vfx_strm_0
 h_06p_h_06_p_vfx_helper_002
 h_06p_h_06_p_vfx_helper_drifts
 h_06p_mountaindriftclose_001

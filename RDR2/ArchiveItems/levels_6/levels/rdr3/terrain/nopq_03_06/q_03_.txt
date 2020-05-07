@@ -1,6 +1,9 @@
 _cache
 _manifest
 q_03_
+q_03__bkt_0
+q_03__bkt_2
+q_03__bkt_3
 q_03__cave_enterance_decal001
 q_03__hd_0_0_0
 q_03__hd_0_0_1
@@ -67,9 +70,11 @@ q_03__hd_0_-4_-2
 q_03__hd_0_-4_3
 q_03__hd_0_-4_-3
 q_03__hd_0_-4_-4
+q_03_+hi
 q_03_02_rail_decal_01
 q_03_02_rail_decal_02
 q_03_02_rail_decal_03
 q_03_05_d
 q_03_05_d+hidr
 q_03_99_decal
+q_03_decal

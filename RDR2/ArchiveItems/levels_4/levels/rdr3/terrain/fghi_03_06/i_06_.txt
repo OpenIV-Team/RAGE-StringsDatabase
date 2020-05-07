@@ -9,6 +9,8 @@ i_06___decal006
 i_06___decal007
 i_06___decal010
 i_06___decal011
+i_06__bkt_1
+i_06__bkt_3
 i_06__hd_0_0_0
 i_06__hd_0_0_1
 i_06__hd_0_0_-1
@@ -77,3 +79,4 @@ i_06__hd_0_-4_-3
 i_06__hd_0_-4_-4
 i_06__slope_decal
 i_06__terr_i_06dec
+i_06_+hi

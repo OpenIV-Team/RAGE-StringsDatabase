@@ -54,10 +54,12 @@ col_cabin_int_moss01
 col_cabin_int_moss01+hidr
 col_cabin_int_naildcls
 col_cabin_int_rafters1
+col_cabin_int_ref
 col_cabin_int_ref_a
 col_cabin_int_ref_b
 col_cabin_int_ref_c
 col_cabin_int_ref_d
+col_cabin_int_ref+hi
 col_cabin_int_rope
 col_cabin_int_ropes
 col_cabin_int_shadowproxy
@@ -67,6 +69,8 @@ col_cabin_int_shelves02
 col_cabin_int_shelves03
 col_cabin_int_snow
 col_cabin_int_snow_addon
+col_cabin_int_txd
+col_cabin_int_txd+hi
 col_cabin_int_webs01
 col_cabin_int_webs02
 col_cabin_int_webs03
@@ -89,3 +93,4 @@ col_cabin_windows02
 col_cabin_windows03
 col-cabin_endwall01
 col-cabin_endwall02
+hi@col_cabin_int

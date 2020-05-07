@@ -1,0 +1,1 @@
+script/story/sen1/boat_follow

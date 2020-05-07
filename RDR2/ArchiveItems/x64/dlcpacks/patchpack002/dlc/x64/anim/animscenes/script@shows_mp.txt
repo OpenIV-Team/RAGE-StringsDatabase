@@ -1,0 +1,8 @@
+script@shows_mp@bulletcatcher@action
+script@shows_mp@escape_noose@act3_p1@action
+script@shows_mp@escapeartist@act2_p1@action
+script@shows_mp@feats_of_strength@act1@action
+script@shows_mp@fire_breather@act2_p1@action
+script@shows_mp@flex_fight@act2@action
+script@shows_mp@snake_dancer@act1_p1@action
+script@shows_mp@snake_dancer@act2_p1@action

@@ -1,5 +1,6 @@
 _manifest
 str_04_
+str_04_+hi
 str_04_01_gallows
 str_04_01_gallows_dec
 str_04_01_gallows_dec+hidr

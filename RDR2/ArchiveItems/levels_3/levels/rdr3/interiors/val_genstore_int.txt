@@ -17,6 +17,7 @@ val_gen_sign_tobacco
 val_gen_sign_tobacco+hidr
 val_genst_crackersgn
 val_genst_crackersgn+hidr
+val_genstore
 val_genstore_furobjects
 val_genstore_furobjects+hidr
 val_genstore_int
@@ -31,4 +32,5 @@ val_genstore_int_ref
 val_genstore_int_ref+hidr
 val_genstore_int_shell
 val_genstore_int_shell+hidr
+val_genstore_int_txd
 val_genstore_shadowproxy

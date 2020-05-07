@@ -1,5 +1,7 @@
 _manifest
+rad_01
 rad_01_house_vfx
+rad_01+hi
 rad_audioemitproxy
 rad_house_decal
 rad_house_decal+hidr

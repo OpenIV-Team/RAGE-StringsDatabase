@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@van_lighthouse_int
 van_02_lghthse_frames
 van_02_lghthse_ladder
 van_02_lghthse_ladder+hidr

@@ -1,4 +1,6 @@
 _cache
 _manifest
 i_17_placement
+i_17_placement_strm
+i_17_placement_strm_0
 i_17p_cubedelete002

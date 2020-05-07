@@ -4,6 +4,7 @@ lac_01_rubble_p_02+hidr
 p_guarm_blok_c
 p_guarm_blok_c+hi
 p_guarm_frags
+p_guarma_frags
 p_guarma_pil_01
 p_guarma_pil_01+hi
 p_guarma_wal_01

@@ -16,7 +16,11 @@ com_muleshed_int_floor_decal02
 com_muleshed_int_floor_decal02+hidr
 com_muleshed_int_floor+hidr
 com_muleshed_int_frame
+com_muleshed_int_ground
+com_muleshed_int_ground+hi
 com_muleshed_int_ladder_broken
 com_muleshed_int_ladder_broken+hidr
 com_muleshed_int_rope
+com_muleshed_int+hi
 com_muleshed_lightbox
+hi@com_muleshed_int

@@ -46,3 +46,5 @@ p_windmill_med_02b+hifr
 p_windmill_sm_01
 p_windmill_sm_01+hidr
 test_lod
+waterspout
+waterspout+hi

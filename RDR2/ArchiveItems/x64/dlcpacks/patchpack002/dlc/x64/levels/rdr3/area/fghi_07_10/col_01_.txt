@@ -1,5 +1,8 @@
 _cache
 _manifest
+col_01__0
 col_01_hitch_snow
 col01_lightdummy_01
 col01_lightdummy_02
+hi@col_01__0
+hi@col_01__1

@@ -1,4 +1,7 @@
 _manifest
+foodbarrels
+foodbarrels+hi
+p_apple
 p_apple01x
 p_apple01x_burnt
 p_apple02x
@@ -14,6 +17,8 @@ p_banana01x
 p_bananabushel01x
 p_barrelapples01x
 p_barrelapples01x+hifr
+p_barrelcombo01x
+p_barrelcombo01x+hi
 p_barrellemons01x
 p_barreloranges01x
 p_barrelpears01x
@@ -60,6 +65,7 @@ p_breadbasketsm+hifr
 p_breastmuttoncombo01x
 p_breastmuttoncombo01x+hidr
 p_butterknife01x
+p_can
 p_can01x
 p_can02x
 p_can03x
@@ -89,9 +95,11 @@ p_capicola_meat_b
 p_capicola_meat_b02x
 p_capicola_meat_b03x
 p_capicola_meat_b04x
+p_capicola_meatx
 p_carrot01x
 p_carrot02x
 p_carrot03x
+p_carrots
 p_carrots_01x
 p_carrots_02x
 p_carrots_03x
@@ -100,6 +108,7 @@ p_cartvend01x+hi
 p_cartvend01x+hifr
 p_cartvend02x
 p_caviar01x
+p_cheeseblock_01x
 p_cheeseblock_a
 p_cheeseblock_b
 p_cheeseblock_c
@@ -122,6 +131,8 @@ p_cinnamon_01x
 p_clear_consum01x
 p_clear_consum01x+hidr
 p_collardgreens01x
+p_corn
+p_corn+hi
 p_corn01bx
 p_corn01x
 p_corn02x
@@ -146,6 +157,7 @@ p_crateapple01x
 p_crateapple01x+hidr
 p_crayfish01x
 p_cs_supplies02x
+p_cs_supplies02x+hi
 p_cutsack_sugar01x
 p_cutsack_sugar01x_cut
 p_cutsack_sugar01x_cut+hidr
@@ -156,6 +168,7 @@ p_cutsack_sugar02x+hifr
 p_dinnerfork01x
 p_dinnerknife01x
 p_dinnerplate01x
+p_dinnerplates
 p_duckdead01x
 p_duckdead01x+hifr
 p_duckdead02x
@@ -181,6 +194,8 @@ p_floursack06x
 p_floursack07x
 p_floursack08x
 p_floursack08x+hi
+p_floursacks
+p_floursacks+hi
 p_floursacksm02x
 p_floursackstack02x
 p_floursackstack03x
@@ -203,6 +218,7 @@ p_food02x_eaten+hidr
 p_food03x
 p_fork_knife01x
 p_friedcatfish01x
+p_galafood
 p_garlic_02x
 p_garlic_02x_burnt
 p_gourdsbundle01x
@@ -301,6 +317,8 @@ p_pigroast+hifr
 p_platterfruit01x
 p_platterfruit02x
 p_pork_meat
+p_pork_meat_01x
+p_pork_meat_01x+hi
 p_pork_meat_a
 p_pork_meat_b
 p_pork_meat_c
@@ -308,6 +326,7 @@ p_potato01x
 p_potato01x_burnt
 p_potatohalf01x
 p_potatohalf02x
+p_potatopeaces
 p_potatored01x
 p_potatored02x
 p_potatosweet01x
@@ -331,10 +350,12 @@ p_redfishfilet01xa
 p_redfishfilet01xa+hidr
 p_redfishfilet01xb
 p_redfishfilet01xb+hifr
+p_rho_gen_hml
 p_rho_gen_hml_a
 p_rho_gen_hml_a+hifr
 p_rho_gen_hml_b
 p_rho_gen_hml_b+hifr
+p_rho_gen_hml+hi
 p_rutabaga_01x
 p_sack_01x
 p_sack_01x+hidr
@@ -361,6 +382,7 @@ p_salami_a_meat_d2
 p_salami_a_meat_d4
 p_salami_a_meat02bx
 p_salami_a_meat02x
+p_salami_meat_01x
 p_saltshaker01x
 p_side_greenpeaspotato01x
 p_sidespoon01x
@@ -372,9 +394,13 @@ p_soppressata_a_meat_c
 p_soppressata_a_meat02bx
 p_soppressata_a_meat02x
 p_soppressata_b_meat
+p_soppressata_b_meat_01x
+p_soppressata_b_meat_01x+hi
 p_soppressata_b_meat_b
 p_soppressata_b_meat_c
 p_soppressata_b_meat+hifr
+p_soppressata_meat_01x
+p_soppressata_meat_01x+hi
 p_soup_01
 p_soup_01+hifr
 p_soupbowl01x

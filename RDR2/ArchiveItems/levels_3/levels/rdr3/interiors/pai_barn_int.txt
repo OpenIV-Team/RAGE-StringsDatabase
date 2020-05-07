@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@pai_barn_int
 pai_01_barn_shell
 pai_01_barn_shell+hidr
 pai_01_stable_01_decals

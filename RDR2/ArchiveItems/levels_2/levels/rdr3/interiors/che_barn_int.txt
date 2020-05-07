@@ -15,4 +15,6 @@ che_barn_int_shelf
 che_barn_int_shelf+hidr
 che_barn_int_shell
 che_barn_int_shell+hidr
+che_barn_int+hi
 che_barn_lightbox
+hi@che_barn_int

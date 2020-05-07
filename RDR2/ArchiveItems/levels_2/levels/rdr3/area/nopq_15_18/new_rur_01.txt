@@ -2,6 +2,9 @@ _manifest
 new_lightplane
 new_rur_01_bridge_decal
 new_rur_01_bridge_decal+hidr
+new_rur_01_debris_txd
+new_rur_01_txd1
+new_rur_01_txd2
 new_rur_debris_00
 new_rur_debris_01
 new_rur_debris_02

@@ -2,3 +2,5 @@ _cache
 _manifest
 rstu_3_6_occ
 rstu_3_6_occ_dontdelete
+rstu_3_6_occ_long_0
+rstu_3_6_occ_strm

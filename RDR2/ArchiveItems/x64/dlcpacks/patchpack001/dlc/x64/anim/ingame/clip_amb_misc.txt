@@ -1,0 +1,14 @@
+amb_misc@prop_human_piano@female_a@idle_a
+amb_misc@prop_human_piano@female_a@idle_b
+amb_misc@prop_human_piano@female_a@idle_c
+amb_misc@prop_human_piano@female_a@stand_exit
+amb_misc@prop_human_piano@female_a@walk_exit
+amb_misc@prop_human_seat_bench@mandolin@male_a@idle_a
+amb_misc@prop_human_seat_bench@mandolin@male_a@idle_b
+amb_misc@prop_human_seat_bench@mandolin@male_a@idle_c
+amb_misc@prop_human_seat_bench@mandolin@male_a@react_look@exit@dismissive
+amb_misc@prop_human_seat_bench@mandolin@male_a@react_look@exit@relieved
+amb_misc@prop_human_seat_bench@mandolin@male_a@stand_exit_withprop
+amb_misc@prop_human_seat_bench@mandolin@male_a@walk_exit_withprop
+amb_misc@world_human_stand_waiting@female_a@idle_b
+amb_misc@world_human_stand_waiting@male_a@idle_c

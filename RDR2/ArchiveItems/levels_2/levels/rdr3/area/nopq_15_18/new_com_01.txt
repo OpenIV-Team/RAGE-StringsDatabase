@@ -37,6 +37,7 @@ new_com_01_planter01_dec
 new_com_01_planter02_detail
 new_com_01_props_haypile01
 new_com_01_props_haypile01+hidr
+new_com_01_txd1
 new_com_01_wall01
 new_com_01_wall01_detail
 new_com_01_wall02_detail

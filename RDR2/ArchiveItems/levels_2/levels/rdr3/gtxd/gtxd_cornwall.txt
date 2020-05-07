@@ -1,1 +1,9 @@
 _manifest
+cor_01_gtxd
+cor_01_gtxd+hi
+cor_factb_int_gtxd
+cor_factb_int_gtxd+hi
+cor_frags_gtxd
+cor_frags_gtxd+hi
+cornwall
+cornwall+hi

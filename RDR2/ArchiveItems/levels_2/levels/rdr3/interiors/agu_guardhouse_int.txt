@@ -26,6 +26,8 @@ agu_guard_windows004
 agu_guardhouse_int
 agu_guardhouse_int_ref
 agu_guardhouse_int_ref+hidr
+agu_guardhouse_int+hi
 agu_guardhouse_shadow_proxy
 agu_temp_props005
 agu_temp_props005+hidr
+hi@agu_guardhouse_int

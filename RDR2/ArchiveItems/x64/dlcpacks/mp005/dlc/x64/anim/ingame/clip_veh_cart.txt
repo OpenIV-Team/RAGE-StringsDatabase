@@ -1,0 +1,3 @@
+veh_cart@buggy@front@fl@enter@from@onboard_sit_down@normal@align@male
+veh_cart@cart02@rear@exit@to@land@normal@get_out@male
+veh_cart@standard@front@fl@enter@from@onboard_sit_down@normal@align@male

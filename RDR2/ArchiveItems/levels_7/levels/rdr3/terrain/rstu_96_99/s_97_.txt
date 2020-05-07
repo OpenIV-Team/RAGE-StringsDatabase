@@ -1,6 +1,7 @@
 _cache
 _manifest
 s_97_
+s_97__bkt_3
 s_97__coverup_d
 s_97__hd_0_0_0
 s_97__hd_0_0_1
@@ -68,6 +69,7 @@ s_97__hd_0_-4_3
 s_97__hd_0_-4_-3
 s_97__hd_0_-4_3+hidr
 s_97__hd_0_-4_-4
+s_97_+hi
 s_97_01_decal_00
 s_97_01_decal_01
 s_97_01_decal_02

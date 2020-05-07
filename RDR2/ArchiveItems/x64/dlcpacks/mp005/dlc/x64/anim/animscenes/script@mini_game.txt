@@ -1,0 +1,2 @@
+script@mini_game@poker@dealer_exit_cams
+script@mini_game@poker@mp_prepostgame_base

@@ -4,6 +4,8 @@ lof_01_decals
 lof_01_decals+hidr
 lof_01_drclosed
 lof_01_dropen
+lof_01_main
+lof_01_main+hi
 lof_01_vfx_001
 lof_basement
 lof_basement+hidr

@@ -472,6 +472,7 @@ data/combatstyles.meta
 data/common.meta
 data/common_cutscene.meta
 data/common_cutscene_fat.meta
+data/companion_app/mirrorstoragevalues.meta
 data/companions/ambient/companionbehavioranalysis_ambient.meta
 data/companions/ambient/companionbehavioranalysis_beat.meta
 data/companions/ambient/companionbehavioranalysis_business.meta
@@ -510,6 +511,7 @@ data/damage/damagecleanlinessdata.meta
 data/damage/default_damage_modifiers.meta
 data/damage/dismemberment.meta
 data/damage/melee_damage_modifiers.meta
+data/deadeye.meta
 data/defaulttaskdata.meta
 data/deferredprobes.meta
 data/detailfoamsettings.xml
@@ -735,6 +737,7 @@ data/levels/rdr3/amv/streamedamvs.meta
 data/levels/rdr3/area.meta
 data/levels/rdr3/as_manifest.meta
 data/levels/rdr3/barbrawl.meta
+data/levels/rdr3/bounty_posters.xml
 data/levels/rdr3/chmodifiervolumes.meta
 data/levels/rdr3/customcoverpointsets.meta
 data/levels/rdr3/destruction.meta
@@ -749,6 +752,7 @@ data/levels/rdr3/mapzones.meta
 data/levels/rdr3/minecart_jam3_4.dat
 data/levels/rdr3/missionmetadata.xml
 data/levels/rdr3/mistmap/texturegridinfo.meta
+data/levels/rdr3/mp_bounty_posters.xml
 data/levels/rdr3/navmesh.meta
 data/levels/rdr3/pathzones.xml
 data/levels/rdr3/popcycle.dat
@@ -877,12 +881,14 @@ data/materials/foliage.meta
 data/materials/materials.meta
 data/materials/procedural.meta
 data/materials/rumbleprofiles.meta
+data/mediadecodersettings.meta
 data/missions.meta
 data/motiontaskdata.meta
 data/mounttune.xml
 data/movieVariations.xml
 data/naturalmotion/fred.xml
 data/naturalmotion/fred_fat.xml
+data/naturalmotion/fred_large.xml
 data/naturalmotion/fred_short.xml
 data/naturalmotion/fred_skinny.xml
 data/naturalmotion/fred_tall.xml
@@ -890,6 +896,7 @@ data/naturalmotion/fred_very_large.xml
 data/naturalmotion/fred_very_small.xml
 data/naturalmotion/horse.xml
 data/naturalmotion/wilma.xml
+data/naturalmotion/wilma_large.xml
 data/navcapabilities.meta
 data/net_compression_dictionary.bin
 data/objectexplosioninfo.meta
@@ -1040,6 +1047,7 @@ data/ui/screens/hud/prompts.xml
 data/ui/screens/hud/sticky_feeds/status_alert/status_alert_feed.xml
 data/ui/screens/hud/sticky_feeds/warning/warning_feed.xml
 data/ui/screens/hud/sticky_feeds/warning_side_menu/warning_side_menu_feed.xml
+data/ui/texttemplates.xml
 data/ui/uitracking.meta
 data/ui/user_safeframe_configuration.meta
 data/updategraphprocesscontrol.xml
@@ -1281,6 +1289,7 @@ packs/base/data/ai/transportanimations/default_rowboat/types/entry_exit/rear_sea
 packs/base/data/ai/transportanimations/default_rowboat/types/entry_exit/rear_seat/water/jacking.meta
 packs/base/data/ai/transportanimations/default_rowboat/types/entry_exit/rear_seat/water/normal.meta
 packs/base/data/ai/transportanimations/default_rowboat/types/entry_exit/rear_seat/water/type_selection.meta
+packs/base/data/ai/transportanimations/default_steamboat/types/entry_exit/driver_seat/land/normal.meta
 packs/base/data/ai/transportanimations/default_steamboat/types/entry_exit/driver_seat/onboard_driver/normal.meta
 packs/base/data/ai/transportanimations/default_steamboat/types/entry_exit/driver_seat/onboard_driver/type_selection.meta
 packs/base/data/ai/transportanimations/default_steamboat/types/entry_exit/driver_seat/water/normal.meta

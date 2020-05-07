@@ -1,5 +1,7 @@
 _cache
 _manifest
 cho__chordsg_combo03_slod
+cho_rd_sgn_0
 cho_sign_07
 cho_sign_07+hidr
+hi@cho_rd_sgn_0

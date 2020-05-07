@@ -26,4 +26,6 @@ new_gar_04_t01
 new_gar_04_t01+hidr
 new_gar_04_t02
 new_gar_04_t02+hidr
+new_gar_04_ter
+new_gar_04_txd1
 new_gar_04_water

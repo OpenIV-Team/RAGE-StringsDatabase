@@ -1,1 +1,3 @@
 _manifest
+mega_mech_cover@enter@arthur@unarmed
+mega_mech_cover@loco@arthur@bow@main

@@ -1,0 +1,3 @@
+ai_gestures@gen_female@standing@speaker
+ai_gestures@gen_male@standing@silent
+ai_gestures@gen_male@standing@speaker

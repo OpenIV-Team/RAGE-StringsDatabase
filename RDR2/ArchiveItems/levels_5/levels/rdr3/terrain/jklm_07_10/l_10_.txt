@@ -1,6 +1,8 @@
 _cache
 _manifest
 l_10_
+l_10__bkt_0
+l_10__bkt_1
 l_10__hd_0_0_0
 l_10__hd_0_0_1
 l_10__hd_0_0_-1
@@ -66,6 +68,7 @@ l_10__hd_0_-4_3
 l_10__hd_0_-4_-3
 l_10__hd_0_-4_3+hidr
 l_10__hd_0_-4_-4
+l_10_+hi
 l_10_03_decal001
 l_10_04_track_decal_01
 l_10_04_track_decal_02

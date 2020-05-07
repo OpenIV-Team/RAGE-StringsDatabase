@@ -1,6 +1,9 @@
 _cache
 _manifest
 k_09_
+k_09__bkt_0
+k_09__bkt_1
+k_09__bkt_2
 k_09__hd_0_0_0
 k_09__hd_0_0_1
 k_09__hd_0_0_-1
@@ -70,6 +73,7 @@ k_09__hd_0_-4_3+hidr
 k_09__hd_0_-4_-4
 k_09__juncel_06
 k_09__juncel_06+hidr
+k_09_+hi
 k_09_01_decal001
 k_09_01_decal002
 k_09_01_decal003

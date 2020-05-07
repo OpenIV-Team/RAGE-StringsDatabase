@@ -1,6 +1,12 @@
 _cache
 _manifest
 dis_hen_00
+dis_hen_00_0
+dis_hen_00_1
+dis_hen_00_2
+dis_hen_00_strm
+dis_hen_00_strm_0
+dis_hen_04
 dis_hen_04_hearse
 dis_hen_04_hearse_003
 dis_hen_04_hearse_003+hidr
@@ -9,6 +15,7 @@ dis_hen_04_hearse_lod
 dis_hen_04_hearse_misc
 dis_hen_04_hearse_slod
 dis_hen_04_hearse+hidr
+dis_hen_04+hi
 dis_hen_chinesecamp_lod
 dis_hen_chinesecamp01
 dis_hen_chinesecamp01+hidr
@@ -29,3 +36,5 @@ dis_hen_treehouse_lod
 dis_hen_treehouse_ropes
 dis_hen_treehouse_slod
 dis_hen_treehouse+hidr
+hi@dis_hen_00_0
+hi@dis_hen_00_1

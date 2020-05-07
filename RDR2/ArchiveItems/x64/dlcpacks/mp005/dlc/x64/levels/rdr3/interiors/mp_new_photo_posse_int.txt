@@ -2,6 +2,7 @@ _cache
 _manifest
 mp005_mp_new_photo_posse_decal01
 mp005_mp_new_photo_posse_decal01+hidr
+mp005_mp_new_photo_posse_int
 mp005_mp_new_photo_posse_shdprxy
 mp005_mp_new_phto_posse_int_shltnt
 mp005_mp_new_phto_posse_int_shltnt+hidr

@@ -6,7 +6,6 @@ out_b_05_02_lod
 out_b_05_02_slod
 out_b_05_03_lod
 out_b_05_03_slod
-out_b_05_04_lod
 out_b_05_05_lod
 out_b_05_06_lod
 out_b_05_07_lod
@@ -37,3 +36,6 @@ out_b_05_hd_13
 out_b_05_hd_14
 out_b_05_hd_15
 out_b_05_hd_16
+out_b_05_long_0
+out_b_05_strm
+out_b_05_04_lod

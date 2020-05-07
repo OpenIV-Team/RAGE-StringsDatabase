@@ -1,0 +1,7 @@
+mech_loco_m@character@arthur@casual@unarmed@casual_to_normal
+mech_loco_m@character@arthur@casual@unarmed@idle
+mech_loco_m@character@arthur@casual@unarmed@normal_to_casual
+mech_loco_m@character@arthur@crouch@unarmed@idle_inspection
+mech_loco_m@character@arthur@crouch@unarmed@idle_knee_inspection
+mech_loco_m@character@arthur@normal@unarmed@idle_inspection
+mech_loco_m@generic@terrain@unarmed@swamp@chest_high@idle

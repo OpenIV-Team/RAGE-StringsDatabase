@@ -2,3 +2,5 @@ _cache
 _manifest
 nopq_92_95_ha
 nopq_92_95_ha_dummy
+nopq_92_95_ha_strm
+nopq_92_95_ha_strm_0

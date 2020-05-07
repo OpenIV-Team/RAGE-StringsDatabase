@@ -1,4 +1,6 @@
 _manifest
+barrelshared
+barrelshared+hi
 p_barrel_cor01x
 p_barrel_cor01x_dmg
 p_barrel_cor01x_dmg+hidr
@@ -75,6 +77,8 @@ p_group_barrel05b
 p_group_barrel06x
 p_group_barrel06x+hifr
 p_group_barrel09x
+p_oildrum
+p_oildrum+hi
 p_oliveoilrice01x
 p_oliveoilrice01x+hifr
 p_static_barrel_01a

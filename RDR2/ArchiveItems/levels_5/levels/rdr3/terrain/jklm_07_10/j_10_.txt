@@ -1,6 +1,8 @@
 _cache
 _manifest
 j_10_
+j_10__bkt_0
+j_10__bkt_2
 j_10__hd_0_0_0
 j_10__hd_0_0_0+hidr
 j_10__hd_0_0_1
@@ -68,6 +70,7 @@ j_10__hd_0_-4_-3
 j_10__hd_0_-4_-4
 j_10__j10_grz_preskull
 j_10__j10_grz_preskull+hidr
+j_10_+hi
 j_10_01_decal01
 j_10_02_decal
 j_10_02_decal01

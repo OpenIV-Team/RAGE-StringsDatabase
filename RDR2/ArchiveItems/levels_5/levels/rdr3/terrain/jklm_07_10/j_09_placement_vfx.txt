@@ -1,4 +1,6 @@
 _cache
 _manifest
 j_09_placement_vfx
+j_09_placement_vfx_strm
+j_09_placement_vfx_strm_0
 j_09p_vfx_j_09_p_vfx_vfx_testbox

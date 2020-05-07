@@ -27,6 +27,9 @@ new_mrk_03_props_00
 new_mrk_03_props_01
 new_mrk_03_props_02
 new_mrk_03_props_02_a
+new_mrk_03_props_debris_txd
+new_mrk_03_txd1
+new_mrk_03_txd2
 new_mrk_03_vampire_blood
 new_mrk_03_vampire_blood+hidr
 new_mrk03_ground1

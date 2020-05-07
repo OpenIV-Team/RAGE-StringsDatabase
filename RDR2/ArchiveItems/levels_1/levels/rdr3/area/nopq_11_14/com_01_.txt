@@ -1,4 +1,5 @@
 _manifest
+com_01
 com_01_extdecs
 com_01_extdecs+hidr
 com_01_ground_decal02
@@ -15,8 +16,11 @@ com_01_prch_dec
 com_01_prch_dec+hidr
 com_01_props_brokenwagon01x
 com_01_props_brokenwagon01x+hidr
+com_01_props_txd
+com_01_props_txd+hi
 com_01_vfx_01
 com_01_vfx_02
+com_01+hi
 com_grave_01
 com_grave_02
 com_grave_02+hidr

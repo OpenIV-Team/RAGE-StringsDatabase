@@ -15,3 +15,6 @@ ann_jail_intshell_ref_proxy+hidr
 ann_jail_main_brickwork
 ann_jail_main_brickwork+hidr
 ann_jail_shadowproxy
+ann_jailint_txd
+ann_jailint_txd+hi
+hi@ann_jail_int

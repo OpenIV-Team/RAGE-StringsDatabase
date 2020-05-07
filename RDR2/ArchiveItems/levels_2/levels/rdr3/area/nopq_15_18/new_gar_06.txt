@@ -22,6 +22,9 @@ new_gar_06_pool_water
 new_gar_06_props_debris_00
 new_gar_06_props_debris_01
 new_gar_06_props_debris_02
+new_gar_06_props_debris_txd
+new_gar_06_terraintxd1
+new_gar_06_txd1
 new_gar06_park_terrain
 new_gar06_park_terrain+hidr
 newga06pr_props_slod

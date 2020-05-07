@@ -1,4 +1,6 @@
 _manifest
+gpb_pla_bridge_
+gpb_pla_bridge_+hi
 gpb_pla_trestle01
 gpb_pla_trestle01_dec
 gpb_pla_trestle01_det

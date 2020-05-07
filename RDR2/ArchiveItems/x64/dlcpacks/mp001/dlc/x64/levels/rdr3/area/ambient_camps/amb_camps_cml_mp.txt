@@ -1,2 +1,3 @@
 _cache
 _manifest
+mp001_mp_hid_farmhouse

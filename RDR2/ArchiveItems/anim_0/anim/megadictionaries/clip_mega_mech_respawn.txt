@@ -1,1 +1,3 @@
 _manifest
+mega_gen@mech_respawn@world_player_respawn_lean_back_wall_male_a
+mega_gen@mech_respawn@world_player_respawn_lean_back_wall_male_d

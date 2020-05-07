@@ -1,4 +1,5 @@
 _manifest
+des_bee_shack
 des_bee_shack_01
 des_bee_shack_01+hidr
 des_bee_shack_02
@@ -8,3 +9,4 @@ des_bee_shack_03+hidr
 des_bee_shack_04
 des_bee_shack_04+hidr
 des_bee_shack_collapse
+des_bee_shack+hi

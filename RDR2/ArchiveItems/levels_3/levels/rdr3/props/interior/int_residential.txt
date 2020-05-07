@@ -1,5 +1,12 @@
 _manifest
+braith_mansion_props
+braith_mansion_props+hi
+bronte_mansion_books
+bronte_mansion_props
+bronte_mansion_props+hi
 int_residential
+man_galaprops
+man_galaprops+hi
 p_bookgroup01x
 p_bookgroup01x+hifr
 p_bookgroup02x

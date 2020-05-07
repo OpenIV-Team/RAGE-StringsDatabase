@@ -1,6 +1,7 @@
 _manifest
 ann_03_house_04_em_hd
 ann_04_
+ann_04_+hi
 ann_04_audiobox_donotdelete
 ann_04_boardwalk_03
 ann_04_cloth_001_sim
@@ -39,6 +40,7 @@ ann_04_depot09
 ann_04_depot09_d
 ann_04_depot09+hidr
 ann_04_depot10
+ann_04_em_hd
 ann_04_genstore
 ann_04_genstore_dc
 ann_04_genstore_dc+hidr
@@ -63,6 +65,10 @@ ann_04_house_09_em_hd
 ann_04_house_10
 ann_04_house_10_dc
 ann_04_house_10_em_hd
+ann_04_lower
+ann_04_lower+hi
+ann_04_mid
+ann_04_mid+hi
 ann_04_oversizedesk
 ann_04_oversizedesk+hidr
 ann_04_players_int
@@ -90,10 +96,13 @@ ann_04_steps_01
 ann_04_steps_01_dc
 ann_04_steps_02
 ann_04_steps_02_dc
+ann_04_upper
 ann_04_upper_props68_slod
+ann_04_upper+hi
 ann_boardwalk_01
 ann_boardwalk_02
 ann_boardwalk_02_d
+ann_cloth_001
 ann_dock_01
 ann_dock_01_d
 ann_dock_01_d+hidr

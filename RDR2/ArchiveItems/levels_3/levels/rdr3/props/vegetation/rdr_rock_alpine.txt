@@ -36,4 +36,6 @@ alp_rock_scree_sim_08
 alp_rock_scree_sim_09
 alp_rock_scree_sim_10
 alp_rock_scree_sim_11
+rdr_rock_alp_11
+rdr_rock_alp_11+hi
 rdr_rock_alpine

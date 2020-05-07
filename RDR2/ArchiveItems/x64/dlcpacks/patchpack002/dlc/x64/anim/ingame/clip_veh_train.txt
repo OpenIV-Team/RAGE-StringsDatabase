@@ -1,0 +1,15 @@
+veh_train@handcart@base
+veh_train@handcart@base_panic
+veh_train@handcart@base_panic_john
+veh_train@handcart@exit_on_board@stationary
+veh_train@north_steamer@emotion@panic
+veh_train@north_steamer@flinches@unarmed@large
+veh_train@north_steamer@flinches@unarmed@small
+veh_train@trolly@driver@base
+veh_train@trolly@exit@normal@get_out@male
+veh_train@trolly@exterior@rl@exit@to@land@normal@get_out@male
+veh_train@trolly@exterior@rl@exit@to@land@normal@get_out_start@male
+veh_train@trolly@exterior@rl@in_seat@male@base
+veh_train@trolly@exterior@rl@in_seat@male@shuffle
+veh_train@trolly@exterior@rr@in_seat@male@shuffle
+veh_train@trolly@side@left@enter_exit

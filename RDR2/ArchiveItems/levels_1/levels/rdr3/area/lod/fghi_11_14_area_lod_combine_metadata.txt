@@ -1,7 +1,15 @@
 _cache
 _manifest
 aba_01
+aba_01_long_0
+aba_01_strm_0
 dov_lab
+dov_lab_interior_dov_lab_int_milo_
 fghi_11_14_area_lod
 lof_01_
+lof_01__interior_lof_outpost_int_milo_
+lof_01__long_0
+lof_01__strm_0
 shack_gf
+shack_gf_long_0
+shack_gf_strm_0

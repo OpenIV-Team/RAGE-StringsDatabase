@@ -11,6 +11,7 @@ gua_boat_int_shell
 gua_boat_int_shell+hidr
 gua_boat_int_sleepdtls
 gua_boat_int_sleepdtls+hidr
+gua_boat_int+hi
 gua_boat_mirror_sleepqrt
 gua_boat_mirror_sleepqrt+hidr
 gua_int_cargo_decal01

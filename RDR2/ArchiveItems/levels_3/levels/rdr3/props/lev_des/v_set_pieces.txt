@@ -1,4 +1,5 @@
 _manifest
+bighornram1_lowr_000
 collision_arm
 collision_bedroll
 collision_bighornram1_lowr_000
@@ -51,6 +52,9 @@ collision_pronghorn_horn0
 collision_prospectgear
 collision_saddle
 collision_saddle_bag
+elk_01_lowr_000
+gore_gib
 physics_glasses
 physics_hat
+physics_saddle
 v_set_pieces

@@ -1,0 +1,16 @@
+mech_inventory@equip@fallback@base@bow@offhand_left@lhip_gesture
+mech_inventory@equip@fallback@base@bow@offhand_left@lhip_gesture@w
+mech_inventory@equip@fallback@base@bow@offhand_left@rhip_gesture
+mech_inventory@equip@fallback@base@bow@offhand_left@rhip_gesture@w
+mech_inventory@equip@fallback@base@longarms@offhand_forend_left@lhip_gesture
+mech_inventory@equip@fallback@base@longarms@offhand_forend_left@rhip_gesture
+mech_inventory@equip@fallback@base@unarmed@longarms_generic
+mech_inventory@equip@fallback@crouch@bow@offhand_left@lhip_gesture
+mech_inventory@equip@fallback@crouch@bow@offhand_left@lhip_gesture@w
+mech_inventory@equip@fallback@crouch@bow@offhand_left@rhip_gesture
+mech_inventory@equip@fallback@crouch@bow@offhand_left@rhip_gesture@w
+mech_inventory@equip@fallback@crouch@longarms@offhand_forend_left@lhip_gesture
+mech_inventory@equip@fallback@crouch@longarms@offhand_forend_left@rhip_gesture
+mech_inventory@equip@fallback@crouch@unarmed@longarms_generic
+mech_inventory@swap@fallback@base@longarms
+mech_inventory@swap@fallback@crouch@longarms

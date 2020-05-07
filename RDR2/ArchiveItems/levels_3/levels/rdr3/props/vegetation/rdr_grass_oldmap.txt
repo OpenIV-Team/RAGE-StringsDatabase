@@ -2,6 +2,8 @@ _manifest
 rdr_bush_sage_aa
 rdr_bush_sage_ab
 rdr_grass_oldmap
+rdr_oldmap
+rdr_oldmap+hi
 rdr2_bush_americanboxwood
 rdr2_bush_americanboxwood+hifr
 rdr2_bush_beavertailcactus

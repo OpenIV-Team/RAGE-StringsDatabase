@@ -23,5 +23,8 @@ adl_barn_int_ref+hidr
 adl_barn_int_shadow_proxy
 adl_barn_int_shell
 adl_barn_int_shell+hidr
+adl_barnint_txd
+adl_barnint_txd+hi
 entity_proxy
 entity_proxy001
+hi@adl_barn_int

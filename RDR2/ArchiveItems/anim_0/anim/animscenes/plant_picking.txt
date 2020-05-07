@@ -1,0 +1,2 @@
+plant_picking@berries
+plant_picking@golden_currant

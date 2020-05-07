@@ -14,6 +14,8 @@ nat_cohutta_02_debris+hidr
 nat_cohutta_02_tarp
 nat_cohutta_02_tarp+hidr
 nat_cohutta_02+hidr
+nat_g_10_placement
+nat_g_10_placement+hi
 nat_g_10_pole
 nat_g_10_pole001
 nat_lerug2_020

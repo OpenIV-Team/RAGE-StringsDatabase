@@ -1,0 +1,9 @@
+mech_strafe@ambient@2h@rifle@walk
+mech_strafe@generic@first_person@melee@blade@loco
+mech_strafe@generic@first_person@melee@blade_long@loco
+mech_strafe@generic@first_person@scenarios@box
+mech_strafe@generic@first_person@scenarios@bucket
+mech_strafe@generic@first_person@scenarios@feedbag
+mech_strafe@generic@first_person@scenarios@hay_bale
+mech_strafe@generic@first_person@scenarios@milkjug
+mech_strafe@generic@first_person@scenarios@sack

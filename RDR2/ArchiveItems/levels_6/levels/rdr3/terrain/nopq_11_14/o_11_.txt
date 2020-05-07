@@ -1,6 +1,8 @@
 _cache
 _manifest
 o_11_
+o_11__bkt_1
+o_11__bkt_2
 o_11__cross_d
 o_11__cross_d+hidr
 o_11__hd_0_0_0
@@ -69,6 +71,7 @@ o_11__hd_0_-4_-2
 o_11__hd_0_-4_3
 o_11__hd_0_-4_-3
 o_11__hd_0_-4_-4
+o_11_+hi
 o_11_03_decal01
 o_11_03_decal02
 o_11_03_decal02+hidr
@@ -85,6 +88,7 @@ o_11_08_rail_decal_01
 o_11_08_rail_decal_02
 o_11_09_rail_decal_01
 o_11_bed_decal001
+o_11_decal
 o_11_decal00
 o_11_decal01
 o_11_decal02

@@ -1,1 +1,6 @@
 _manifest
+mega_gen@veh_horseback@seat_saddle@character@jack@normal
+mega_veh_horseback@aim@front@longarms@base
+mega_veh_horseback@aim@front@shortarms@base
+mega_veh_horseback@standard@rear@left@exit@female@get_off
+mega_veh_horseback@standard@rear@right@exit@female@get_off

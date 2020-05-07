@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@str_dressingroom_int
 str_dressingroom_int
 str_dressroom_lightbox001
 str_dressroom_mirror

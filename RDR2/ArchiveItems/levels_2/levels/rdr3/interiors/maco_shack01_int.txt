@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@maco_shack01_int
 maco_shack01_int
 maco_shack01_int_barrel
 maco_shack01_int_barrel+hidr
@@ -19,4 +20,6 @@ maco_shack01_int_shell
 maco_shack01_int_shell+hidr
 maco_shack01_int_shelves
 maco_shack01_int_shelves+hidr
+maco_shack01_int_txd
+maco_shack01_int_txd+hi
 macro_shack01_lightbox

@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@new_barber_int
 new_barber_decals
 new_barber_decals+hidr
 new_barber_int
@@ -10,6 +11,7 @@ new_barber_int_ref+hidr
 new_barber_int_shadowproxy
 new_barber_int_shell
 new_barber_int_shell+hidr
+new_barber_int_txd
 new_int_barber_counter
 new_int_barber_counter+hidr
 new_int_barber_details

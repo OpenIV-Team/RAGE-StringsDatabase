@@ -117,6 +117,8 @@ p_sword01x+hidr
 p_tnt_trainrobbery_01x
 p_tnt_trainrobbery_01x+hifr
 p_tnt01x
+p_tntarmswagon01
+p_tntarmswagon01+hi
 p_tntarmswagon01x
 p_tntarmswagon01x+hifr
 p_tntwagon01x

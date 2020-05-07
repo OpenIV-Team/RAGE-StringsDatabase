@@ -2,3 +2,5 @@ _cache
 _manifest
 y_04_p_box047
 y_04_placement
+y_04_placement_strm
+y_04_placement_strm_0

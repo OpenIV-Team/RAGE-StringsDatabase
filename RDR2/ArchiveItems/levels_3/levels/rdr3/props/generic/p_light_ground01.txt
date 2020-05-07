@@ -78,6 +78,7 @@ p_lantern09xmoths
 p_lanternbrass01x
 p_lanternbrass02x
 p_lanternbrass02x+hifr
+p_lanternlamps
 p_lanternred05x
 p_lgt_gaslampwall01x
 p_light_ground01

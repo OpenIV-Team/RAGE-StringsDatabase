@@ -2,6 +2,7 @@ _cache
 _manifest
 bpl_01__bpl01_combo_slod
 bpl_01__glue_001
+bpl_01_0
 bpl_01_cabin
 bpl_01_cabin_vfx
 bpl_01_cabin+hidr
@@ -10,3 +11,4 @@ bpl_01_decal+hidr
 bpl_01_dock
 bpl_01_dock+hidr
 bpl_01_outhouse_vfx
+hi@bpl_01_0

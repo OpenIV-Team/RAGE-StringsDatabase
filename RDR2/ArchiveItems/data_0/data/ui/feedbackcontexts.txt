@@ -1,0 +1,9 @@
+crafting_menu_feedback
+game_menu_feedback
+pause_menu_article_feedback
+pause_menu_config_feedback
+pause_menu_feedback
+satchel_menu_feedback
+shop_menu_feedback
+simple_game_menu_feedback
+wheel_menu_feedback

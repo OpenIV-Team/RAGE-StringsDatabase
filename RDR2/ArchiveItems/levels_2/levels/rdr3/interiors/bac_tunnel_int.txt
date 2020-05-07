@@ -11,7 +11,9 @@ bac_tnl_shell+hidr
 bac_tnl_side_brace
 bac_tunnel_int
 bac_tunnel_int_caps_hd
+bac_tunnel_int+hi
 bac_tunnel_plates
 bac_tunnel_rails
 bac_tunnel_shadow_proxy
+hi@bac_tunnel_int
 retaining_walls_03

@@ -57,6 +57,8 @@ p_cs_armyid01x
 p_cs_armyid01x+hidr
 p_gunpowder01x
 p_gunpowder01x+hidr
+p_knivesbundle01x
+p_knivesbundle01x+hi
 p_knivesbundle02p
 p_knivesbundle02x
 p_owlfeathertrinket
@@ -133,6 +135,8 @@ s_alligatorcall01x
 s_alligatorcallbox01x
 s_animalcall01x
 s_animatablegloves01x
+s_animcallbox01x
+s_animcallbox01x+hi
 s_asteroidchunktrinket
 s_asteroidchunktrinket+hidr
 s_badgedeputy01x
@@ -595,6 +599,7 @@ s_tabaccoused01x
 s_tal_goldbracelet01x
 s_tal_goldbracelet01x+hidr
 s_tatankabuffalohorn01x
+s_templates
 s_toadlegtrinket01x
 s_toadlegtrinket01x+hidr
 s_tobaccotin01x

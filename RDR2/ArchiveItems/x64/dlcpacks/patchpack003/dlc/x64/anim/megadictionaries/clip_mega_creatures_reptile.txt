@@ -1,1 +1,4 @@
 _manifest
+mega_gen@creatures_reptile@alligator@normal
+mega_gen@creatures_reptile@alligator@wading
+mega_gen@creatures_reptile@turtlesnapping@normal

@@ -1,0 +1,7 @@
+creatures_fish@fish_large@move
+creatures_fish@fish_medium@move
+creatures_fish@fish_medium_large@move
+creatures_fish@fish_medium_small@move
+creatures_fish@fish_small@move
+creatures_fish@shark@move
+creatures_fish@sharkhammerhead@move

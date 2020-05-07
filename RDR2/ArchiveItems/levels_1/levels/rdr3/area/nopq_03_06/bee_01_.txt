@@ -1,4 +1,5 @@
 _manifest
+bee_01
 bee_01_
 bee_01_chimney_stage01
 bee_01_chimney_stage02
@@ -29,6 +30,7 @@ bee_01_wagonobj_tabletop
 bee_01_wagonobj_tabletop+hidr
 bee_01_wagonobj_tentroll01
 bee_01_wagonobj_tentroll02
+bee_01+hi
 bee_barn_int_lod
 bee_building_01_a
 bee_building_01_b

@@ -1,5 +1,6 @@
 _manifest
 roc_01_
+roc_01_+hi
 roc_01_chimney_vfx_helper
 roc_01_ext_home01
 roc_01_ext_home01+hidr

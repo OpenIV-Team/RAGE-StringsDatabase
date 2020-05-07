@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@lak_altar_int
 lak_altar_int
 lak_altar_int_details
 lak_altar_int_details+hidr

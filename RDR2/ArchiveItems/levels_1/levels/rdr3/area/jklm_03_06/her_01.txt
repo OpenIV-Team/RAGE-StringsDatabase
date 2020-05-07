@@ -18,5 +18,7 @@ her_dg_end_dec_3
 her_dg_nail_dec_004
 her_dg_nail_dec_005
 her_dg_nail_dec_3
+her_hermitlady_shack
+her_hermitlady_shack+hi
 her_shack_int_lod
 her01_combo_slod

@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@shack_lt_int
 shack_lt_bednoblood
 shack_lt_bednoblood+hidr
 shack_lt_blankets

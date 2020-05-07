@@ -1,0 +1,10 @@
+ai_getup@enter@to_knees@injured
+ai_getup@enter@to_knees@normal
+ai_getup@enter@to_knees@panic
+ai_getup@enter@to_knees@urgent
+ai_getup@exit@from_knees@combat@injured_pistol_aim@idle
+ai_getup@exit@from_knees@combat@injured_rifle_aim@idle
+ai_getup@exit@from_knees@combat@pistol_aim@idle
+ai_getup@exit@from_knees@combat@rifle_aim@idle
+ai_getup@exit@from_knees@crouch@idle
+ai_getup@exit@from_knees@intimidated@standing@idle

@@ -1,0 +1,12 @@
+cutscene@gfh_ant_int
+cutscene@gfh_bon_int
+cutscene@gfh_boy_int
+cutscene@gfh_flaco_int
+cutscene@gfh_fre_int
+cutscene@gfh_ham_int
+cutscene@gfh_joe_int
+cutscene@gfh_lan_int
+cutscene@gfh_sen_int
+cutscene@gfh_shk_int
+cutscene@gfh_tre_int
+cutscene@gfh_watson_int

@@ -1,0 +1,5 @@
+amb_rest_sit@prop_human_seat_chair@sharpen_knife@male_b@react_look@exit@dismissive
+amb_rest_sit@prop_human_seat_chair@sharpen_knife@male_b@react_look@exit@relieved
+amb_rest_sit@prop_human_seat_chair@smoking@male_d@idle_a
+amb_rest_sit@prop_human_seat_chair@smoking@male_d@idle_b
+amb_rest_sit@prop_human_seat_chair@smoking@male_d@idle_c

@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@rig_station_int
 rig_station_floor
 rig_station_floor+hidr
 rig_station_int

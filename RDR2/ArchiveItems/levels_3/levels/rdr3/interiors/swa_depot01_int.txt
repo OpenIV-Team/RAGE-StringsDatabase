@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@swa_depot01_int
 swa_depot01_int
 swa_depot01_int_ref
 swa_depot01_int_ref+hidr

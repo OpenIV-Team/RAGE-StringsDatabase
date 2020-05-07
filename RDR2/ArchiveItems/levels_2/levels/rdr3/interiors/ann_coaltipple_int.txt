@@ -34,9 +34,11 @@ ann_coalscreen_supports
 ann_coalscreen_wires
 ann_coalship_pipes
 ann_coaltipple_int
+ann_coaltipple_int_main
 ann_coaltipple_int_ref_a
 ann_coaltipple_int_ref_a+hidr
 ann_coaltipple_int_ref_b
 ann_coaltipple_int_ref_b+hidr
+ann_coaltipple_int+hi
 ann_coaltipple_lightbox
 ann_coaltipple_lightbox001

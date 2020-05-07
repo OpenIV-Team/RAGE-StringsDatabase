@@ -1,6 +1,10 @@
 _manifest
 bra_01_
+bra_01_+hi
 bra_01_arch_small01
+bra_01_audio_proxy
+bra_01_burn_txd1
+bra_01_burn_txd1+hi
 bra_01_burnt_base
 bra_01_burnt_base+hidr
 bra_01_burnt_decals
@@ -69,6 +73,8 @@ bra_01_manor_sign1
 bra_01_manor_sign1_lod
 bra_01_manor_sign2
 bra_01_manor_sign2_lod
+bra_01_manorsign
+bra_01_manorsign+hi
 bra_01_mansion
 bra_01_mm_ivy_set_b_
 bra_01_mm_ivy_set_b_+hidr
@@ -94,6 +100,11 @@ bra_01_storage_main
 bra_01_storage_main+hidr
 bra_01_temp_brnt_hd
 bra_01_temp_nrml_hd
+bra_01_txd1
+bra_01_txd1+hi
+bra_01_txd2
+bra_01_txd2+hi
+bra_01_txd3
 bra_brt3_cloth01
 bra_brt3_cloth01+hidr
 bra_debris01

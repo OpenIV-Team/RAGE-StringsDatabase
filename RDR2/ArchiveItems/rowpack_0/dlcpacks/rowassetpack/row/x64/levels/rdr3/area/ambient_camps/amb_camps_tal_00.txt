@@ -1,3 +1,4 @@
+amb_camps_tal_00_0
 amb_tal_05_cave_fire001
 amb_tal_05_cave_fire003
 amb_tal_05_cave_fire005
@@ -186,6 +187,15 @@ amb_tal_s_shrunkenh008
 amb_tal_s_shrunkenh008+hidr
 amb_tal_s_shrunkenh011
 amb_tal_s_shrunkenh011+hidr
+amb_tal_skinner_camp01
+amb_tal_skinner_camp01+hi
+amb_tal_skinner_camp02
+amb_tal_skinner_camp02+hi
+amb_tal_skinner_camp03
+amb_tal_skinner_camp03+hi
+amb_tal_skinner_camp04
+amb_tal_skinner_camp04+hi
+amb_tal_skinner_camp05
 amb_tal_tree_bodies001qx
 amb_tal_tree_bodies001qx+hidr
 amb_tal_tree_bodies003x

@@ -1,0 +1,2 @@
+mech_inventory@eating@stew
+mech_inventory@horse@fallback@base@bow_fl

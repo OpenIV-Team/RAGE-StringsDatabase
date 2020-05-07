@@ -1,6 +1,8 @@
 _cache
 _manifest
 t_95_
+t_95__bkt_2
+t_95__bkt_3
 t_95__hd_0_0_0
 t_95__hd_0_0_1
 t_95__hd_0_0_-1
@@ -66,6 +68,7 @@ t_95__hd_0_-4_3
 t_95__hd_0_-4_-3
 t_95__hd_0_-4_-4
 t_95__rail_crossing001
+t_95_+hi
 t_95_01_rail_decal_01
 t_95_01_rail_decal_02
 t_95_04_rail_decal_01

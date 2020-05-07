@@ -1,4 +1,6 @@
 _cache
 _manifest
 s_03_placement
+s_03_placement_strm
+s_03_placement_strm_0
 s_03p_

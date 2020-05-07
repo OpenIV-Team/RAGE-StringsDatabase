@@ -1,4 +1,6 @@
 _manifest
+tax_01_txd
+tax_01_txd+hi
 tax_birdhouses
 tax_birdhouses+hidr
 tax_buck

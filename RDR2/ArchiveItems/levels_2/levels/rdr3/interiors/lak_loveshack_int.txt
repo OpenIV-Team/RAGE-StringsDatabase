@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@lak_loveshack_int
 lak_loveshack_int
 lak_loveshack_int_details
 lak_loveshack_int_details+hidr

@@ -1,5 +1,6 @@
 _cache
 _manifest
+bac_01
 bac_01_bridge_end_slod
 bac_01_bridge_log_01
 bac_01_bridge_log_01_dcl
@@ -12,6 +13,7 @@ bac_01_bridge_start_slod
 bac_01_debris1
 bac_01_debris2
 bac_01_debris3
+bac_01_end_state
 bac_01_prop_rocks_temp
 bac_01_prop_rocks_temp+hidr
 bac_01_rails00
@@ -36,6 +38,7 @@ bac_01_wires_case2_start
 bac_01_wires_case3_end
 bac_01_wires_case3_start
 bac_01_wires_static
+bac_01+hi
 bac_bucchus_arch
 bac_bucchus_bolts_02
 bac_bucchus_bolts_03
@@ -72,6 +75,8 @@ bac_lightblockers
 bac_lightblockers+hidr
 bac_p_handcart_wreck_01a
 bac_p_handcart_wreck_01a+hidr
+bac_pac_01
+bac_pac_01+hi
 bac_shad_box_a
 bac_shad_box_b
 bac_shad_box_c

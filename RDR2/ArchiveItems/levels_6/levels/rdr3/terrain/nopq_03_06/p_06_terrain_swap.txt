@@ -1,6 +1,8 @@
 _cache
 _manifest
 p_06_terrain_swap
+p_06_terrain_swap_strm
+p_06_terrswap_p_06_terrain_swap
 p_06_terrswap_post
 p_06_terrswap_post_lod
 p_06_terrswap_post_slod

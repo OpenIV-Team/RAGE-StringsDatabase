@@ -377,6 +377,8 @@ p_crd_a_s01x_std_labastille
 p_crd_a_s01x_std_opium
 p_crd_a_s01x_val
 p_crd_a_s01x_van
+p_crd_gk
+p_crd_gk+hi
 p_crd_j_c01x_bla
 p_crd_j_c01x_camp
 p_crd_j_c01x_gk
@@ -494,4 +496,10 @@ p_crd_q_s01x_std_labastille
 p_crd_q_s01x_std_opium
 p_crd_q_s01x_val
 p_crd_q_s01x_van
+p_crd_rho
+p_crd_rho+hi
+p_crd_std_labastille
+p_crd_std_labastille+hi
+p_crd_val
+p_crd_val+hi
 s_cards

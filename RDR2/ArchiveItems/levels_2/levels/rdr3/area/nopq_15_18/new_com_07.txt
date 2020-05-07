@@ -67,11 +67,14 @@ new_com_07_nohotel
 new_com_07_props_00
 new_com_07_props_003
 new_com_07_props_02
+new_com_07_props_txd
 new_com_07_roof02_dec
 new_com_07_roof03_dec
 new_com_07_roof04_dec
 new_com_07_roof05_dec
 new_com_07_royal_b_col_w_01
+new_com_07_txd1
+new_com_07_txd2
 new_com_07_watertank
 new_com_07_watertank_decals
 new_com_07_winclosed

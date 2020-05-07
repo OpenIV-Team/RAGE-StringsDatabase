@@ -1,0 +1,14 @@
+veh_horseback@aim@front@special@lasso@base@loco
+veh_horseback@seat_rear@female@right@bucking_off@canter@spooked
+veh_horseback@seat_rear@female@right@injured_critical@trot
+veh_horseback@seat_rear@female@right@injured_critical@walk
+veh_horseback@seat_rear@female@right@normal@rearing
+veh_horseback@seat_rear@female@right@normal@transitions@idle_to_injured_critical
+veh_horseback@seat_rear@male@bucking_off@canter@spooked
+veh_horseback@seat_rear@male@injured_critical@canter
+veh_horseback@seat_rear@male@injured_critical@trot
+veh_horseback@seat_rear@male@injured_critical@walk
+veh_horseback@seat_rear@male@normal@rearing
+veh_horseback@seat_rear@male@normal@transitions@idle_to_injured_critical
+veh_horseback@seat_saddle@male@normal@rearing
+veh_horseback@seat_saddle@male@normal@transitions@idle_to_injured_critical

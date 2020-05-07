@@ -1,1 +1,15 @@
 _manifest
+new_hotel_int_gtxd
+new_hotel_int_gtxd+hi
+new_shady_int_gtxd
+new_shady_int_gtxd+hi
+new_theater_int_gtxd
+new_theater_int_gtxd+hi
+newgargalaint
+newgargalaint+hi
+ser_grandkor_int_gtxd
+ser_grandkor_int_gtxd+hi
+ser_grandkor_l1_gtxd
+ser_grandkor_l1_gtxd+hi
+ser_grandkor_l2_gtxd
+ser_grandkor_l2_gtxd+hi

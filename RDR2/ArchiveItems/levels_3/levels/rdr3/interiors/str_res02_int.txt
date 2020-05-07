@@ -6,9 +6,11 @@ str_res02_details01
 str_res02_int
 str_res02_int_curtain
 str_res02_int_curtain+hidr
+str_res02_int_main
 str_res02_int_ref_proxy
 str_res02_int_ref_proxy+hidr
 str_res02_int_shadow_proxy
+str_res02_int_txd1
 str_res02_lightboxdummy
 str_res02_mirror
 str_res02_shell01

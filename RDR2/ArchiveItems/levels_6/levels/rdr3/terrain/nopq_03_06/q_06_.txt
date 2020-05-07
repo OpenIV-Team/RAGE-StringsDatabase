@@ -3,6 +3,8 @@ _manifest
 q_06_
 q_06___decal001
 q_06___decal002
+q_06__bkt_1
+q_06__bkt_3
 q_06__grass_decal001
 q_06__grass_decal001+hidr
 q_06__hd_0_0_0
@@ -78,6 +80,7 @@ q_06__junc_de08
 q_06__junc_de09
 q_06__junc_de10
 q_06__junc_de11
+q_06_+hi
 q_06_01_decals
 q_06_02_decal001
 q_06_02_decal002

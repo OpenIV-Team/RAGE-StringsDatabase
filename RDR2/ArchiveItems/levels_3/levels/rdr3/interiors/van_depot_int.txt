@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@van_depot_int
 van_depot_int
 van_depot_int_counters
 van_depot_int_counters+hidr

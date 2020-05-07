@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@rho_train_int
 rho_train_counter
 rho_train_counter+hidr
 rho_train_counter001
@@ -10,6 +11,8 @@ rho_train_details01+hidr
 rho_train_int
 rho_train_int_ref_proxy_a
 rho_train_int_ref_proxy_b
+rho_train_int_txd
+rho_train_int_txd_shell
 rho_train_lightbox
 rho_train_room2_decals
 rho_train_room2_decals+hidr

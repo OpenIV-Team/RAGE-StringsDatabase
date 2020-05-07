@@ -7,6 +7,7 @@ new_com_church_bldg1
 new_com_church_bldg1+hidr
 new_com_church_ground
 new_com_church_ground+hidr
+new_com_church_txd1
 new_com_church_walls1
 new_com_church_walls2
 new_com_church_walls3

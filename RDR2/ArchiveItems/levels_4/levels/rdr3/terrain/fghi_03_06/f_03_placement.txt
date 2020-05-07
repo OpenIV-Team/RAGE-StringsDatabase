@@ -1,4 +1,6 @@
 _cache
 _manifest
 f_03_placement
+f_03_placement_strm
+f_03_placement_strm_0
 f_03_testbox

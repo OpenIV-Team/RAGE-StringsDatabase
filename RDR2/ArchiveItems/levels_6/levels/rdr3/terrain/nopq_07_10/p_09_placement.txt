@@ -1,4 +1,6 @@
 _cache
 _manifest
 p_09_placement
+p_09_placement_strm
+p_09_placement_strm_0
 p_09p_p_09_ptemp

@@ -15,3 +15,4 @@ han_barnnew_detail
 han_barnnew_interior
 han_barnnew2
 han_barnroof
+hi@han_barn_int

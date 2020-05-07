@@ -1,0 +1,12 @@
+veh_mountedweapon@breach_cannon@front@exit@to@land@normal@get_out@male
+veh_mountedweapon@common@align
+veh_mountedweapon@gatling@base
+veh_mountedweapon@gatling@enter_exit
+veh_mountedweapon@gatling@enter_exit@enter@align
+veh_mountedweapon@gatling@flinch
+veh_mountedweapon@hotchkiss@base
+veh_mountedweapon@hotchkiss@enter_exit
+veh_mountedweapon@hotchkiss@front@exit@to@land@normal@get_out@male
+veh_mountedweapon@maxim@base
+veh_mountedweapon@maxim@enter_exit
+veh_mountedweapon@maxim@flinch

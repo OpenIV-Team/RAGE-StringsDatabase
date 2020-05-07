@@ -1,0 +1,9 @@
+script_mpstory@mpcgvog3@ig2_davies_info
+script_mpstory@mpcgvog3@mpgun2_ext_loops
+script_mpstory@mpcgvog3@mpgun2_int_loops
+script_mpstory@mpgvo1@ig1_players_choice
+script_mpstory@mpgvo3@ig@ig2_choice
+script_mpstory@mpintro@ig2_gang_boss
+script_mpstory@mpintro@ig2_gang_boss_a1
+script_mpstory@mpintro@ig2_gang_boss_a2
+script_mpstory@mpintro@ig2_gang_boss_a3

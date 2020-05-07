@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@shack_ai_int
 shack_ai_int
 shack_ai_int_blankets
 shack_ai_int_blankets+hidr

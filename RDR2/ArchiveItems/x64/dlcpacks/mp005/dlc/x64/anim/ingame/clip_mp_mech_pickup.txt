@@ -1,0 +1,9 @@
+mp_mech_pickup@female@sack@carried@human
+mp_mech_pickup@female@sack@carried@mount
+mp_mech_pickup@female@sack@horse_satchel@sack@remove@lt
+mp_mech_pickup@female@sack@horse_satchel@sack@remove@rt
+mp_mech_pickup@female@sack@horse_satchel@sack@stow@lt
+mp_mech_pickup@female@sack@horse_satchel@sack@stow@rt
+mp_mech_pickup@female@sack@pickup@face_down
+mp_mech_pickup@female@sack@pickup@face_up
+mp_mech_pickup@female@sack@putdown

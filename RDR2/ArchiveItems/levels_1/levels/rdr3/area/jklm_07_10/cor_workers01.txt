@@ -19,6 +19,9 @@ cor_workers01_d_tracks_03
 cor_workers01_d_tracks_04
 cor_workers01_d_trash_01
 cor_workers01_d_trash_02
+cor_workers01_txd
+cor_workers01_txd+hi
+cor_workers01+hi
 cor_workershouse_const
 cor_workershouse_const+hidr
 cor_workershouse002

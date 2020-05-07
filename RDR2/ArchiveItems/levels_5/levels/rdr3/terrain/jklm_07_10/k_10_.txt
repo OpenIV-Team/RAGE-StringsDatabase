@@ -1,6 +1,8 @@
 _cache
 _manifest
 k_10_
+k_10__bkt_0
+k_10__bkt_1
 k_10__hd_0_0_0
 k_10__hd_0_0_1
 k_10__hd_0_0_-1
@@ -83,6 +85,7 @@ k_10__junc_decals_15_11
 k_10__juncel_05
 k_10__k_10_derock_01
 k_10__k_10_derock_02
+k_10_+hi
 k_10_01_de005
 k_10_01_de01
 k_10_01_de01+hidr

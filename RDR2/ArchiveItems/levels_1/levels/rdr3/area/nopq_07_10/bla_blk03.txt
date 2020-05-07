@@ -6,9 +6,13 @@ bla_bakery_ext_em
 bla_bakery_ext+hidr
 bla_blk03_debris_01
 bla_blk03_debris_01+hidr
+bla_blk03_em
 bla_blk03_em_slod
 bla_blk03_props_debris_02
 bla_blk03_props_debris_02+hidr
+bla_blk03_txd1
+bla_blk03_txd2
+bla_blk03_txd2+hi
 bla_cafe_ext
 bla_cafe_ext_em
 bla_cafe_ext+hidr

@@ -10,6 +10,8 @@ brb_01__bpl_dock_new04_d+hidr
 brb_01__bpl_dock_new04+hidr
 brb_01__brb_01_road_02_d
 brb_01__brb_01_road_02_d+hidr
+brb_01_0
+brb_01_1
 brb_01_bpl_dock_new
 brb_01_dock_new03
 brb_01_dock_new03_vfx
@@ -18,3 +20,5 @@ brb_01_outhouse_vfx
 brb_01_road_01_d
 brb_01_road_01_d+hidr
 brb_01_winchdock_vfx
+hi@brb_01_0
+hi@brb_01_1

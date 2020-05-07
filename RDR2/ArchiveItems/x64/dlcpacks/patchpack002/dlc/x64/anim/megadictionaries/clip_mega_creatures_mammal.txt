@@ -1,1 +1,14 @@
 _manifest
+mega_creatures_mammal@horse@cycles
+mega_creatures_mammal@horse@cycles_accel
+mega_creatures_mammal@horse@cycles_decel
+mega_creatures_mammal@horse@cycles_draft
+mega_creatures_mammal@horse@cycles_draft_strain
+mega_creatures_mammal@horse@cycles_max
+mega_creatures_mammal@horse@cycles_stopping
+mega_gen@creatures_mammal@horse@agitated
+mega_gen@creatures_mammal@horse@normal@jump
+mega_gen@creatures_mammal@horse@normal@shunt
+mega_gen@creatures_mammal@horse@normal@skid
+mega_gen@creatures_mammal@horse@snow
+mega_gen@creatures_mammal@horse@wading@canter

@@ -1,4 +1,6 @@
 _manifest
+revolver_lemat
+revolver_lemat+hi
 w_revolver_lemat01
 w_revolver_lemat01_barrel01
 w_revolver_lemat01_barrel02

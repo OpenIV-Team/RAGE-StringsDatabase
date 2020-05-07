@@ -1,6 +1,8 @@
 _cache
 _manifest
 r_04_
+r_04__bkt_2
+r_04__bkt_3
 r_04__decs_rock_00
 r_04__decs_rock_01
 r_04__decs_rock_03
@@ -72,6 +74,7 @@ r_04__hd_0_-4_3
 r_04__hd_0_-4_-3
 r_04__hd_0_-4_-4
 r_04__hd_0_-4_-4+hidr
+r_04_+hi
 r_04_01_decal_road
 r_04_02_decal_road
 r_04_03_decal001

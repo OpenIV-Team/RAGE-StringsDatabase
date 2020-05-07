@@ -1,6 +1,9 @@
 _cache
 _manifest
 n_14_
+n_14__bkt_0
+n_14__bkt_2
+n_14__bkt_3
 n_14__hd_0_0_0
 n_14__hd_0_0_1
 n_14__hd_0_0_-1
@@ -67,6 +70,7 @@ n_14__hd_0_-4_-2
 n_14__hd_0_-4_3
 n_14__hd_0_-4_-3
 n_14__hd_0_-4_-4
+n_14_+hi
 n_14_junc_decal_01
 n_14_junc_decal_02
 n_14_junc_decal_03

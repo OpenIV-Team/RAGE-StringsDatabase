@@ -1,4 +1,6 @@
 _cache
 _manifest
 k_09_placement_vfx
+k_09_placement_vfx_strm
+k_09_placement_vfx_strm_0
 k_09p_vfx_testbox

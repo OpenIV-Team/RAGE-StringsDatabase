@@ -1,11 +1,16 @@
 _manifest
 lag_01_blood_01
 lag_01_blood_01+hidr
+lag_01_em
 lag_01_em_slod
+lag_01_em+hi
+lag_01_emitters
 lag_01_ground_decals_01
 lag_01_ground_decals_01+hidr
 lag_01_props_dedfish_01
 lag_01_props_dedfish_01+hidr
+lag_01_txd
+lag_01_txd+hi
 lag_boat_01
 lag_boat_01+hidr
 lag_boat_02

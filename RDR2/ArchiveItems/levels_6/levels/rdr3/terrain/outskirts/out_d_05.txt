@@ -37,3 +37,5 @@ out_d_05_hd_15
 out_d_05_hd_15_lod
 out_d_05_hd_16
 out_d_05_hd_16_lod
+out_d_05_long_0
+out_d_05_strm

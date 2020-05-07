@@ -1,1 +1,5 @@
 _manifest
+mcfarlaneranch
+mcfarlaneranch+hi
+mfr_01020304
+mfr_01020304+hi

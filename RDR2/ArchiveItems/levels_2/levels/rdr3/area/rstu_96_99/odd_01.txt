@@ -1,5 +1,7 @@
 _cache
 _manifest
+hi@odd_01_0
+odd_01_0
 odd_01_maingate
 odd_01_maingate_vfx
 odd_01_maingate+hidr

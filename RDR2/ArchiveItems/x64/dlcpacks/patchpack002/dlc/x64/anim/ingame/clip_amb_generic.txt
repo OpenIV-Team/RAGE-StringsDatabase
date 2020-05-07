@@ -1,0 +1,1 @@
+amb_generic@world_human_generic_sit_ground@lf_fwd@male_a@stand_exit

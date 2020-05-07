@@ -32,6 +32,7 @@ p_bottlesnakeoil02x
 p_bottlesnakeoil03x
 p_bottlesnakeoil03x+hifr
 p_bottlesnakeoilcork_cs01x
+p_bottlesnakeoild_01
 p_cigar01x
 p_cigar02x
 p_cigar02x+hifr
@@ -45,6 +46,7 @@ p_cigarette_dynamic_01x
 p_cigarette01x
 p_cigarettebox01x
 p_cigarettebox01x+hifr
+p_cigarettecs02
 p_cigaretteholder01x
 p_cigaretteholder01x+hidr
 p_cigarlit01x

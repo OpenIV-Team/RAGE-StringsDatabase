@@ -1,0 +1,9 @@
+mech_inventory@crafting@fallbacks@modify_arrows
+mech_inventory@equip@fallback@base@unarmed@satchel@camera_gesture
+mech_inventory@equip@fallback@base@unarmed@satchel@dynamite_gesture
+mech_inventory@equip@fallback@base@unarmed@satchel@firebottle_gesture
+mech_inventory@equip@fallback@base@unarmed@satchel@lasso_gesture
+mech_inventory@equip@fallback@base@unarmed@shoulder_left@bow_arrow_gesture
+mech_inventory@equip@fallback@base@unarmed@shoulder_left@bow_offhand_left_gesture
+mech_inventory@equip@fallback@base@unarmed@shoulder_left@longarms_offhand_left_gesture
+mech_inventory@horse@fallback@base@longarms_fl

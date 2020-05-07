@@ -3,6 +3,10 @@ armoredcar03x
 boatsteam02x
 caboose01x
 coalhopper01x
+feud1_northflatcar01x_10
+feud1_northflatcar01x_12
+feud1_northflatcar01x_5
+feud1_northflatcar01x_7
 ghosttraincaboose
 ghosttraincoalcar
 ghosttrainpassenger
@@ -11,3 +15,4 @@ horseboat
 keelboat
 midlandboxcar05x
 midlandrefrigeratorcar
+nat1_horseboat

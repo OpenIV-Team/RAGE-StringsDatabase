@@ -1,0 +1,5 @@
+scenario@animals@world_animal_alligator_eat_boar@boar
+scenario@animals@world_animal_heron_catch_fish@idle_a
+scenario@animals@world_animal_heron_catch_fish@idle_b
+scenario@animals@world_animal_heron_catch_fish@idle_c
+scenario@animals@world_animal_heron_catch_fish@wander

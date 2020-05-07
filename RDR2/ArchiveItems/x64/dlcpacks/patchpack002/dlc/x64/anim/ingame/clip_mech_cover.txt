@@ -1,0 +1,17 @@
+mech_cover@aim@arthur@longarms@base@low@intro@fwd_left@righthand@close_opp_crouch
+mech_cover@aim@arthur@longarms@base@low@intro@fwd_left@righthand@close_opp_stand
+mech_cover@aim@arthur@longarms@base@low@intro@fwd_right@close_opp_crouch
+mech_cover@aim@arthur@longarms@base@low@intro@fwd_right@hand_swap@close_opp_crouch
+mech_cover@aim@arthur@longarms@base@low@intro@fwd_right@righthand@close_opp_crouch
+mech_cover@aim@arthur@longarms@base@low@intro@fwd_right@righthand@close_opp_stand
+mech_cover@aim@arthur@shortarms@base@low@intro@fwd@close_left_crouch
+mech_cover@aim@arthur@shortarms@base@low@intro@fwd@close_left_stand
+mech_cover@aim@arthur@shortarms@base@low@intro@fwd@close_right_crouch
+mech_cover@aim@arthur@shortarms@base@low@intro@fwd@close_right_stand
+mech_cover@aim@arthur@shortarms@base@low@intro@fwd@direct_left_crouch
+mech_cover@aim@arthur@shortarms@base@low@intro@fwd@fwd_crouch
+mech_cover@aim@arthur@shortarms@base@low@intro@fwd@fwd_stand
+mech_cover@aim@arthur@shortarms@base@low@intro@fwd_left@righthand@close_opp_crouch
+mech_cover@aim@arthur@shortarms@base@low@intro@fwd_left@righthand@close_opp_stand
+mech_cover@aim@arthur@shortarms@base@low@intro@fwd_right@righthand@close_opp_crouch
+mech_cover@aim@arthur@shortarms@base@low@intro@fwd_right@righthand@close_opp_stand

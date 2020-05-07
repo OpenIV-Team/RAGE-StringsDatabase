@@ -2,6 +2,9 @@ _cache
 _manifest
 ben_01__ben01_combo_slod
 ben_01__ben01_combo01_slod
+ben_01_0
+ben_01_1
+ben_01_2
 ben_01_floor_d
 ben_01_floor_d+hidr
 ben_01_glue
@@ -33,3 +36,5 @@ ben_01_station_vfx
 ben_01_station+hidr
 ben_01_stn_int_shadbox
 ben_01_watertower_vfx
+hi@ben_01_0
+hi@ben_01_1

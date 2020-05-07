@@ -1,0 +1,3 @@
+mini_games@poker_mg@fem_base_camp
+mini_games@poker_mg@fem_deal
+mini_games@poker_mg@fem_take_pot@fem_base_camp@a

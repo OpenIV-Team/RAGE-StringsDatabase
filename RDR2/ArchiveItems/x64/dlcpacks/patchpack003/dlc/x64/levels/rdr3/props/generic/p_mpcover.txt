@@ -1,4 +1,6 @@
 _manifest
+mp_prop_set03
+mp_prop_set03+hi
 p_fortmercerbarricade01x
 p_fortmercerbarricade01x+hifr
 p_mp_cover_h_tt

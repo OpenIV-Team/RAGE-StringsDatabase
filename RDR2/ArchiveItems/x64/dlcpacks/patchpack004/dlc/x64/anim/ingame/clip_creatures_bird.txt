@@ -1,0 +1,11 @@
+creatures_bird@cranewhooping@normal@idle@variation@idle_a
+creatures_bird@cranewhooping@normal@idle@variation@idle_b
+creatures_bird@cranewhooping@normal@idle@variation@idle_c
+creatures_bird@hawk@normal@idle@variation@idle_a
+creatures_bird@hawk@normal@idle@variation@idle_b
+creatures_bird@hawk@normal@idle@variation@idle_c
+creatures_bird@heron@normal@idle@variation@idle_a
+creatures_bird@heron@normal@idle@variation@idle_b
+creatures_bird@heron@normal@idle@variation@idle_c
+creatures_bird@heron@normal@idle@variation@idle_d
+creatures_bird@heron@normal@idle@variation@idle_e

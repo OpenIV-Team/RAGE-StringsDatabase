@@ -11,6 +11,7 @@ p_potclay02x
 p_potclay02x+hifr
 p_potclay03x
 p_potclay04x
+p_potclay05
 p_potclay05x
 p_potclayshard01x
 p_pottery

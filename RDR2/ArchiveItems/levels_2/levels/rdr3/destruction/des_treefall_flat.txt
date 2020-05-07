@@ -1,5 +1,6 @@
 _manifest
 des_treefall_flat
 des_treefall_flat_01
+des_treefall_flat+hi
 treefall_flat_end
 treefall_flat_start

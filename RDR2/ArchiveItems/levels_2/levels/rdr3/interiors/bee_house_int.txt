@@ -50,11 +50,14 @@ bee_house_int_painting01+hidr
 bee_house_int_portrait
 bee_house_int_shavingtable
 bee_house_int_shavingtable+hidr
+bee_house_int_shell
+bee_house_int_shell+hi
 bee_house_int_table
 bee_house_int_table+hidr
 bee_house_int_tablewcloth
 bee_house_int_tablewcloth01
 bee_house_int_tub_water
+bee_house_int+hi
 bee_house_lightbox001
 bee_house_lightbox002
 bee_house_lightbox003
@@ -172,3 +175,4 @@ bee_mastrm_dressr2_col_holder+hidr
 bee_sonroom_wall_refl_hd
 bee_sonroom_wall_refl_hd+hidr
 bee_uncles_rug01
+hi@bee_house_int

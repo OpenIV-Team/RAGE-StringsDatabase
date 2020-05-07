@@ -19,6 +19,8 @@ agu_boards003
 agu_boiler_int
 agu_boiler_int_ref
 agu_boiler_int_ref+hi
+agu_boiler_int_txd
+agu_boiler_int_txd+hi
 agu_boiler_lightbox
 agu_boiler_lightbox001
 agu_boiler_refblocker_001
@@ -73,3 +75,4 @@ agu_wires005
 agu_wires006
 agu_wires007
 agu_wires008
+hi@agu_boiler_int

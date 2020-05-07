@@ -44,8 +44,10 @@ p_veh_cottonwag01x
 p_veh_cottonwag01x+hi
 p_veh_cottonwag02x
 p_veh_cottonwag03x
+p_veh_feud1
 p_veh_feud1_haybales01x
 p_veh_feud1_haybales01x+hidr
+p_veh_feud1+hi
 p_veh_flatcar01x_1
 p_veh_flatcar01x_1_low
 p_veh_flatcar01x_1+hifr
@@ -108,4 +110,6 @@ p_veh_wagon04x_ropelumber03x
 p_veh_wagons_hay01x
 p_veh_wagons_hay01x+hifr
 p_veh_weaponthreat01x
+pgvehgen
+pgvehgen+hi
 vehicle_props

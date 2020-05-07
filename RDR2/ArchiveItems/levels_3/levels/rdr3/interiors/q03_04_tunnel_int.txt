@@ -2,7 +2,9 @@ _cache
 _manifest
 cablemesh50445_tstd001
 q03_04_tunnel_int
+q0304_tunnel
 q0304_tunnel__rocks
+q0304_tunnel_int
 q0304_tunnel_int_low
 q0304_tunnel_int_low+hidr
 q0304_tunnel_rail

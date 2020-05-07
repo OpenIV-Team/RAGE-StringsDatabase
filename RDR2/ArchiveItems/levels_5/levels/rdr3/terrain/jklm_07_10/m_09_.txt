@@ -1,6 +1,10 @@
 _cache
 _manifest
 m_09_
+m_09__bkt_0
+m_09__bkt_1
+m_09__bkt_2
+m_09__bkt_3
 m_09__burnt_de01
 m_09__burnt_de01+hidr
 m_09__cliff_decalseam
@@ -71,6 +75,7 @@ m_09__hd_0_-4_-2
 m_09__hd_0_-4_3
 m_09__hd_0_-4_-3
 m_09__hd_0_-4_-4
+m_09_+hi
 m_09_01_decal
 m_09_03_decal
 m_09_04_decal

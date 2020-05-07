@@ -1,6 +1,10 @@
 _cache
 _manifest
 m_08_
+m_08__bkt_0
+m_08__bkt_1
+m_08__bkt_2
+m_08__bkt_3
 m_08__decals_00
 m_08__decals_01
 m_08__decals_02
@@ -78,6 +82,7 @@ m_08__hd_0_-4_-3
 m_08__hd_0_-4_-4
 m_08__juncel_01
 m_08__object002
+m_08_+hi
 m_08_01_decal003
 m_08_01_decal006
 m_08_03_decal001

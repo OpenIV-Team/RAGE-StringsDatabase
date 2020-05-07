@@ -1,2 +1,9 @@
 _manifest
+arm_em
+arm_em+hi
+arm_interiors
+arm_interiors+hi
 armadillo
+armadillo+hi
+armadillob
+armadillob+hi

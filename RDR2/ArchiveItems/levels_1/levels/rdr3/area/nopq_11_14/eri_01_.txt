@@ -1,5 +1,6 @@
 _manifest
 eri_01_
+eri_01_+hi
 eri_p_rockwall_01
 eri_p_rockwall_02
 eri_p_rockwall_03

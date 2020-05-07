@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@shack_sw_int
 shack_sw_int
 shack_sw_int_chains
 shack_sw_int_decals

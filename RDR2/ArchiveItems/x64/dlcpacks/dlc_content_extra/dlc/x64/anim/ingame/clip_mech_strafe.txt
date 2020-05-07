@@ -1,0 +1,1 @@
+mech_strafe@generic@first_person@scenarios@sack

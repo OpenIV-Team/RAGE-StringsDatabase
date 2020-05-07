@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@mic_hideout_int
 mic_hideout_ceiling
 mic_hideout_dc
 mic_hideout_floor
@@ -8,6 +9,7 @@ mic_hideout_int
 mic_hideout_int_ref
 mic_hideout_int_ref+hidr
 mic_hideout_int_shadow_proxy
+mic_hideout_int+hi
 mic_hideout_ladder
 mic_hideout_ladder+hidr
 mic_hideout_lightbox_001

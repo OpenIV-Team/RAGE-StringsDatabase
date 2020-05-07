@@ -1,0 +1,6 @@
+mech_hogtie@human@base
+mech_hogtie@human@idle@ground@pre_hogtie
+mech_hogtie@human@mount@remove@lt
+mech_hogtie@human@mount@remove@rt
+mech_hogtie@human@unconscious
+mech_hogtie@human_dead@pickup_body

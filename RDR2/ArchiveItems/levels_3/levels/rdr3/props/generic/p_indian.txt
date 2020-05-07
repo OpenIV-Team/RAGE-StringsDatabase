@@ -17,6 +17,8 @@ p_indianartifact03x+hifr
 p_indianbackrest01x
 p_indianbackrest01x+hidr
 p_indianbedrollclosed01x
+p_indiandream
+p_indiandream+hi
 p_indiandream01x
 p_indiandream01x_a
 p_indiandream02x

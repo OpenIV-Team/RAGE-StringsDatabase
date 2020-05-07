@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@shack_bv_int
 shack_bv_int
 shack_bv_int_bits
 shack_bv_int_ceiling

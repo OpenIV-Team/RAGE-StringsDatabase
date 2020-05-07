@@ -1,1 +1,8 @@
 _manifest
+mega_mech_cart@buggy@front@fl@enter@get_in
+mega_mech_cart@buggy@front@fl@exit@get_out
+mega_mech_cart@buggy@front@fr@enter@get_in
+mega_mech_cart@buggy@front@fr@exit@get_out
+mega_mech_cart@cart02@rear@enter@get_in
+mega_mech_cart@standard@front@fl@enter@get_in
+mega_mech_cart@standard@front@fr@enter@get_in

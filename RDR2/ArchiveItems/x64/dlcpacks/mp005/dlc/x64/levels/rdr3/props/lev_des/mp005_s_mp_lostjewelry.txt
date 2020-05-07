@@ -1,4 +1,10 @@
 _manifest
+mp005_jbox_lrg_plain02x
+mp005_jbox_lrg_poor01x
+mp005_jbox_lrg_poor02x
+mp005_jbox_sm_plain02x
+mp005_jbox_sm_poor01x
+mp005_jbox_sm_poor02x
 mp005_s_brclt_dmd_gld
 mp005_s_brclt_edw_prl
 mp005_s_brclt_gld

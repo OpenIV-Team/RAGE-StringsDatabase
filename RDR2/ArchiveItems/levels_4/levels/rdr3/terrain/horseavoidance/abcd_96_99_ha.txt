@@ -2,3 +2,5 @@ _cache
 _manifest
 abcd_96_99_ha
 abcd_96_99_ha_dummy
+abcd_96_99_ha_strm
+abcd_96_99_ha_strm_0

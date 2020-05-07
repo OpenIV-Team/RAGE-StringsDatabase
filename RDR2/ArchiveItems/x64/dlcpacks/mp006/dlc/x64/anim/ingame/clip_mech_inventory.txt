@@ -1,0 +1,9 @@
+mech_inventory@discard@fallback@base@moonshine_small
+mech_inventory@discard@fallback@base@moonshine_small_f
+mech_inventory@discard@fallback@base_crouch@moonshine_small
+mech_inventory@discard@fallback@base_crouch@moonshine_small_f
+mech_inventory@equip@fallback@base@unarmed@longarms_generic
+mech_inventory@equip@fallback@base@unarmed@moonshine_small_gesture
+mech_inventory@equip@fallback@crouch@unarmed@moonshine_small_gesture
+mech_inventory@equip@fallback@female@base_spin@pistol_rhip
+mech_inventory@equip@fallback@first_person@unarmed@satchel@moonshine_small_gesture

@@ -16,4 +16,8 @@ bla_barber_int_shadowproxy
 bla_barber_int_shell
 bla_barber_int_shell_curt
 bla_barber_int_shell_curt+hidr
+bla_barber_int_shell_txd
 bla_barber_int_shell+hidr
+bla_barber_int_txd
+bla_barber_int_txd+hi
+hi@bla_barber_int

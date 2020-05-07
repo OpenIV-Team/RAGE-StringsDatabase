@@ -1,8 +1,10 @@
 _cache
 _manifest
+hi@twi_01_0
 twi_01__metal_ladder_003
 twi_01__metal_ladder_02
 twi_01__twi01_combo_slod
+twi_01_0
 twi_01_blanket_01
 twi_01_blanket_01+hidr
 twi_01_glue_02

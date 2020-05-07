@@ -1,7 +1,11 @@
 _manifest
+dea_01_grave
 dea_01_grave_010
 dea_01_grave_011
 dea_01_grave_012
+dea_01_grave+hi
+gravewoods
+gravewoods+hi
 p_alligatorhead01x
 p_arthur_grave_b
 p_arthur_grave_g
@@ -19,6 +23,8 @@ p_coffin04x+hi
 p_coffin04x+hifr
 p_coffinempty01x
 p_coffinlid01x
+p_coffinstxd
+p_coffinstxd+hi
 p_crossflower02x
 p_crossflower02x+hifr
 p_davey_grave

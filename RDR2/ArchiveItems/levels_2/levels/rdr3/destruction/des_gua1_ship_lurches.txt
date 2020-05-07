@@ -3,3 +3,4 @@ des_gua1_ship_lurches
 des_gua1_ship_lurches_01
 des_gua1_ship_lurches_end
 des_gua1_ship_lurches_start
+des_gua1_ship_lurches+hi

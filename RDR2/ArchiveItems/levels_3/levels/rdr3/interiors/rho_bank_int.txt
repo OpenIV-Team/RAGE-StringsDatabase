@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@rho_bank_int
 rho_bank_backhall_detail1
 rho_bank_backhall_detail1_lp
 rho_bank_backhall_detail1_lp+hidr
@@ -20,6 +21,8 @@ rho_bank_glass_03
 rho_bank_hall_lightbox
 rho_bank_int
 rho_bank_int_shadowproxy
+rho_bank_int_shell
+rho_bank_int_txd
 rho_bank_int_walla
 rho_bank_int_wallb
 rho_bank_int_wallb+hidr

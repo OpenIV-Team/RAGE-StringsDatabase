@@ -93,6 +93,7 @@ bronte_wine_decals
 bronte_wine_fl_cloth004
 bronte_wine_racks005
 bronte_wine_room04
+hi@new_man_bronte
 man_bronte_lib_details01
 man_bronte_lib_details02
 new_bro_ensuite_fireplace
@@ -117,7 +118,9 @@ new_man_bron_ensuite_mirror
 new_man_bron_geoshell
 new_man_bron_gnd_shell
 new_man_bron_gnd_shell+hidr
+new_man_bron_int_shell
 new_man_bron_int_sp
+new_man_bron_int_txd
 new_man_bron_music_mirror
 new_man_bronte
 new_man_bronte_int_ref_a

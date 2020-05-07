@@ -1,0 +1,6 @@
+mini_games@poker_mg@base
+mini_games@poker_mg@base_camp
+mini_games@poker_mg@fem_base_camp
+mini_games@poker_mg@fem_focused
+mini_games@poker_mg@fem_relaxed
+mini_games@poker_mg@relaxed

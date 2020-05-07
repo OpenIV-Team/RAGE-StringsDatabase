@@ -1,0 +1,2 @@
+mech_weapons_longarms@base@weapon@boltaction_str@high
+mech_weapons_longarms@base@weapon@boltaction_str@low

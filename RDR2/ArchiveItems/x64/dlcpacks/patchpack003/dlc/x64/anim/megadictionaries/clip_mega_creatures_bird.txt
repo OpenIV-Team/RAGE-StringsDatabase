@@ -1,1 +1,6 @@
 _manifest
+mega_gen@creatures_bird@chicken@normal
+mega_gen@creatures_bird@pelican@normal
+mega_gen@creatures_bird@rooster@normal
+mega_gen@creatures_bird@turkey@normal
+mega_gen@creatures_bird@turkeywild@normal

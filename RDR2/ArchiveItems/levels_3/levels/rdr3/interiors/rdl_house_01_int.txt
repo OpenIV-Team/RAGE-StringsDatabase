@@ -1,6 +1,7 @@
 _cache
 _manifest
 ceilinghook01
+hi@rdl_house_01_int
 rdl_house_01_int
 rdl_house_01_int_ref_proxy
 rdl_house_01_int_ref_proxy+hidr

@@ -1,6 +1,8 @@
 _cache
 _manifest
 l_15_
+l_15__bkt_1
+l_15__bkt_3
 l_15__hd_0_0_0
 l_15__hd_0_0_1
 l_15__hd_0_0_-1
@@ -68,6 +70,7 @@ l_15__hd_0_-4_-2
 l_15__hd_0_-4_3
 l_15__hd_0_-4_-3
 l_15__hd_0_-4_-4
+l_15_+hi
 l_15_02_trapdecal_01
 l_15_02_trapdecal_02
 l_15_04_rail_decal

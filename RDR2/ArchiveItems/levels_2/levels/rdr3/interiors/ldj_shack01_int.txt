@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@ldj_shack01_int
 ldj_shack01_int
 ldj_shack01_int_ceiling
 ldj_shack01_int_cheats
@@ -14,3 +15,4 @@ ldj_shack01_int_ref+hidr
 ldj_shack01_int_shad
 ldj_shack01_int_walls
 ldj_shack01_int_walls+hidr
+ldj_shack01_int+hi

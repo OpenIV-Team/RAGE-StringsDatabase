@@ -8,6 +8,8 @@ dov_lab_machines_01
 dov_lab_machines_01+hidr
 dov_lab_track_decal_01
 dov_lab_track_decal_01+hidr
+dov_lab_txd
+dov_lab_txd+hi
 dov_lab_vfx_001
 dov_lab_vfx_002
 dov_metal_ladder_01

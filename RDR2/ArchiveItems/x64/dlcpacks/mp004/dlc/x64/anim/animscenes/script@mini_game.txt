@@ -1,0 +1,9 @@
+script@mini_game@poker@fem_take_pot_camp
+script@mini_game@poker@mp_enters_female
+script@mini_game@poker@mp_enters_male
+script@mini_game@poker@mp_exits_female
+script@mini_game@poker@mp_exits_male
+script@mini_game@poker@mp_prepostgame_base
+script@mini_game@poker@split_take_pot
+script@mini_game@poker@take_pot
+script@mini_game@poker@take_pot_camp

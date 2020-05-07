@@ -1,6 +1,11 @@
 _cache
 _manifest
 gua_out_b_03
+gua_out_b_03_0
+gua_out_b_03_1
+gua_out_b_03_2
+gua_out_b_03_long_0
+gua_out_b_03_strm
 outg_b_03_01_lod
 outg_b_03_01_slod
 outg_b_03_02_lod

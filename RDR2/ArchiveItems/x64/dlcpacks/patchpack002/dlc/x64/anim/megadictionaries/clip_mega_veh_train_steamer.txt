@@ -1,1 +1,5 @@
 _manifest
+mega_veh_train_steamer@driver
+mega_veh_train_steamer@enter@get_in
+mega_veh_train_steamer@exit@get_out
+mega_veh_train_steamer@jack

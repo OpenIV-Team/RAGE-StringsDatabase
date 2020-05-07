@@ -2,3 +2,4 @@ _cache
 _manifest
 vwxy_11_14_ha
 vwxy_11_14_ha_dummy
+vwxy_11_14_ha_strm

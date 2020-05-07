@@ -3,9 +3,11 @@ _manifest
 eme_lightholder_01
 eme_shipping
 eme_shipping+hidr
+eme_station
 eme_station_building
 eme_station_building+hidr
 eme_station_decals
 eme_station_decals+hidr
 eme_station_platform
 eme_station_platform+hidr
+eme_station+hi

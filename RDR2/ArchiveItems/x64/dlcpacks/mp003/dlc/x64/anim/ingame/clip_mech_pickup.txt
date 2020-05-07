@@ -1,0 +1,3 @@
+mech_pickup@money_bag@lt@drop_shoulder
+mech_pickup@plant@orchid_plant
+mech_pickup@plant@orchid_tree

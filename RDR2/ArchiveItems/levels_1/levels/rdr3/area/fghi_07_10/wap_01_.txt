@@ -1,6 +1,12 @@
 _cache
 _manifest
+hi@wap_01__0
+hi@wap_01__1
+hi@wap_01__2
 wap_01_
+wap_01__0
+wap_01__1
+wap_01_+hi
 wap_01_barn
 wap_01_barn_d
 wap_01_barn_d+hidr
@@ -38,6 +44,10 @@ wap_broken02x002
 wap_broken02x003
 wap_broken02x004
 wap_campes_slod
+wap_e_tepee_
+wap_e_tepee_+hi
+wap_e_tepee_t_temps
+wap_e_tepee_t_temps+hi
 wap_master_patch_
 wap_master_patchtipid001
 wap_master_patchtipid007

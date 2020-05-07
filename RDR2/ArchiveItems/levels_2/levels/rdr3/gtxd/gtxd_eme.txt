@@ -1,1 +1,7 @@
 _manifest
+eme
+eme_genstore_gtxd
+eme_genstore_gtxd+hi
+eme_saloon_gtxd
+eme_saloon_gtxd+hi
+eme+hi

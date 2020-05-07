@@ -1,4 +1,5 @@
 _manifest
+man_01
 man_01_cab_dec
 man_01_cab_ext
 man_01_cab_ext_vfx
@@ -14,6 +15,7 @@ man_01_house_chimney
 man_01_house_chimney+hidr
 man_01_nail
 man_01_nail+hidr
+man_01+hi
 man_cabin01_int_lod
 man_ext
 man_ext_chim

@@ -1,0 +1,4 @@
+veh_wagon@standard@front@fl@in_seat@male@shuffle
+veh_wagon@standard@front@fr@in_seat@male@shuffle
+veh_wagon@wagontraveller@front@fl@enter@from@land@normal@get_in@male
+veh_wagon@wagontraveller@front@fr@enter@from@land@normal@get_in@male

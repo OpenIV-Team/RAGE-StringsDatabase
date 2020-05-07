@@ -1,4 +1,6 @@
 _manifest
+rdr_rock_tal_13
+rdr_rock_tal_13+hi
 rdr_rock_talltrees
 tal_rock_01
 tal_rock_01+hidr

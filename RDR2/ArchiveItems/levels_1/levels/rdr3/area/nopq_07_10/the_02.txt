@@ -1,7 +1,9 @@
 _manifest
+the_02_
 the_02__hostel
 the_02__hostel+hidr
 the_02__the02_combo04_slod
+the_02_+hi
 the_02_bridge
 the_02_bridge_dec
 the_02_bridge_dec+hidr

@@ -1,0 +1,5 @@
+mech_weapons_special@binoculars@crouch@base@sweep
+mech_weapons_special@binoculars@crouch@base@sweep@intro@sweep
+mech_weapons_special@binoculars@crouch@base@sweep@intro@sweep@w
+mech_weapons_special@binoculars@crouch@base@sweep@outro@sweep
+mech_weapons_special@binoculars@crouch@base@sweep@outro@sweep@w

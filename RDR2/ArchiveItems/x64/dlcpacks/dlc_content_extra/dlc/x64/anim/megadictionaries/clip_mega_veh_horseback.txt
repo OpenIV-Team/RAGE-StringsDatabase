@@ -1,1 +1,11 @@
 _manifest
+mega_veh_horseback@standard@left@crouch@jack@knife
+mega_veh_horseback@standard@left@crouch@jack@unarmed
+mega_veh_horseback@standard@left@jack
+mega_veh_horseback@standard@left@melee@jack@knife
+mega_veh_horseback@standard@left@melee@jack@unarmed
+mega_veh_horseback@standard@right@crouch@jack@knife
+mega_veh_horseback@standard@right@crouch@jack@unarmed
+mega_veh_horseback@standard@right@jack
+mega_veh_horseback@standard@right@melee@jack@knife
+mega_veh_horseback@standard@right@melee@jack@unarmed

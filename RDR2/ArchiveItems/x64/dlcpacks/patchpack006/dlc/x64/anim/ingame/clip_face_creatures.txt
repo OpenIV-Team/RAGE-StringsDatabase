@@ -1,0 +1,13 @@
+face_creatures@alligator@base
+face_creatures@bear@base
+face_creatures@boar@base
+face_creatures@buffalo@base
+face_creatures@cougar@base
+face_creatures@deer@base
+face_creatures@goat@base
+face_creatures@horse@base
+face_creatures@moose@base
+face_creatures@rabbit@base
+face_creatures@raccoon@base
+face_creatures@snake@base
+face_creatures@wolf@base

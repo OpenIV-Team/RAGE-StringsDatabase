@@ -21,6 +21,8 @@ ann_gun_sign_revolverammo02
 ann_gun_sign_rifleammo
 ann_gun_sign_shotgunammo001
 ann_gunsmith_int
+ann_gunsmith_int+hi
 ann_gunsmith_lightbox
 ann_w_rep_carbinelancastr
 ann_w_springfid_boltact1
+hi@ann_gunsmith_int

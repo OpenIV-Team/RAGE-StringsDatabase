@@ -1,4 +1,10 @@
 _manifest
+dinobone
+dinobone+hi
+diswiskeytreebottle
+diswiskeytreebottle+hi
+egretparts
+egretparts+hi
 p_12moonshinecrate01
 p_12moonshinecrate01+hifr
 p_ancientbnrztray01x
@@ -15,6 +21,8 @@ p_conductrodtele01x
 p_conductrodtele01x+hidr
 p_crackpotloudspeaker01x
 p_crackpotmicrophone01x
+p_crackpotpasystem
+p_crackpotpasystem+hi
 p_crackpotpasystem01x
 p_cratecover06x_tnt
 p_cratecover06x_tnt+hifr
@@ -34,6 +42,8 @@ p_dis_scm_deadsnake
 p_dis_scm_deadsnake+hifr
 p_dis_stuffedgorilla_01
 p_dis_stuffedgorilla_01+hifr
+p_disdreamcatcherwind
+p_disdreamcatcherwind+hi
 p_disdreamcatcherwind01x
 p_disdreamcatcherwind01x+hifr
 p_disdreamcatcherwind02x
@@ -70,6 +80,7 @@ p_electricfielddetector01x_300
 p_electricfielddetector01x_350
 p_electricfielddetector01x_g
 p_electricfielddetector01x+hidr
+p_emfdetector_g
 p_fffboard01x
 p_fffboard01x+hidr
 p_icechestlrg01x
@@ -81,10 +92,12 @@ p_mailcatcherbag01x
 p_mis_mud1_wagon02x
 p_mis_mud1_wagon02x+hi
 p_mis_mud1_wagon02x+hifr
+p_mission_br2
 p_mission_br2_01
 p_mission_br2_01+hifr
 p_mission_br2_02
 p_mission_br2_02+hifr
+p_mission_br2+hi
 p_mission_caravanwagon02x
 p_mission_caravanwagon02x+hifr
 p_mission_crategatling01x
@@ -98,6 +111,8 @@ p_newpie_tranlever02x
 p_panhang
 p_schoolhousebell01x
 p_schoolhousebell01x+hifr
+p_shootgall
+p_shootgall+hi
 p_si_bracelet01x
 p_si_cathbrooch01x
 p_si_cathbrooch01x+hidr
@@ -109,7 +124,10 @@ p_si_wanted_javier01x+hidr
 p_skullhang
 p_test_tinthorse
 p_test_tinthorse+hidr
+p_tranlever01x
 p_whiskeyempty01x
+prisonerescape
+prisonerescape+hi
 s_airshipcrashed02x
 s_airshipcrashed02x+hidr
 s_alligatorlimb_collectable
@@ -254,6 +272,8 @@ s_penelopepurse01x+hifr
 s_pie_train_stop
 s_privatearmoured_desdoors
 s_privatearmoured_doors
+s_privatearmoureddes
+s_privatearmoureddes+hi
 s_prwindow
 s_prwindow+hifr
 s_pumajaw_collectable

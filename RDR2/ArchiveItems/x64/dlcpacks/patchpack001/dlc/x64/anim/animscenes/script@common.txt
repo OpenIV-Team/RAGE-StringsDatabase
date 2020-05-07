@@ -1,0 +1,2 @@
+script@common@cnv_camp@cachr@ig3_explosives@cachr_explosives_ig3
+script@common@shop@playercamp

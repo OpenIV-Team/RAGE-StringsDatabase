@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@val_magiclantern_int
 val_magic_int_curtain_clsd
 val_magic_int_curtain_opn
 val_magic_int_decal

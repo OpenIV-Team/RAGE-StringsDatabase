@@ -1,0 +1,8 @@
+creatures_arthropod@crab@normal@left@dead
+creatures_arthropod@crab@normal@left@getup
+creatures_arthropod@crab@normal@left@idle@idle_variation@var_a
+creatures_arthropod@crab@normal@left@idle@idle_variation@var_b
+creatures_arthropod@crab@normal@left@idle@idle_variation@var_c
+creatures_arthropod@crawfish@normal@dead
+creatures_arthropod@crawfish@normal@idle@idle_variation@var_a
+creatures_arthropod@crawfish@normal@idle@idle_variation@var_b

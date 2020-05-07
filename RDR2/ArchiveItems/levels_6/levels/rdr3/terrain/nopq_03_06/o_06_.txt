@@ -1,6 +1,9 @@
 _cache
 _manifest
 o_06_
+o_06__bkt_0
+o_06__bkt_2
+o_06__bkt_3
 o_06__hd_0_0_0
 o_06__hd_0_0_1
 o_06__hd_0_0_-1
@@ -78,6 +81,7 @@ o_06__junction_d_2b
 o_06__junction_db
 o_06__river_d
 o_06__river_d+hidr
+o_06_+hi
 o_06_01_decal01
 o_06_07_decal00
 o_06_07_decal03

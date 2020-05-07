@@ -1,6 +1,10 @@
 _cache
 _manifest
+hi@ven_01_0
+hi@ven_01_1
 ven_01__ven01_combo_slod
+ven_01_0
+ven_01_1
 ven_01_barn
 ven_01_barn_vfx
 ven_01_barn+hidr

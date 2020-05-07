@@ -2,6 +2,7 @@ _cache
 _manifest
 genst_int_decals_01
 genst_int_decals_01+hidr
+hi@str_genst_int
 s_crackers01x_set
 s_crackers01x_set+hidr
 str_gen_tobaccosign
@@ -17,6 +18,7 @@ str_genst_int_lower01+hidr
 str_genst_int_ref_proxy_lower
 str_genst_int_ref_proxy_upper
 str_genst_int_shadow_proxy
+str_genst_int_shell
 str_genst_int_shell001
 str_genst_int_shell001+hidr
 str_genst_ladder

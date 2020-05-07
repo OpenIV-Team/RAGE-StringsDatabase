@@ -16,6 +16,7 @@ p_crucifix03x
 p_goldcrucifix_01x
 p_goldcrucifix_01x+hidr
 p_herbsdry04x
+p_herbsdry04x+hi
 p_iconcross02x
 p_iconcross03x
 p_monkeyhead66x
@@ -23,6 +24,8 @@ p_monkeyskull66x
 p_religious
 p_rockcircle01x
 p_snakevoodoo01x
+p_spookynative_horn
+p_spookynative_horn+hi
 p_spookynative01x
 p_spookynative01x+hifr
 p_spookynative02x
@@ -51,6 +54,12 @@ p_spookynative11x_a
 p_spookynative11x_a+hifr
 p_spookynative12x
 p_spookynative12x+hifr
+p_spookyskull
+p_spookyskull_wood
+p_spookyskull_wood+hi
+p_spookyskull+hi
+p_spookyskull07
+p_spookyskull07+hi
 p_spookyskulls01x
 p_spookyskulls02x
 p_spookyskulls02x_a

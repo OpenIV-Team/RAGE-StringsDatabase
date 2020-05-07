@@ -53,6 +53,8 @@ p_grp_shset01x_sal_sd
 p_grp_urn01x_sal_sd
 p_grp_wbasin01x_sal_sd
 p_grp_whglass01x_sal_sd
+p_new_sal02_props
+p_new_sal02_props+hi
 p_plates_dishes_01x
 p_sal_botset01x
 p_sal_botset01x+hi
@@ -90,3 +92,5 @@ s_tum_menuclipboard01
 s_tum_menuclipboard01+hidr
 s_van_menuclipboard01
 s_van_menuclipboard01+hidr
+sd_saloonprops
+sd_saloonprops+hi

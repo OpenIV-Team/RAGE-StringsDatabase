@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@shack_sk2_int
 shack_sk2_crypticdead
 shack_sk2_crypticlives
 shack_sk2_int

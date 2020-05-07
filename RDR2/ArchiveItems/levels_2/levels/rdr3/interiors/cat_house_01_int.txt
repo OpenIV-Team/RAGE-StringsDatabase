@@ -2,6 +2,8 @@ _cache
 _manifest
 cat_house_01_int
 cat_house_01_int_shadowproxy
+cat_house_int_txd
+cat_house_int_txd+hi
 cat_int__br2_geo
 cat_int__br2_geo+hidr
 cat_int_br1_details
@@ -21,6 +23,7 @@ cat_int_ktch_geo+hidr
 cat_int_liv_details
 cat_int_liv_geo
 cat_int_liv_geo+hidr
+hi@cat_house_01_int
 lightbox_cat_bed_night
 lightbox_cat_bed002
 lightbox_cat_bed002_night

@@ -1,1 +1,6 @@
 _manifest
+mega_mech_weapons_shortarms@crouch
+mega_mech_weapons_shortarms@flinch
+mega_mech_weapons_shortarms@hitreact
+mega_mech_weapons_shortarms@loco
+mega_mech_weapons_shortarms@stand

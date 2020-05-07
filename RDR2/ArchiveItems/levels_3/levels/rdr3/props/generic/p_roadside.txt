@@ -26,11 +26,13 @@ p_gen_telepole02x+hifr
 p_group_barrelshot03
 p_group_barrelshot03+hifr
 p_heartland_emeraldranch
+p_heartlandsline
 p_heartlandsline_annesburg
 p_heartlandsline_valentine
 p_heartlandsline_valentine+hidr
 p_heartlandsline_vanhorn
 p_heartlandsline_vanhorn+hidr
+p_heartlandsline+hi
 p_hitchingpost01x
 p_hitchingpost01x_dmg
 p_hitchingpost01x+hi
@@ -49,6 +51,8 @@ p_railroadtie01x+hifr
 p_railroadtiepile01x
 p_railroadtiepile01x+hifr
 p_railroadtrack_single01x
+p_railroadtrack01x
+p_railroadtrack01x+hi
 p_railroadtrackpile01x
 p_rhodesstop01x
 p_rhodesstop01x+hidr
@@ -72,7 +76,11 @@ p_sandbags03_static
 p_sandbags03x
 p_sandbags03x+hi
 p_sandbags04x
+p_scoachstop_a
+p_scoachstop_a+hi
 p_scoachstop_armadillo
+p_scoachstop_b
+p_scoachstop_b+hi
 p_scoachstop_blackwater
 p_scoachstop_blackwater+hifr
 p_scoachstop_mcfarlaneranch
@@ -100,6 +108,8 @@ p_telepole01x+hidr
 p_train_signal_01
 p_train_signal_02
 p_train_signal_02+hi
+p_train_watercrane
+p_train_watercrane+hi
 p_train_watercrane01
 p_train_watercrane02
 p_trashbin01bx
@@ -133,3 +143,5 @@ prop_flag_us_mp
 prop_flag_ussm
 prop_flagpole_1a
 slod_p_streetcarpole02x
+telegraphpolefrags
+telegraphpolefrags+hi

@@ -2,3 +2,5 @@ _cache
 _manifest
 fghi_7_10_occ
 fghi_7_10_occ_dontdelete
+fghi_7_10_occ_long_0
+fghi_7_10_occ_strm

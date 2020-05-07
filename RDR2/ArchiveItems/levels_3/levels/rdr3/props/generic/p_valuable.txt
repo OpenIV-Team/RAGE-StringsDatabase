@@ -16,6 +16,8 @@ p_gen_statue02b
 p_gen_statue02b+hifr
 p_gen_statue03b
 p_gen_statue03x
+p_goldbars01x
+p_goldbars01x+hi
 p_goldnugget01x
 p_goldnugget02x
 p_goldnugget03x
@@ -35,6 +37,7 @@ p_moneybag04x
 p_moneybag05x
 p_moneybag05x+hidr
 p_moneybaggen02x
+p_moneystack
 p_moneystack01x
 p_moneystack02x
 p_moneystack03x

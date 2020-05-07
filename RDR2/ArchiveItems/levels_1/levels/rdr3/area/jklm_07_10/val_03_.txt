@@ -1,7 +1,9 @@
 _manifest
 val_02_des_end_state
 val_02_des_end_state+hidr
+val_03
 val_03_
+val_03_+hi
 val_03_audioproxy
 val_03_awning
 val_03_awning+hifr
@@ -17,7 +19,10 @@ val_03_doctor_decal
 val_03_doctor_ext
 val_03_doctor_ext_em_hd
 val_03_doctor_ext+hidr
+val_03_em
 val_03_em_slod
+val_03_endless_txd
+val_03_endless_txd+hi
 val_03_footboards_dcl02
 val_03_gen_lock
 val_03_genstore_em_slod
@@ -44,9 +49,13 @@ val_03_jail_lock+hidr
 val_03_law_lock
 val_03_law_lock_slod
 val_03_law_lock+hidr
+val_03_lockdown
+val_03_lockdown+hi
 val_03_mpcvr_proxy_slod
 val_03_mpcvr2_proxy_slod
 val_03_mudtrack_dcl
+val_03_originals_txd
+val_03_originals_txd+hi
 val_03_props_debris_00
 val_03_props_debris_01
 val_03_props_debris_02
@@ -60,6 +69,8 @@ val_03_props_debris_10
 val_03_props_debris_11
 val_03_props_debris_12
 val_03_props_debris_13
+val_03_props_debris_txd
+val_03_props_debris_txd+hi
 val_03_props_lockdown_jail
 val_03_redrest_endlssum
 val_03_redrest_endlssum_dtls
@@ -103,10 +114,13 @@ val_03_saloon_decal_03
 val_03_saloon_decal_03+hidr
 val_03_saloon_ext
 val_03_saloon_ext+hidr
+val_03_sign
+val_03_sign+hi
 val_03_stable_ext
 val_03_stable_ext+hidr
 val_03_stables_fence
 val_03_vfx_helper
+val_03+hi
 val_blksmth_int
 val_blksmth_int_dcl
 val_blksmth_int_dcl+hidr

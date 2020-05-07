@@ -12,6 +12,8 @@ bla_photo_int_ref+hidr
 bla_photo_int_shadowproxy
 bla_photo_int_shell
 bla_photo_int_shell+hidr
+bla_photo_int+hi
 bla_photo_lightbox01
 bla_photo_lightboxportrait
+hi@bla_photo_int
 q_reflector01

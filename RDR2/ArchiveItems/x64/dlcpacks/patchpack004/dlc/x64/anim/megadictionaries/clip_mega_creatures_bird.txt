@@ -1,1 +1,5 @@
 _manifest
+mega_gen@creatures_bird@cranewhooping@normal
+mega_gen@creatures_bird@hawk@normal
+mega_gen@creatures_bird@heron@normal
+mega_gen@creatures_bird@woodpecker@normal

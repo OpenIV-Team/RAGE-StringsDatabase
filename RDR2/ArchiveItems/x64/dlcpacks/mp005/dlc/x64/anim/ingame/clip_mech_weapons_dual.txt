@@ -1,0 +1,15 @@
+mech_weapons_dual@base@trans@carry_to_ready@low
+mech_weapons_dual@base@trans@ready_to_carry@low
+mech_weapons_dual@lantern@base@trans@carry_to_ready_f@high
+mech_weapons_dual@lantern@base@trans@ready_to_carry_f@high
+mech_weapons_dual@lantern@base@trans@ready_to_sweep_f@low
+mech_weapons_dual@lantern@crouch@base@trans@ready_to_sweep_f@high
+mech_weapons_dual@lantern@crouch@base@trans@ready_to_sweep_f@low
+mech_weapons_dual@lantern@crouch@base@trans@sweep_to_ready_f@high
+mech_weapons_dual@lantern@crouch@base@trans@sweep_to_ready_f@low
+mech_weapons_dual@loco@mp@female@crouch@lantern@idle
+mech_weapons_dual@loco@mp@female@crouch@lantern@run
+mech_weapons_dual@loco@mp@female@crouch@lantern@walk
+mech_weapons_dual@loco@mp@female@normal@lantern@idle
+mech_weapons_dual@loco@mp@female@normal@lantern@run
+mech_weapons_dual@metaldetector@operate

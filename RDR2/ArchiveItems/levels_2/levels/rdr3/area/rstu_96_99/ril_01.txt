@@ -1,6 +1,11 @@
 _cache
 _manifest
+hi@ril_01_0
+hi@ril_01_1
+hi@ril_01_2
+hi@ril_01_3
 ril_01__ril01_combo_slod
+ril_01_0
 ril_01_occ_ph
 ril_01_structure01
 ril_01_structure01_det

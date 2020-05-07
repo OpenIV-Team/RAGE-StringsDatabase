@@ -16,3 +16,5 @@ brb_dockhouse_int_shad
 brb_dockhouse_int_shelf
 brb_dockhouse_int_walls
 brb_dockhouse_int_walls+hidr
+brb_dockhouse_int+hi
+hi@brb_dockhouse_int

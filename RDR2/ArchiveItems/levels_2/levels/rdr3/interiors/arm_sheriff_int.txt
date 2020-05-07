@@ -17,3 +17,4 @@ arm_sheriff_int_decals
 arm_sheriff_int_decals+hidr
 arm_sheriff_lightbox
 arm_sheriff_shdw_proxy
+hi@arm_sheriff_int

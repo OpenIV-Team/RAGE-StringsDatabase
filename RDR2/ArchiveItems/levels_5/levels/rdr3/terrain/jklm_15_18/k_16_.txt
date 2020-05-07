@@ -1,6 +1,9 @@
 _cache
 _manifest
 k_16_
+k_16__bkt_1
+k_16__bkt_2
+k_16__bkt_3
 k_16__hd_0_0_0
 k_16__hd_0_0_1
 k_16__hd_0_0_-1
@@ -68,6 +71,7 @@ k_16__hd_0_-4_3
 k_16__hd_0_-4_-3
 k_16__hd_0_-4_-4
 k_16__terrain_decal003
+k_16_+hi
 k_16_03_decal_01
 k_16_03_decal_01+hidr
 k_16_03_rail_decal

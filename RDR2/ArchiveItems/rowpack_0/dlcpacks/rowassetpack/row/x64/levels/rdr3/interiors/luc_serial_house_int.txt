@@ -1,3 +1,4 @@
+hi@luc_serial_house_int
 luc_blood_decal_01
 luc_blood_decal_01+hidr
 luc_bucketoblood
@@ -32,5 +33,7 @@ luc_wanted_posters
 luc_wanted_posters+hidr
 luc_wood_board01
 luc_wood_board02
+luckys_int_txd
+luckys_int_txd+hi
 s_shrunkenh002
 s_shrunkenh002+hidr

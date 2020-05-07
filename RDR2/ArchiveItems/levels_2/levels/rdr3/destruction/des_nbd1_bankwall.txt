@@ -4,6 +4,7 @@ des_nbd1_bankwall_01
 des_nbd1_bankwall_02
 des_nbd1_bankwall_03
 des_nbd1_bankwall_04
+des_nbd1_bankwall+hi
 s_combankwall_after
 s_combankwall_animrefprox001
 s_combankwall_b4

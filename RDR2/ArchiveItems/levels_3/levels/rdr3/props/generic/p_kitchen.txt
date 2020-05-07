@@ -68,6 +68,7 @@ p_cast_iron_pot_002
 p_cauldron01x
 p_cauldron02x
 p_cauldron03x
+p_china
 p_cleaver01x
 p_coaster01x
 p_coffee_grinder_001
@@ -112,6 +113,8 @@ p_kettle01x+hifr
 p_kettle02x
 p_kettle03x
 p_kettle03x_noboil
+p_kettleboil
+p_kettleboil+hi
 p_kettlecopper01x
 p_kettlecopper01x+hifr
 p_kitchen
@@ -143,6 +146,7 @@ p_petridish01x
 p_petridish01x+hidr
 p_piestand01x
 p_pitcher03x
+p_plate_gen
 p_plate01x
 p_plate02x
 p_plate03x
@@ -171,7 +175,6 @@ p_pot05x
 p_potcrawfish01x
 p_potcrawfish01xb
 p_potsm01a
-p_potsm01x
 p_rho_srs
 p_rustyspoon01x
 p_saladplate02x
@@ -246,3 +249,5 @@ p_woodspoon01x
 p_woodstove01x
 p_woodstove01x+hidr
 s_bucketoblood01x
+spoonfoodtest
+p_potsm01x

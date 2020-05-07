@@ -1,0 +1,17 @@
+script_re@fundraiser@st_denis
+script_re@herbalistcamp
+script_re@herbalistcamp@gcurrant_intro
+script_re@herbalistcamp@gcurrant_return
+script_re@herbalistcamp@hbsage_intro
+script_re@herbalistcamp@hbsasge_return
+script_re@herbalistcamp@leadin@rc1
+script_re@herbalistcamp@pamphlet_handover
+script_re@herbalistcamp@player
+script_re@herbalistcamp@serum_handover
+script_re@herbalistcamp@serum_handover@enter
+script_re@herbalistcamp@serum_handover@enter_over_table
+script_re@herbalistcamp@vsnowdrop_intro
+script_re@herbalistcamp@vsnowdrop_return
+script_re@herbalistcamp@yarrow_intro
+script_re@herbalistcamp@yarrow_return
+script_re@herbalistcamp@yarrow_return@enter

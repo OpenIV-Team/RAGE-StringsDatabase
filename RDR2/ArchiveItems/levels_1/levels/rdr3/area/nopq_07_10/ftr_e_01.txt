@@ -45,6 +45,7 @@ ftr_e_01_gentarp01_03
 ftr_e_01_gentarp01_03_lod
 ftr_e_01_vfx_
 ftr_e_01_vfx_002
+ftr_e_01+hi
 ftr_e_02_office_s1_dec
 ftr_e_02_office_s1_dec+hidr
 ftr_e_02_office_s1_ext

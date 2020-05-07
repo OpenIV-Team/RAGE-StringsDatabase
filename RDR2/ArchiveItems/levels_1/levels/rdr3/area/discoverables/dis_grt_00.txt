@@ -1,6 +1,10 @@
 _cache
 _manifest
 dis_grt_00
+dis_grt_00_0
+dis_grt_00_1
+dis_grt_00_strm
+dis_grt_00_strm_0
 dis_grt_horsejumpc
 dis_grt_horsejumpc_lod
 dis_grt_horsejumpc_slod
@@ -8,3 +12,5 @@ dis_grt_horsejumpc+hidr
 dis_grt_m_04_grave
 dis_grt_m_04_grave_lod
 dis_grt_m_04_grave+hidr
+hi@dis_grt_00_0
+hi@dis_grt_00_1

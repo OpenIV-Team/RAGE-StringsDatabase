@@ -9,5 +9,6 @@ dis_grz_preskull_int_shell+hidr
 dis_grz_preskull_lightbox
 dis_grz_preskullcheat01
 dis_grz_preskullcheat01+hidr
+hi@dis_grz_preskull_int
 j10_dis_grz_preskull_dec
 j10_dis_grz_preskull_dec+hidr

@@ -1,0 +1,10 @@
+script@proc@bountyhunting@blackwaterhunt@ig2_4_deadend_jump
+script@proc@bountyhunting@odriscollssleeping@drunk
+script@proc@bountyhunting@odriscollssleeping@hogtie
+script@proc@bountyhunting@odriscollssleeping@sleeping_male_b
+script@proc@bountyhunting@odriscollssleeping@sleeping_male_c
+script@proc@bountyhunting@odriscollssleeping@sleeping_male_d
+script@proc@rockstash@base_l
+script@proc@rockstash@base_r
+script@proc@rockstash@enter_l
+script@proc@rockstash@enter_r

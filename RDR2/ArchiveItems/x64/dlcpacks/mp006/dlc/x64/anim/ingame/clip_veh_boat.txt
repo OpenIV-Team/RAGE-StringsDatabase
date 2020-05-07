@@ -1,0 +1,8 @@
+veh_boat@tugboat@front@in_seat@male@action@idle
+veh_boat@tugboat@front@in_seat@male@base@idle
+veh_boat@tugboat@front@in_seat@male@base@idle_variations
+veh_boat@tugboat@front@in_seat@male@flinches@unarmed@large
+veh_boat@tugboat@front@in_seat@male@flinches@unarmed@large_variation_a
+veh_boat@tugboat@front@in_seat@male@flinches@unarmed@large_variation_b
+veh_boat@tugboat@front@in_seat@male@flinches@unarmed@small
+veh_boat@tugboat@front@in_seat@male@flinches@unarmed@small_variation_a

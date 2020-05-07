@@ -1,5 +1,8 @@
 _cache
 _manifest
+adl_01
+adl_01__0
+adl_01__1
 adl_01_burnthouse
 adl_01_burnthouse_debris1
 adl_01_burnthouse_debris1+hidr
@@ -15,6 +18,9 @@ adl_01_burnthouse03+hidr
 adl_01_outhouse
 adl_01_vfx_helper_chimney
 adl_01_vfx_helper_fire
+adl_01_winter1
+adl_01_winter1+hi
+adl_01+hi
 adl_02_s01_detail1
 adl_02_s01_details2
 adl_02_s01_details2+hidr
@@ -84,3 +90,7 @@ adl01pr_combo05_slod
 adl01pr_combo06_slod
 adl01pr_combo07_dslod
 adl01pr_combo08_slod
+hi@adl_01__0
+hi@adl_01__1
+hi@adl_01__2
+hi@adl_01__3

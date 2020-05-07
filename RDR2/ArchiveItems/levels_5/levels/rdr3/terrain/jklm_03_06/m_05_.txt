@@ -2,6 +2,7 @@ _cache
 _manifest
 m_05_
 m_05___decal001
+m_05__bkt_0
 m_05__hd_0_0_0
 m_05__hd_0_0_1
 m_05__hd_0_0_-1
@@ -70,6 +71,7 @@ m_05__hd_0_-4_-3
 m_05__hd_0_-4_-4
 m_05__jundecl
 m_05__jundecl+hidr
+m_05_+hi
 m_05_bearcave_ent_decal
 m_05_bearcave_ent_decal+hidr
 m_05_mine_cav_grnd

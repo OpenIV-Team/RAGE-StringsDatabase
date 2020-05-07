@@ -9,5 +9,7 @@ p_decapitated_head03x+hi
 p_decapitated_head3x_2
 p_jorgemontezhead01x
 p_jorgemontezhead01x+hidr
+s_severedleg
 s_severedleg_l
 s_severedleg_r
+s_severedleg+hi

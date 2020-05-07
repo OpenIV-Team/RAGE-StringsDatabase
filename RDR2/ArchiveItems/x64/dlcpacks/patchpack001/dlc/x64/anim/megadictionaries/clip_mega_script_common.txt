@@ -1,1 +1,3 @@
 _manifest
+mega_gen@script_common@prop_human_seat_chair_carve_lure_male_a
+mega_gen@script_common@script_common_sheriff_sit_relax

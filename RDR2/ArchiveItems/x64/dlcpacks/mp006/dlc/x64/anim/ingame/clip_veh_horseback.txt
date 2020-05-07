@@ -1,0 +1,4 @@
+veh_horseback@horse@standard@seat_rear@left@enter@transition@ped@saddle@male@from_horse
+veh_horseback@horse@standard@seat_rear@right@enter@transition@ped@saddle@male@from_horse
+veh_horseback@horse@standard@seat_rider@left@enter@transition@ped@saddle@male@from_horse
+veh_horseback@horse@standard@seat_rider@right@enter@transition@ped@saddle@male@from_horse

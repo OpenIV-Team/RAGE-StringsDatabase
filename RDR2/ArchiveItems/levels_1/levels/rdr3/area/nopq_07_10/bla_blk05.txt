@@ -19,10 +19,15 @@ bla_awningcloth01
 bla_awningcloth01+hifr
 bla_blk05_bcloth_sim
 bla_blk05_bcloth_sim+hifr
+bla_blk05_em
 bla_blk05_em_slod
 bla_blk05_props_debris_01
 bla_blk05_roofaccess
 bla_blk05_roofaccess+hidr
+bla_blk05_txd1
+bla_blk05_txd1+hi
+bla_blk05_txd2
+bla_blk05_txd2+hi
 bla_clothsline_01
 bla_clothsline_01+hidr
 bla_feedstore_decal

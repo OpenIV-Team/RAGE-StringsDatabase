@@ -1,4 +1,6 @@
 _manifest
+mp006_mpcover_col
+mp006_mpcover_col+hi
 mp006_p_mp_cover_h_col
 mp006_p_mp_cover_hl_col
 mp006_p_mp_cover_s_col

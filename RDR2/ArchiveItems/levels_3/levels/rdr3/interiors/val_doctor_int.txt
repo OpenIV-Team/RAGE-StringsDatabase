@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@val_doctor_int
 val_doc_apothecary02
 val_doc_apothecary02+hidr
 val_doc_backroom_decal01
@@ -27,5 +28,7 @@ val_doctor_int
 val_doctor_int_ref_proxy
 val_doctor_int_ref_proxy+hidr
 val_doctor_int_shadowproxy
+val_doctor_int_shell
+val_doctor_int_txd
 val_dr_wallcabinet01
 val_dr_wallcabinet01+hidr

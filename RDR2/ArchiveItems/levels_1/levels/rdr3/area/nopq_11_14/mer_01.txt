@@ -67,7 +67,10 @@ mer_01_structure_stage2
 mer_01_structure_stage2_slod
 mer_01_structure_stage3
 mer_01_structure_stage3_slod
+mer_01_veg
+mer_01_veg+hi
 mer_01_vfx_helper
+mer_01+hi
 mer_box001
 mer_des_gry1_still_end
 mer_des_gry1_still_end+hidr

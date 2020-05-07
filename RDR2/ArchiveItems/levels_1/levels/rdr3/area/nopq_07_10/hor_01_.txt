@@ -1,5 +1,8 @@
 _manifest
 hor_01_
+hor_01_+hi
+hor_01_01_
+hor_01_01_+hi
 hor_01_arthur_cloth01
 hor_01_arthur_cloth02
 hor_01_arthur_cloth03
@@ -61,6 +64,7 @@ hor_01_tithcloth01
 hor_01_tithcloth01+hidr
 hor_01_tithcloth02
 hor_01_tithcloth03
+hor_deleteme
 hor_dummy_hso_p_camp_02
 hor_gunbelt_002
 hor_gunbelt_003

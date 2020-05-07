@@ -1,4 +1,6 @@
 _manifest
+mp005_basecandles
+mp005_moundbase
 mp005_p_light
 mp005_p_mp_candlegroup03x
 mp005_p_mp_candlegroup05x

@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@ora_house_01_int
 ora_decals01
 ora_decals01+hidr
 ora_dining_fireplace

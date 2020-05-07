@@ -24,6 +24,7 @@ p_re_tentrolled02x
 p_re_tentrolled02x+hidr
 p_re_tentrolled04x
 p_re_tentrolled04x+hidr
+p_rockthrow_small
 p_rockthrow01x
 p_rockthrow02x
 p_rope_frayed01x
@@ -54,6 +55,8 @@ s_dis_well_quilt_piece+hi
 s_dov_lab_panel01x
 s_dov_lab_panel01x+hidr
 s_dov_lab_panel02x
+s_dov_lab_prop
+s_dov_lab_prop+hi
 s_dov_lab_switch01x
 s_firework01x
 s_gatling_mag
@@ -73,6 +76,8 @@ s_hotchkisscannon_clip
 s_kieranhead01x
 s_kieranhead01x+hifr
 s_lak_trapdoor
+s_lak_trapdoorclosed
+s_lak_trapdoorclosed+hi
 s_lak_trapdoordst
 s_lak_trapdoordst+hifr
 s_lev_des_re

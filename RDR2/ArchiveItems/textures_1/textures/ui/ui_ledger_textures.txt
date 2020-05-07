@@ -1,0 +1,14 @@
+ledger_camp_boat
+ledger_camp_chickens
+ledger_camp_horse_station
+ledger_camp_leather_working_tools
+ledger_camp_line_01
+ledger_camp_line_02
+ledger_camp_line_03
+ledger_camp_line_04
+ledger_camp_line_circled_01
+ledger_camp_line_crossed_01
+ledger_camp_medicine
+ledger_camp_munitions
+ledger_camp_provisions
+ledger_camp_tent

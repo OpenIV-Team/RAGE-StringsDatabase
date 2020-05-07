@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@rho_fenceshop_int
 rho_fenceshop_int
 rho_fenceshop_int_curtains
 rho_fenceshop_int_curtains+hidr

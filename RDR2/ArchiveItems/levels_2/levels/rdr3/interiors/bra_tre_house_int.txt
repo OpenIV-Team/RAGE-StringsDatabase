@@ -10,8 +10,11 @@ bra_tre_house_int
 bra_tre_house_int_ref
 bra_tre_house_int_ref+hidr
 bra_tre_house_int_shadowproxy
+bra_tre_house_txd
+bra_tre_house_txd+hi
 bra_tre_int_shell
 bra_tre_int_shell+hidr
 bra_tre_roof002
 bra_tre_wall02
 bra_trehouse_lightbox_001
+hi@bra_tre_house_int

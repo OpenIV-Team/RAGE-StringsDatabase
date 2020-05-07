@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@old_stable_int
 old_stable_int
 old_stable_int_blend
 old_stable_int_blend+hidr

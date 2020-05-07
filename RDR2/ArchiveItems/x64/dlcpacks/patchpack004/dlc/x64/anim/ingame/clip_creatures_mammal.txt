@@ -1,0 +1,10 @@
+creatures_mammal@bear@grapple@streamed_core
+creatures_mammal@bear@grapple@streamed_core@face
+creatures_mammal@cow@normal@canter_fast@slope@down
+creatures_mammal@cow@normal@canter_fast@slope@up
+creatures_mammal@cow@normal@canter_slow@slope@down
+creatures_mammal@cow@normal@canter_slow@slope@up
+creatures_mammal@horse@normal@rearing
+creatures_mammal@horse@normal@rearing@slope@down
+creatures_mammal@horse@normal@rearing@slope@up
+creatures_mammal@sheep@swimming@surface

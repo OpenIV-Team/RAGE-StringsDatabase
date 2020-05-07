@@ -1,6 +1,8 @@
 _cache
 _manifest
+amb_camp_hen_story_harlow
 amb_camps_hen_00
+amb_camps_hen_00_strm
 amb_hen_amb_cmp_hen_4_rope
 amb_hen_ambcahe00_combo_01_lod
 amb_hen_ambcahe00_combo_slod
@@ -15,3 +17,7 @@ amb_hen_hid_tents07
 amb_hen_hid_tents07+hidr
 amb_hen_hid_tents08
 amb_hen_hid_tents08+hidr
+amb_hen_pg_savagehideout02x
+amb_hen_pg_savagehideout02x+hi
+hen_4_rope_ends
+min_hid_mantecafalls

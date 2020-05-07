@@ -1,7 +1,12 @@
 _cache
 _manifest
+car_01
+car_01_txd
+car_01_txd+hi
+car_01+hi
 car_cut_stump
 car_cut_stumpnight
+car_cutting_stump
 car_house_int
 car_int_bdrm01_details01
 car_int_bdrm01_details01+hidr
@@ -29,4 +34,5 @@ car_int_upperflr_details01+hidr
 car_lightholder_01
 car_lightholder_02
 car_lightholder_03
+hi@car_house_int
 p_plate01x_broken

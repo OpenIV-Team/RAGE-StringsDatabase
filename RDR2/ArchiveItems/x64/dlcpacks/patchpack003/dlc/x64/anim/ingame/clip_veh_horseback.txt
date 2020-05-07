@@ -1,0 +1,3 @@
+veh_horseback@aim@front@longarms@base@carbine_lefthand
+veh_horseback@horse@standard@seat_rider@left@enter@transition@ped@saddle@male@from_horse
+veh_horseback@horse@standard@seat_rider@right@enter@transition@ped@saddle@male@from_horse

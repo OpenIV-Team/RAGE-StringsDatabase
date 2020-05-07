@@ -1,4 +1,12 @@
 _cache
 _manifest
+hi@mfr_04_0
+hi@mfr_04_1
+hi@mfr_04_2
+hi@mfr_04_3
+hi@mfr_04_4
+mfr_04_0
+mfr_04_1
+mfr_04_2
 mfr_04_gate
 mfr_04_gate+hidr

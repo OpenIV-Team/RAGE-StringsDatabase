@@ -5,3 +5,5 @@ gua_out_d_01_08
 gua_out_d_01_25
 gua_out_d_01_36
 gua_out_d_01_40
+gua_out_d_01_long_0
+gua_out_d_01_strm

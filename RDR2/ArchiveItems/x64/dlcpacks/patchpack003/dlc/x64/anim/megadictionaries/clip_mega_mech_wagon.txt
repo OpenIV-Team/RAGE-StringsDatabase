@@ -1,1 +1,9 @@
 _manifest
+mega_mech_wagon@oilwagon@exterior@ml@enter@get_in
+mega_mech_wagon@oilwagon@exterior@ml@exit@get_out
+mega_mech_wagon@oilwagon@exterior@mr@enter@get_in
+mega_mech_wagon@oilwagon@exterior@mr@exit@get_out
+mega_mech_wagon@oilwagon@exterior@rl@enter@get_in
+mega_mech_wagon@oilwagon@exterior@rl@exit@get_out
+mega_mech_wagon@oilwagon@exterior@rr@enter@get_in
+mega_mech_wagon@oilwagon@exterior@rr@exit@get_out

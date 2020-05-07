@@ -5,3 +5,5 @@ i_08_p_vfx_vfx_helper_03
 i_08_p_vfx_vfx_helper_04
 i_08_p_vfx_vfx_helper_05
 i_08_placement_vfx
+i_08_placement_vfx_long_0
+i_08_placement_vfx_strm

@@ -1,11 +1,13 @@
 _cache
 _manifest
+hi@new_police_int
 new_police_ceiling_details
 new_police_ceiling_details+hidr
 new_police_int
 new_police_int_proxy
 new_police_int_proxy+hidr
 new_police_int_shadowproxy
+new_police_int_shell
 new_police_jailintcells
 new_police_jailintcells+hidr
 new_police_lob_decals

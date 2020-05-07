@@ -8,6 +8,8 @@ mp006_a1_mshine04_fakeint
 mp006_a1_mshine04_fakeint+hidr
 mp006_a1_mshine04_lod
 mp006_a1_mshine04_slod
+mp006_a1supp_moonshine04
+mp006_a1supp_moonshine04_plug
 mp006_area01_supp
 mp006_wafpolcyfm_bla
 mp006_wafpolcyfm_str

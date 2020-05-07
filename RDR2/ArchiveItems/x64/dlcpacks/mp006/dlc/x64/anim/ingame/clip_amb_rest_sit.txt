@@ -1,0 +1,9 @@
+amb_rest_sit@prop_human_seat_chair@play_knife@male_a@idle_a
+amb_rest_sit@prop_human_seat_chair@play_knife@male_a@idle_b
+amb_rest_sit@prop_human_seat_chair@play_knife@male_a@idle_c
+amb_rest_sit@prop_human_seat_chair@play_knife@male_a@idle_d
+amb_rest_sit@prop_human_seat_chair@play_knife@male_a@react_look@exit@dismissive
+amb_rest_sit@prop_human_seat_chair@play_knife@male_a@react_look@exit@relieved
+amb_rest_sit@prop_human_seat_chair@play_knife@male_a@stand_exit
+amb_rest_sit@prop_human_seat_chair@play_knife@male_a@trans
+amb_rest_sit@prop_human_seat_chair@play_knife@male_a@walk_exit

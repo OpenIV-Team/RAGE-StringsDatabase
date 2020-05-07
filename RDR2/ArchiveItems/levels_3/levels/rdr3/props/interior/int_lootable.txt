@@ -1,9 +1,18 @@
 _manifest
+baggage01x_loot
+baggage01x_loot+hi
+baggage01x_tre_loot
+baggage01x_tre_loot+hi
+caboose01x_loot
+caboose01x_loot+hi
 int_lootable
+int_lootable+hi
 p_abe_cabinet01
 p_abe_cabinet01+hifr
+p_adl_cabinet
 p_adl_cabinet_l
 p_adl_cabinet_r
+p_adl_cabinet+hi
 p_adl_cabinet01x
 p_adl_cabinet01x+hifr
 p_adl_chestlrg01x
@@ -115,8 +124,10 @@ p_carcasshangmed01x
 p_carcasshangmed01x+hifr
 p_carcasshangsml01x
 p_carcasshangsml02x
+p_cat_cabinet
 p_cat_cabinet_l
 p_cat_cabinet_r
+p_cat_cabinet+hi
 p_cat_cabinet01x
 p_chest_lrg
 p_chest_med
@@ -132,6 +143,8 @@ p_chestmedlivestock01x
 p_chestmedlog01x
 p_chestmedlog01x+hifr
 p_chestmedproduce01x
+p_chestmedproduce01x_new
+p_chestmedproduce01x_new+hi
 p_chestmedtrap01x
 p_chestmedtrap01x+hifr
 p_chestmedwicker01x
@@ -262,6 +275,8 @@ p_hangrackmix01x
 p_hangracksml01x
 p_hangracksml01x+hidr
 p_hathang01x
+p_lar_interact
+p_lar_interact+hi
 p_lar_sng_drawer_01x
 p_lar_sng_drawer_02x
 p_lar_sng_drawer_03x
@@ -277,8 +292,10 @@ p_rho_int_drwdressing03x
 p_rho_int_drwdressing03x+hidr
 p_ser_int_closdressing01x
 p_ser_int_closdressing01x+hidr
+p_six_cabin
 p_six_cabin_sng_drawer_01x
 p_six_cabin_sng_drawer_02x
+p_six_cabin+hi
 p_six_int_drwdressing01x
 p_six_int_drwdressing01x+hidr
 p_val_hotel_dbl_drawer_01x
@@ -301,3 +318,5 @@ p_wnt4_drwdressing01x
 p_wnt4_drwdressing01x+hidr
 t_dresser10_groupa
 t_dresser10_multi
+t_dresser10x
+t_dresser10x+hi

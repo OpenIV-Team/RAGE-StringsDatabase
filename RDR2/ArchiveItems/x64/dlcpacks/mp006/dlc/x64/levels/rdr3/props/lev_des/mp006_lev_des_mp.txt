@@ -78,8 +78,16 @@ mp006_p_mshine_int_still3_onion+hidr
 mp006_p_mshine_still_onion1
 mp006_p_mshine_still_onion1+hi
 mp006_p_mshine_still_onion1+hidr
+mp006_p_photo_backdrops
+mp006_p_photo_backdrops+hi
 mp006_p_shiphorn_pullrope01x
 mp006_p_shiphorn_pullrope01x+hifr
+mp006_p_still01x
+mp006_p_still01x+hi
+mp006_p_still03x
+mp006_p_still03x+hi
+mp006_p_still04
+mp006_p_still04+hi
 mp006_p_travel_ph_backdrop03x
 mp006_p_travel_ph_backdrop03x_s
 mp006_re_gap_rock_01
@@ -90,6 +98,8 @@ mp006_re_rio_rock_01
 mp006_re_rio_rock_01+hidr
 mp006_re_rock_01
 mp006_re_rock_01_shad
+mp006_re_slumped_hunter_rocks
+mp006_re_slumped_hunter_rocks+hi
 mp006_s_flag01x_catfish
 mp006_s_letter_breakout_lem01x
 mp006_s_mnshn_product01x_full

@@ -11,8 +11,10 @@ rdr_flw_lupins_aa
 rdr_flw_lupins_aa+hidr
 rdr_flw_milkweed_aa
 rdr_flw_milkweed_aa+hidr
+rdr_flw_monkey
 rdr_flw_monkey_aa
 rdr_flw_monkey_ba
+rdr_flw_monkey+hi
 rdr_flw_pansy_aa
 rdr_flw_pansy_aa+hidr
 rdr_flw_petunia_aa

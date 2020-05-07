@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@str_doctor_int
 str_doc_cabinet
 str_doc_cabinet+hidr
 str_doc_counter01

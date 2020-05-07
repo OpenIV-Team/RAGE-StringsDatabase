@@ -1,1 +1,5 @@
 _manifest
+mega_veh_train@passenger@enter
+mega_veh_train@passenger@exit
+mega_veh_train@passenger@transition
+mega_veh_train@passenger@traversal

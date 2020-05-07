@@ -1,5 +1,14 @@
 _cache
 _manifest
+agu_01
+agu_01__0
+agu_01__1
+agu_01__2
+agu_01__3
+agu_01__4
+agu_01__5
+agu_01__6
+agu_01__7
 agu_01_courtyard
 agu_01_courtyard_dec
 agu_01_courtyard_dec+hidr
@@ -32,6 +41,7 @@ agu_01_windmill
 agu_01_windmill+hidr
 agu_01_windmill001_glue_
 agu_01_windveg
+agu_01+hi
 agu_boiler_int_lod
 agu_boiler_ivy
 agu_boiler_ivy+hidr
@@ -103,3 +113,9 @@ agu_well
 agu_windmill_decals01
 agu_windmill_veg
 agu01pr_combo_slod
+hi@agu_01__0
+hi@agu_01__1
+hi@agu_01__2
+hi@agu_01__3
+hi@agu_01__4
+hi@agu_01__5

@@ -1,5 +1,6 @@
 _cache
 _manifest
+bla_p_cablemesh
 cablemesh103475_hvstd001
 cablemesh103488_hvstd001
 cablemesh103514_hvlit001
@@ -73,6 +74,9 @@ cablemesh173039_tstd001
 cablemesh173065_hvlit001
 cablemesh17447_hvlit001
 nopq_7_10_rds_props
+nopq_7_10_rds_props_0
+nopq_7_10_rds_props_strm
+nopq_7_10_rds_props_strm_0
 nopq710rdpr_com21_01_lod
 nopq710rdpr_com21_02_lod
 nopq710rdpr_com21_03_lod

@@ -1,4 +1,6 @@
 _manifest
+mis_winter4_decals
+mis_winter4_decals+hi
 p_clothprotest01x
 p_clothprotest01x+hidr
 p_haybale01x_shad
@@ -169,6 +171,8 @@ p_veh_rowboatswamp01x
 p_veh_rowboatswamp02x
 p_veh_ship_nbdguama2_01x
 p_veh_ship_nbdguama2_01x+hifr
+p_veh_smlboats
+p_veh_smlboats+hi
 p_veh_sugarcane01x
 p_veh_sugarcane01x+hifr
 p_veh_toolrack01x
@@ -188,4 +192,8 @@ p_veh_wheelhub01x
 p_veh_wheelhub01x+hidr
 pg_mission_native2
 pg_mission_native2+hifr
+trainrobbery4
+trainrobbery4_decals
+trainrobbery4_decals+hi
+trainrobbery4+hi
 vehicle_props02

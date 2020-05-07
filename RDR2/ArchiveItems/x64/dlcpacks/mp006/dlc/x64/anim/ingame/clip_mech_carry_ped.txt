@@ -1,0 +1,4 @@
+mech_carry_ped@dead@mount@remove@lt
+mech_carry_ped@dead@mount@remove@rt
+mech_carry_ped@dead@mount@stow@lt
+mech_carry_ped@dead@mount@stow@rt

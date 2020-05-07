@@ -13,6 +13,7 @@ dew_metal_ladder_04+hidr
 dew_mill
 dew_mill_01_vfx_001
 dew_mill_01_vfx_002
+dew_mill+hi
 dew_millshed
 dew_millshed_dec
 dew_millshed+hidr

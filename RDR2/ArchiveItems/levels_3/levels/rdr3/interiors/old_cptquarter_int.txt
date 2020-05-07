@@ -8,6 +8,8 @@ old_cpt_int_det02+hidr
 old_cpt_int_floor
 old_cpt_int_shell
 old_cpt_int_shell+hidr
+old_cptqua_txd
+old_cptqua_txd_shell
 old_cptquarter_int
 old_cptqutarter_int_ref
 old_cptqutarter_int_ref+hidr

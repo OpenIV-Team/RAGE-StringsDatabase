@@ -27,6 +27,9 @@ new_slm_cem_rotunda+hidr
 new_slm_cem_slumplatforms_008
 new_slm_cem_slumplatforms_01
 new_slm_cem_slumplatforms_01+hidr
+new_slm_cem_txd1
+new_slm_cem_txd2
+new_slm_cem_txd3
 new_slm_cem_wall1
 new_slm_cem_wall1+hidr
 new_slm_cem_wall2b

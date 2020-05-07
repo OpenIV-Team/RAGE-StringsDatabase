@@ -1,6 +1,9 @@
 _cache
 _manifest
 t_04_
+t_04__bkt_0
+t_04__bkt_1
+t_04__bkt_2
 t_04__hd_0_0_0
 t_04__hd_0_0_1
 t_04__hd_0_0_-1
@@ -69,6 +72,7 @@ t_04__hd_0_-4_3
 t_04__hd_0_-4_-3
 t_04__hd_0_-4_3+hidr
 t_04__hd_0_-4_-4
+t_04_+hi
 t_04_09_decal
 t_04_decals
 t_04_decals_big

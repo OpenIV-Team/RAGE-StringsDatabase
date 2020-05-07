@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@new_pie_tunnel_int
 new_pie_tunnel_dest
 new_pie_tunnel_dest+hidr
 new_pie_tunnel_int

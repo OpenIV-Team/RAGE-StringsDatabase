@@ -6,6 +6,7 @@ rig_01_shippingstand
 rig_01_shippingstand+hidr
 rig_railing
 rig_railing_lod
+rig_station
 rig_station_building
 rig_station_building_em
 rig_station_building_em_slod
@@ -20,3 +21,4 @@ rig_station_decals+hidr
 rig_station_int_lod
 rig_station_props
 rig_station_props+hidr
+rig_station+hi

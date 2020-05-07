@@ -1,2 +1,7 @@
 _manifest
+tum_01_05_gtxd
+tum_01_05_gtxd+hi
+tum_int_gtxd
+tum_int_gtxd+hi
 tumbleweed
+tumbleweed+hi

@@ -27,6 +27,8 @@ p_tree_hangingtree_moss+hidr
 p_tree_hangingtreebranch
 p_tree_hangingtreeoak01
 p_tree_hangingtreeoak01+hidr
+p_tree_hickory
+p_tree_hickory+hi
 p_tree_jacada_01
 p_tree_jacada_01+hidr
 p_tree_liveoak_01
@@ -51,3 +53,11 @@ rdr2_tree_brokentree
 rdr2_tree_brokentree+hidr
 rdr2_tree_sycamore
 rdr2_tree_sycamore+hidr
+veg_braithoak
+veg_braithoak+hi
+veg_engoak01
+veg_engoak01+hi
+veg_hangingtreeoak01
+veg_hangingtreeoak01+hi
+veg_liveoak01
+veg_liveoak01+hi

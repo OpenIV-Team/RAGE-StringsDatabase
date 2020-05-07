@@ -18,3 +18,5 @@ cat_shack01_int_shelves
 cat_shack01_int_shelves+hidr
 cat_shack01_int_stains
 cat_shack01_int_stains+hidr
+cat_shack01_int+hi
+hi@cat_shack01_int

@@ -3,14 +3,18 @@ _manifest
 bea_01_dummy_hv
 bea_01_mapboard001
 bea_01_mapboard001+hidr
+bea_01_props
 bea_01_props_01
 bea_01_props_02
 bea_01_props_03
 bea_01_props_04
 bea_01_props_05
 bea_01_props_06
+bea_01_props_06_txd
+bea_01_props_06_txd+hi
 bea_01_props_07
 bea_01_props_08
+bea_01_props+hi
 bea_bloodpath01x002
 bea_bloodpath01x002+hidr
 bea_cannibal_antlers04x
@@ -19,7 +23,6 @@ bea_cannibal_cage001
 bea_cannibal_cage002
 bea_cannibal_cage003
 bea_cannibal_cage003+hidr
-bea_cannibal_cage005
 bea_cannibal_cage087
 bea_cannibal_cage088
 bea_cannibal_cage090
@@ -29,6 +32,8 @@ bea_chains02x
 bea_chains02x001
 bea_chains02x002
 bea_chains02x004
+bea_dis_tall_savage02
+bea_dis_tall_savage02+hi
 bea_dismembered01x002
 bea_dismembered01x002+hidr
 bea_dismembered01x004
@@ -57,6 +62,10 @@ bea_prison003
 bea_prison004
 bea_reg_tal_skinnermass01
 bea_reg_tal_skinnermass01+hidr
+bea_skinner_camp01
+bea_skinner_camp01+hi
+bea_skinner_camp03
+bea_skinner_camp03+hi
 bea_tent02x
 bea_tent02x+hidr
 bea_tree_fallen_006
@@ -82,3 +91,4 @@ bea01pr_combo28_slod
 bea01pr_combo29_slod
 bea01pr_combo30_slod
 bea01pr_combo31_slod2
+bea_cannibal_cage005

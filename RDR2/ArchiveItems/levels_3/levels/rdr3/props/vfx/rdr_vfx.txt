@@ -4,8 +4,13 @@ _test_campfire_interact_log
 _test_campfire_interact_log_a
 _test_campfire_interact_log_b
 _test_campfire_interact_log_c
+damage_model
 damage_model_axis
 damage_model_axis+hidr
+damage_model_bark
+damage_model_bark+hi
+damage_model_gore
+damage_model_gore+hi
 damage_model_metal_entry_01
 damage_model_metal_entry_02
 damage_model_metal_entry_03
@@ -61,5 +66,7 @@ vfx_scree_rock_01
 vfx_scree_rock_01+hifr
 vfx_swamp_bubbles
 vfx_tadpoles
+vfx_test_campfire
+vfx_test_campfire+hi
 vfx_water_striders
 wood_shotgun_unused

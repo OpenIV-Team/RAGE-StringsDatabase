@@ -13,6 +13,12 @@ bla_jail_decal01+hidr
 bla_jail_int
 bla_jail_int_frames
 bla_jail_int_frames+hidr
+bla_jail_int_ref
 bla_jail_int_ref_a
 bla_jail_int_ref_b
+bla_jail_int_ref+hi
+bla_jail_int_shell_txd
+bla_jail_int_shell_txd+hi
+bla_jail_int_txd
 bla_jail_shadowproxy
+hi@bla_jail_int

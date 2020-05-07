@@ -23,3 +23,5 @@ eme_sal_shell
 eme_sal_shell+hidr
 eme_saloon_int
 eme_saloon_int_shad_proxy
+eme_saloon_int+hi
+hi@eme_saloon_int

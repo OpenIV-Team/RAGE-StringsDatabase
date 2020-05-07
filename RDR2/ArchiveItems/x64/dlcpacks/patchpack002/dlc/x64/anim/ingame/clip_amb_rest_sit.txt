@@ -1,0 +1,5 @@
+amb_rest_sit@prop_human_seat_chair@smoking@male_d@trans
+amb_rest_sit@prop_human_seat_chair_table@eating@fork_knife@cutting@female_a@trans
+amb_rest_sit@prop_human_seat_chair_table@eating@fork_knife@cutting@male_a@trans
+amb_rest_sit@prop_human_seat_chair_table@eating@fork_knife@sidedish@female_a@trans
+amb_rest_sit@prop_human_seat_chair_table@eating@fork_knife@sidedish@male_a@trans

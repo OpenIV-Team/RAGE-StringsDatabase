@@ -1,6 +1,9 @@
 _cache
 _manifest
 p_15_
+p_15__bkt_0
+p_15__bkt_2
+p_15__bkt_3
 p_15__hd_0_0_0
 p_15__hd_0_0_1
 p_15__hd_0_0_2
@@ -49,5 +52,6 @@ p_15__hd_0_-4_-2
 p_15__hd_0_-4_3
 p_15__hd_0_-4_-3
 p_15__hd_0_-4_-4
+p_15_+hi
 p_15_05_slum2_decal_01
 p_15_05_slum2_decal_01+hidr

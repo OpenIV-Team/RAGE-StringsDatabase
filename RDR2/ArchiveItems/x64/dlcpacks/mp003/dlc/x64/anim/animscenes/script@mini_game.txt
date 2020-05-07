@@ -1,0 +1,10 @@
+script@mini_game@fishing@shore_unhook_lrg_channel_catfish
+script@mini_game@fishing@shore_unhook_lrg_largemouth_bass
+script@mini_game@fishing@shore_unhook_lrg_longnose_gar
+script@mini_game@fishing@shore_unhook_lrg_muskie
+script@mini_game@fishing@shore_unhook_lrg_rainbow_trout
+script@mini_game@fishing@shore_unhook_lrg_smallmouth_bass
+script@mini_game@fishing@shore_unhook_lrg_sockeye_salmon
+script@mini_game@fishing@shore_unhook_lrg_sturgeon
+script@mini_game@fishing@shore_unhook_med
+script@mini_game@fishing@shore_unhook_sml

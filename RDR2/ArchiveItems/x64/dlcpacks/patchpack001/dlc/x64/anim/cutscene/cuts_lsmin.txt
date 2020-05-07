@@ -1,0 +1,6 @@
+lsmin_ext
+lsmin_ext-0
+lsmin_ext-1
+lsmin_ext-2
+lsmin_ext-3
+lsmin_ext-4

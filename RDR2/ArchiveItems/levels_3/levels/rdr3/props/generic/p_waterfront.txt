@@ -13,6 +13,8 @@ p_boatsmall02x_sunken
 p_boatsmall02x_sunken+hidr
 p_boattie01x
 p_boattie02x
+p_buoy01
+p_buoy01+hi
 p_buoy01x
 p_canoe01x
 p_canoe01x+hidr
@@ -115,6 +117,10 @@ p_shipriver1x+hidr
 p_shipriver2x
 p_shipriver2x_derails
 p_shipriver2x+hidr
+p_ships_txd
+p_ships_txd_not_used
+p_ships_txd_not_used+hi
+p_ships_txd+hi
 p_shipsloop1x
 p_shipsloop2x
 p_shipsloop3x

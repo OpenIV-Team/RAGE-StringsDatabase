@@ -7,4 +7,8 @@ dis_grm_birdpoo04
 dis_grm_birdpoo05
 dis_grm_corpse
 dis_grm_corpse+hidr
+dis_grm_gua
+dis_grm_gua+hi
 dis_gua_00
+dis_gua_00_strm
+dis_gua_00_strm_0

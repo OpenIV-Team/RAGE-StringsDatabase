@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@new_carriagehouse_int
 new_carriage_int_decals01
 new_carriage_int_decals01+hidr
 new_carriage_int_details01

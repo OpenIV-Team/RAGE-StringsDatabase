@@ -1,2 +1,9 @@
 _cache
 _manifest
+mp001_min_hid_mantecafalls
+mp001_reg_hen_mp_chollasp_hamlins
+mp001_reg_hen_mp_chollasp_hangrk
+mp001_reg_hen_mp_chollasp_ratsnke
+mp001_reg_hen_mp_gapt_gapshore
+mp001_reg_hen_mp_gfh_bbandit
+mp001_reg_hen_mp_gfh_henband

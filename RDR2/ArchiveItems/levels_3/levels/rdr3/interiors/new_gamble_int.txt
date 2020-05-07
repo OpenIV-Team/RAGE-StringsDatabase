@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@new_gamble_int
 new_gamble_int
 new_gamble_int_counter
 new_gamble_int_counter+hidr

@@ -1,6 +1,7 @@
 _cache
 _manifest
 ceilinghook01x_001
+hi@ple_house01_int
 ple_house_int_cheat01
 ple_house01_int
 ple_house01_int_ceiling

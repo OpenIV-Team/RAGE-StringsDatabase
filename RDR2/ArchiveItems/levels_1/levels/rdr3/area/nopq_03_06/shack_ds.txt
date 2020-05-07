@@ -3,6 +3,8 @@ sds_bonesskeletona_01
 sds_laddersteps
 sds_p_rockrubble
 sds_shack_ds_veg
+sds_shackds_
+sds_shackds_+hi
 sds_shackds_a
 sds_shackds_a_dcl01
 sds_shackds_a_dcl02

@@ -1,0 +1,4 @@
+lcmp_int
+lcmp_int-0
+lcmp_int-1
+lcmp_int-2

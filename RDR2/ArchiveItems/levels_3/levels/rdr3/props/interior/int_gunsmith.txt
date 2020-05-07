@@ -1,4 +1,12 @@
 _manifest
+ann_gunsmith_props01
+ann_gunsmith_props01+hi
+bowarrowdressing
+bowarrowdressing+hi
+gunsmith_propsets
+gunsmith_propsets_02
+gunsmith_propsets_02+hi
+gunsmith_propsets+hi
 int_gunsmith
 p_ammoboxset01x
 p_arrowdisplay01x
@@ -136,6 +144,8 @@ p_packageset08x+hifr
 p_pistolgroup_01x
 p_powderhornset01x
 p_powderhornset01x+hifr
+p_rho_gunsmith_props
+p_rho_gunsmith_props+hi
 p_riflegroup_01x
 p_spittoonset03x
 p_spittoonset03x+hifr

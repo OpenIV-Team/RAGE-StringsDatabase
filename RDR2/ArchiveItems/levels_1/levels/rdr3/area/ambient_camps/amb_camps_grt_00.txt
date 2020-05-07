@@ -1,8 +1,11 @@
 _cache
 _manifest
 amb_camps_grt_00
+amb_camps_grt_00_strm
+amb_grt_
 amb_grt_01_arthur_cover002
 amb_grt_01_arthur_cover002+hidr
+amb_grt_amb_camps_grt_00_
 amb_grt_cadebris01
 amb_grt_camap02
 amb_grt_camp_cloth02
@@ -30,3 +33,5 @@ amb_grt_s_tent02_d001
 amb_grt_s_tent02_d001+hidr
 amb_grt_tablecloth01
 amb_grt_tablecloth01+hidr
+mp_intro_gang_blackwater3
+mp_jessicacamp_blackwater

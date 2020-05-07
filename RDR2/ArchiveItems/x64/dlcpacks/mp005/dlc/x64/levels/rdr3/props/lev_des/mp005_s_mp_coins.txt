@@ -1,4 +1,5 @@
 _manifest
+mp005_coins
 mp005_s_cn_1700_nyt
 mp005_s_cn_1787_1c_apt
 mp005_s_cn_1789_pctm

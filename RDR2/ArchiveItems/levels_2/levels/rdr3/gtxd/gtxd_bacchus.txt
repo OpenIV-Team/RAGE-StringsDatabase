@@ -1,1 +1,7 @@
 _manifest
+bac_bridge_gtxd
+bac_bridge_gtxd+hi
+bac_tunnel_int_gtxd
+bac_tunnel_int_gtxd+hi
+bacchus
+bacchus+hi

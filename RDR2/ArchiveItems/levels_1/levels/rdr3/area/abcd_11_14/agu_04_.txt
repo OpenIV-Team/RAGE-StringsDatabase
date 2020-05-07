@@ -1,6 +1,7 @@
 _cache
 _manifest
 agu_04_
+agu_04_+hi
 agu_04_tower
 agu_04_tower_d
 agu_04_tower_des

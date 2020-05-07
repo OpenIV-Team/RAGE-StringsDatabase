@@ -1,2 +1,7 @@
 _manifest
+lak_dockhouse_int_gtxd
+lak_dockhouse_int_gtxd+hi
+lak_hideout_int_gtxd
+lak_hideout_int_gtxd+hi
 lakay
+lakay+hi

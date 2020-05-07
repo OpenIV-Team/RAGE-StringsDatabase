@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@val_saloon_int
 room_upper_rearb
 val_sal_barber01
 val_sal_barber01+hidr
@@ -38,6 +39,8 @@ val_saloon_int_ref_a_amv
 val_saloon_int_ref_b
 val_saloon_int_ref_c
 val_saloon_int_shadowproxy
+val_saloon_int_shell
+val_saloon_int_txd
 val_saloon_paint1f_01
 val_saloon_paint1f_02
 val_saloon_paint1f_02+hidr

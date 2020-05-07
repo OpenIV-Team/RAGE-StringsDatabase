@@ -1,6 +1,9 @@
 _cache
 _manifest
 n_12_
+n_12__bkt_1
+n_12__bkt_2
+n_12__bkt_3
 n_12__hd_0_0_0
 n_12__hd_0_0_1
 n_12__hd_0_0_-1
@@ -67,6 +70,7 @@ n_12__hd_0_-4_2+hidr
 n_12__hd_0_-4_3
 n_12__hd_0_-4_-3
 n_12__hd_0_-4_-4
+n_12_+hi
 n_12_01_rail_decal_00
 n_12_01_rail_decal_01
 n_12_01_rail_decal_02
@@ -77,6 +81,7 @@ n_12_09_rail_decal_01
 n_12_borderdecal
 n_12_dec_05
 n_12_dec_05+hidr
+n_12_decal
 n_12_decal_07
 n_12_decal_08
 n_12_decal_08+hidr

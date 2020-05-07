@@ -38,4 +38,6 @@ che_shack_int_walls001
 che_shack1_int
 che_shack1_int_ref_proxy
 che_shack1_int_ref_proxy+hidr
+che_shack1_int+hi
 che_shack1_lightbox
+hi@che_shack1_int

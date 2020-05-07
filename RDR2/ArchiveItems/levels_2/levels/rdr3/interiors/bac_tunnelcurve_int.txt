@@ -12,4 +12,6 @@ bac_tunnelcurve_int_rails
 bac_tunnelcurve_int_shell
 bac_tunnelcurve_int_wall
 bac_tunnelcurve_int_wall+hidr
+bac_tunnelcurve_int+hi
 bac_tunnelcurve_shadow_proxy
+hi@bac_tunnelcurve_int

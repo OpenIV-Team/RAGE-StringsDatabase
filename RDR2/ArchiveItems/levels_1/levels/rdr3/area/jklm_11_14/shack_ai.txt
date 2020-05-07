@@ -11,5 +11,6 @@ sai_shackai_d
 sai_shackai_d+hidr
 sai_shackai_front_dc
 sai_shackai_front_dc+hidr
+sai_shackai_txd
 sai_shackai_veg
 sai_shackai_veg+hidr

@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@tum_roomnbath_int
 tum_rnb_int_bathdec
 tum_rnb_int_bathdec+hidr
 tum_rnb_int_bathdec001

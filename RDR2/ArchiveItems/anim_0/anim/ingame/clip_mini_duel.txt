@@ -1,0 +1,12 @@
+mini_duel@base
+mini_duel@challenger@base
+mini_duel@challenger@drunk
+mini_duel@challenger@mission@ind3@ig9
+mini_duel@challenger@rc@rcal@rc3_ig1
+mini_duel@player@action
+mini_duel@player@base
+mini_duel@player@mission@ind3@ig9
+mini_duel@player@mission@mud4
+mini_duel@player@mission@mud4@face
+mini_duel@player@normal
+mini_duel@reposition@base

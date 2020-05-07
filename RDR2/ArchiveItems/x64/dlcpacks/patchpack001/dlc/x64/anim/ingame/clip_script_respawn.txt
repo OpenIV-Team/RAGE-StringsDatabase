@@ -1,0 +1,1 @@
+script_respawn@one_shot@hybrid@generic@unarmed@close_journal@timelapse

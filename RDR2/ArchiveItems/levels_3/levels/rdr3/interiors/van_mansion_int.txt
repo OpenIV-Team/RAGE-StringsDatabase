@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@van_mansion_int
 van_man_int_beams
 van_man_int_decals_01
 van_man_int_decals_01+hidr

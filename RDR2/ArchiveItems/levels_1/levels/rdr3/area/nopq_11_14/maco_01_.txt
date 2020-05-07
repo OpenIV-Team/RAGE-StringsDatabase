@@ -10,9 +10,15 @@ mac_p_debrisboard13x+hidr
 mac_s_suppliesraft01x
 mac_s_suppliesraft01x+hidr
 mac0_shack_02_d
+maco_01
+maco_01_d
+maco_01_d+hi
+maco_01_props_
+maco_01_props_+hi
 maco_01_vfx__
 maco_01_vfx__002
 maco_01_vfx__003
+maco_01+hi
 maco_audioemitproxy
 maco_dock
 maco_dock_d

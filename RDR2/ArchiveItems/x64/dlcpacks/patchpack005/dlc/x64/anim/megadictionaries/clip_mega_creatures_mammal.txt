@@ -1,1 +1,2 @@
 _manifest
+mega_creatures_mammal@horse@cycles_stopping

@@ -1,3 +1,5 @@
 _cache
 _manifest
 map_mods
+map_mods_strm
+sdn1_pier_fog

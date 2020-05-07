@@ -1,1 +1,7 @@
 _manifest
+mega_mech_doors@crouch
+mega_mech_doors@door_knob@double
+mega_mech_doors@door_knob@generic
+mega_mech_doors@double
+mega_mech_doors@generic
+mega_mech_doors@stealth

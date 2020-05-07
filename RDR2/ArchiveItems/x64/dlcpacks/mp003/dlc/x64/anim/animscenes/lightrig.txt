@@ -1,0 +1,5 @@
+lightrig@online@online_lobby_desert
+lightrig@online@online_lobby_forest
+lightrig@online@online_lobby_heartlands
+lightrig@online@online_lobby_snow
+lightrig@online@online_lobby_swamp

@@ -1,12 +1,16 @@
 _cache
 _manifest
+rob_bridge
 rob_bridge_base
 rob_bridge_base_dec
 rob_bridge_base_dec+hidr
 rob_bridge_base_det
 rob_bridge_base_det+hidr
 rob_bridge_base+hidr
+rob_bridge+hi
 rob_cubedelete002
+rob_hea_tunnel
+rob_hea_tunnel+hi
 rob_k_14_bridge
 rob_k_14_bridge_detail
 rob_k_14_bridge_detail+hidr
@@ -15,6 +19,7 @@ rob_m_14_bridge
 rob_m_14_bridge_detail
 rob_m_14_bridge_detail+hidr
 rob_m_14_bridge+hidr
+rob_retaining_wall
 rob_retaining_wall_01
 rob_retaining_wall_01_dec
 rob_retaining_wall_01_dec+hidr
@@ -22,5 +27,6 @@ rob_retaining_wall_02
 rob_retaining_wall_02_dec
 rob_retaining_wall_03
 rob_retaining_wall_03_dec
+rob_retaining_wall+hi
 rob_tunnel_entrance_01
 rob_tunnel_entrance_02

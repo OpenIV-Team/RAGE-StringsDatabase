@@ -1,0 +1,5 @@
+script@respawn@sky@skytl_0000_01clear
+script@respawn@sky@skytl_0600_01clear
+script@respawn@sky@skytl_1200_01clear
+script@respawn@sky@skytl_1500_03clouds
+script@respawn@sky@skytl_1800_01clear

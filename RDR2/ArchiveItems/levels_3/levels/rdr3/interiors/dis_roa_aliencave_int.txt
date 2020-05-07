@@ -8,3 +8,4 @@ dis_roa_aliencave_int_shell+hidr
 dis_roa_aliencave_leave_dc
 dis_roa_aliencave_leave_dc+hidr
 dis_roa_lightbox
+hi@dis_roa_aliencave_int

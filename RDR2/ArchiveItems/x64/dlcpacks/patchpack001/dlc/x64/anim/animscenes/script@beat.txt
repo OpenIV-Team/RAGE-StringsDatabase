@@ -1,0 +1,7 @@
+script@beat@town@fundraiser@stdenis
+script@beat@wilderness@coachrobbery@odriscoll_pt02
+script@beat@wilderness@hostagerescue@malehostage
+script@beat@wilderness@wagonthreat@rewth_ig1_searching_couple_couple
+script@beat@wilderness@wagonthreat@rewth_ig1_searching_couple_robber01
+script@beat@wilderness@wagonthreat@rewth_ig1_searching_man_man
+script@beat@wilderness@wagonthreat@rewth_ig1_searching_man_robber01

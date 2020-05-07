@@ -28,8 +28,12 @@ p_trunk01x
 p_trunk01x+hifr
 p_trunk02x
 p_trunk02x_b
+p_trunk03
+p_trunk03+hi
 p_trunk03x
 p_trunk03x_b
+p_trunk04
+p_trunk04+hi
 p_trunk04x
 p_trunk05ax
 p_trunk05ax+hidr

@@ -1,4 +1,5 @@
 _manifest
+six_01
 six_01_cabin01
 six_01_cabin01+hidr
 six_01_chimney
@@ -15,6 +16,7 @@ six_01_logwalls
 six_01_logwalls_decals
 six_01_logwalls_decals+hidr
 six_01_logwalls+hidr
+six_01+hi
 six_audioemitterproxy
 six_cabin_int_lod
 six_vfx_01_001

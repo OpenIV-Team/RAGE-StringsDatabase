@@ -1,4 +1,7 @@
 _manifest
+apothecary_bottles
+barberbottles
+barberbottles+hi
 p_apothecary01x
 p_apothecary02x
 p_apothecary02x+hifr
@@ -15,6 +18,8 @@ p_basket13x
 p_basketdishes02x
 p_binocular_case_closed
 p_binocular_case_open
+p_binocularcase
+p_binocularcase+hi
 p_biscuits02x
 p_boot_leather_001
 p_boot_leather_001+hidr
@@ -158,8 +163,11 @@ p_package13x
 p_package13x+hi
 p_package13x+hifr
 p_package13xvar02
+p_packagecmb
+p_packagecmb+hi
 p_packagerig01x
 p_packagerig01x+hidr
+p_packagetxd
 p_paperrollcutter01x
 p_penbox01x
 p_powderwash01x
@@ -220,6 +228,8 @@ p_tin_biscuit_empty01x
 p_tin_coffee02x
 p_tin_kidney01x
 p_tin_kidney01x+hidr
+p_tin_pomade01
+p_tin_pomade01+hi
 p_tin_pomade01x
 p_tin_pomadeempty01x
 p_tin_powder01x

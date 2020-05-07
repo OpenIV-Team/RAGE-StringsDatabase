@@ -1,1 +1,12 @@
 _manifest
+mega_ai_react@react_look_layers@base_emotions@seated@male_a
+mega_ai_react@react_look_layers@base_emotions@standing
+mega_ai_react@react_look_layers@bodyblendtags
+mega_ai_react@react_look_layers@re_reacts@generic@seated@bhands_pinned
+mega_ai_react@react_look_layers@re_reacts@generic@seated@lhand_pinned
+mega_ai_react@react_look_layers@re_reacts@generic@seated@male_a
+mega_ai_react@react_look_layers@re_reacts@generic@seated@rhand_pinned
+mega_ai_react@react_look_layers@re-reacts@generic
+mega_ai_react@react_look_layers@re-reacts@generic@withprop_2hands
+mega_ai_react@react_look_layers@re-reacts@generic@withprop_rhand
+mega_ai_react@react_look_layers@re-reacts@generic@wprop_2hand

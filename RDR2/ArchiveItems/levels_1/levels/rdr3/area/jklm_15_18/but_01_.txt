@@ -1,9 +1,12 @@
 _manifest
 but_01_
+but_01_+hi
 but_01_blood_decal
 but_01_cloth
 but_01_cloth+hifr
+but_01_em
 but_01_em_slod
+but_01_em+hi
 but_01_hou_a
 but_01_hou_a_dec
 but_01_hou_a+hidr
@@ -50,9 +53,13 @@ but_01_props_debris_11
 but_01_props_debris_12
 but_01_props_debris_13
 but_01_props_debris_14
+but_01_props_debris_txd
+but_01_props_debris_txd+hi
 but_01_props_dedfsh_01
 but_01_props_dedfsh_02
 but_01_props_dedfsh_03
+but_01_props_dedfsh_txd
+but_01_props_dedfsh_txd+hi
 but_01_rags01_ren001
 but_01_shed_collapse
 but_01_shed_collapse+hidr

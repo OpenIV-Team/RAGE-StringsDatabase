@@ -1,6 +1,8 @@
 _cache
 _manifest
 s_07_
+s_07__bkt_2
+s_07__bkt_3
 s_07__hd_0_0_0
 s_07__hd_0_0_1
 s_07__hd_0_0_-1
@@ -66,6 +68,7 @@ s_07__hd_0_-4_3
 s_07__hd_0_-4_-3
 s_07__hd_0_-4_3+hidr
 s_07__hd_0_-4_-4
+s_07_+hi
 s_07_03_decal
 s_07_03_decal+hidr
 s_07_06_decal

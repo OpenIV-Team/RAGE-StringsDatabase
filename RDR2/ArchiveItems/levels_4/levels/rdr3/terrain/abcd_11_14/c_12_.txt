@@ -1,6 +1,7 @@
 _cache
 _manifest
 c_12_
+c_12__bkt_3
 c_12__cave_ent_decal
 c_12__hd_0_0_0
 c_12__hd_0_0_1

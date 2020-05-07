@@ -1,6 +1,10 @@
 _cache
 _manifest
 dis_tal_00
+dis_tal_00_strm
+dis_tal_00_strm_0
+dis_tal_01_circus_wagon_hd
+dis_tal_01_circus_wagon_hd+hi
 dis_tal_blood_decal
 dis_tal_blood_decal+hidr
 dis_tal_circuscrate01
@@ -45,7 +49,9 @@ dis_tal_pit_discoverable
 dis_tal_pit_discoverable+hidr
 dis_tal_pit_discoverablecover
 dis_tal_pit_discoverablecover+hidr
+dis_tal_pit_discoveralbe
 dis_tal_pit_discoveralbe_lod
+dis_tal_pit_discoveralbe+hi
 dis_tal_re_cp_lumber
 dis_tal_ropes
 dis_tal_sw01_rope01
@@ -53,3 +59,8 @@ dis_tal_sw01_rope02
 dis_tal_sw01_rope03
 dis_tal_tree_fallen_005
 dis_tal_tree_fallen_006
+dis_tall_savage02
+dis_tall_savage02+hi
+dis_tall_savagewarning01
+re_sp_savagewarning_01
+re_sp_savagewarning_02

@@ -14,6 +14,8 @@ grh_house_int_ref
 grh_house_int_ref+hidr
 grh_house_int_shadowproxy
 grh_house_int_shell
+grh_house_int+hi
 grh_house_int03
 grh_house_int03+hidr
 grh_house_int06
+hi@grh_house_int

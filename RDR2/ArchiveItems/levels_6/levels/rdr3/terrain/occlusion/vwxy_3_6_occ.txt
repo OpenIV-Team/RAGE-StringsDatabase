@@ -1,4 +1,6 @@
 _cache
 _manifest
 vwxy_3_6_occ
+vwxy_3_6_occ_strm
+vwxy_3_6_occ_strm_0
 vwxy_3_6_occ_tempobject

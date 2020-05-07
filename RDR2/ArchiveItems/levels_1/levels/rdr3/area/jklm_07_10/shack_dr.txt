@@ -3,4 +3,6 @@ sdr_ext
 sdr_ext_d
 sdr_ext_d+hidr
 sdr_ext+hidr
+sdr_shack_dr
 sdr_shack_dr_occ_ph
+sdr_shack_dr+hi

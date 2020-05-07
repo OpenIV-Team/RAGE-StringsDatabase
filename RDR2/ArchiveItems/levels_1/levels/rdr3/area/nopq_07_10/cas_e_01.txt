@@ -12,6 +12,7 @@ cas_e_01_stage04_frame
 cas_e_01_stage04_frame+hidr
 cas_e_01_stage04_vfxrain
 cas_e_01_stage05_frame
+cas_e_01+hi
 cas_e_stage1_extrawood
 cas_e_stage2_flr00
 cas_e_stage2_flr01

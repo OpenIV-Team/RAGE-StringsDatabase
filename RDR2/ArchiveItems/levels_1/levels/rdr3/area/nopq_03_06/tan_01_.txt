@@ -1,5 +1,8 @@
 _manifest
 tan_01_
+tan_01_+hi
+tan_01_a
+tan_01_a+hi
 tan_01_frames_from_int
 tan_01_int_lod
 tan_01_table

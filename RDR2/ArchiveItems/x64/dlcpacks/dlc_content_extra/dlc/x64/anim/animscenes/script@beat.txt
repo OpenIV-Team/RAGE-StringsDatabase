@@ -1,0 +1,10 @@
+script@beat@town@fundraiser@stdenis
+script@beat@wilderness@herbalistcamp@directional_exchange_new
+script@beat@wilderness@herbalistcamp@forward_exchange_new
+script@beat@wilderness@herbalistcamp@herbalistgcurrantreturn
+script@beat@wilderness@herbalistcamp@herbalisthbsagereturn
+script@beat@wilderness@herbalistcamp@herbalistinitialgcurrant
+script@beat@wilderness@herbalistcamp@herbalistvsnowdropreturn
+script@beat@wilderness@herbalistcamp@herbalistyarrowreturn
+script@beat@wilderness@herbalistcamp@leadin@rc1@leadin_ilo
+script@beat@wilderness@herbalistcamp@playerscene

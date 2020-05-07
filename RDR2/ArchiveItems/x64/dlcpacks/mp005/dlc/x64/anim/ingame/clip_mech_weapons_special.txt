@@ -1,0 +1,16 @@
+mech_weapons_special@binoculars@crouch@base@sweep
+mech_weapons_special@binoculars@crouch@base@sweep@intro@sweep
+mech_weapons_special@binoculars@crouch@base@sweep@outro@sweep
+mech_weapons_special@binoculars@trans@base_to_carry
+mech_weapons_special@binoculars@trans@carry_to_base
+mech_weapons_special@loco@arthur@crouch@lantern@walk
+mech_weapons_special@loco@mp@female@crouch@binoculars@idle
+mech_weapons_special@loco@mp@female@normal@binoculars@idle
+mech_weapons_special@loco@mp@female@normal@binoculars@walk
+mech_weapons_special@loco@mp@male@crouch@bolas@idle
+mech_weapons_special@loco@mp@male@crouch@bolas@run
+mech_weapons_special@loco@mp@male@crouch@bolas@walk
+mech_weapons_special@loco@mp@male@normal@bolas@idle
+mech_weapons_special@loco@mp@male@normal@bolas@run
+mech_weapons_special@loco@mp@male@normal@bolas@sprint
+mech_weapons_special@loco@mp@male@normal@bolas@walk

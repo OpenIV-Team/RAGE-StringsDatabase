@@ -22,3 +22,6 @@ mp001_mp_bgv_rubble_01
 mp001_mp_bgv_rubble_01+hidr
 mp001_mp_bgv_s_tent02_d
 mp001_mp_bgv_s_tent02_d+hidr
+mp001_mp_hid_fortriggs
+mp001_mp_jessicacamp_val
+mp001_reg_bgv0_mp_thehunt_clue01

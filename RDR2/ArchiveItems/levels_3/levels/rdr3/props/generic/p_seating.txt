@@ -16,6 +16,8 @@ p_bench_log05x
 p_bench_log05x+hidr
 p_bench_log06x
 p_bench_log06x+hidr
+p_bench_log07
+p_bench_log07+hi
 p_bench_log07x
 p_bench_logsnow07x
 p_bench_logsnow07x+hidr

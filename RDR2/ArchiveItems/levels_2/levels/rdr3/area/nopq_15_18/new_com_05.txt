@@ -65,8 +65,11 @@ new_com_05_grounds04_dlast
 new_com_05_props_00
 new_com_05_props_02
 new_com_05_props_03
+new_com_05_props_txd
 new_com_05_taxi_tail_items
 new_com_05_taxi_tail_items+hidr
+new_com_05_txd1
+new_com_05_txd2
 new_displaywin002
 new_displaywin002+hidr
 new_magic_int_lod

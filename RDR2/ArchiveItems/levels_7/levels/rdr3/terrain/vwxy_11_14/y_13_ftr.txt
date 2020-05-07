@@ -6,3 +6,6 @@ y_13_ftr_arch_lod
 y_13_ftr_arch_slod
 y_13_ftr_arch+hidr
 y_13_ftr_decal
+y_13_ftr_long_0
+y_13_ftr_strm
+y_13_ftr+hi

@@ -1,0 +1,5 @@
+mech_loco_m@generic@carry@moonshine_small@upright@idle
+mech_loco_m@generic@carry@moonshine_small@upright@run
+mech_loco_m@type@mp@drunk@idle
+mech_loco_m@type@mp@drunk@walk@fast
+mech_loco_m@type@mp@drunk@walk@slow

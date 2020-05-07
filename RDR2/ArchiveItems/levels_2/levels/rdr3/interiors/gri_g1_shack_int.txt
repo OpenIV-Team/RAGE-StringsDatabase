@@ -16,6 +16,8 @@ gri_g1_snow2+hidr
 gri_g1_snow3
 gri_g1_woodchips
 gri_g1_woodchips+hidr
+gri_shk_int01_txd
+gri_shk_int01_txd+hi
 griz01_shack_beams
 griz01_shack_bedrolls
 griz01_shack_bedrolls+hidr
@@ -33,4 +35,5 @@ griz01_shack_floor001+hidr
 griz01_shack_frames
 griz01_shack_pipe001
 griz01_shack_pipe001+hidr
+hi@gri_g1_shack_int
 sfe_shack_planks

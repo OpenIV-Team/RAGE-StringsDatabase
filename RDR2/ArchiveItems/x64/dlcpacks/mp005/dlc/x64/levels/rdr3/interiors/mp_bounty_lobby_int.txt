@@ -12,6 +12,7 @@ mp005_mp_bounty_int_ground
 mp005_mp_bounty_int_ground+hidr
 mp005_mp_bounty_int_loft
 mp005_mp_bounty_int_loft+hidr
+mp005_mp_bounty_lobby_int
 mp005_mp_bounty_lobby_int_lightbox
 mp005_mp_bounty_lobby_int_sha_prox
 mp005_mp_new_photo_posse_int_shell

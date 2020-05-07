@@ -1,8 +1,14 @@
 _cache
 _manifest
 dis_rio_00
+dis_rio_00_0
+dis_rio_00_1
 dis_rio_00_cheatcode_01
 dis_rio_00_cheatcode_01+hidr
+dis_rio_00_strm
+dis_rio_00_strm_0
+dis_rio_04
+dis_rio_04+hi
 dis_rio_disri00_combo06_02_lod
 dis_rio_disri00_combo06_dslod
 dis_rio_sperm_whale_decal
@@ -19,3 +25,4 @@ dis_rio_wagon006
 dis_rio_wagon006_lod
 dis_rio_wagon006_slod
 dis_rio_wagon006+hidr
+hi@dis_rio_00_0

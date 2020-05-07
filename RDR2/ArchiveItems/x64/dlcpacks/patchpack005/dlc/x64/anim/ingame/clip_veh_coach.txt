@@ -1,0 +1,6 @@
+veh_coach@standard@exterior@fl@in_seat@male@shuffle
+veh_coach@standard@exterior@fr@in_seat@male@shuffle
+veh_coach@standard@exterior@ml@in_seat@male@shuffle
+veh_coach@standard@exterior@mr@in_seat@male@shuffle
+veh_coach@standard@exterior@rl@in_seat@male@shuffle
+veh_coach@standard@exterior@rr@in_seat@male@shuffle

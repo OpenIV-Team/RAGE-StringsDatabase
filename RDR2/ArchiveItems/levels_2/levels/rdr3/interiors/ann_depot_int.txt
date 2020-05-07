@@ -24,6 +24,7 @@ ann_depot_int
 ann_depot_int_ref
 ann_depot_int_ref+hidr
 ann_depot_int_shad_proxy
+ann_depot_int+hi
 ann_depot_lightbox_001
 ann_depot_lightbox_002
 ann_depot_lightbox_003
@@ -32,3 +33,4 @@ ann_depot_lightbox_005
 ann_depot_shell
 ann_depot_shell+hidr
 ann_depot_vault
+hi@ann_depot_int

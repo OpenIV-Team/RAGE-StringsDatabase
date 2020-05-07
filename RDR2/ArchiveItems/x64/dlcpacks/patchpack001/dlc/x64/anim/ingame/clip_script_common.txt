@@ -1,0 +1,1 @@
+script_common@shared_scenarios@seated@prop_human_seat_chair_carve_lure@male_a@stand_exit

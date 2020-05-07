@@ -49,3 +49,13 @@ p_tree_palm_s_01e+hidr
 p_tree_palm_s_01f
 p_tree_palm_s_01f+hidr
 rdr_palm
+rdr_palm_bamboo
+rdr_palm_bamboo+hi
+rdr_palm_banana
+rdr_palm_banana+hi
+rdr_palm_magnolia
+rdr_palm_magnolia+hi
+veg_mangrove
+veg_mangrove+hi
+veg_palm
+veg_palm+hi

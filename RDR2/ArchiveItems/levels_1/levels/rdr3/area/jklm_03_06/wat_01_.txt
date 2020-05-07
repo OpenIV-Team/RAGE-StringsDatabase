@@ -1,6 +1,8 @@
 _cache
 _manifest
 wat_01_lightbox
+wat_01_txd
+wat_01_txd+hi
 wat_cabin_smoke
 wat_chickencoop
 wat_chickencoop+hidr

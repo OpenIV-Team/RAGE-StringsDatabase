@@ -22,9 +22,17 @@ p_bedrollopen03x
 p_boilercamp01x
 p_camp
 p_camp_cup_01x
+p_camp_fire
+p_camp_fire+hi
+p_camp_fire2
+p_camp_fire2+hi
 p_camp_plate_01x
 p_camp_plate_02x
 p_camp_plate_03x
+p_camp_tent4
+p_camp_tent4+hi
+p_camp_tents
+p_camp_tents+hi
 p_campfire_06x
 p_campfire_06x+hidr
 p_campfire_coloursmoke01x
@@ -63,6 +71,8 @@ p_campfirechar01x
 p_campfirechar01x+hi
 p_campfirecharsml01x
 p_campfirecharsml01x+hidr
+p_campfirecombined
+p_campfirecombined+hi
 p_campfirecombined01x
 p_campfirecombined01x_off
 p_campfirecombined02x
@@ -70,6 +80,8 @@ p_campfirecombined02x+hifr
 p_campfirecombined03x
 p_campfirecombined04x
 p_campfirecombined04x+hifr
+p_campfirecook
+p_campfirecook+hi
 p_campfirecook01x
 p_campfirecook02x
 p_campfiredebris01x
@@ -109,6 +121,10 @@ p_canopycloth03x
 p_canopycloth03x+hifr
 p_clothesline01x
 p_clothesline01x+hifr
+p_cmp_canp
+p_cmp_canp+hi
+p_cmp_stump
+p_cmp_stump+hi
 p_compass01x
 p_cookfirestructure02x
 p_cookfirestructure02x+hifr

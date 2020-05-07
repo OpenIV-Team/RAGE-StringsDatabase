@@ -1,4 +1,6 @@
 _cache
 _manifest
 g_11_placement
+g_11_placement_strm
+g_11_placement_strm_0
 g_11p_testbox05

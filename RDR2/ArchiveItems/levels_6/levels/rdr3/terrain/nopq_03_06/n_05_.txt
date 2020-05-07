@@ -2,6 +2,8 @@ _cache
 _manifest
 n_05_
 n_05___decal001
+n_05__bkt_0
+n_05__bkt_3
 n_05__hd_0_0_0
 n_05__hd_0_0_1
 n_05__hd_0_0_-1
@@ -74,6 +76,7 @@ n_05__junction_a
 n_05__junction_a+hidr
 n_05__junction_d00
 n_05__junction_d00+hidr
+n_05_+hi
 n_05_rock_decal_02
 n_05_rock_decal01
 n_05_rock_decal03

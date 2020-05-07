@@ -1,0 +1,3 @@
+script@camp_upgrade@clemens_cove
+script@camp_upgrade@horseshoe_overlook
+script@camp_upgrade@shady_bell

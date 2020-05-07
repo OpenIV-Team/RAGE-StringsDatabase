@@ -1,0 +1,12 @@
+creatures_mammal@bear@grapple@streamed_core
+creatures_mammal@bear@grapple@streamed_core@face
+creatures_mammal@boar@agitated@dead
+creatures_mammal@bull@agitated@dead
+creatures_mammal@cow@agitated@dead
+creatures_mammal@deer@agitated@dead
+creatures_mammal@elk@agitated@dead
+creatures_mammal@goat@agitated@dead
+creatures_mammal@horse@normal@swimming@surface@base
+creatures_mammal@moose@agitated@dead
+creatures_mammal@pig@agitated@dead
+creatures_mammal@sheep@agitated@dead

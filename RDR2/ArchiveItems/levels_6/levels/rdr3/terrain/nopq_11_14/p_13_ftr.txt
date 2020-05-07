@@ -5,6 +5,8 @@ p_13_ftr_burnt
 p_13_ftr_burnt_lod
 p_13_ftr_burnt_slod
 p_13_ftr_burnt+hidr
+p_13_ftr_long_0
+p_13_ftr_p_13_
 p_13_ftr_p_13_bridge_l_dec
 p_13_ftr_p_13_bridge_l_det
 p_13_ftr_p_13_bridge_l_glue
@@ -20,3 +22,5 @@ p_13_ftr_start
 p_13_ftr_start_lod
 p_13_ftr_start_slod
 p_13_ftr_start+hidr
+p_13_ftr_strm
+p_13_ftr_strm_0

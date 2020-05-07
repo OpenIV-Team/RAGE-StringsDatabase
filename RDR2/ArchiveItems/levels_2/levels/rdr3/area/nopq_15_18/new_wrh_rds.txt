@@ -56,6 +56,7 @@ new_wrh_rds_09_decal_02
 new_wrh_rds_10
 new_wrh_rds_10_decal
 new_wrh_rds_sidewalk_far1
+new_wrh_rds_txd1
 new_wrh_rds_wrh_01a_dec
 new_wrh_rds_wrh_1a
 new_wrh_rds_wrh_1b

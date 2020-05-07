@@ -1,1 +1,2 @@
 _manifest
+mega_mech_boat_paddle@rowboat@centre@in_seat@base

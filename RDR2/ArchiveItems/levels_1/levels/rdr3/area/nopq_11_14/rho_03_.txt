@@ -1,11 +1,13 @@
 _manifest
 rho_03_
+rho_03_+hi
 rho_03_area1_em_slod
 rho_03_butchday_proxyslod
 rho_03_butcher_blood_02
 rho_03_butcher_blood_02+hidr
 rho_03_butcher_cloth
 rho_03_decal_trails03
+rho_03_em
 rho_03_genstore_ab_decs
 rho_03_genstore_ab_decs+hidr
 rho_03_genstore_ab_walls
@@ -19,11 +21,14 @@ rho_03_hotel_outhouse
 rho_03_hotel_outhouse+hidr
 rho_03_manure002
 rho_03_manure003
+rho_03_props_debris_txd
 rho_03_props_debris00
 rho_03_props_debris01
 rho_03_props_debris02
 rho_03_props_debris03
 rho_03_props_debris04
+rho_03_props_lod
+rho_03_props_lod+hi
 rho_butcher_collapsed
 rho_butcher_collapsed+hidr
 rho_butcherday_collapsed
@@ -50,6 +55,7 @@ rho_hotel_ext_em
 rho_hotel_ext_em_lod
 rho_hotel_ext+hidr
 rho_hotel_leaves
+rho_ivy
 rho_ivy_post_a_07
 rho_ivy_post_a_07_lod
 rho_ivy_post_a_08
@@ -59,6 +65,7 @@ rho_ivy_post_a_09
 rho_ivy_post_a_13
 rho_ivy_post_a_13lod
 rho_ivy_post_a_lod_a
+rho_ivy+hi
 rho_memorial
 rho_memorial_d
 rho_memorial_d+hidr
@@ -84,6 +91,7 @@ rho_sheriff_ext_jail_befor_lod
 rho_sheriff_ext_jail_before
 rho_sheriff_ext+hidr
 rho_sheriff_leaves
+rho_signage_tmp
 rho_store_audio_proxy
 rho_store_decal
 rho03pr_combo04_slod

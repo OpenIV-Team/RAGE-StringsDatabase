@@ -1,3 +1,5 @@
+damage_model_gore
+damage_model_gore+hi
 gore_damage_mesh
 gore_damage_mesh2
 gore_damage_mesh3

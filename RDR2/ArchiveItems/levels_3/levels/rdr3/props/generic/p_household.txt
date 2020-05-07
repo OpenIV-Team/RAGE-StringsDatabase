@@ -63,6 +63,7 @@ p_clocktable07x+hifr
 p_clothhorseonwheels01x
 p_clothhorseonwheels01x+hifr
 p_clothinghook01x
+p_coalbag
 p_coalbag01x
 p_coalbag02x
 p_coalbasket01x
@@ -113,6 +114,8 @@ p_fireguard02x
 p_fireguard02x+hidr
 p_fireguard04x
 p_fireguard04x+hidr
+p_fireplacelogs
+p_fireplacelogs+hi
 p_fireplacelogs01x
 p_fireplacelogs01x_unlit
 p_fireplacelogs02x
@@ -127,6 +130,7 @@ p_fireplacelogs04x
 p_fireplacelogs04x_unlit
 p_fireplacelogs04x_unlit+hidr
 p_fireplacetool01x
+p_fireplacetools
 p_fireplacetools01bx
 p_fireplacetools01cx
 p_fireplacetools01dx
@@ -265,6 +269,7 @@ p_spinningwheel01x
 p_spinningwheel01x+hifr
 p_spinningwheel02x
 p_spinningwheel02x+hifr
+p_spittoon
 p_spittoon01x
 p_spittoon02x
 p_spittoon03bx
@@ -280,6 +285,7 @@ p_storagebox01x
 p_storagebox01x+hifr
 p_teacart01x
 p_teacart01x+hifr
+p_throwpillow
 p_throwpillow_01x
 p_throwpillow_02x
 p_throwpillow_03x

@@ -1,5 +1,7 @@
 _manifest
+bvb_bridge
 bvb_bridge_cc_graff
+bvb_bridge+hi
 bvb_bridge2
 bvb_bridge2_decal
 bvb_bridge2_decal+hidr

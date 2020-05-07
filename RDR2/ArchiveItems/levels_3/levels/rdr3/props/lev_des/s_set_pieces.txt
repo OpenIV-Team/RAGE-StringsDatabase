@@ -1,4 +1,6 @@
 _manifest
+bee_props
+bee_props+hi
 p_ann_coalbreaker01x
 p_ann_coalbreaker01x+hifr
 p_bedundone_trelawny01x
@@ -32,6 +34,7 @@ p_chimneyslab01x
 p_chimneyslab01x+hidr
 p_cin_damage01x
 p_cratestack03x
+p_cratestack03x+hi
 p_cs_win1_wag1_01x
 p_cs_win1_wag1_01x+hidr
 p_cs_win1_wag2_01x
@@ -47,6 +50,8 @@ p_dis_ropebridge+hi
 p_dis_ropebridge2
 p_dis_ropebridge3
 p_dis_ropebridge4
+p_dov_lab_generator
+p_dov_lab_generator+hi
 p_dov_lab_generator01
 p_dov_lab_generator01_lever
 p_dov_lab_generator02
@@ -70,6 +75,7 @@ p_lnnhouse_stash06
 p_lnnhouse_stash06+hifr
 p_lnnhouse_stash07
 p_lnnhouse_stash07+hidr
+p_lon_stash_txd
 p_magneto01x
 p_magneto02x
 p_marstonwagonpiece01x
@@ -80,6 +86,8 @@ p_nbx_cratestack03a_90
 p_nbx_cratestack03x_96
 p_ndb_hotelplank01x
 p_ndb_hotelplank01x_sea
+p_new_aus_pikebr
+p_new_aus_pikebr+hi
 p_new_aus_pikebr01
 p_new_aus_pikebr02
 p_new_aus_pikebr03
@@ -100,6 +108,8 @@ p_taxishouse_board01
 p_taxishouse_board01+hifr
 p_trolleypanel01x
 p_trolleypanel01x+hidr
+p_val_saloon2_r
+p_val_saloon2_r+hi
 p_val_saloon2_r01
 p_val_saloon2_r02
 p_val_saloon2_r03
@@ -118,12 +128,14 @@ s_abe_grandmapic01x
 s_abe_grandmapic01x+hidr
 s_abe_grandmapic02x
 s_abe_grandmapic02x+hidr
+s_abe_swing
 s_abe_swingbot01
 s_abe_swingbot02
 s_abe_swingtop01
 s_abe_swingtop02
 s_armoir02x
 s_armoir02x+hifr
+s_bee_frame01x
 s_bee_shingle01x
 s_bee_shingle01x+hidr
 s_beechers_frame01x
@@ -202,6 +214,8 @@ s_nbd_bankdrawer01x
 s_nbd_bankdrawer02x
 s_nbd_bankdrawer03x
 s_nbd_bankdrawer03x+hidr
+s_nbd_bnkdrw01x
+s_nbd_bnkdrw01x+hi
 s_new_boats_crane
 s_new_boats_crane+hifr
 s_pic_adlermarriage01x

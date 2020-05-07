@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@van_exoticgoods_int
 p_group_n_grocery001
 p_group_n_grocery001+hidr
 van_ex_int_details
@@ -18,6 +19,8 @@ van_exotic_lightdummy_03
 van_exoticgoods_int
 van_exoticgoods_int_ref
 van_exoticgoods_int_ref+hi
+van_exoticgoods_int_shell
+van_exoticgoods_int_txd
 van_exoticgoods_int_upper_ref
 van_exoticgoods_shadow_proxy
 van_ext_doorcatjak_01x

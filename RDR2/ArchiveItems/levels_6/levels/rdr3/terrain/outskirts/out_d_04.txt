@@ -4,3 +4,5 @@ out_d_04
 out_d_04_hd_13
 out_d_04_hd_13_lod
 out_d_04_hd_14_slod
+out_d_04_long_0
+out_d_04_strm

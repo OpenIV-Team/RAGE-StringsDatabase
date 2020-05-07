@@ -1,4 +1,5 @@
 _manifest
+des_gua3_cannon
 des_gua3_cannon_01
 des_gua3_cannon_02
 des_gua3_cannon_03
@@ -6,3 +7,4 @@ des_gua3_cannon_04
 des_gua3_cannon_end
 des_gua3_cannon_exp
 des_gua3_cannon_start
+des_gua3_cannon+hi

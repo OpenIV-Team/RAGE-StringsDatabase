@@ -37,3 +37,5 @@ out_f_04_hd_15_lod
 out_f_04_hd_16
 out_f_04_hd_16_lod
 out_f_04_hd_16_slod
+out_f_04_long_0
+out_f_04_strm

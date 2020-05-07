@@ -1,5 +1,11 @@
 _cache
 _manifest
+hi@sol_01_0
+hi@sol_01_1
+hi@sol_01_2
+hi@sol_01_3
+hi@sol_01_4
+hi@sol_01_5
 sol_01__barn_debris
 sol_01__barn_debris+hidr
 sol_01__barn_decal01
@@ -8,6 +14,7 @@ sol_01__house
 sol_01__house+hidr
 sol_01__sol_basement_int_lod
 sol_01__sol01_combo_slod
+sol_01_0
 sol_01_barn
 sol_01_barn_cc_graff
 sol_01_barn_int
@@ -29,4 +36,5 @@ sol_01_lightbox_001
 sol_01_outhouse_vfx
 sol_01_stairs
 sol_01_stairs+hidr
+sol_01_txd_01
 sol_01_wall

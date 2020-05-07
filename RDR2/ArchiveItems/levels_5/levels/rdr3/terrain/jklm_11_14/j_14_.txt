@@ -1,6 +1,8 @@
 _cache
 _manifest
 j_14_
+j_14__bkt_0
+j_14__bkt_2
 j_14__hd_0_0_0
 j_14__hd_0_0_1
 j_14__hd_0_0_-1
@@ -69,6 +71,7 @@ j_14__hd_0_-4_-4
 j_14__hd_0_-4_-4+hidr
 j_14__j14_cav_dec_0
 j_14__j14_cave_walls_dec
+j_14_+hi
 j_14_01_d
 j_14_02_d
 j_14_03_d

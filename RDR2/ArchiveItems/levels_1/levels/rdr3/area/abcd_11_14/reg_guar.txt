@@ -17,4 +17,10 @@ des_gua_c13_end
 des_gua_c13_end_lod
 des_gua_c13_start
 des_gua_c13_start+hidr
+des_trap_gua011x
+des_trap_gua011x+hi
 reg_guar
+reg_guar_0
+reg_guar_1
+reg_guar_2
+reg_guar+hi

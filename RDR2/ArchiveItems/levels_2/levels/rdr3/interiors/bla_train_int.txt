@@ -21,3 +21,7 @@ bla_dep_shell
 bla_dep_shell+hidr
 bla_train_int
 bla_train_lightbox_001
+bla_trainst_int
+bla_trainst_int_shell
+bla_trainst_int+hi
+hi@bla_train_int

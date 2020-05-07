@@ -2,6 +2,10 @@ _cache
 _manifest
 j_11_
 j_11___decal001
+j_11__bkt_0
+j_11__bkt_1
+j_11__bkt_2
+j_11__bkt_3
 j_11__grassy_d
 j_11__hd_0_0_0
 j_11__hd_0_0_1
@@ -69,6 +73,7 @@ j_11__hd_0_-4_3
 j_11__hd_0_-4_-3
 j_11__hd_0_-4_-4
 j_11__hd_0_-4_-4+hidr
+j_11_+hi
 j_11_01_decal01
 j_11_01_decal01+hidr
 j_11_01_rail_decal_01

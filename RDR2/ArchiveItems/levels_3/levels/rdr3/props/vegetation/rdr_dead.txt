@@ -37,3 +37,13 @@ p_tree_w_r_cedar_dead_02
 p_tree_w_r_cedar_dead_02+hidr
 p_tree_w_r_cedar_dead+hidr
 rdr_dead
+veg_ced_dead
+veg_ced_dead+hi
+veg_mesrus
+veg_mesrus+hi
+veg_pine_dead_0102
+veg_pine_dead_0102+hi
+veg_riodel
+veg_riodel+hi
+veg_tree_fall
+veg_tree_fall+hi

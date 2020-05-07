@@ -14,5 +14,7 @@ slo_shack_lon_porch+hidr
 slo_shack_lon_roof
 slo_shack_lon_roof+hidr
 slo_shack_lon_shutters
+slo_shack_lon_txd
+slo_shack_lon_txd+hi
 slo_shack_lon_walls
 slo_shacklo_combo_slod

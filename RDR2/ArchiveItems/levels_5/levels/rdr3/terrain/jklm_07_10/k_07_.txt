@@ -1,6 +1,9 @@
 _cache
 _manifest
 k_07_
+k_07__bkt_1
+k_07__bkt_2
+k_07__bkt_3
 k_07__hd_0_0_0
 k_07__hd_0_0_1
 k_07__hd_0_0_-1
@@ -68,6 +71,7 @@ k_07__hd_0_-4_3
 k_07__hd_0_-4_-3
 k_07__hd_0_-4_-4
 k_07__k07_dec_snow
+k_07_+hi
 k_07_01_dec_cav
 k_07_01_decal001
 k_07_01_decal002

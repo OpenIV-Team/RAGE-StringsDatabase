@@ -12,6 +12,7 @@ m_0405__prog_sslod00
 m_0405__prog_sslod01
 m_0405__prog_sslod02
 m_0405__prog_sslod03
+m_0405__prog_swap
 m_0405__prog_swaps_00
 m_0405__prog_swaps_01
 m_0405__prog_swaps_01mud
@@ -30,3 +31,4 @@ m_0405__swaps_burnt3
 m_0405__swaps_burnt4
 m_0405__swaps_burnt5
 m_0405_prong_swaps
+m_0405_prong_swaps_strm

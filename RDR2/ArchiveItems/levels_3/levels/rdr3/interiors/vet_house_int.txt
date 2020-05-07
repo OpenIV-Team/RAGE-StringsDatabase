@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@vet_house_int
 vet_house_int
 vet_house_int_shadowproxy
 vet_house_lightbox

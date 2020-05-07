@@ -7,12 +7,15 @@ arm_04__dne_arm_freightstn01x
 arm_04__dne_arm_generalbld02x
 arm_04__dne_arm_generalbld09x
 arm_04__dne_arm_ruinedbank01x
+arm_04_0
 arm_04_awing01
 arm_04_awing01+hidr
 arm_04_bank_cholera
 arm_04_bank_cholera_lod
 arm_04_bank_scarletfvr
 arm_04_bank_scarletfvr_lod
+arm_04_cholera_txd
+arm_04_em
 arm_04_em_slod
 arm_04_freightstation_em
 arm_04_freightstation01x
@@ -62,3 +65,5 @@ arm_04_ruinedbank01x
 arm_04_ruinedbank01x_signs
 arm_04_ruinedbank01x_signs+hidr
 arm_04_ruinedbank01x+hidr
+arm_04_txd_01
+hi@arm_04_0

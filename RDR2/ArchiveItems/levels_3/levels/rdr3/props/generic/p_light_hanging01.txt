@@ -1,5 +1,7 @@
 _manifest
 p_bulkheadlight01x
+p_chandelier01_09
+p_chandelier01_09+hi
 p_chandelier01x
 p_chandelier07x
 p_chandelier09bx
@@ -67,6 +69,7 @@ p_gnomeoillamp03x
 p_gnomeoillamp03x+hifr
 p_lamp03x
 p_lamp05ax
+p_lamp05b
 p_lamp05bx
 p_lamp05cx
 p_lamp05dx
@@ -88,6 +91,8 @@ p_lampfactory02x+hifr
 p_lampfactory04x
 p_lampfactory04x+hifr
 p_lampfactory05x
+p_lampfy02x
+p_lampfy02x+hi
 p_lamphanging02x
 p_lamphanging02x+hifr
 p_lamphanging05bx
@@ -116,6 +121,7 @@ p_medlight01x
 p_mercurylamp01
 p_theatrelamp01x
 p_theatrelamp01x+hidr
+p_train_lamp01x
 p_train_lamp01x_l
 p_train_lamp01x_r
 prop_recycle_light

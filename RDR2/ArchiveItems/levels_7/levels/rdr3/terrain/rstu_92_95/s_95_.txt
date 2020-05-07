@@ -1,6 +1,7 @@
 _cache
 _manifest
 s_95_
+s_95__bkt_3
 s_95__hd_0_0_0
 s_95__hd_0_0_1
 s_95__hd_0_0_-1
@@ -69,6 +70,7 @@ s_95__hd_0_-4_-4
 s_95__rail_crossing
 s_95__s_94_s_95_decal001
 s_95__s_94_s_95_decal001+hidr
+s_95_+hi
 s_95_01_d01
 s_95_01_rail_decal_01
 s_95_01_rail_decal_02

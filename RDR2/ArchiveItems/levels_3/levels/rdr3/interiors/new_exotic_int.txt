@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@new_exotic_int
 new_exo_details01
 new_exo_details01+hidr
 new_exo_furniture

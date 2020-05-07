@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@van_fenceshop_int
 van_fence_int_beams
 van_fence_int_beams+hidr
 van_fence_int_decal01
@@ -18,3 +19,4 @@ van_fence_int_shadow_proxy
 van_fence_int_shell
 van_fence_int_shell+hidr
 van_fenceshop_int
+van_fenceshop_int_shell

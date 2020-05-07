@@ -1,4 +1,5 @@
 _manifest
+the_01_
 the_01__barrel04b_rsref001_l2
 the_01__barrel04b_rsref002_l2
 the_01__barrel04b_rsref003_l2
@@ -38,11 +39,15 @@ the_01__pawnshop_prch
 the_01__pawnshop_rf00
 the_01__pawnshop_rf01
 the_01__pawnshop_walkway
+the_01__r_07_
+the_01__r_07_+hi
 the_01__tempfencing
 the_01__th_01_debris_aa
 the_01__th_01_debris_aa+hidr
 the_01__th_01_tin_roof
 the_01__th_01_tin_roof+hidr
+the_01__the_01
+the_01__the_01+hi
 the_01__the_exotic_shopclosed
 the_01__the_exotic_shopclosed+hidr
 the_01__the01_combo_slod2
@@ -66,6 +71,7 @@ the_01__ticketoffice01_rf
 the_01__ticketoffice01_rf+hidr
 the_01__ticketoffice02
 the_01__ticketofficedock01x34
+the_01_+hi
 the_01_boats_shp_d
 the_01_boats_shp_d+hidr
 the_01_boats_shp_det
@@ -97,6 +103,8 @@ the_01_debris_10
 the_01_debris_11
 the_01_debris_12
 the_01_debris_13
+the_01_debris_txd
+the_01_debris_txd+hi
 the_01_exotic_shpclosd_lod
 the_01_exoticshop
 the_01_exoticshop+hidr

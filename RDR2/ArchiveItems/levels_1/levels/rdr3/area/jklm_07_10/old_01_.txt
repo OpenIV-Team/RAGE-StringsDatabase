@@ -3,6 +3,8 @@ old_01_bsmith_em
 old_01_bsmith_em_slod
 old_01_capt_em
 old_01_capt_em_slod
+old_01_em
+old_01_em+hi
 old_01_quater_em
 old_01_quater_em_slod
 old_01_quater2_em
@@ -10,6 +12,12 @@ old_01_quater2_em_slod
 old_01_stable_d
 old_01_stable_d+hidr
 old_01_stable_d2
+old_01_str
+old_01_str+hi
+old_01_txd1
+old_01_txd1+hi
+old_01_txd2
+old_01_txd2+hi
 old_blacksmith_d
 old_blacksmith001
 old_blacksmith001+hidr

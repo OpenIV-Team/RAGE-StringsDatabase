@@ -3,6 +3,8 @@ _manifest
 o_05_
 o_05___decal001
 o_05__01_decal001
+o_05__bkt_2
+o_05__bkt_3
 o_05__hd_0_0_0
 o_05__hd_0_0_1
 o_05__hd_0_0_-1
@@ -71,6 +73,7 @@ o_05__hd_0_-4_-3
 o_05__hd_0_-4_-4
 o_05__object005
 o_05__object006
+o_05_+hi
 o_05_07_decal
 o_05_07_decal+hidr
 o_05_09_decal

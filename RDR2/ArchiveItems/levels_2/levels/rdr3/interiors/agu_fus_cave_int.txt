@@ -3,6 +3,10 @@ _manifest
 agu_fus_cave_exit
 agu_fus_cave_int
 agu_fus_decal_bottom
+agu_fussar_int_lod
+agu_fussar_int_lod+hi
+agu_fussar_inttxd
+agu_fussar_inttxd+hi
 agu_jail_muro_
 agu_jail_muro_+hidr
 agu_jail_muro_dec
@@ -55,6 +59,7 @@ fus_exit_lightblocker
 fus_lightblocker02
 fus_lightblocker022
 fussar_tun_shell_reflection
+hi@agu_fus_cave_int
 rock_entry_decal003
 room_fussar_cave_pit_lod
 room_fussar_cave01_lod

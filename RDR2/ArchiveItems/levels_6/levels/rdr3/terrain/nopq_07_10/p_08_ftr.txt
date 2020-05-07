@@ -11,3 +11,4 @@ p_08_ftr_endsum_slod
 p_08_ftr_regular
 p_08_ftr_regular_lod
 p_08_ftr_regular_slod
+p_08_ftr_strm

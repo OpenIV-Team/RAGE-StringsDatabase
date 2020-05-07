@@ -1,0 +1,9 @@
+mp_lobby@coop@standing@mp_male_a@base
+mp_lobby@phns@standing@mp_female_a@active_look
+mp_lobby@phns@standing@mp_female_a@base
+mp_lobby@phns@standing@mp_female_b@active_look
+mp_lobby@phns@standing@mp_female_b@base
+mp_lobby@phns@standing@mp_male_a@active_look
+mp_lobby@phns@standing@mp_male_a@base
+mp_lobby@phns@standing@mp_male_b@active_look
+mp_lobby@phns@standing@mp_male_b@base

@@ -1,4 +1,10 @@
 _manifest
+gndblnd_cotton
+gndblnd_cotton+hi
+gndblnd_debris
+gndblnd_debris+hi
+gndblnd_hay
+gndblnd_hay+hi
 p_babyplant
 p_blanketsadle02x
 p_brander01x
@@ -13,6 +19,8 @@ p_chickennest01x+hifr
 p_cloches_01x
 p_cloches_01x+hi
 p_cloches_02x
+p_cordwood
+p_cordwood+hi
 p_cordwood01x
 p_cordwood02x
 p_cordwood03x

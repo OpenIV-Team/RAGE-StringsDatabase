@@ -11,3 +11,5 @@ arm_bank_int_details+hidr
 arm_bank_int_floor
 arm_bank_int_shell
 arm_bank_int_shell+hidr
+arm_bank_int+hi
+hi@arm_bank_int

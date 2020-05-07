@@ -13,6 +13,8 @@ bla_cityhall01x
 bla_cityhall01x+hidr
 bla_cityhallbricks
 bla_civic
+bla_civic_endsum_txd
+bla_civic_endsum_txd+hi
 bla_civic_fence
 bla_civic_fence_glu_01
 bla_civic_fence_glue02
@@ -27,6 +29,7 @@ bla_civic_props_debris_00
 bla_civic_props_debris_01
 bla_civic_props_debris_02
 bla_civic_props_debris_03
+bla_civic_props_debris_txd
 bla_civic_woodplanks_00
 bla_civic_woodplanks_00+hidr
 bla_policeglue_01

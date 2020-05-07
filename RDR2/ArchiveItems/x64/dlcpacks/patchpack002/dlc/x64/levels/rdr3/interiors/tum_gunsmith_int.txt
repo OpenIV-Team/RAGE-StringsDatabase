@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@tum_gunsmith_int
 tum_gun_pistol_sign
 tum_gun_shotgun_sign
 tum_gun_sign_repeater
@@ -13,6 +14,7 @@ tum_gunsmith_int_guns01+hidr
 tum_gunsmith_int_ref
 tum_gunsmith_int_ref+hidr
 tum_gunsmith_int_shadow
+tum_gunsmith_int_shell
 tum_gunsmith_int_shell_tnt
 tum_gunsmith_int_shell_tnt+hidr
 tum_gunsmith_lightbox

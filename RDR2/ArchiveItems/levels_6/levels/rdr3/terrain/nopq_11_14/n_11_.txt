@@ -2,6 +2,10 @@ _cache
 _manifest
 n_11_
 n_11___decal001
+n_11__bkt_0
+n_11__bkt_1
+n_11__bkt_2
+n_11__bkt_3
 n_11__hd_0_0_0
 n_11__hd_0_0_1
 n_11__hd_0_0_-1
@@ -72,6 +76,7 @@ n_11__hd_0_-4_-3+hidr
 n_11__hd_0_-4_-4
 n_11__mill_decal01
 n_11__mill_decal01+hidr
+n_11_+hi
 n_11_03_decal_03
 n_11_decal_01
 n_11_junction_decal_02

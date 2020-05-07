@@ -48,6 +48,13 @@ gri_shackg3_stains+hidr
 gri_shackg3_wagon
 gri_shackg3_wagon+hidr
 gri_snowybarrels
+grishkg3_01__0
+grishkg3_01__1
+grishkg3_01_hd
+grishkg3_01_hd+hi
 grishkg301_combo_slod
 grishkg301_combo_slod2
 grishkg301_combo01_slod
+hi@grishkg3_01__0
+hi@grishkg3_01__1
+hi@grishkg3_01__2

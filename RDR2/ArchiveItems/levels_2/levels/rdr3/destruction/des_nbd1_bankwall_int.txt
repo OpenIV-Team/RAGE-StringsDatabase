@@ -7,3 +7,4 @@ des_nbd1_bankwall_int_04
 des_nbd1_bankwall_int_end
 des_nbd1_bankwall_int_start
 des_nbd1_bankwall_int_start+hidr
+des_nbd1_bankwall_int+hi

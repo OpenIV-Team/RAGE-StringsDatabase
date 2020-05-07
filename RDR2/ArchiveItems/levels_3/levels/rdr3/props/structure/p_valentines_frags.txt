@@ -52,6 +52,9 @@ p_val_sgn_mrb_03_dmg
 p_val_sgn_sln_01
 p_val_sgn_sln_01_dmg
 p_valentines_frags
+p_valentines_frags+hi
+p_valmlflag
+p_valmlflag+hi
 p_vmlbanner
 p_vmlflag01
 p_vmlflag02

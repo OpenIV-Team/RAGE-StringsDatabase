@@ -5,3 +5,4 @@ des_bar_win_start+hifr
 des_bar_window
 des_bar_window_01
 des_bar_window_02
+des_bar_window+hi

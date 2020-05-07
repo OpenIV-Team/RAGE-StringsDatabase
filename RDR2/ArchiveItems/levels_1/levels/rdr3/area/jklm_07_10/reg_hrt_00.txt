@@ -1,4 +1,5 @@
 _manifest
+reg_hrt
 reg_hrt_blanketground
 reg_hrt_blanketground+hidr
 reg_hrt_corpse
@@ -6,6 +7,8 @@ reg_hrt_corpse_00
 reg_hrt_corpse_01
 reg_hrt_corpse_01+hidr
 reg_hrt_corpse+hidr
+reg_hrt_cutscene_rock
+reg_hrt_cutscene_rock+hi
 reg_hrt_des_ntvs2_tf2_end
 reg_hrt_des_ntvs2_tf2_endl1
 reg_hrt_des_ntvs2_tf2_start
@@ -16,6 +19,8 @@ reg_hrt_hso_scenario_rocks
 reg_hrt_hso_scenario_rocks2
 reg_hrt_j_14_cave01_int_slod
 reg_hrt_j12_covercollisionprxy
+reg_hrt_k_10_placement
+reg_hrt_k_10_placement+hi
 reg_hrt_m_13p
 reg_hrt_ntvs2_tf_end
 reg_hrt_ntvs2_tf_end_shad
@@ -32,6 +37,8 @@ reg_hrt_privarm_bodyshell_lod
 reg_hrt_privarm_bodyshell+hidr
 reg_hrt_privarm_chassis
 reg_hrt_privarm_door_amv
+reg_hrt_privarm_txd
+reg_hrt_privarm_txd+hi
 reg_hrt_privarm_wheelmesh
 reg_hrt_privarm_wheelmesh+hidr
 reg_hrt_registerock_textdc
@@ -46,8 +53,10 @@ reg_hrt_tempfish
 reg_hrt_tempfish+hidr
 reg_hrt_test_box
 reg_hrt_train_int_lod
+reg_hrt_treecarving
 reg_hrt_treecarving_a
 reg_hrt_treecarving_b
+reg_hrt_treecarving+hi
 reg_hrt_treecarving01
 reg_hrt_treecarving02
 reg_hrt_treecarving03
@@ -56,3 +65,4 @@ reg_hrt_treecarving06
 reg_hrt_treecarving07
 reg_hrt_treecarving08
 reg_hrt_tunnel_1a_slod
+reg_hrt+hi

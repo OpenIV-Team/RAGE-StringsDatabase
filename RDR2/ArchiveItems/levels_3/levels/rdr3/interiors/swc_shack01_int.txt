@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@swc_shack01_int
 swc_shack_int_blanket
 swc_shack_int_blanket+hidr
 swc_shack_int_cage

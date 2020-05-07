@@ -1,3 +1,14 @@
 _cache
 _manifest
 mp004_ambcamps_campdefend01
+mp004_campdef_bgv_two_rocks
+mp004_campdef_bluewater
+mp004_campdef_gap_breach
+mp004_campdef_gap_ridge
+mp004_campdef_grt_plains
+mp004_campdef_heartlands
+mp004_campdef_hennigans
+mp004_campdef_hrt_hilltop
+mp004_campdef_little_creek
+mp004_campdef_new_hanover
+mp004_campdef_radleys

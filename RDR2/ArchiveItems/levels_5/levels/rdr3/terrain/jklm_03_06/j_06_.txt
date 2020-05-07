@@ -15,6 +15,7 @@ j_06___decal012
 j_06___decal013
 j_06___decal014
 j_06___decal015
+j_06__bkt_1
 j_06__cave_decal
 j_06__hd_0_0_0
 j_06__hd_0_0_1
@@ -83,5 +84,6 @@ j_06__hd_0_-4_3
 j_06__hd_0_-4_-3
 j_06__hd_0_-4_3+hidr
 j_06__hd_0_-4_-4
+j_06_+hi
 j_06_05_decal
 j_06_05_decal+hidr

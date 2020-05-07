@@ -1,6 +1,9 @@
 _cache
 _manifest
 n_06_
+n_06__bkt_1
+n_06__bkt_2
+n_06__bkt_3
 n_06__decals_00
 n_06__decals_04
 n_06__hd_0_0_0
@@ -75,6 +78,7 @@ n_06__junc_d
 n_06__scree_d
 n_06__tracks
 n_06__tracks_02
+n_06_+hi
 n_06_07_decal001
 n_06_decal001
 n_06_rock_decal01

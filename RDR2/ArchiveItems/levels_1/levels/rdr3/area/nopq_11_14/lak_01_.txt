@@ -1,5 +1,8 @@
 _manifest
 lak_01_barn_slod
+lak_01_emitters
+lak_01_txd
+lak_01_txd+hi
 lak_01_vfx_001
 lak_01_vfx_002
 lak_01_vfx_003

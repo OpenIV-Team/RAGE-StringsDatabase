@@ -54,6 +54,8 @@ bur_saloon_int
 bur_saloon_int+hidr
 bur_saloon_signs
 bur_saloon_signs+hidr
+bur_shack_dr
+bur_shack_dr+hi
 bur_shed_collapse2
 bur_shed_collapse2+hidr
 bur_sheriff_beams

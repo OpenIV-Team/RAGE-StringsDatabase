@@ -1,1 +1,8 @@
 _manifest
+mega_mech_cover@aim@arthur@bow@low
+mega_mech_cover@aim@arthur@dual@high
+mega_mech_cover@aim@arthur@dual@low
+mega_mech_cover@aim@arthur@longarms@high
+mega_mech_cover@aim@arthur@longarms@low
+mega_mech_cover@aim@arthur@shortarms@high
+mega_mech_cover@aim@arthur@shortarms@low

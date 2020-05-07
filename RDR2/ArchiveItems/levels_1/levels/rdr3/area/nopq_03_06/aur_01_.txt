@@ -1,4 +1,6 @@
 _manifest
+aur_01
+aur_01+hi
 aur_aurbasin_decs
 aur_aurbasin_decs+hidr
 aur_aurbasin_detail

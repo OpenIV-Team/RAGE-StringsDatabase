@@ -1,3 +1,5 @@
+common/data/anim/dictionary_meta/clip_dictionary_budget_flags.meta
+common/data/anim/dictionary_meta/motion_dictionary_budget_flags.meta
 content.xml
 setup2.xml
 x64/anim/animscenes/cuts@gua2
@@ -99,3 +101,4 @@ x64/levels/rdr3/terrain/water/a_water_rnk
 x64/packs/base/models/component_models
 x64/packs/base/models/component_textures
 x64/packs/vehicle_pack/levels/patchpack005/vehicles
+x64/textures/patchpack005_palettes

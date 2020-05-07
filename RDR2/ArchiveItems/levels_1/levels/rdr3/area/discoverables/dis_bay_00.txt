@@ -1,7 +1,14 @@
 _cache
 _manifest
 dis_bay_00
+dis_bay_00_0
+dis_bay_00_1
+dis_bay_00_lod
 dis_bay_00_slod
+dis_bay_00_strm
+dis_bay_00_strm_0
+dis_bay_00_tinychurch
+dis_bay_00_tinychurch+hi
 dis_bay_1rmchurch_int_lod
 dis_bay_catfishhole01_decal
 dis_bay_catfishhole02_decal
@@ -20,6 +27,10 @@ dis_bay_catfishhole14_decal
 dis_bay_catfishhole15_decal
 dis_bay_catfishhole16_decal
 dis_bay_catfishhole17_decal
+dis_bay_catfishtxd
+dis_bay_catfishtxd+hi
+dis_bay_catfishtxd5
+dis_bay_catfishtxd5+hi
 dis_bay_spookedhorse_body
 dis_bay_spookedhorse_body+hidr
 dis_bay_tiny_vfx_009
@@ -30,3 +41,4 @@ dis_bay_tinychurchext_lod
 dis_bay_tinychurchext+hidr
 dis_bay_tinychurchveg_dne
 dis_bay_tinychurchveg_dne+hidr
+hi@dis_bay_00_0

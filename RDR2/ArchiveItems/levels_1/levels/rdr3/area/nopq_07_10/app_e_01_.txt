@@ -64,6 +64,8 @@ app_e_01_stable02_vfx
 app_e_01_stable03_vfx
 app_e_01_stable04_vfx
 app_e_01_stable05_vfx
+app_e_01_txd
+app_e_01_txd+hi
 app_e_app_loader_dcl4
 app_e_app_loader1
 app_e_app_loader1+hidr

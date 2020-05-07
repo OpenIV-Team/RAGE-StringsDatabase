@@ -79,6 +79,8 @@ n_1114_r_b_lod_49
 n_1114_r_b_lod_50
 n_1114_r_b_lod_51
 n_1114_r_b_lod_52
+n_1114_r_b_rails
+n_1114_r_b_rails+hi
 n_1114_r_b_rrc_01_l1
 n_1114_r_b_rrc_03_l1
 n_1114_r_b_rrcross_01

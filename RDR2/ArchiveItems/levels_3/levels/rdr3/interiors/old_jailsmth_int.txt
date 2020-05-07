@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@old_jailsmth_int
 old_jail_beams_01
 old_jail_beams_01+hidr
 old_jail_decals
@@ -7,6 +8,7 @@ old_jail_decals+hidr
 old_jail_details01
 old_jail_details01+hidr
 old_jail_floor_planks
+old_jail_int
 old_jail_int_shadowproxy
 old_jail_shell
 old_jail_shell+hidr

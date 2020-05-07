@@ -1,0 +1,3 @@
+creatures_bird@pelican@normal@idle@variation@idle_a
+creatures_bird@pelican@normal@idle@variation@idle_b
+creatures_bird@pelican@normal@idle@variation@idle_c

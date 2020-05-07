@@ -12,7 +12,11 @@ bla_bank_int_mcp_shell+hidr
 bla_bank_int_office_details
 bla_bank_int_office_details+hidr
 bla_bank_int_shadowproxy
+bla_bank_int_shell_txd
+bla_bank_int_txd
+bla_bank_int_txd+hi
 bla_bank_int_vault
 bla_bank_int_vault+hidr
 bla_bank_lightbox
 bla_bank_lightbox001
+hi@bla_bank_int

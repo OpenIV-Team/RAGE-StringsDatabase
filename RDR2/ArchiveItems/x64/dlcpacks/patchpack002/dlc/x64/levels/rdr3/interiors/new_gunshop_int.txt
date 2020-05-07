@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@new_gunshop_int
 new_gun_decal
 new_gun_decal+hidr
 new_gun_details1

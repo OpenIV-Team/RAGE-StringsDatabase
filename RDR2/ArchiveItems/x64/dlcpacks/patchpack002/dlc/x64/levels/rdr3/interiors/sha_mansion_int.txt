@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@sha_mansion_int
 p_arthur_nightstand04x
 p_lantern05xint_rsref008
 sha_ammo_crate05x
@@ -71,8 +72,10 @@ sha_man_floor02
 sha_man_floor02+hidr
 sha_man_hall_decals
 sha_man_hall_trim
+sha_man_int
 sha_man_int_commode
 sha_man_int_commode004
+sha_man_int_shell
 sha_man_kitch_decals004
 sha_man_kitch_decals01
 sha_man_kitch_decals02

@@ -1,1 +1,3 @@
 _manifest
+mega_mech_wagon@standard@front@fl@enter@get_in
+mega_mech_wagon@standard@front@fr@enter@get_in

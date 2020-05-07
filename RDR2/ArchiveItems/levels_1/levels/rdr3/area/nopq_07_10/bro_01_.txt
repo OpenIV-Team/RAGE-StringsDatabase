@@ -1,5 +1,6 @@
 _manifest
 bro_01_
+bro_01_+hi
 bro_grounddecal
 bro_grounddecal+hidr
 bro_p_rockwall_02_slod

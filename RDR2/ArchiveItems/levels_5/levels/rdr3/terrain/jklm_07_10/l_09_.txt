@@ -1,6 +1,9 @@
 _cache
 _manifest
 l_09_
+l_09__bkt_1
+l_09__bkt_2
+l_09__bkt_3
 l_09__d_0012
 l_09__d_155
 l_09__hd_0_0_0
@@ -73,6 +76,7 @@ l_09__hd_0_-4_-3
 l_09__hd_0_-4_-4
 l_09__hd_0_-4_-4+hidr
 l_09__mud_decal001
+l_09_+hi
 l_09_02_decal_01
 l_09_02_decal_02
 l_09_03_decal001

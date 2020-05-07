@@ -16,6 +16,8 @@ sha_01_pearson_low_lvl007
 sha_01_pearsonmisc03
 sha_01_pearsonmisc04
 sha_01_pearsonsup_low
+sha_01_txd1
+sha_01_txd4
 sha_01_vfx_001
 sha_01_vfx_002
 sha_01_vfx_003

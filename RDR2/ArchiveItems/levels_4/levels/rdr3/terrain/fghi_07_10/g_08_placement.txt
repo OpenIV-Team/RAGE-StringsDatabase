@@ -1,4 +1,6 @@
 _cache
 _manifest
 g_08_placement
+g_08_placement_strm
+g_08_placement_strm_0
 g_08p_g_08_placement_dummy

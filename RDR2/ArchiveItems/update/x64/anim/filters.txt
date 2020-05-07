@@ -1,4 +1,9 @@
+creature_arthropod
+creature_bird
+creature_mammal
+creature_reptile
 gatlingmaxim02
 handcart
 horse
+player
 rowboat

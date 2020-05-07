@@ -1,1 +1,11 @@
 _manifest
+mega_amb_camp@fire_sit_ground_male_a@be
+mega_amb_camp@jack_sleep@be
+mega_amb_camp@seat_chair_stew_resting_male_b@rl
+mega_amb_camp@seat_chair_table_stew_eating_male_a@be
+mega_amb_camp@seat_chair_table_stew_eating_male_a@rl
+mega_amb_camp@seat_chair_table_stew_eating_male_b@be
+mega_amb_camp@seat_chair_table_stew_eating_male_b@rl
+mega_amb_camp@seat_chair_table_stew_resting_female_a@rl
+mega_amb_camp@seat_chair_table_stew_resting_male_a@rl
+mega_amb_camp@seat_chair_table_stew_resting_male_b@rl

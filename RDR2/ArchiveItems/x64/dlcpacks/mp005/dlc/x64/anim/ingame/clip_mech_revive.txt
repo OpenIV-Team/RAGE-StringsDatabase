@@ -1,0 +1,4 @@
+mech_revive
+mech_revive@mp@action
+mech_revive@mp@crouched
+mech_revive@mp@normal

@@ -1,0 +1,2 @@
+veh_coach@small@rear@leftside@rl@in_seat@male@base@sitting@idle
+veh_coach@standard@exterior@fl@in_seat@male@shuffle

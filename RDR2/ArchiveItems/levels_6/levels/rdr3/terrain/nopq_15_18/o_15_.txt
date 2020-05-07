@@ -3,6 +3,7 @@ _manifest
 o_15_
 o_15___decal002
 o_15___decal006
+o_15__bkt_2
 o_15__hd_0_0_0
 o_15__hd_0_0_1
 o_15__hd_0_0_-1
@@ -76,10 +77,12 @@ o_15__junction_d_02
 o_15__junction_d_03
 o_15__junction_d001
 o_15__roaders
+o_15_+hi
 o_15_02_rail_decal_01
 o_15_02_rail_decal_02
 o_15_04_rail_decal_01
 o_15_04_rail_decal_02
 o_15_04_rail_decal_03
 o_15_05_rail_decal_01
+o_15_decal
 o_15_decal007

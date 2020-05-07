@@ -18,6 +18,11 @@ coo_01__rubblebits_b
 coo_01__rubblebits_c
 coo_01__rubblebits_d
 coo_01__rubblebits_e
+coo_01_0
+coo_01_1
+coo_01_2
+coo_01_3
+coo_01_4
 coo_01_church_wall
 coo_01_church_wall_glue
 coo_01_church_wall_glue+hidr
@@ -67,3 +72,13 @@ coo_01_stable_bb_vfx
 coo_01_stable_bb+hidr
 coo_01_walldebris_01
 coo_01_walldebris_02
+hi@coo_01_0
+hi@coo_01_1
+hi@coo_01_2
+hi@coo_01_3
+hi@coo_01_4
+hi@coo_01_5
+hi@coo_01_6
+hi@coo_01_7
+hi@coo_01_8
+hi@coo_01_9

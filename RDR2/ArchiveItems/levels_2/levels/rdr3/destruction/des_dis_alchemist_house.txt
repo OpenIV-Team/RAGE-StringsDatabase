@@ -1,4 +1,5 @@
 _manifest
+des_dis_alchemist
 des_dis_alchemist_01
 des_dis_alchemist_02
 des_dis_alchemist_02+hidr
@@ -15,3 +16,4 @@ des_dis_alchemist_09+hidr
 des_dis_alchemist_10
 des_dis_alchemist_10+hidr
 des_dis_alchemist_house
+des_dis_alchemist+hi

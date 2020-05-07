@@ -1,0 +1,5 @@
+veh_cart_large@standard@front@fl@exit@to@land@normal@get_out@male
+veh_cart_large@standard@front@fl@exit@to@land@normal@get_out_start@male
+veh_cart_large@standard@front@fr@exit@to@land@normal@get_out@male
+veh_cart_large@standard@front@fr@exit@to@land@normal@get_out_start@male
+veh_cart_large@standard@front@fr@in_seat@male@shuffle

@@ -11,6 +11,8 @@ p_bee_building_09
 p_bee_building_10
 p_bee_building_11
 p_bee_building_12
+p_bee_buildings
+p_bee_buildings+hi
 p_beech_stage_00a
 p_beech_stage_00b
 p_beech_stage_01a
@@ -56,6 +58,8 @@ p_beech_stage_06h
 p_outhouse
 p_outhouse_script_pee
 p_outhouse_script_pee+hi
+p_outhouse_val
+p_outhouse_val+hi
 p_outhouse_valb
 p_outhouse03x
 p_outhouse03x+hidr
@@ -67,3 +71,5 @@ p_pronghorn_fence_01a
 p_pronghorn_fence_01b
 p_pronghorn_fence_01c
 p_pronghorn_fence_01d
+p_pronghorn_fence_minigame
+p_pronghorn_fence_minigame+hi

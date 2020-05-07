@@ -33,4 +33,10 @@ p_tree_joshua_02d+hifr
 p_tree_joshua_02e
 p_tree_joshua_02e_os
 p_tree_joshua_02e+hifr
+prop_cactus
+prop_cactus+hi
+prop_joshua1
+prop_joshua1+hi
+prop_joshua2
+prop_joshua2+hi
 rdr_cacti

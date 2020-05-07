@@ -1,5 +1,9 @@
 _manifest
 mp005_example_thickness
+mp005_heirlooms_boxwood
+mp005_heirlooms_crvdwood
+mp005_heirlooms_ivory_hp
+mp005_heirlooms_metal
 mp005_s_hl_br_boarbristle
 mp005_s_hl_br_boarbristle+hidr
 mp005_s_hl_br_ebny

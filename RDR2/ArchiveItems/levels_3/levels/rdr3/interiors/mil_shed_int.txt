@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@mil_shed_int
 mil_shed_int
 mil_shed_int_shell
 mil_shed_int_shell+hidr

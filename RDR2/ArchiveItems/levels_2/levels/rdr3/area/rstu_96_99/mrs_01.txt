@@ -1,5 +1,7 @@
 _cache
 _manifest
+hi@mrs_01_0
+hi@mrs_01_1
 mrs_01__mrs_walldebris_01
 mrs_01__mrs_walldebris_02
 mrs_01__mrs_walldebris_03
@@ -7,6 +9,7 @@ mrs_01__mrs_walldebris_04
 mrs_01__mrs_walldebris_07
 mrs_01__mrs_walldebris_07+hidr
 mrs_01__mrs01_combo_slod
+mrs_01_0
 mrs_01_station
 mrs_01_station_debris05
 mrs_01_station_debris05+hidr

@@ -1,0 +1,6 @@
+blips_tu
+inventory_items_tu
+itemtype_textures
+menu_textures
+multiwheel_weapons
+satchel_textures

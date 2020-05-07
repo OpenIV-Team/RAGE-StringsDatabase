@@ -11,6 +11,8 @@ eme_genstore_int_extension
 eme_genstore_int_extension+hidr
 eme_genstore_int_floorstore
 eme_genstore_int_floorstore+hidr
+eme_genstore_int_shell
+eme_genstore_int_shell+hi
 eme_genstore_int_skylight
 eme_genstore_int_skylight+hidr
 eme_genstore_int_stand
@@ -20,5 +22,7 @@ eme_genstore_int_storepipe
 eme_genstore_int_storeroof
 eme_genstore_int_storeshelving
 eme_genstore_int_storeshelving+hidr
+eme_genstore_int+hi
 eme_storewalls
 eme_storewalls+hidr
+hi@eme_genstore_int

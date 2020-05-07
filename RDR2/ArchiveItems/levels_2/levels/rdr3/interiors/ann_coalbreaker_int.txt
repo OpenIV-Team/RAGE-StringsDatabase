@@ -9,6 +9,7 @@ ann_coalbreaker_floor+hidr
 ann_coalbreaker_floordetail
 ann_coalbreaker_floordetail02
 ann_coalbreaker_int
+ann_coalbreaker_int_main
 ann_coalbreaker_int_ref
 ann_coalbreaker_int_ref+hidr
 ann_coalbreaker_lightbox
@@ -23,3 +24,5 @@ ann_coalbreaker_supports_03
 ann_coalbreaker_supportsa
 ann_coalbreaker_supportsb
 ann_coalbreaker_wires
+ann_coalbreaker1
+ann_coalbreaker1+hi

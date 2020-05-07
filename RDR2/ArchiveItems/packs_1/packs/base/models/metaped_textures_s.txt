@@ -1,1 +1,8 @@
 _manifest
+stirrup_hr1_000_c0_003_ab
+stirrup_hr1_002_c0_000_ab
+stirrup_hr1_005_c0_000_ab
+stirrup_hr1_005_c0_000_m
+stirrup_hr1_005_c0_000_nm
+stirrup_hr1_006_c0_000_ab
+stirrup_hr1_007_c0_002_ab

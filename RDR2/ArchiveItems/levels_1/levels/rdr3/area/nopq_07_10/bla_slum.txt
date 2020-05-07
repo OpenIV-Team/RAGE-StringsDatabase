@@ -1,5 +1,6 @@
 _manifest
 bla_slum
+bla_slum_em
 bla_slum_em_slod
 bla_slum_props_debris_00
 bla_slum_props_debris_01
@@ -9,6 +10,9 @@ bla_slum_props_debris_04
 bla_slum_props_debris_05
 bla_slum_props_debris_05+hidr
 bla_slum_props_debris_06
+bla_slum_props_debris_txd
+bla_slum_props_debris_txd+hi
+bla_slum+hi
 bla_slumhouse_01
 bla_slumhouse_01_decals
 bla_slumhouse_01_decals+hidr

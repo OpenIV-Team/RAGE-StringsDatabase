@@ -1,5 +1,7 @@
 _manifest
 p_hang_frags
+p_hang_frags_txd
+p_hang_frags_txd+hi
 p_hng_ent_01
 p_hng_stb_01
 p_hng_stb_02

@@ -1,0 +1,4 @@
+amb_rest_lean@world_human_lean@bar@read_newspaper@male_d@idle_a
+amb_rest_lean@world_human_lean@bar@read_newspaper@male_d@idle_b
+amb_rest_lean@world_human_lean@bar@read_newspaper@male_d@idle_c
+amb_rest_lean@world_human_lean@bar@read_newspaper@male_d@stand_exit

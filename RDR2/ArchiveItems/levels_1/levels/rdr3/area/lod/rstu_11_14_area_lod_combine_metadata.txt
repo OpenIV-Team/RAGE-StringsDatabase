@@ -1,5 +1,12 @@
 _cache
 _manifest
 cat_01_
+cat_01__interior_cat_house_01_int_milo_
+cat_01__interior_cat_shack01_int_milo_
+cat_01__long_0
+cat_01__strm_0
 rstu_11_14_area_lod
 shack_sp
+shack_sp_interior_shack_sp_int_milo_
+shack_sp_long_0
+shack_sp_strm_0

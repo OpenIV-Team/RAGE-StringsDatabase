@@ -1,1 +1,4 @@
 _manifest
+mega_mech_gatchuck@enter@get_in
+mega_mech_gatchuck@enter@jack
+mega_mech_gatchuck@exit@get_out

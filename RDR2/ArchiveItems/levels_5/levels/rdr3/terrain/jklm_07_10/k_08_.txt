@@ -1,6 +1,9 @@
 _cache
 _manifest
 k_08_
+k_08__bkt_0
+k_08__bkt_1
+k_08__bkt_2
 k_08__hd_0_0_0
 k_08__hd_0_0_1
 k_08__hd_0_0_-1
@@ -71,9 +74,11 @@ k_08__hd_0_-4_3
 k_08__hd_0_-4_-3
 k_08__hd_0_-4_3+hidr
 k_08__hd_0_-4_-4
+k_08_+hi
 k_08_07_decal001
 k_08_07_decal002
 k_08_07_decal003
 k_08_07_rail_decal_01
 k_08_07_rail_decal_02
 k_08_09_decal001
+k_08_decal

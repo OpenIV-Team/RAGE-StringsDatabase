@@ -678,7 +678,9 @@ player_zero_coat_000_open_custom
 player_zero_coat_001
 player_zero_coat_001_open
 player_zero_coat_001_open_full
+player_zero_coat_002
 player_zero_coat_002_closed_fp
+player_zero_coat_003
 player_zero_coat_004_open_full
 player_zero_coat_005_open_fp
 player_zero_coat_005_open_full
@@ -688,6 +690,7 @@ player_zero_coat_010
 player_zero_coat_011
 player_zero_coat_011_open
 player_zero_coat_011_open_full
+player_zero_coat_012
 player_zero_coat_012_open
 player_zero_coat_012_open_fp
 player_zero_coat_012_open_full

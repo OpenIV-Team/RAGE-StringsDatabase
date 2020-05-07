@@ -9,6 +9,7 @@ van_02_shippingstand
 van_02_shippingstand+hidr
 van_freight_bathsign
 van_freight_bathsign+hidr
+van_horn_02
 van_horn_02_boatsunk
 van_horn_02_boatsunk+hidr
 van_horn_02_depot_ext
@@ -46,6 +47,7 @@ van_horn_02_tradingpost
 van_horn_02_tradingpost_dcl
 van_horn_02_tradingpost_dcl+hidr
 van_horn_02_tradingpost+hidr
+van_horn_02+hi
 van_ruin_rubble
 van_ruin_rubble+hidr
 van02_combo_slod

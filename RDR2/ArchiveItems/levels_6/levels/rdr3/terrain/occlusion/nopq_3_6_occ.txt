@@ -2,3 +2,5 @@ _cache
 _manifest
 nopq_3_6_occ
 nopq_3_6_occ_dontdelete
+nopq_3_6_occ_long_0
+nopq_3_6_occ_strm

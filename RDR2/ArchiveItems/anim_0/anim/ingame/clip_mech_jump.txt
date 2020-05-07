@@ -1,0 +1,8 @@
+mech_jump@arms@2h_melee
+mech_jump@arms@blade
+mech_jump@arms@bow
+mech_jump@arms@lantern
+mech_jump@arms@lasso
+mech_jump@arms@pistol
+mech_jump@arms@rifle
+mech_jump@arms@torch

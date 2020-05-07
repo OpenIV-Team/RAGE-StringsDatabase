@@ -1,9 +1,15 @@
 _manifest
+p_cypresknees_01
+p_cypresknees_01+hi
+p_sap_cypress
 p_sap_cypress_aa_sim
 p_sap_cypress_ab_sim
+p_sap_cypress+hi
+p_sap_palmetto
 p_sap_palmetto_aa_sim
 p_sap_palmetto_ab_sim
 p_sap_palmetto_ac_sim
+p_sap_palmetto+hi
 p_tree_baldcypress_01_dead
 p_tree_baldcypress_01_dead+hidr
 p_tree_baldcypress_01a
@@ -55,3 +61,11 @@ p_tree_stump_01_swamp+hidr
 p_tree_stump_02_swamp
 p_tree_stump_02_swamp+hidr
 swamp
+swamp_cypress_group1
+swamp_cypress_group1+hi
+swamp_cypress_group2
+swamp_cypress_group2+hi
+swamp_cypress_group3
+swamp_cypress_group3+hi
+swamp_cypress_group4
+swamp_cypress_group4+hi

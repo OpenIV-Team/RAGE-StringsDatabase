@@ -1,0 +1,3 @@
+cutscene@trint_int
+cutscene@trint_intb
+cutscene@trint_intc

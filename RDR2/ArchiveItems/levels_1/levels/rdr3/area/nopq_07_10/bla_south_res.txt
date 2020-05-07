@@ -29,6 +29,8 @@ bla_south_res_04_detail_lod
 bla_south_res_04_detail+hidr
 bla_south_res_04_em
 bla_south_res_04+hidr
+bla_south_res_em
+bla_south_res+hi
 blasorepr_combo01_slod
 blasorepr_combo02_slod
 blasorepr_combo03_slod

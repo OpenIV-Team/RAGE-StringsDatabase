@@ -3,3 +3,4 @@ _manifest
 agu_boz0101_int
 agu_f03_pie_03_seats
 agu_f03_pie_03_seats+hidr
+guama_boat_0

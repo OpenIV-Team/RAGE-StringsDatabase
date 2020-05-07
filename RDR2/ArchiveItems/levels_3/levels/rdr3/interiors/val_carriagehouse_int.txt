@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@val_carriagehouse_int
 val_carriage_int_beams
 val_carriage_int_beams+hidr
 val_carriage_int_decals01
@@ -20,3 +21,5 @@ val_carriage_int_stable01
 val_carriage_int_stable02
 val_carriage_lh_01
 val_carriagehouse_int
+val_carriagehouse_int_shell
+val_carriagehouse_int_txd

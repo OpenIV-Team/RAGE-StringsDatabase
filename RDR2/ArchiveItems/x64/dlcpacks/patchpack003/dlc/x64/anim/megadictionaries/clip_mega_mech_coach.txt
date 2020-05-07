@@ -1,1 +1,9 @@
 _manifest
+mega_mech_coach@standard@rear@fl@entry_exit@jack
+mega_mech_coach@standard@rear@fl@in_seat@male@sitting
+mega_mech_coach@standard@rear@fr@entry_exit@jack
+mega_mech_coach@standard@rear@fr@in_seat@male@sitting
+mega_mech_coach@standard@rear@rl@entry_exit@jack
+mega_mech_coach@standard@rear@rl@in_seat@male@sitting
+mega_mech_coach@standard@rear@rr@entry_exit@jack
+mega_mech_coach@standard@rear@rr@in_seat@male@sitting

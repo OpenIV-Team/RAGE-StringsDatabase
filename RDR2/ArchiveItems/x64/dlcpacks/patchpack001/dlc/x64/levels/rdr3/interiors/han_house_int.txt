@@ -23,3 +23,4 @@ han_int_stairs_steps_rails+hidr
 han_int_win_lock_1
 han_int_win_lock_2
 han_int_win_lock_3
+hi@han_house_int

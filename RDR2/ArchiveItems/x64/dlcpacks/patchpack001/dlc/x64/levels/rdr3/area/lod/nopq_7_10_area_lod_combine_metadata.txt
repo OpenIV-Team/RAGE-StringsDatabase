@@ -17,6 +17,7 @@ bla_west_res
 bro_01_
 bur_01
 cas_e_01
+cas_housewares
 cen_e_01_
 cen_h
 ftr_e_01
@@ -26,7 +27,14 @@ ftr_e_tepee
 gre_pla_bridge
 grh_01
 hor_01_
+hso_companion_homerob01
+hso_companion_hunt02
+hso_normal_seats
+hso_p_camp_02
+hso_poker_seats
 lon_01_
+lon_01_odr3_props
+mission_sean_1
 nopq_7_10_area_lod
 nopq_7_10_rails_a
 nopq_7_10_rails_b

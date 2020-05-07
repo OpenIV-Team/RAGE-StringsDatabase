@@ -4,6 +4,7 @@ cle_bankrob2_bpnt+hidr
 cle_billsrugs
 cle_billsrugs_med
 cle_car_01_
+cle_car_01_+hi
 cle_car_01_collisiond
 cle_car_01_dummy
 cle_car_01_strausscs02

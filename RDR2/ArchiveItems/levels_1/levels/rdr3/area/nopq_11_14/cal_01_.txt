@@ -1,7 +1,10 @@
 _manifest
+cal_01
 cal_01_blacksmith_01_vfx
 cal_01_carriage_house_vfx
+cal_01_em
 cal_01_em_slod
+cal_01_em+hi
 cal_01_guesthouse_01_vfx
 cal_01_guesthouse_02_vfx
 cal_01_infirmary_a_vfx
@@ -10,12 +13,15 @@ cal_01_mansion_01_vfx
 cal_01_pig_01_vfx
 cal_01_pig_02_vfx
 cal_01_privy_01_vfx
+cal_01_props_txd
+cal_01_props_txd+hi
 cal_01_smokehouse_vfx
 cal_01_stable_01_vfx
 cal_01_vfx_01
 cal_01_vfx_02
 cal_01_vfx_03
 cal_01_vfx_04
+cal_01+hi
 cal_decal_duckweed_01
 cal_decal_duckweed_01+hidr
 cal_entrance_01

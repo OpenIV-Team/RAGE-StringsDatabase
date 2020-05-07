@@ -21,6 +21,8 @@ cra_01_nets99+hidr
 cra_01_ropes1
 cra_01_ropes2
 cra_01_ropes3
+cra_01_shack_01
+cra_01_shack_01+hi
 cra_01_shack_fort_slod
 cra_01_shack_fortifications
 cra_01_shadowproxy

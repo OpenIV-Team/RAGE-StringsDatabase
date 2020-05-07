@@ -26,4 +26,6 @@ eme_barn_int_ref+hidr
 eme_barn_int_shadowproxy
 eme_barn_int_shell
 eme_barn_int_shell+hidr
+eme_barn_int+hi
 eme_barn_lightbox
+hi@eme_barn_int

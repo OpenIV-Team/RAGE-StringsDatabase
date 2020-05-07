@@ -1,5 +1,12 @@
 _cache
 _manifest
+hi@tum_04_0
+hi@tum_04_1
+hi@tum_04_2
+hi@tum_04_3
+hi@tum_04_4
+hi@tum_04_5
+tum_04_
 tum_04__gravedugcover_sand
 tum_04__gravedugcover_sand+hidr
 tum_04__object022
@@ -8,6 +15,9 @@ tum_04__tumble_wall_glue
 tum_04__tumble_wall_glue+hidr
 tum_04__tumbleweed_wall
 tum_04__tumbleweed_wall+hidr
+tum_04_0
+tum_04_1
+tum_04_2
 tum_04_bridge
 tum_04_bridge_dtl
 tum_04_bridge_dtl+hidr

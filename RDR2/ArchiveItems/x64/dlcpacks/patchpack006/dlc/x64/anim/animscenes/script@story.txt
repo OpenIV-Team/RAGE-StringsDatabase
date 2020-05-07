@@ -1,0 +1,3 @@
+script@story@mob1@leadin@int@int_leadin_fwd
+script@story@mob1@leadin@int@int_leadin_left
+script@story@mob1@leadin@int@int_leadin_right

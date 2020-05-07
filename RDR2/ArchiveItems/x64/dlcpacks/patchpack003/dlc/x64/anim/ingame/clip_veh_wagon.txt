@@ -1,0 +1,9 @@
+veh_wagon@inventory@equip@base@two_seater
+veh_wagon@oilwagon@exterior@ml@in_seat@male@base
+veh_wagon@oilwagon@exterior@ml@in_seat@male@shuffle
+veh_wagon@oilwagon@exterior@mr@in_seat@male@base
+veh_wagon@oilwagon@exterior@mr@in_seat@male@shuffle
+veh_wagon@oilwagon@exterior@rl@in_seat@male@base
+veh_wagon@oilwagon@exterior@rl@in_seat@male@shuffle
+veh_wagon@oilwagon@exterior@rr@in_seat@male@base
+veh_wagon@oilwagon@exterior@rr@in_seat@male@shuffle

@@ -1,5 +1,6 @@
 _manifest
 qua_01_
+qua_01_+hi
 qua_01_decals01
 qua_01_decals01+hidr
 qua_01_docks01d

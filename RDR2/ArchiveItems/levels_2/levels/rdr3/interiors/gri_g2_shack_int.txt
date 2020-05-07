@@ -3,6 +3,9 @@ _manifest
 gri_g2_shack_d
 gri_g2_shack_fire_iron
 gri_g2_shack_int
+gri_g2_shack_int+hi
+gri_g2_shack_shell
+gri_g2_shack_shell+hi
 gri_g2_shk_int_beams
 gri_g2_shk_int_beams+hidr
 gri_g2_shk_int_chimney
@@ -17,3 +20,4 @@ gri_g2_shk_int_misc+hidr
 gri_g2_shk_int_rags
 gri_g2_shk_int_walls
 gri_g2shack_lightbox01
+hi@gri_g2_shack_int

@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@met_house01_int
 met_house_int_carnage
 met_house_int_carnage+hidr
 met_house_int_ceiling
@@ -34,6 +35,7 @@ met_house_int_woodlfoor
 met_house01_int
 met_house01_int_ref
 met_house01_int_ref+hidr
+met_house01_int+hi
 met_house01_shadowproxy
 met_int_cloth
 met_int_cloth+hidr

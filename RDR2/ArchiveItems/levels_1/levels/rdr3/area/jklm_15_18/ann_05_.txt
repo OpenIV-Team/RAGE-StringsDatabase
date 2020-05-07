@@ -41,6 +41,13 @@ ann_05_stable_dec_det
 ann_05_stable_hay
 ann_05_stable_hay+hidr
 ann_05_stable+hidr
+ann_05_txd1
+ann_05_txd1+hi
+ann_05_txd2
+ann_05_txd3
+ann_05_txd3+hi
+ann_05_txd4
+ann_05_txd4+hi
 ann_05_vfx_helper_02
 ann_05_watertower_med_02_glue
 ann_05_watertower_med_02_glue+hidr

@@ -37,3 +37,5 @@ out_c_02_hd_15
 out_c_02_hd_15_lod
 out_c_02_hd_16
 out_c_02_hd_16_lod
+out_c_02_long_0
+out_c_02_strm

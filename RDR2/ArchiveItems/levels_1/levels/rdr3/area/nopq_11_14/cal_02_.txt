@@ -1,4 +1,6 @@
 _manifest
+cal_02
+cal_02_audio_proxy
 cal_02_boathouse_01_vfx
 cal_02_grainshed_01_vfx
 cal_02_grainshed_02_vfx
@@ -6,6 +8,7 @@ cal_02_grainshed_03_vfx
 cal_02_shed_a_vfx
 cal_02_vfx_01
 cal_02_vfx_02
+cal_02+hi
 cal_blacksmith_01
 cal_blacksmith_01+hidr
 cal_blacksmith_01d

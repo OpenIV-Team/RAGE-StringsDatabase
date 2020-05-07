@@ -23,3 +23,4 @@ x64/packs/ped_pack/data/metapeds/metapeds
 x64/packs/ped_pack/data/settings
 x64/packs/ped_pack/models/component_models
 x64/packs/ped_pack/models/component_textures
+x64/textures/peddamagedecals

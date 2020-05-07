@@ -1,8 +1,14 @@
 _cache
 _manifest
+hi@scr_01_0
+hi@scr_01_1
+hi@scr_01_2
+hi@scr_01_3
+hi@scr_01_4
 scr_01__scr_shack_int_lod
 scr_01__scr_woodroof_01
 scr_01__scr01_combo_slod
+scr_01_0
 scr_01_outhouse_vfx
 scr_01_rockpil01
 scr_01_shade_01
@@ -18,5 +24,6 @@ scr_01_stonehs_roof
 scr_01_stonehs_roof_vfx
 scr_01_stonehs_roof+hidr
 scr_01_stonehs_wall_01
+scr_01_txd_01
 scr_01_weed_01
 scr_01_weed_01+hidr

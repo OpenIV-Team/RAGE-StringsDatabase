@@ -1,6 +1,8 @@
 _cache
 _manifest
+hi@pla_01_0
 pla_01__pla01_combo_slod
+pla_01_0
 pla_01_ground_d
 pla_01_ground_d+hidr
 pla_01_newderrick

@@ -2,6 +2,9 @@ _cache
 _manifest
 p_12_
 p_12___decal001
+p_12__bkt_1
+p_12__bkt_2
+p_12__bkt_3
 p_12__hd_0_0_0
 p_12__hd_0_0_1
 p_12__hd_0_0_-1
@@ -81,6 +84,7 @@ p_12__junction_d13
 p_12__junction_d15
 p_12__junction_d16
 p_12__junction_d17
+p_12_+hi
 p_12_00_rail_decal_02
 p_12_00_rail_decal_03
 p_12_00_rail_decal_04
@@ -98,6 +102,7 @@ p_12_08_rail_decal_01
 p_12_08_rail_decal_02
 p_12_08_rail_decal_03
 p_12_10_decal_01
+p_12_decal
 p_12_decal_road
 p_12_junc_d_17
 p_12_junc_d_18

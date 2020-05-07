@@ -1,4 +1,6 @@
 _manifest
+mp005_mpcover_spc
+mp005_mpcover_spc+hi
 mp005_p_mp_cover_h_spc
 mp005_p_mp_cover_h_spc+hifr
 mp005_p_mp_cover_hl_spc

@@ -1,7 +1,11 @@
 _cache
 _manifest
 dis_tal_00
+dis_tal_00_strm
+dis_tal_00_strm_0
 dis_tal_pit_cover_lod
 dis_tal_pit_discoverablecover
 dis_tal_pit_discoverablecover+hidr
 dis_tal_pit_discoveralbe_lod
+re_sp_savagewarning_01
+re_sp_savagewarning_02

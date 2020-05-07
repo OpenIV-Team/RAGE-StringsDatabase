@@ -2,5 +2,7 @@ _cache
 _manifest
 scw_cwb_shack_ext_d
 scw_cwb_shack_ext_d+hidr
+scw_shack_cwb
 scw_shack_cwb_ext
 scw_shack_cwb_ext+hidr
+scw_shack_cwb+hi

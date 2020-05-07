@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@new_gang01_int
 new_gang01_decal_down
 new_gang01_decal_down+hidr
 new_gang01_decal_up

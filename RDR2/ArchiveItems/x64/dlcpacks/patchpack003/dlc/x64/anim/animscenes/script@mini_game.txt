@@ -1,0 +1,7 @@
+script@mini_game@poker@deal
+script@mini_game@poker@deal_casino
+script@mini_game@poker@fem_deal
+script@mini_game@poker@prepostgame_base
+script@mini_game@poker@prepostgame_deal
+script@mini_game@poker@prepostgame_female
+script@mini_game@poker@prepostgame_relaxed

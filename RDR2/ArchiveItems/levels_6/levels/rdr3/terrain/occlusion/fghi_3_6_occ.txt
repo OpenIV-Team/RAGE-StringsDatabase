@@ -2,3 +2,5 @@ _cache
 _manifest
 fghi_3_6_donotremove
 fghi_3_6_occ
+fghi_3_6_occ_long_0
+fghi_3_6_occ_strm

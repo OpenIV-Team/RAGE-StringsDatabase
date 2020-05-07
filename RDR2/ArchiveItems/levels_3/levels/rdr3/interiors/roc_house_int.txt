@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@roc_house_int
 roc_dirt_stains
 roc_dirt_stains02
 roc_dirt_stains03

@@ -18,4 +18,6 @@ bla_carriage_shadowproxy
 bla_carriagehouse_int
 bla_carriagehouse_int_ref
 bla_carriagehouse_int_ref+hidr
+bla_carriagehouse_int+hi
 bla_carriagehouse_lightbox
+hi@bla_carriagehouse_int

@@ -1,4 +1,6 @@
 _manifest
+shk_house_mh
+shk_house_mh+hi
 shk_mh_house_01
 shk_mh_house_01_dcl
 shk_mh_house_01_dcl+hidr

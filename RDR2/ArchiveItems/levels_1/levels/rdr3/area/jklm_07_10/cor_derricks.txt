@@ -14,10 +14,15 @@ cor_derrick_pipe_11
 cor_derrick_pipes_009
 cor_derrick_wdbrd1
 cor_derricks
+cor_derricks_audio
 cor_derricks_d_trash_01
 cor_derricks_d_trash_02
 cor_derricks_d_trash_03
 cor_derricks_d_trash_04
+cor_derricks_des
+cor_derricks_des+hi
+cor_derricks_es
+cor_derricks_es+hi
 cor_derricks_glue_01
 cor_derricks_glue_01+hidr
 cor_derricks_ladr_084
@@ -44,6 +49,7 @@ cor_derricks_vfx_helper
 cor_derricks_vfx_helper01
 cor_derricks_vfx_helper02
 cor_derricks_vfx_helper03
+cor_derricks+hi
 cor_es_module_01
 cor_es_module_01_slod
 cor_es_module_01+hidr

@@ -1,1 +1,3 @@
 _manifest
+mega_mech_weapons_longarms@crouch
+mega_mech_weapons_longarms@stand

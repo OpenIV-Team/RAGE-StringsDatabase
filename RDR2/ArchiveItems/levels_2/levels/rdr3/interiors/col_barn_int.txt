@@ -11,7 +11,9 @@ col_barn_int
 col_barn_int_ref
 col_barn_int_ref+hidr
 col_barn_int_shadow_proxy
+col_barn_int+hi
 col_barn_lightbox
 col_barn_log_ends
 col_barn_ropes
 col_barn_walls
+hi@col_barn_int

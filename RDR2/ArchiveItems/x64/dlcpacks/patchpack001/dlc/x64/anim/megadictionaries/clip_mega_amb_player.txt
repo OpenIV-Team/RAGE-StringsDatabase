@@ -1,1 +1,2 @@
 _manifest
+mega_gen@amb_player@rifle_pickup_lean_arthur

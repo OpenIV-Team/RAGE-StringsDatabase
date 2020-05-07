@@ -10,6 +10,9 @@ reg_roa_00_booby_trap_dec
 reg_roa_00_booby_trap_dec+hidr
 reg_roa_00_mine_lod
 reg_roa_00_mine_slod
+reg_roa_00+hi
+reg_roa_14p_14_balloon
+reg_roa_14p_14_balloon+hi
 reg_roa_des_02x_end
 reg_roa_des_02x_end+hidr
 reg_roa_des_02x_start
@@ -18,9 +21,15 @@ reg_roa_des_0a01x_start
 reg_roa_des_0b01x_end
 reg_roa_des_0b01x_start
 reg_roa_des_0b01x_start+hidr
+reg_roa_des_trap_roa0a01x
+reg_roa_des_trap_roa0a01x+hi
+reg_roa_des_trap_roa0b01x
+reg_roa_des_trap_roa0b01x+hi
 reg_roa_des_trn4_derail_end
 reg_roa_des_trn4_derail_end+hidr
 reg_roa_des_trn4_derail_start
+reg_roa_des_trn4_train_derail
+reg_roa_des_trn4_train_derail+hi
 reg_roa_l_15_boobytrap_01
 reg_roa_l_15_boobytrap_01+hidr
 reg_roa_l_15_notrap_01
@@ -33,5 +42,6 @@ reg_roa_penwalls_dec
 reg_roa_penwalls_dec+hidr
 reg_roa_penwalls_l
 reg_roa_penwalls_l_lod
+reg_roa_platform
 reg_roa_serp_scm_q_13_02
 reg_roa_serp_scm_q_13_02+hidr

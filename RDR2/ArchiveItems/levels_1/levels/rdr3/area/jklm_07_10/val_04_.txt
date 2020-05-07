@@ -1,4 +1,6 @@
 _manifest
+val_04
+val_04__em
 val_04__em_slod
 val_04__em001
 val_04__em002
@@ -6,6 +8,7 @@ val_04__em003
 val_04__em003_re
 val_04_audioproxy
 val_04_curtain_ipl_noentry
+val_04+hi
 val_auc_dcl
 val_auchouse_ext
 val_auchouse_ext+hidr

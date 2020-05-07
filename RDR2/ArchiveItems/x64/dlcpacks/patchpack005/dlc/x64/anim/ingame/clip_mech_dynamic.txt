@@ -1,0 +1,1 @@
+mech_dynamic@prop_player_dynamic_seat_chair_table@arthur@trans

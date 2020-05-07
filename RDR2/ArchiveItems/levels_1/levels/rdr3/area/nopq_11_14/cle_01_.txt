@@ -7,7 +7,13 @@ cle_01_deadfish_01
 cle_01_deadfish_02
 cle_01_deadfish_03
 cle_01_deadfish_03+hidr
+cle_01_deadfish_txd
+cle_01_deadfish_txd+hi
 cle_01_wagon_slod
+cle_01_wall
+cle_01_wall+hi
+cle_02
+cle_02+hi
 cle_boatsm02x
 cle_boatsm02x_lod
 cle_boatsm02x+hidr

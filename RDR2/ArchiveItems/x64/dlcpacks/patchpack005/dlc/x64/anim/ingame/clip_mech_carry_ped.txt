@@ -1,0 +1,2 @@
+mech_carry_ped@dead@throw_body
+mech_carry_ped@dead@throw_body@into_wagon

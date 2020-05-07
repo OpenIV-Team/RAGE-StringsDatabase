@@ -1,5 +1,10 @@
 _cache
 _manifest
+hi@mfr_03_0
+hi@mfr_03_1
+hi@mfr_03_2
+hi@mfr_03_3
+mfr_03__mfr_03
 mfr_03__mfr03_combo07_slod
 mfr_03__mfr03_combo08_slod
 mfr_03__mfr03_combo09_slod
@@ -8,6 +13,8 @@ mfr_03__mfr03_combo11_slod
 mfr_03__mfr03_combo12_slod
 mfr_03__struc33
 mfr_03__struc33+hidr
+mfr_03_0
+mfr_03_1
 mfr_03_ground_02_d
 mfr_03_ground_02_d+hidr
 mfr_03_shack01

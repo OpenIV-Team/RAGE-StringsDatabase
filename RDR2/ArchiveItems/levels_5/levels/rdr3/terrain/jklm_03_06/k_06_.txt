@@ -9,6 +9,9 @@ k_06___decal007
 k_06___decal008
 k_06___decal009
 k_06___decal013
+k_06__bkt_0
+k_06__bkt_1
+k_06__bkt_2
 k_06__decal014
 k_06__decal015
 k_06__hd_0_0_0
@@ -78,5 +81,6 @@ k_06__hd_0_-4_-2
 k_06__hd_0_-4_3
 k_06__hd_0_-4_-3
 k_06__hd_0_-4_-4
+k_06_+hi
 k_06_decal016
 k_06_finale_decal

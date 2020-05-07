@@ -1,6 +1,10 @@
 _manifest
 app_e_01_forcnpy_01
 app_e_01_forcnpy_01+hifr
+merkincloth
+merkincloth+hi
+p_awning
+p_awning+hi
 p_awning03_h
 p_awning06_h
 p_awning66x
@@ -25,6 +29,7 @@ p_bannerbalcony01x
 p_bannerbalcony01x+hifr
 p_bloodyhangrag01x
 p_bloodyhangrag02x
+p_bloodyrag
 p_bloodytablerag01x
 p_butchdetails01x
 p_butchdetails01x+hifr
@@ -35,6 +40,8 @@ p_canopyframelg+hifr
 p_canopyframesm
 p_canopyframesm+hifr
 p_cloth
+p_clothbalcony
+p_clothbalcony+hi
 p_clothbalconya01x
 p_clothbalconyb01x
 p_clothbalconyb01x+hifr
@@ -42,6 +49,8 @@ p_clothbalconyc01x
 p_clothbalconyd01x
 p_clothbalconye01x
 p_clothbalconyf01x
+p_clothcurtain
+p_clothcurtain+hi
 p_clothcurtain01x
 p_clothcurtain02x
 p_clothcurtain02x+hifr
@@ -52,6 +61,10 @@ p_clothcurtain06x
 p_clothcurtain07x
 p_clothcurtain08x
 p_clothcurtain09x
+p_clothcurtain1
+p_clothcurtain1+hi
+p_clothcurtain56
+p_clothcurtain56+hi
 p_clothdoors01x
 p_clothdoors02x
 p_cs_clothstack01x
@@ -77,11 +90,13 @@ p_merkincloth01x
 p_merkincloth02x
 p_merkincloth04x
 p_merkincloth04x+hifr
+p_tornclothobjets
 p_tornclothobjets_01x
 p_tornclothobjets_02x
 p_tornclothobjets_03x
 p_tornclothobjets_04x
 p_tornclothobjets_05x
+p_tornclothobjets+hi
 p_valauctarp01x
 p_valauctarp01x+hifr
 p_veh_flatcarcloth01x

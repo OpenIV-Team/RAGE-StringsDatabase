@@ -1,0 +1,12 @@
+veh_boat@keelboat@rear@in_seat@male@base@idle
+veh_boat@steamboat@rear@common@enter@from@water@back@normal@boarding@male
+veh_boat@steamboat@rear@common@enter@from@water@left@normal@boarding@male
+veh_boat@steamboat@rear@common@enter@from@water@right@normal@boarding@male
+veh_boat@steamboat@rear@enter@from@onboard@normal@align@male
+veh_boat@steamboat@rear@exit@to@onboard@normal@get_out_start@male
+veh_boat@steamboat@rear@exit@to@water@left@normal@get_out_start@male
+veh_boat@steamboat@rear@exit@to@water@right@normal@get_out_start@male
+veh_boat@steamboat@rear@in_seat@male@base@idle
+veh_boat@steamboat@rear@in_seat@male@shunt
+veh_boat@steamboat@rear@rl@enter@from@back@normal@get_in@male
+veh_boat@steamboat@rear@rl@enter@from@left@normal@get_in@male

@@ -5,3 +5,5 @@ ssc_cabin_01_dec
 ssc_cabin_01+hidr
 ssc_cabin_02
 ssc_cabin_02+hidr
+ssc_shack_sc_txd
+ssc_shack_sc_txd+hi

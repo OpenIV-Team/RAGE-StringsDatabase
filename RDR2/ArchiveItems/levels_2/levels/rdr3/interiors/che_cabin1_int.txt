@@ -4,6 +4,7 @@ che_cabin_floor
 che_cabin_floor+hidr
 che_cabin_lightbox001
 che_cabin_lightbox02
+che_cabin1
 che_cabin1_bed_02_decals
 che_cabin1_bed01_blnkts
 che_cabin1_bed01_blnkts+hidr
@@ -34,6 +35,7 @@ che_cabin1_int
 che_cabin1_int_broken2
 che_cabin1_int_intact
 che_cabin1_int_shell
+che_cabin1_int+hi
 che_cabin1_kitchen
 che_cabin1_kitchen_broken
 che_cabin1_kitchen+hidr

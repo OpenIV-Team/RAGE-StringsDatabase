@@ -1,0 +1,6 @@
+mech_crouch@generic@base
+mech_crouch@generic@weapon@longarms@carbine
+mech_crouch@generic@weapon@shortarms@cattleman
+mech_crouch@player@zero@generic@base
+mech_crouch@snow
+mech_crouch@test

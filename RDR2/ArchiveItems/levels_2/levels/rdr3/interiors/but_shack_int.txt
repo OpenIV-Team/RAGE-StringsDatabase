@@ -12,4 +12,6 @@ but_shack_int_shell
 but_shack_int_shell_ref
 but_shack_int_shell_ref+hidr
 but_shack_int_shell+hidr
+but_shack_int+hi
 but_shack_lightbox
+hi@but_shack_int

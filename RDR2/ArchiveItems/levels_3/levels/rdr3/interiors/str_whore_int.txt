@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@str_whore_int
 str_04_main_detail
 str_04_main_detail+hidr
 str_04_mainroom
@@ -13,6 +14,8 @@ str_whore_int
 str_whore_int_ref_proxy_b
 str_whore_int_ref_proxy_d
 str_whore_int_ref_proxy_e
+str_whore_int_shell_txd
+str_whore_int_txd
 str_whr_bath_wins
 str_whr_bedroom1_trim
 str_whr_bedroom2_mirror

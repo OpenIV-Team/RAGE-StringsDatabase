@@ -1,4 +1,5 @@
 _manifest
+new_boats_03_txd1
 new_boats_crane_02
 new_boats_crane_02_slod
 new_boats_shp_10_cabin

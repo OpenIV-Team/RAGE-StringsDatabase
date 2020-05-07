@@ -3,6 +3,7 @@ _manifest
 q03_04_tunnel_int
 q0304_tunlintblok1
 q0304_tunnel__rocks
+q0304_tunnel_int
 q0304_tunnel_rail
 q0304_tunnel_rail_ties
 q0304_tunnel_shell

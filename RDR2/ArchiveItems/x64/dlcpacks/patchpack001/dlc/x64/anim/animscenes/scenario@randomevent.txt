@@ -1,0 +1,2 @@
+scenario@randomevent@town_widow@refuse_money
+scenario@randomevent@town_widow@take_money

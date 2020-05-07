@@ -30,4 +30,5 @@ new_gar_05_saintdenis_sign+hidr
 new_gar_05_stables01
 new_gar_05_tenanthouse01
 new_gar_05_tenanthouse01+hidr
+new_gar_05_txd1
 new_gar_05_water

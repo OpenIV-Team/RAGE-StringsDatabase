@@ -1,1 +1,6 @@
 _manifest
+mega_gen@mech_loco_m@character@john_marston@normal@unarmed
+mega_gen@mech_loco_m@character@john_marston@normal@unarmed@walk
+mega_gen@mech_loco_m@generic@landing@unarmed@crouch@heavy
+mega_gen@mech_loco_m@generic@landing@unarmed@crouch@light
+mega_gen@mech_loco_m@generic@landing@unarmed@crouch@medium

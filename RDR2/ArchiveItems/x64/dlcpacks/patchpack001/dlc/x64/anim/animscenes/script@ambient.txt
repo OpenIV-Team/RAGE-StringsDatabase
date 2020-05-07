@@ -1,0 +1,7 @@
+script@ambient@animal@bucks_fighting@action
+script@ambient@campfiregang@inbreds@hat
+script@ambient@campfiregeneral@butcher_bleed_hanging_carcass@action
+script@ambient@campfiregeneral@butcher_hang_carcass@action
+script@ambient@campfiregeneral@dog_jump_up_down_bed@action
+script@ambient@campfiregeneral@seat_chair_pet_dog_sitting@female_pet_dog
+script@ambient@campfiregeneral@seat_chair_pet_dog_sitting@male_pet_dog

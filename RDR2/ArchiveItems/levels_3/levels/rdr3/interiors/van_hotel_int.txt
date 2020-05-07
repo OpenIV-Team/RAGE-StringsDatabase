@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@van_hotel_int
 van_hotel_int
 van_hotel_int_floor_shell
 van_hotel_int_floor_shell+hidr

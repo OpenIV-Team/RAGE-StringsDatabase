@@ -3,3 +3,6 @@ _manifest
 amb_blue_2
 amb_blue_2+hidr
 amb_camps_blu_00
+amb_camps_blu_00_strm
+amb_camps_blu_00_strm_0
+blu_2_rope_end

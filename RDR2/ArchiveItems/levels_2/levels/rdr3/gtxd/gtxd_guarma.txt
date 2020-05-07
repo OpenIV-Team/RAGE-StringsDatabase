@@ -1,1 +1,15 @@
 _manifest
+agu
+agu_01_gtxd
+agu_01_gtxd+hi
+agu_02_gtxd
+agu_02_gtxd+hi
+agu_020405_gtxd
+agu_020405_gtxd+hi
+agu_05_gtxd
+agu_05_gtxd+hi
+agu+hi
+aguas
+aguas+hi
+guarma
+guarma+hi

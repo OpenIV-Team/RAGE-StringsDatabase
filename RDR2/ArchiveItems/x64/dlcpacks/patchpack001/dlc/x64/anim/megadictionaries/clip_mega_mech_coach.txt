@@ -1,1 +1,5 @@
 _manifest
+mega_mech_coach@small@rear@leftside@enter@abort
+mega_mech_coach@small@rear@leftside@enter@get_in
+mega_mech_coach@small@rear@rightside@enter@abort
+mega_mech_coach@small@rear@rightside@enter@get_in

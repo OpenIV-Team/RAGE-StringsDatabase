@@ -1,0 +1,6 @@
+script@titles@title_ch3_clemens
+script@titles@title_ch4_saintdenis
+script@titles@title_ch5_guarma
+script@titles@title_ch8_epilogue1
+script@titles@title_gen_fewdayslater_onblack
+script@titles@title_gen_fewweekslater_onblack

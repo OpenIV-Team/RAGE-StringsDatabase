@@ -2,3 +2,5 @@ _cache
 _manifest
 gua_out_d_03
 gua_out_d_03_01
+gua_out_d_03_long_0
+gua_out_d_03_strm

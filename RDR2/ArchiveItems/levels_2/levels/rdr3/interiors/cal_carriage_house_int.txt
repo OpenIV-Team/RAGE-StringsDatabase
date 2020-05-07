@@ -14,6 +14,7 @@ cal_carriage_house_int
 cal_carriage_house_int_ref
 cal_carriage_house_int_ref+hidr
 cal_carriage_house_int_sprxy
+cal_carriage_house_int+hi
 cal_carriage_ladder
 cal_carriage_ladder+hidr
 cal_carriage_portalobject00
@@ -25,5 +26,6 @@ cal_carriage_ropes02
 cal_carriage_shell
 cal_carriage_shell+hidr
 cal_lightholder
+hi@cal_carriage_house_int
 p_wagoncloth
 p_wagoncloth+hidr

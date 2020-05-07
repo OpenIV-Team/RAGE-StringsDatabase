@@ -1,0 +1,8 @@
+mech_melee@blade@_male@_ambient@_healthy@_noncombat
+mech_melee@bow@_male@_ambient@_healthy@_noncombat
+mech_melee@hatchet@_male@_ambient@_healthy@_noncombat
+mech_melee@lasso@_male@_ambient@_healthy@_noncombat
+mech_melee@pistol@_male@_ambient@_healthy@_noncombat
+mech_melee@rifle@_male@_ambient@_healthy@_noncombat
+mech_melee@unarmed@_male@_ambient@_healthy@_noncombat
+mech_melee@unarmed@posse@ambient@healthy@noncombat

@@ -13,7 +13,11 @@ bla_dock_platform+hidr
 bla_dock_props_debris_00
 bla_dock_props_debris_01
 bla_dock_props_debris_01+hidr
+bla_dock_props_debris_txd
+bla_dock_props_debris_txd+hi
 bla_dock_supportsb_decals
 bla_dock01
 bla_dock01+hidr
+bla_docks
+bla_docks+hi
 bladopr_combo02_dslod

@@ -1,4 +1,6 @@
 _cache
 _manifest
 win1_intro_placement
+win1_intro_placement_strm
+win1_intro_placement_strm_0
 win1_intro_testbox

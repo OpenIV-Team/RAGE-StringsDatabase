@@ -1,4 +1,6 @@
 _manifest
+hickory
+hickory+hi
 p_tree_apple_01
 p_tree_apple_01+hidr
 p_tree_burntstump_01
@@ -9,8 +11,10 @@ p_tree_hickory_01
 p_tree_hickory_01+hidr
 p_tree_hickory_02
 p_tree_hickory_02+hidr
+p_tree_orange
 p_tree_orange_01
 p_tree_orange_01+hifr
+p_tree_orange+hi
 p_tree_pine_newburnt_01
 p_tree_pine_newburnt_01+hifr
 p_tree_pine_newburnt_02
@@ -22,4 +26,6 @@ p_tree_pine_newburnt_04+hidr
 p_tree_pine_newburnt_log_01
 p_tree_pine_newburnt_log_02
 p_tree_pine_newburnt_log_02+hidr
+pineburntnewgrowth
+pineburntnewgrowth+hi
 rdr_trees

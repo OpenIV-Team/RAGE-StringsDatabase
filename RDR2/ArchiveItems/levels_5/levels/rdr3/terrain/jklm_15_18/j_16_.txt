@@ -1,6 +1,8 @@
 _cache
 _manifest
 j_16_
+j_16__bkt_0
+j_16__bkt_2
 j_16__hd_0_0_0
 j_16__hd_0_0_1
 j_16__hd_0_0_-1
@@ -69,6 +71,7 @@ j_16__hd_0_-4_-3
 j_16__hd_0_-4_-3+hidr
 j_16__hd_0_-4_-4
 j_16__hd_0_-4_-4+hidr
+j_16_+hi
 j_16_01_decal_01
 j_16_01_decal_01+hidr
 j_16_01_rail_decal

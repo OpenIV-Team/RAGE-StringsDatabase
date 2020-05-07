@@ -33,3 +33,4 @@ bla_saloon_main_detail
 bla_saloon_main_detail+hidr
 bla_saloon_phebooth
 bla_saloon_phebooth+hidr
+hi@bla_saloon_int

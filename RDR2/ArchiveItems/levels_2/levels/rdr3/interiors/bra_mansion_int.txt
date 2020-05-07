@@ -46,6 +46,9 @@ bra_man_int_pictures3
 bra_man_int_pictures3+hidr
 bra_man_int_ref_temp_backup
 bra_man_int_shadowproxy
+bra_man_int_txd
+bra_man_int_txd_shell
+bra_man_int_txd+hi
 bra_man_int_wallcarp_brc
 bra_man_int_windowstatic
 bra_man_int_windowstatic+hidr
@@ -83,6 +86,7 @@ bra_manint_stairs_rails
 bra_manint_wallls02
 bra_manint_wallls02low
 bra_mansion_int
+bra_mansion_int_ref
 bra_mansion_int_ref_d
 bra_mansion_int_ref_e
 bra_mansion_int_ref_g
@@ -91,9 +95,11 @@ bra_mansion_int_ref_i
 bra_mansion_int_ref_j
 bra_mansion_int_ref_k
 bra_mansion_int_ref_l
+bra_mansion_int_ref+hi
 bramanint_kitch01
 bramanint_kitch03
 bramanint_kitch03+hidr
+hi@bra_mansion_int
 new_man_gala_bdfrm
 new_man_gala_bdfrm+hidr
 room_bra_man_ref_a

@@ -14,9 +14,11 @@ val_bank_int_decal1+hidr
 val_bank_int_decal4
 val_bank_int_frontofftrims
 val_bank_int_frontofftrims+hidr
+val_bank_int_main
 val_bank_int_reflection_proxy
 val_bank_int_reflection_proxy+hidr
 val_bank_int_shdw_proxy
+val_bank_int_shell
 val_bank_int_teller
 val_bank_int_trim2
 val_bank_main_shell

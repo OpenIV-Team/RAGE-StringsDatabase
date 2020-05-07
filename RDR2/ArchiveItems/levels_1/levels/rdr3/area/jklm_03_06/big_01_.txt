@@ -1,6 +1,7 @@
 _cache
 _manifest
 big_01_
+big_01_+hi
 big_ext
 big_ext_d
 big_ext_d+hidr

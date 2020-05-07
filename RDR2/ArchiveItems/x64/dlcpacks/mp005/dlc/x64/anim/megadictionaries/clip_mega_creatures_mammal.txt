@@ -1,1 +1,7 @@
 _manifest
+mega_gen@creatures_mammal@bighornram@normal@2
+mega_gen@creatures_mammal@bull@normal
+mega_gen@creatures_mammal@cougar@normal
+mega_gen@creatures_mammal@cougar@normal@2
+mega_gen@creatures_mammal@cougar@stalking
+mega_gen@creatures_mammal@horse@snow

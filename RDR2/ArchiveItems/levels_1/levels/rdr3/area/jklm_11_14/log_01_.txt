@@ -1,5 +1,7 @@
 _cache
 _manifest
+log_01__log_01
+log_01__log_01+hi
 log_01__log_brokenroof
 log_01__log_brokenroof+hidr
 log_01__log_rockwall01

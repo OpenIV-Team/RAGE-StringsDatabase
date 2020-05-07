@@ -1,0 +1,6 @@
+mini_games@bathing@deluxe@arthur
+mini_games@bathing@regular@arthur
+mini_games@dominoes@game@player_03
+mini_games@fishing@shore@unhook@med
+mini_games@fishing@shore@unhook@sml
+mini_games@story@mar53@foal_birth@john

@@ -30,4 +30,6 @@ arm_train_int_wall+hidr
 arm_train_int_wall2
 arm_train_int_wall2+hidr
 arm_trainstation_int
+arm_trainstation_int+hi
 arm_trainstation_lightbox
+hi@arm_trainstation_int

@@ -1,0 +1,16 @@
+creatures_mammal@boar@agitated@dead
+creatures_mammal@bull@agitated@dead
+creatures_mammal@cow@agitated@dead
+creatures_mammal@coyote@melee@streamed_core
+creatures_mammal@deer@agitated@dead
+creatures_mammal@elk@agitated@dead
+creatures_mammal@goat@agitated@dead
+creatures_mammal@horse@injured_critical@getup@action@directional@standing@left
+creatures_mammal@horse@injured_critical@getup@action@directional@standing@right
+creatures_mammal@horse@injured_critical@getup@action@directional@transition
+creatures_mammal@moose@agitated@dead
+creatures_mammal@pig@agitated@dead
+creatures_mammal@sheep@agitated@dead
+creatures_mammal@wolf@melee@attacks@basic@arm
+creatures_mammal@wolf_medium@melee@attacks@basic@arm
+creatures_mammal@wolf_small@melee@attacks@basic@arm

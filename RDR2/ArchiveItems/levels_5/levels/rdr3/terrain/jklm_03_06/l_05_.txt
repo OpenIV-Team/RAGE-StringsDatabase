@@ -1,6 +1,10 @@
 _cache
 _manifest
 l_05_
+l_05__bkt_0
+l_05__bkt_1
+l_05__bkt_2
+l_05__bkt_3
 l_05__hd_0_0_0
 l_05__hd_0_0_1
 l_05__hd_0_0_-1
@@ -74,6 +78,7 @@ l_05__junction_blend
 l_05__junction_blend_02
 l_05__road_decal
 l_05__road_jun_de01
+l_05_+hi
 l_05_05_decal_09
 l_05_05_decal_09+hidr
 l_05_08_decal_01a

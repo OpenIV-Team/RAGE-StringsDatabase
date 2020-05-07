@@ -7,6 +7,8 @@ p_bron_screen_01+hifr
 p_bron_squb_01
 p_bron_ssqu_01
 p_bronte_frags
+p_bronte_frags_gar_txd
+p_bronte_frags_gar_txd+hi
 p_bronte_fram_01
 p_bronte_fram_02
 p_bronte_fram_03

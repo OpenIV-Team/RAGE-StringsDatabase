@@ -4,6 +4,10 @@ l_08_
 l_08___decal001
 l_08___decal002
 l_08___decal003
+l_08__bkt_0
+l_08__bkt_1
+l_08__bkt_2
+l_08__bkt_3
 l_08__hd_0_0_0
 l_08__hd_0_0_1
 l_08__hd_0_0_-1
@@ -73,6 +77,7 @@ l_08__hd_0_-4_-2
 l_08__hd_0_-4_3
 l_08__hd_0_-4_-3
 l_08__hd_0_-4_-4
+l_08_+hi
 l_08_02_rail_decal_01
 l_08_03_rail_decal_01
 l_08_05_decals
@@ -91,5 +96,6 @@ l_08_09_decal04
 l_08_cliff_decal001
 l_08_cliff_decal001+hidr
 l_08_cliff_decal002
+l_08_decal
 l_08_watermark_decal001
 l_08_watermark_decal001+hidr

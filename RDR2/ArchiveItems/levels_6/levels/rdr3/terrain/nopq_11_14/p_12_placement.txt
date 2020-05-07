@@ -1,4 +1,7 @@
 _cache
 _manifest
 p_12_placement
+p_12_placement_strm
+p_12_placement_strm_0
+p_12p_blackwhite_camp
 p_12p_p_12_rope01

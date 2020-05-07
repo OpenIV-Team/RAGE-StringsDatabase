@@ -2,6 +2,7 @@ _cache
 _manifest
 q03_04_tunnel_exit_int
 q0304_tunlexitblok1
+q0304_tunnel_exit
 q0304_tunnel_exit_rail
 q0304_tunnel_exit_rocks
 q0304_tunnel_exit_shell

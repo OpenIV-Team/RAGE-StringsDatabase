@@ -10,6 +10,8 @@ aba_01_abtint_walls
 aba_01_abtint_walls_detail01
 aba_01_abtint_walls_detail01+hidr
 aba_01_abtint_walls+hidr
+aba_01_abtrading
+aba_01_abtrading+hi
 aba_01_abtradingpost
 aba_01_abtradingpost_bull
 aba_01_abtradingpost_dec01

@@ -1,4 +1,10 @@
 _manifest
+rdr_rock_roa_01
+rdr_rock_roa_01+hi
+rdr_rock_roa_03
+rdr_rock_roa_03+hi
+rdr_rock_roa_scree_01
+rdr_rock_roa_scree_01+hi
 rdr_rock_roanoke
 roa_rock_01
 roa_rock_01+hidr

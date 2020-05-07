@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@shack_hf_int
 shack_hf_int
 shack_hf_int_bench
 shack_hf_int_bench+hidr

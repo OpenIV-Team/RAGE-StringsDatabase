@@ -1,9 +1,11 @@
 _cache
 _manifest
+hi@old_tower04_int
 old_tower04_int
 old_tower04_int_dc
 old_tower04_int_dc+hidr
 old_tower04_int_ladder
 old_tower04_int_shell
 old_tower04_int_shell+hidr
+old_tower04_int_txd
 old_tower04_lightbox

@@ -1,0 +1,2 @@
+mech_pickup@food@nuts@bar
+mech_pickup@food@nuts@bar@female

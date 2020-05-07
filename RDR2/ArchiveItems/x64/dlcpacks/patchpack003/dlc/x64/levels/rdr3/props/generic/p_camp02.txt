@@ -1,8 +1,18 @@
 _manifest
+barrel_camp_variants
+barrel_camp_variants+hi
+bottlecrate_camp_themes_a
+bottlecrate_camp_themes_a+hi
+bottlecrate_camp_themes_b
+bottlecrate_camp_themes_b+hi
+burlap01x
+burlap01x+hi
 p_amb_mattress04x
 p_amb_mattress04x+hidr
 p_ambbed01x
 p_ambbed01x+hifr
+p_ambblanketdrape01x
+p_ambblanketdrape01x+hi
 p_ambblanketroll01x
 p_ambblanketroll01x+hidr
 p_ambbundle01x
@@ -204,6 +214,8 @@ p_bucketcampsav01x
 p_bucketcampsav01x+hidr
 p_camp02
 p_camphitchhook01x
+p_campropetie01x
+p_campropetie01x+hi
 p_campropetie02x
 p_campropetie03x
 p_chairhob01x

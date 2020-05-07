@@ -5,6 +5,8 @@ p_barricade01x+hifr
 p_barricade03x
 p_barricade04x
 p_barricade05x
+p_barricades
+p_barricades+hi
 p_barricadewood_lrg01x
 p_barricadewood_lrg01x+hifr
 p_barricadewood_sml01x

@@ -1,6 +1,7 @@
 _cache
 _manifest
 dne_exterior_colmesh_dummy
+hi@lak_hideout_int
 lak_doc_kitchen_decals
 lak_doc_kitchen_decals+hidr
 lak_hide_bedroom_decals
@@ -28,5 +29,8 @@ lak_hideout_int_parts+hidr
 lak_hideout_int_ref
 lak_hideout_int_ref+hidr
 lak_hideout_int_shadowproxy
+lak_hideout_int_shell
+lak_hideout_int_shell+hi
+lak_hideout_int+hi
 lak_hideout_shell_planks
 lak_hideout_shell_planks+hidr

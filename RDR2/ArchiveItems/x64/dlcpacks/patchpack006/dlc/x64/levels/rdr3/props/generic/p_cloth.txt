@@ -1,5 +1,7 @@
 _manifest
 p_cloth
+p_clothbalcony
+p_clothbalcony+hi
 p_clothbalconya01x
 p_clothbalconya01x_ren
 p_clothbalconyc01x

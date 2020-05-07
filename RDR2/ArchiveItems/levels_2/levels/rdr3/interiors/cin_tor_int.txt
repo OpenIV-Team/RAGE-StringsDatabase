@@ -12,6 +12,7 @@ cin_tor_int
 cin_tor_int_reflection_proxy
 cin_tor_int_reflection_proxy+hidr
 cin_tor_int_shadow_proxy
+cin_tor_int+hi
 cin_tor_lightbox002
 cin_tor_lightbox01
 cin_tor_shelf
@@ -23,3 +24,4 @@ cin_tor_shell+hidr
 cin_tor_shelves
 cin_tor_shelves+hidr
 cin_tor_window_frame
+hi@cin_tor_int

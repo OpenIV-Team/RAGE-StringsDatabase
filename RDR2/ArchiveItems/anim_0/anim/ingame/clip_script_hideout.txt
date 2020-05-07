@@ -1,0 +1,17 @@
+script_hideout@beaver_hollow@back_entrance
+script_hideout@beaver_hollow@captive_drag
+script_hideout@beaver_hollow@night_outing
+script_hideout@shady_belle
+script_hideout@shady_belle@argument
+script_hideout@shady_belle@campfire
+script_hideout@shady_belle@deck
+script_hideout@shady_belle@doors
+script_hideout@shady_belle@greet
+script_hideout@shady_belle@leader
+script_hideout@shady_belle@shooter
+script_hideout@shady_belle@whisper
+script_hideout@six_point_cabin@cabin_cover
+script_hideout@six_point_cabin@cabin_storm
+script_hideout@six_point_cabin@couple
+script_hideout@six_point_cabin@guard
+script_hideout@six_point_cabin@rob_discuss

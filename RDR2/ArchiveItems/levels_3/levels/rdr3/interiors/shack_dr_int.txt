@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@shack_dr_int
 sdr_dr_cornercabinet02x
 sdr_dr_cornercabinet02x+hidr
 sdr_shkdr_int_blankets

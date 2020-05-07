@@ -1,6 +1,9 @@
 _cache
 _manifest
 n_13_
+n_13__bkt_0
+n_13__bkt_1
+n_13__bkt_3
 n_13__hd_0_0_0
 n_13__hd_0_0_1
 n_13__hd_0_0_-1
@@ -71,6 +74,7 @@ n_13__hd_0_-4_3
 n_13__hd_0_-4_-3
 n_13__hd_0_-4_-3+hidr
 n_13__hd_0_-4_-4
+n_13_+hi
 n_13_06_decal
 n_13_06_decal2
 n_13_junc_cross_decal_01

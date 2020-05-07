@@ -1,1 +1,4 @@
 _manifest
+mega_gen@veh_horseback@seat_rear@female@right@normal@2
+mega_gen@veh_horseback@seat_rear@male@normal@2
+mega_veh_horseback@seat_saddle@male@normal@canter@2h

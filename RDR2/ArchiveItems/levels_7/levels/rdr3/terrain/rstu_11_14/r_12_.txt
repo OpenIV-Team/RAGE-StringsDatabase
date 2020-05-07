@@ -1,6 +1,9 @@
 _cache
 _manifest
 r_12_
+r_12__bkt_0
+r_12__bkt_2
+r_12__bkt_3
 r_12__hd_0_0_0
 r_12__hd_0_0_1
 r_12__hd_0_0_-1
@@ -66,5 +69,6 @@ r_12__hd_0_-4_3
 r_12__hd_0_-4_-3
 r_12__hd_0_-4_-4
 r_12__hd_0_-4_-4+hidr
+r_12_+hi
 r_12_cat01_decal
 r_12_cat01_decal+hidr

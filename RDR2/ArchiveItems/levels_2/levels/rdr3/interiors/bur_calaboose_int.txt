@@ -11,7 +11,10 @@ bur_cal_debris
 bur_cal_debris+hidr
 bur_calaboose_int
 bur_calaboose_lightbox
+bur_calaboose_txd
+bur_calaboose_txd+hi
 bur_calabose_int_ref
 bur_calabose_int_ref+hidr
 bur_calabose_int_shadow
 bur_temp_refl_only
+hi@bur_calaboose_int

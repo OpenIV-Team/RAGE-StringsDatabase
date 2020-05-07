@@ -1,5 +1,6 @@
 _manifest
 n_710_r_b__rrcross_slod
+n_710_r_b_rails
 n_710_r_b_rails_lod00
 n_710_r_b_rails_lod01
 n_710_r_b_rails_lod03
@@ -47,6 +48,7 @@ n_710_r_b_rails_lod47
 n_710_r_b_rails_lod48
 n_710_r_b_rails_lod49
 n_710_r_b_rails_lod50
+n_710_r_b_rails+hi
 n_710_r_b_rails00
 n_710_r_b_rails01
 n_710_r_b_rails02
@@ -145,6 +147,8 @@ n_710_r_b_sle12_lod
 n_710_r_b_sle13
 n_710_r_b_sle13_dec
 n_710_r_b_sle13_lod
+n_710_r_b_tres
+n_710_r_b_tres+hi
 n_710_r_b_tres00
 n_710_r_b_tres00_dec
 n_710_r_b_tres00_det

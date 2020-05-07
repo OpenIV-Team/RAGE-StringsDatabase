@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@six_cabin_int
 six_cabin_int
 six_cabin_int_blankets
 six_cabin_int_blankets+hidr

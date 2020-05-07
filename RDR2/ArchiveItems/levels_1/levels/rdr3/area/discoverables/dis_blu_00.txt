@@ -1,8 +1,14 @@
 _cache
 _manifest
 dis_blu_00
+dis_blu_00_0
+dis_blu_00_1
 dis_blu_00_boar_pits
 dis_blu_00_boar_pits+hidr
+dis_blu_00_strm
+dis_blu_00_strm_0
+dis_blu_03_tree_disc_symbols
+dis_blu_03_tree_disc_symbols+hi
 dis_blu_prisonerescape
 dis_blu_prisonerescape+hidr
 dis_blu_shrineforwife
@@ -15,3 +21,4 @@ dis_blu_tree_disc_symb_02
 dis_blu_tree_disc_symb_03
 dis_blu_tree_disc_symb_04
 dis_blu_tree_disc_symb_05
+hi@dis_blu_00_0

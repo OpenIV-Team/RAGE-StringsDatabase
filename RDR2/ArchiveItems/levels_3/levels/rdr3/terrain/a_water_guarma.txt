@@ -1,9 +1,12 @@
 _cache
 _manifest
 a_water_guarma
+a_water_guarma_0
 a_water_guarma_gua01
 a_water_guarma_gua01_l
 a_water_guarma_gua01_s
 a_water_guarma_gua02
 a_water_guarma_gua02_l
 a_water_guarma_gua02_s
+a_water_guarma_long_0
+a_water_guarma_strm

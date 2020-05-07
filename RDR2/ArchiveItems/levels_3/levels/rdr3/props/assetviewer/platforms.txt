@@ -10,3 +10,4 @@ p_gen_avplatform_wood_no_light
 p_gen_avplatform_wood2
 p_gen_avplatform_wood2+hidr
 platforms
+platforms+hi

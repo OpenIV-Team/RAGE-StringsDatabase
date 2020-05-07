@@ -1,0 +1,2 @@
+veh_wagon@standard@front@fl@in_seat@male@shuffle
+veh_wagon@standard@front@fr@in_seat@male@shuffle

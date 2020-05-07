@@ -1,8 +1,11 @@
 _cache
 _manifest
+hi@lof_outpost_int
 lof_basement_lightbox
 lof_basement001
 lof_basement001+hidr
+lof_int_txd
+lof_int_txd+hi
 lof_outpost_bsmt_beams
 lof_outpost_bsmt_beams+hidr
 lof_outpost_bsmt_ceiling

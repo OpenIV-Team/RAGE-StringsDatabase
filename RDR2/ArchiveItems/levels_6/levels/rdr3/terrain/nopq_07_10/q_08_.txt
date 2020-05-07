@@ -1,6 +1,9 @@
 _cache
 _manifest
 q_08_
+q_08__bkt_0
+q_08__bkt_1
+q_08__bkt_2
 q_08__hd_0_0_0
 q_08__hd_0_0_1
 q_08__hd_0_0_-1
@@ -68,6 +71,7 @@ q_08__hd_0_-4_3
 q_08__hd_0_-4_-3
 q_08__hd_0_-4_-4
 q_08__hd_0_-4_-4+hidr
+q_08_+hi
 q_08_01_decal01
 q_08_01_decal02
 q_08_decal_river_01

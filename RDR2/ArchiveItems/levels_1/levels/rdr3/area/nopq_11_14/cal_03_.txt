@@ -1,4 +1,6 @@
 _manifest
+cal_03
+cal_03+hi
 cal_slave_audio_proxy
 cal_slavehouse_01_hv_01
 cal_slavehouse_01_hv_01+hidr

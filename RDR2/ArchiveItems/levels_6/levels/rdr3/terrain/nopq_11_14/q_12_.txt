@@ -2,6 +2,7 @@ _cache
 _manifest
 q_12_
 q_12__bigjunction
+q_12__bkt_2
 q_12__hd_0_0_0
 q_12__hd_0_0_1
 q_12__hd_0_0_-1
@@ -79,6 +80,7 @@ q_12__junction_02
 q_12__junction_17
 q_12__junction_decalsm
 q_12__jundesm
+q_12_+hi
 q_12_07_decal
 q_12_07_decal+hidr
 q_12_decal_01

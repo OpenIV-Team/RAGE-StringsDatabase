@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@privatearmoured_int
 privatearmed_shadowproxy
 privatearmoured_int
 privatearmoured_int_cabinet

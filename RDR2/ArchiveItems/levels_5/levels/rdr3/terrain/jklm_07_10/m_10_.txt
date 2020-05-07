@@ -1,6 +1,7 @@
 _cache
 _manifest
 m_10_
+m_10__bkt_0
 m_10__decals_000
 m_10__decals_001
 m_10__decals_002
@@ -73,6 +74,7 @@ m_10__hd_0_-4_3
 m_10__hd_0_-4_-3
 m_10__hd_0_-4_-4
 m_10__hd_0_-4_-4+hidr
+m_10_+hi
 m_10_01_decal001
 m_10_02_decal001
 m_10_03_decal001

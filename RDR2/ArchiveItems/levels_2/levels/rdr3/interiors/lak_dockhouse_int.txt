@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@lak_dockhouse_int
 lak_doc_hammocks_03
 lak_doc_hammocks_04
 lak_doc_main_decals
@@ -31,6 +32,7 @@ lak_dockhouse_int_ref_proxy+hidr
 lak_dockhouse_int_shell
 lak_dockhouse_int_shell+hi
 lak_dockhouse_int_shell+hidr
+lak_dockhouse_int+hi
 lak_dockhouse_lightbox01
 lak_dockhouse_lightbox02
 lak_lh_main

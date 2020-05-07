@@ -10,7 +10,10 @@ p_shabel_rail_02x
 p_shabel_rail_02x+hifr
 p_shabel_rail_03x
 p_shabel_rail_04x
+p_shabel_rails
 p_shabel_rails_01
 p_shabel_rails_02
 p_shabel_rails_03
+p_shabel_wal_01
+p_shabel_wal_01+hi
 p_shabel_wal_02

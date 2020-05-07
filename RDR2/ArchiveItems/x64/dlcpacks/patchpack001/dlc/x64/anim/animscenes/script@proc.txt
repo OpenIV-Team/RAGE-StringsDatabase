@@ -1,0 +1,5 @@
+script@proc@bountyhunting@banditomine@banditomine_main
+script@proc@eventareas@appleseed@worker_convo
+script@proc@homerobberies@rocky@leadout@mcs3@leadout
+script@proc@homerobberies@rocky@skinning
+script@proc@shoprobberies@valentinedoctor@gangcountmoney

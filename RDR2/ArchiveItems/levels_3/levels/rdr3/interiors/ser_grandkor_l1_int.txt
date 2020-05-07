@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@ser_grandkor_l1_int
 ser_blacktable01
 ser_blacktable01+hidr
 ser_booth_decals_bow
@@ -36,6 +37,8 @@ ser_gk_int_staff_decal
 ser_grandkor_bow_walls
 ser_grandkor_bow_walls+hidr
 ser_grandkor_l1_int
+ser_grandkor_l1_int_shell
+ser_grandkor_l1_int_txd1
 ser_grandkor_l1_ref_a
 ser_grandkor_l1_ref_b
 ser_grandkor_l1_ref_c

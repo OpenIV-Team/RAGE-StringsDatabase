@@ -1,1 +1,13 @@
 _manifest
+mega_mech_weapons_special@binoculars
+mega_mech_weapons_special@blade
+mega_mech_weapons_special@bow
+mega_mech_weapons_special@camera
+mega_mech_weapons_special@detector
+mega_mech_weapons_special@fishing
+mega_mech_weapons_special@fishingpole
+mega_mech_weapons_special@lantern
+mega_mech_weapons_special@lasso
+mega_mech_weapons_special@longblade
+mega_mech_weapons_special@placeddynamite
+mega_mech_weapons_special@torch

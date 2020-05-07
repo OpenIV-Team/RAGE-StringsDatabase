@@ -1,5 +1,6 @@
 _cache
 _manifest
+cablemesh
 cablemesh13574_hvlit001
 cablemesh13579_hvlit001
 cablemesh13582_tstd001
@@ -75,7 +76,11 @@ cablemesh371590_hvstd001
 cablemesh9461_tstd001
 cablemesh9496_hvlit001
 cablemesh9527_hvlit001
+nopq_11_14_rd_p_d
+nopq_11_14_rds_cablemesh
 nopq_11_14_rds_props
+nopq_11_14_rds_props_strm
+nopq_11_14_rds_props_strm_0
 nopq1114rdpr_combo18_01_lod
 nopq1114rdpr_combo18_02_lod
 nopq1114rdpr_combo18_03_lod

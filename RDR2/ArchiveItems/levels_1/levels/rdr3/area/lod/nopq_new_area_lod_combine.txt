@@ -251,7 +251,6 @@ newpi02pr_props08_slod_children
 newpi03pr_combo_slod_children
 newpi03pr_cover_ipl_slod_children
 newpitr_combo07_slod_children
-newpitr_stden_fnc_02_slod_children
 newpitr_stden_fnc_02a_slod_children
 newpitrpr_pro_slod_children
 newpitrpr_pro12_slod_children
@@ -299,3 +298,4 @@ sis_lookout02_slod_children
 sis_lookout03_slod_children
 sis_small_bridge_slod_children
 sis01_combo01_slod_children
+newpitr_stden_fnc_02_slod_children

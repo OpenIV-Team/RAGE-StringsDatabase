@@ -1,5 +1,6 @@
 _manifest
 cop_01_
+cop_01_+hi
 cop_01_vfx_001
 cop_dock_01
 cop_dock_01+hidr

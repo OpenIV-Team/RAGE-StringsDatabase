@@ -1,6 +1,9 @@
 _cache
 _manifest
+col_01
 col_01_
+col_01__0
+col_01_+hi
 col_01_bunkhouse_snow
 col_01_bunkhse
 col_01_bunkhse_decals
@@ -38,3 +41,5 @@ col_01_wv_fog_dreams
 col01_combo_slod
 col01_lightdummy_01
 col01_lightdummy_02
+hi@col_01__0
+hi@col_01__1

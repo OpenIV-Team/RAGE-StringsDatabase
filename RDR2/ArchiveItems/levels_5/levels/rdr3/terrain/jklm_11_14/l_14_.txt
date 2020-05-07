@@ -1,6 +1,8 @@
 _cache
 _manifest
 l_14_
+l_14__bkt_2
+l_14__bkt_3
 l_14__hd_0_0_0
 l_14__hd_0_0_1
 l_14__hd_0_0_-1
@@ -69,6 +71,7 @@ l_14__hd_0_-4_3
 l_14__hd_0_-4_-3
 l_14__hd_0_-4_-4
 l_14__l14_waterfall_decal
+l_14_+hi
 l_14_04_rrcross_decal
 l_14_04_rrcross_decal+hidr
 l_14_06_d_lightblocker

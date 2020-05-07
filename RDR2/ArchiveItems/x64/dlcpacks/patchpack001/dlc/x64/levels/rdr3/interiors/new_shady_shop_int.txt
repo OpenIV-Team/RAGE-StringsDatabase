@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@new_shady_shop_int
 new_shad_bmnt_detail
 new_shad_bmnt_detl02
 new_shad_bmnt_detl02+hidr

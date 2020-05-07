@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@rho_gunsmith_int
 rho_gnsmth_00_details
 rho_gnsmth_00_details+hidr
 rho_gnsmth_01_glass
@@ -26,6 +27,7 @@ rho_gunsmith_cabinetguns+hidr
 rho_gunsmith_guns
 rho_gunsmith_int
 rho_gunsmith_int_shadowproxy
+rho_gunsmith_int_shell
 rho_gunsmith_shop
 rho_gunsmith_shop+hidr
 rhogunsmith_lightbox

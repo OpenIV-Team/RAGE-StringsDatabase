@@ -1,0 +1,5 @@
+script@gfh@apf@ig2_jobbriefs@action
+script@gfh@flaco@ig@ig1@ig1_flaco
+script@gfh@post@ig2_jobbriefs@seated_newspaper@ig2_jobbriefs
+script@gfh@post@ig2_jobbriefs@stand@ig2_jobbriefs_stand
+script@gfh@sen@ig@ig2_jobbriefs@ig2_jobbriefs

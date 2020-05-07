@@ -16,6 +16,10 @@ bla_sal_int_blackjack001+hidr
 bla_sal_int_pillar01
 bla_sal_int_playersrm_detail
 bla_sal_int_playersrm_detail+hidr
+bla_sal_int_shell_txd
+bla_sal_int_shell_txd+hi
+bla_sal_int_txd
+bla_sal_int_txd+hi
 bla_sal_player_mirrorref
 bla_saloon_handrail00
 bla_saloon_handrail00+hidr
@@ -40,3 +44,4 @@ bla_saloon_main_detail
 bla_saloon_main_detail+hidr
 bla_saloon_phebooth
 bla_saloon_phebooth+hidr
+hi@bla_saloon_int

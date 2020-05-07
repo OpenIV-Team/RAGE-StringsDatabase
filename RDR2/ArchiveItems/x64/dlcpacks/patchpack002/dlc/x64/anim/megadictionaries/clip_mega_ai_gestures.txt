@@ -1,1 +1,3 @@
 _manifest
+mega_ai_gestures@gen_male@standing@rt_hand
+mega_ai_gestures@instruments@piano

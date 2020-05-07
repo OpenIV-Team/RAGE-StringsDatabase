@@ -74,7 +74,6 @@ new_frn_01_int_graffiti
 new_frn_01_int_graffiti+hidr
 new_frn_01_jackson_stand_01
 new_frn_01_jackson_stand_01+hidr
-new_frn_01_park_01
 new_frn_01_park_01+hidr
 new_frn_01_park_02_deca
 new_frn_01_park_02_decb
@@ -82,5 +81,8 @@ new_frn_01_props_debris_
 new_frn_01_tailorsign
 new_frn_01_tailorsign_lod
 new_frn_01_tailorsign+hidr
+new_frn_01_txd1
+new_frn_01_txd2
 new_tailor01_int_lod
 new_temp_cable_lights
+new_frn_01_park_01

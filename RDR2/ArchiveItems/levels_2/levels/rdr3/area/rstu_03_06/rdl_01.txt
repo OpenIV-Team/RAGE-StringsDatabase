@@ -1,7 +1,9 @@
 _cache
 _manifest
+hi@rdl_01_0
 rdl_01__structure
 rdl_01__structure+hidr
+rdl_01_0
 rdl_01_road_d
 rdl_01_road_d+hidr
 rdl_01_structure_d

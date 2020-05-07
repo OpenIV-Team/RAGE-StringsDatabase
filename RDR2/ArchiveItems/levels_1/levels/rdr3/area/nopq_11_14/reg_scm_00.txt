@@ -1,4 +1,6 @@
 _manifest
+reg_scm_
+reg_scm_+hi
 reg_scm_bridge
 reg_scm_bridge_detail
 reg_scm_bridge_detail_02
@@ -26,12 +28,16 @@ reg_scm_herekitty_trail01
 reg_scm_herekitty_trail01+hidr
 reg_scm_herekitty_trail02
 reg_scm_herekitty_trail02+hidr
+reg_scm_herekittytrail
+reg_scm_herekittytrail+hi
 reg_scm_log_01
 reg_scm_log_01+hidr
 reg_scm_n_12_vine
 reg_scm_n_12_vine+hidr
 reg_scm_p_11_logseat
 reg_scm_p_11_logseat+hidr
+reg_scm_p_12_tracking
+reg_scm_p_12_tracking+hi
 reg_scm_spookedhorse_body
 reg_scm_spookedhorse_body+hidr
 reg_scm_tracking00

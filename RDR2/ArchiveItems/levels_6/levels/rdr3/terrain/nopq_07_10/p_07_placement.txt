@@ -1,4 +1,6 @@
 _cache
 _manifest
 p_07_placement
+p_07_placement_strm
+p_07_placement_strm_0
 p_07p

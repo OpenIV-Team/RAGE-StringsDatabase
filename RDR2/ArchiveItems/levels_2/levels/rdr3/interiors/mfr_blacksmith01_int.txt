@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@mfr_blacksmith01_int
 mfr_blacksmith_shadow_proxy
 mfr_blacksmith01_int
 mfr_blacksmith01_int_beam
@@ -16,3 +17,4 @@ mfr_blacksmith01_int_refl
 mfr_blacksmith01_int_refl+hidr
 mfr_blacksmith01_int_shell
 mfr_blacksmith01_int_shell+hidr
+mfr_blacksmith01_int+hi

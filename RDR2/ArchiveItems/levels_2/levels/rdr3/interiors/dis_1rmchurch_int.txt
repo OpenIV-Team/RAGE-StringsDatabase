@@ -16,3 +16,6 @@ dis_1rmchurch_int_shell
 dis_1rmchurch_int_shell+hidr
 dis_1rmchurch_int_trim
 dis_1rmchurch_int_trim+hidr
+dis_1rmchurch_int_txd
+dis_1rmchurch_int_txd+hi
+hi@dis_1rmchurch_int

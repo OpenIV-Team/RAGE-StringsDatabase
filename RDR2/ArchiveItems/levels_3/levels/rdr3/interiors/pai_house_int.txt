@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@pai_house_int
 loansharking_chair_col
 pai_house_int
 pai_house_lightbox

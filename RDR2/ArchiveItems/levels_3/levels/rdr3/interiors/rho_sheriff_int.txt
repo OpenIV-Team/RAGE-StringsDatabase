@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@rho_sheriff_int
 rho_sheriff_decal
 rho_sheriff_decal+hidr
 rho_sheriff_details

@@ -14,10 +14,13 @@ new_slm_03_madam
 new_slm_03_madam_details
 new_slm_03_madam+hidr
 new_slm_03_nichols
+new_slm_03_props_debris_txd
 new_slm_03_props_debris01
 new_slm_03_props_debris02
 new_slm_03_shotgun
 new_slm_03_shotgun+hidr
+new_slm_03_txd1
+new_slm_03_txd2
 new_slm_03_water
 new_slm_03_water+hidr
 new_slm_03_water001

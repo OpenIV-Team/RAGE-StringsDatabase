@@ -10,4 +10,6 @@ agu_tower_int_shell+hidr
 agu_tower_int_supports
 agu_tower_int_uppersteps
 agu_tower_int_uppersteps+hidr
+agu_tower_int+hi
 agu_tower_lightbox
+hi@agu_tower_int

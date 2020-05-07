@@ -1,6 +1,7 @@
 _cache
 _manifest
 h_07_
+h_07__bkt_1
 h_07__hd_0_0_0
 h_07__hd_0_0_1
 h_07__hd_0_0_-1
@@ -67,4 +68,5 @@ h_07__hd_0_-4_3
 h_07__hd_0_-4_-3
 h_07__hd_0_-4_-4
 h_07__snow_decal001
+h_07_+hi
 h_07_lake_glue

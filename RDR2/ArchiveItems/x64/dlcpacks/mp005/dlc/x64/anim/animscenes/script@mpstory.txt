@@ -1,0 +1,15 @@
+script@mpstory@mpgun4@int@session_screen
+script@mpstory@mpgvo1@int_loops@action
+script@mpstory@mpgvo1@int_loops@session_screen
+script@mpstory@mppout4@ig_loot_lg@ig_loot_lg_enter_safe
+script@mpstory@mppout4@ig_loot_lg@ig_loot_lg_light_dynamite
+script@mpstory@mppout4@ig_loot_lg@ig_loot_lg_open_safe
+script@mpstory@mppout4@ig_loot_lg@ig_loot_lg_plant_dynamite
+script@mpstory@mppout4@ig_loot_lg@ig_loot_lg_take_bonds
+script@mpstory@mppout4@ig_loot_md@ig_loot_md_enter_safe
+script@mpstory@mppout4@ig_loot_md@ig_loot_md_light_dynamite
+script@mpstory@mppout4@ig_loot_md@ig_loot_md_open_safe
+script@mpstory@mppout4@ig_loot_md@ig_loot_md_plant_dynamite
+script@mpstory@mppout4@ig_loot_md@ig_loot_md_take_bonds
+script@mpstory@mppout4@int@int_loops
+script@mpstory@mppout4@int@session_screen

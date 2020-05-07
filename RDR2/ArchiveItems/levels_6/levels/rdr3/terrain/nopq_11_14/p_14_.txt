@@ -1,6 +1,8 @@
 _cache
 _manifest
 p_14_
+p_14__bkt_2
+p_14__bkt_3
 p_14__bridge_decal
 p_14__bridge_decal001
 p_14__hd_0_0_0
@@ -64,6 +66,7 @@ p_14__hd_0_-4_-3
 p_14__hd_0_-4_-4
 p_14__mud_decal001
 p_14__path_decal
+p_14_+hi
 p_14_02_std_road_dec_a
 p_14_02_std_road_dec_b
 p_14_02_track_dec_01
@@ -81,3 +84,4 @@ p_14_07_rail_decal00
 p_14_07_rail_decal01
 p_14_07_rail_decal02
 p_14_07_rail_decal03
+p_14_decal

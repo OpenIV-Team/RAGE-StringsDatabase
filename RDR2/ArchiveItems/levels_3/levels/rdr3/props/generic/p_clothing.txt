@@ -1,6 +1,7 @@
 _manifest
 p_apronground01x
 p_apronground01x+hidr
+p_baghang
 p_baghang01x
 p_baghang02x
 p_bandanaplayer01x
@@ -64,6 +65,7 @@ p_mask04x
 p_mask05x
 p_maskolmec01x
 p_overalls01x
+p_parasol_cs02
 p_parasol_cs02x
 p_parasol01x
 p_parasol02x

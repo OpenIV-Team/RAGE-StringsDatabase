@@ -1,5 +1,6 @@
 _manifest
 val_01_
+val_01_+hi
 val_01_aucbarns_barn2
 val_01_aucbarns_barn2_dec_det
 val_01_aucbarns_barn2+hidr
@@ -31,6 +32,8 @@ val_01_audioproxy
 val_01_banner
 val_01_banner+hifr
 val_01_emrfencegate02x_open
+val_01_fence
+val_01_fence+hi
 val_01_shippingstand
 val_01_shippingstand+hidr
 val_01_srtsign_a
@@ -42,6 +45,8 @@ val_01_trainstn_ext
 val_01_trainstn_ext+hidr
 val_01_trainstn_fence
 val_cattle_rmp_mud
+val_dressing_temp
+val_dressing_temp+hi
 val_fence_non_prop_01
 val_filler_fences
 val_lights_holder_05

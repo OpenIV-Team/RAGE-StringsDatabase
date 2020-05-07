@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@shack_hb_int
 shack_hb_int
 shack_hb_int_ref_proxy
 shack_hb_int_ref_proxy+hidr

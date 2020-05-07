@@ -1,5 +1,8 @@
 _cache
 _manifest
 b_11_placement
+b_11_placement_strm
 b_11p_01_washedashore005
 b_11p_01_washedashore04
+b_11p_y_13p_01_
+b_11p_y_13p_01_+hi

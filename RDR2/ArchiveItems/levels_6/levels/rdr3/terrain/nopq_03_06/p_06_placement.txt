@@ -1,3 +1,4 @@
 _cache
 _manifest
 p_06_placement
+p_06_placement_strm_0

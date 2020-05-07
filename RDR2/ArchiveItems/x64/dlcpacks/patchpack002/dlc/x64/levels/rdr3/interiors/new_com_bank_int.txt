@@ -3,6 +3,7 @@ _manifest
 collisionswap_geo
 dummy_windows_blocker01
 dummy_windows_blocker02
+hi@new_com_bank_int
 nbx_bank_curtain_sets
 nbx_bank_floor_dec_10
 nbx_bank_floor_dec_11
@@ -27,6 +28,7 @@ new_bank_wait01_detail+hidr
 new_bank_wait02_detail02
 new_com_bank_int
 new_com_bank_int_shadowproxy
+new_com_bank_int_shell
 new_com_bank_vaultdetails
 new_com_bank_vaultdetails+hidr
 new_com_nbd1_bankwall_int_end

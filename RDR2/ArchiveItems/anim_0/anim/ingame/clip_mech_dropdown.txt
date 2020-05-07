@@ -1,0 +1,8 @@
+mech_dropdown@crouch
+mech_dropdown@unarmed@100cm
+mech_dropdown@unarmed@200cm
+mech_dropdown@unarmed@300cm
+mech_dropdown@unarmed@50cm
+mech_dropdown@unarmed@injured@100cm
+mech_dropdown@unarmed@injured@200cm
+mech_dropdown@unarmed@injured@50cm

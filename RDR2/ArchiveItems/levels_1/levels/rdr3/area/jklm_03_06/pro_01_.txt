@@ -1,12 +1,17 @@
 _cache
 _manifest
+pro_01
 pro_01_barn_ext_vfx
 pro_01_barn_workshop_vfx
 pro_01_bunk_planks_vfx
 pro_01_corfence_08
 pro_01_corfence_08_vfx
 pro_01_corfence_08+hidr
+pro_01_dirthole
+pro_01_dirthole+hi
+pro_01_em
 pro_01_em_slod
+pro_01_em+hi
 pro_01_farmhouse_planks
 pro_01_farmhouse_planks_vfx
 pro_01_farmhouse_planks+hidr
@@ -17,6 +22,7 @@ pro_01_proxy
 pro_01_tackhouse_planks
 pro_01_tackhouse_planks_vfx
 pro_01_tackhouse_planks+hidr
+pro_01+hi
 pro_barn_ext
 pro_barn_ext_doors_closed
 pro_barn_ext_doors_closed_slod
@@ -49,6 +55,8 @@ pro_ipl_fencenotbroke1
 pro_ipl_fencenotbroke2
 pro_ladder
 pro_ladder+hidr
+pro_mar4a
+pro_mar4a+hi
 pro_marstonp1_posthole003
 pro_marstonp1_posthole004
 pro_marstonp1_posthole005

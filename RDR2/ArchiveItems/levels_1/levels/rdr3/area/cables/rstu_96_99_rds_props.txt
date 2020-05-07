@@ -57,6 +57,9 @@ cablemesh95907_hvstd001
 cablemesh95909_hvstd001
 cablemesh95916_hvstd001
 rstu_96_99_rds_props
+rstu_96_99_rds_props_cable
+rstu_96_99_rds_props_strm
+rstu_96_99_rds_props_strm_0
 rstu9699rdpr_co01_01_lod
 rstu9699rdpr_co01_slod
 rstu9699rdpr_co02_01_lod

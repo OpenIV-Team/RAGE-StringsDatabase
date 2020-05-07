@@ -1,4 +1,6 @@
 _manifest
+repeater_evans
+repeater_evans+hi
 w_repeater_evans01
 w_repeater_evans01_grip1
 w_repeater_evans01_grip2

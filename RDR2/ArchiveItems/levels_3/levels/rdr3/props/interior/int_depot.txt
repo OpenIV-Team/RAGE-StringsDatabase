@@ -1,4 +1,6 @@
 _manifest
+depot_groups
+depot_groups+hi
 int_depot
 p_bookset01x
 p_bookset01x+hifr
@@ -31,6 +33,7 @@ p_newspaperset01x+hifr
 p_paperset01x
 p_paperset01x+hifr
 p_suitcase03x
+p_suitcase03x+hi
 p_suitcaseset01x
 p_suitcaseset02x
 p_telegramset01x
@@ -53,3 +56,5 @@ p_trunkset01x
 p_trunkset01x+hifr
 p_trunkset02x
 p_trunkset02x+hifr
+trolleydepot_groups
+trolleydepot_groups+hi

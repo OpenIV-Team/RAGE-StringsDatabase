@@ -27,6 +27,7 @@ new_frn_06_debris_03
 new_frn_06_debris_04
 new_frn_06_debris_05
 new_frn_06_debris_06
+new_frn_cablemesh
 new_frn_rds_01a
 new_frn_rds_01a_decal_a
 new_frn_rds_01a_decal_a_pom
@@ -115,8 +116,11 @@ new_frn_rds_debris_57
 new_frn_rds_debris_58
 new_frn_rds_debris_59
 new_frn_rds_debris_60
+new_frn_rds_debris_txd
 new_frn_rds_p15_rd_dec1
 new_frn_rds_p15_rd_dec2
+new_frn_rds_props_signs
+new_frn_rds_struct
 new_frn_rds_ticketbooth
 new_frn_rds_ticketbooth_d
 new_frn_rds_ticketbooth_d+hidr
@@ -124,6 +128,8 @@ new_frn_rds_ticketbooth+hidr
 new_frn_rds_trly_slod
 new_frn_rds_trolley_02
 new_frn_rds_trolley_02+hidr
+new_frn_rds_txd1
+new_frn_rds_txd2
 new_trolley_stop_blue_frn
 new_trolley_stop_red_frn
 newfrrdpr_combo01_slod

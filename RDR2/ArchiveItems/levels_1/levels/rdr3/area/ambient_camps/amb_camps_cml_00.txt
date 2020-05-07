@@ -1,6 +1,10 @@
 _cache
 _manifest
+amb_camp_cml_story_stdenis
+amb_camp_cml_story_valentine
 amb_camps_cml_00
+amb_camps_cml_00_0
+amb_camps_cml_00_strm
 amb_cml_chelonian_01_rubble
 amb_cml_chelonian_01_rubble+hidr
 amb_cml_chelorian_campfire
@@ -34,6 +38,8 @@ amb_cml_odr2_detail4_cml005
 amb_cml_odr2_detail5_cml001
 amb_cml_odr2_detail5_cml003
 amb_cml_odr2_detail5_cml005
+amb_cml_odriscolls_txd
+amb_cml_odriscolls_txd+hi
 amb_cml_p_ambfloorrug01
 amb_cml_p_ambfloorrug01+hidr
 amb_cml_p_awning_broken002
@@ -44,3 +50,11 @@ amb_cml_p_tentrack01x_rsref005
 amb_cml_p_tentrack01x_rsref005+hidr
 amb_cml_stick_01
 amb_cml_stick_01+hidr
+bh_wifeandlover
+gang_odriscollboys_cml001
+gang_odriscollboys_cml002
+gang_odriscollboys_cml003
+gang_odriscollboys_cml004
+gang_odriscollboys_cml005
+k_11_p_chelonian_camp
+k_11_p_mary1_camp

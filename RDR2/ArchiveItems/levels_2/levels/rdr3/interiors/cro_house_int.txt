@@ -4,6 +4,7 @@ cro_house_int
 cro_house_int_ref
 cro_house_int_ref+hidr
 cro_house_int_shadowproxy
+cro_house_int+hi
 cro_hse_bed1_details
 cro_hse_bed2_details
 cro_hse_decals
@@ -21,3 +22,4 @@ cro_hse_mirror
 cro_hse_mirror001
 cro_hse_shell
 cro_hse_shell+hidr
+hi@cro_house_int

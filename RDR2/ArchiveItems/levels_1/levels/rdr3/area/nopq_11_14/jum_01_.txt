@@ -1,5 +1,6 @@
 _manifest
 jum_01_
+jum_01_+hi
 jum_01_horseshop_details
 jum_01_horseshop_ext
 jum_01_horseshop_ext+hidr
@@ -16,6 +17,8 @@ jum_01_road_decal
 jum_01_road_decal+hidr
 jum_01_stable
 jum_01_stable+hidr
+jum_01_txd
+jum_01_txd+hi
 jum_01_vfx_01
 jum_01_vfx_02
 jum_mpteamster_01

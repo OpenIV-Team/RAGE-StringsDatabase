@@ -1,4 +1,5 @@
 _manifest
+cvb_01
 cvb_01_church_small
 cvb_01_church_small_dec
 cvb_01_church_small_dec+hidr
@@ -52,6 +53,7 @@ cvb_01_ruins_kudzu
 cvb_01_ruins_kudzu+hidr
 cvb_01_vfx_001
 cvb_01_vfx_002
+cvb_01+hi
 cvb_object00201_ruin001_glue_
 cvb_p_dummy
 cvb_p_dummy+hidr

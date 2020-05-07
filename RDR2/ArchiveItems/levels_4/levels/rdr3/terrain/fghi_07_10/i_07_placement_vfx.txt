@@ -6,3 +6,5 @@ i_07_placement_vfx_amb_id_010
 i_07_placement_vfx_amb_id_011
 i_07_placement_vfx_amb_id_012
 i_07_placement_vfx_helper_013
+i_07_placement_vfx_strm
+i_07_placement_vfx_strm_0

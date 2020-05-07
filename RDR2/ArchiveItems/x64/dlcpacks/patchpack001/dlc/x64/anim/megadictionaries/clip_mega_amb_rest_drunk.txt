@@ -1,1 +1,6 @@
 _manifest
+mega_amb_rest_drunk@bucket_drink_ladle_ground_female_b@be
+mega_amb_rest_drunk@bucket_drink_ladle_ground_female_b@rl
+mega_amb_rest_drunk@drink_flask_male_a@be
+mega_amb_rest_drunk@drink_flask_male_a@rl
+mega_amb_rest_drunk@seat_chair_table_drinking_male_a@be

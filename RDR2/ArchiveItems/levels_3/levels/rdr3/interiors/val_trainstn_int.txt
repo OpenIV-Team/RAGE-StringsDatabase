@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@val_trainstn_int
 val_trainstn_countera
 val_trainstn_countera+hidr
 val_trainstn_counterb
@@ -17,5 +18,7 @@ val_trainstn_int
 val_trainstn_int_ref
 val_trainstn_int_ref+hidr
 val_trainstn_int_shadowproxy
+val_trainstn_int_shell
+val_trainstn_int_txd
 val_trainstn_walls
 val_trainstn_walls+hidr

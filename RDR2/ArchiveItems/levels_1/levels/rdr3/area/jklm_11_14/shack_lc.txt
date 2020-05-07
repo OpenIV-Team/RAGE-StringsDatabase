@@ -46,3 +46,7 @@ slc_shack_it_01_veg
 slc_shack_it_01_veg+hidr
 slc_shack_lc_candles01
 slc_shack_lc_candles02
+slc_shack_lc_hd
+slc_shack_lc_hd+hi
+slc_shack_lc_int
+slc_shack_lc_int+hi

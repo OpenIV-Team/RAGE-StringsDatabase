@@ -1,0 +1,3 @@
+cutscene@mar8_ext
+cutscene@mar8_int
+cutscene@mar8_mcs2

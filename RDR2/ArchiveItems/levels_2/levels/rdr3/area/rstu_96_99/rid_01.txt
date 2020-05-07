@@ -1,9 +1,14 @@
 _cache
 _manifest
+hi@rid_01_0
+hi@rid_01_1
+hi@rid_01_2
 rid_01__rid_fence01_lod
 rid_01__rid_fence02_lod
 rid_01__rid_fence03_lod
 rid_01__rid01_combo_slod
+rid_01_0
+rid_01_1
 rid_01_barn_dec
 rid_01_barn_roof
 rid_01_barn_roof_vfx

@@ -61,6 +61,7 @@ mic_hid_towerext_ice
 mic_hid_towerext_roof
 mic_hid_towerext_roof+hidr
 mic_hid_towerext+hidr
+mic_hid+hi
 mic_hideout_int_lod
 mic_log_drape01
 mic_log_drape02

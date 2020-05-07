@@ -3,6 +3,9 @@ _manifest
 i_15_
 i_15___decal006_01
 i_15___decal006_01+hidr
+i_15__bkt_0
+i_15__bkt_1
+i_15__bkt_2
 i_15__hd_0_0_0
 i_15__hd_0_0_1
 i_15__hd_0_0_-1
@@ -68,6 +71,7 @@ i_15__hd_0_-4_-2
 i_15__hd_0_-4_3
 i_15__hd_0_-4_-3
 i_15__hd_0_-4_-4
+i_15_+hi
 i_15_01_rail_decal
 i_15_02_cliff_dec
 i_15_02_rail_decal

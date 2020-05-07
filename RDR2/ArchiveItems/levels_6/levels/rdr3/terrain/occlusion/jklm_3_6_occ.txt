@@ -2,3 +2,5 @@ _cache
 _manifest
 jklm_3_6_occ
 jklm_3_6_occ_dontdelete
+jklm_3_6_occ_long_0
+jklm_3_6_occ_strm

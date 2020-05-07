@@ -150,6 +150,8 @@ p_medbed01x+hifr
 p_nbx_doc_wallclocklrg01x
 p_numberingstamp01x
 p_office
+p_officeparerwork
+p_officeparerwork+hi
 p_openbook01x
 p_painting_newgala_lrg01x
 p_painting_newgala_lrg01x+hidr
@@ -195,6 +197,8 @@ p_safe01+hifr
 p_safetydepositbox01x
 p_scalepostal01x
 p_scalepostal01x+hifr
+p_shelf02_03
+p_shelf02_03+hi
 p_shelf02x
 p_shelf03x
 p_shelfpostal01x

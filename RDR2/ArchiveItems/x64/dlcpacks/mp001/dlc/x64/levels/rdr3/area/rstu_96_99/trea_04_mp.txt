@@ -10,6 +10,7 @@ mp001_henniganstead02_detail01
 mp001_henniganstead02_detail01+hidr
 mp001_henniganstead02_wagon003
 mp001_henniganstead02_wagon003+hidr
+mp001_mp_tre04_henniganstead02_txd
 mp001_mp_tre04_tumbleweed03_wagon
 mp001_mp_tre04_tumbleweed03_wagon+hidr
 mp001_northmacfarlane01_detail

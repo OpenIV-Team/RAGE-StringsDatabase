@@ -516,6 +516,7 @@ ambientmapdata-guarma-558
 ambientmapdata-guarma-559
 ambientmapdata-guarma-56
 ambientmapdata-guarma-560
+ambientmapdata-guarma-561
 ambientmapdata-guarma-562
 ambientmapdata-guarma-563
 ambientmapdata-guarma-564

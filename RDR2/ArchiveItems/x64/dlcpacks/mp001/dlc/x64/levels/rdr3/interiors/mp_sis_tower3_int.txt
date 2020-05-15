@@ -7,5 +7,7 @@ mp001_mp_sis_tower03_int_decals+hidr
 mp001_mp_sis_tower03_railing
 mp001_mp_sis_tower03_stairs
 mp001_mp_sis_tower03_stairs+hidr
+mp001_mp_sis_tower3_int
+mp001_mp_sis_tower3_int_txd
 mp001_mp_sis_tower3_shell
 mp001_mp_sis_tower3_shell+hidr

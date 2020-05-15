@@ -7,6 +7,7 @@ mp001_mp_scm_amb_boatramp
 mp001_mp_scm_amb_boatramp+hidr
 mp001_mp_scm_amb_horseboat
 mp001_mp_scm_amb_horseboat+hidr
+mp001_mp_scm_ambcascm+hi
 mp001_mp_scm_ancl1
 mp001_mp_scm_ancl1+hidr
 mp001_mp_scm_arthur_cover01

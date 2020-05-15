@@ -266,6 +266,7 @@ common/data/iteminteractions/interaction_maintain_shortarm.meta
 common/data/iteminteractions/interaction_mp_catalogue.meta
 common/data/iteminteractions/iteminteractionconfigs.meta
 common/data/journal.meta
+common/data/levels/instance_veg/instance_veg.meta
 common/data/levels/rdr3/ai/flee.meta
 common/data/levels/rdr3/ai/vehiclepoints.meta
 common/data/levels/rdr3/ai/vehiclepoints/boatsteam02x.meta
@@ -472,6 +473,7 @@ common/data/vegetationmodifiers.meta
 common/data/vegetationmodifiers_mp.meta
 common/data/version.txt
 common/data/visualsettings.dat
+common/data/visualsettings.ggp.dat
 common/data/visualsettings.x64.dat
 common/data/watertune.xml
 common/data/weatherclimates.xml
@@ -991,6 +993,7 @@ common/shaders/db/ped_cloth.sps
 common/shaders/db/ped_decal_expensive.sps
 common/shaders/db/ped_default.sps
 common/shaders/db/ped_default_cutout.sps
+common/shaders/db/ped_enveff_2normals.sps
 common/shaders/db/ped_eye.sps
 common/shaders/db/ped_fat.sps
 common/shaders/db/ped_fat_2normals.sps
@@ -1001,6 +1004,7 @@ common/shaders/db/ped_hair_cutout_alpha_cloth.sps
 common/shaders/db/ped_hair_spiked.sps
 common/shaders/db/ped_hair_spiked_noalpha.sps
 common/shaders/db/ped_skin.sps
+common/shaders/db/ped_skin_blendshape_wrinkle.sps
 common/shaders/db/ped_slod_tint.sps
 common/shaders/db/ped_standard.sps
 common/shaders/db/ped_standard_alpha.sps
@@ -1330,7 +1334,10 @@ common/shaders/fxdb/sga_win32_50_final.fxdb
 common/shaders/fxdb/sga_win32_50_final_init.fxdb
 common/shaders/preload.list
 common/shaders/preloadms.list
+common/shaders/sga_vulkan_final.vkWarmupCacheWindows
+common/shaders/sga_win32_60_final.d3d12WarmupCacheWindows
 content.xml
+pack_patch/base/content.xml
 pack_patch/dlc_content_extra/common/data/ai/003_weaponanimations.meta
 pack_patch/dlc_content_extra/common/data/ai/003_weaponcomponents.meta
 pack_patch/dlc_content_extra/common/data/ai/004_weaponanimations.meta
@@ -1341,6 +1348,7 @@ pack_patch/mp003/content.xml
 pack_patch/mp003/setup2.xml
 pack_patch/mp004/content.xml
 pack_patch/mp004/setup2.xml
+pack_patch/mp005/common/packs/base/data/levels/rdr3/vehicles.meta
 pack_patch/opt001/common/data/overlayinfo.xml
 pack_patch/opt001/content.xml
 pack_patch/opt001/setup2.xml
@@ -1439,9 +1447,11 @@ x64/data/control/keyboardlayout/es.meta
 x64/data/control/keyboardlayout/fr.meta
 x64/data/control/keyboardlayout/it.meta
 x64/data/control/keyboardlayout/ja.meta
+x64/data/control/keyboardlayout/ko.meta
 x64/data/control/keyboardlayout/pl.meta
 x64/data/control/keyboardlayout/pt.meta
 x64/data/control/keyboardlayout/ru.meta
+x64/data/control/keyboardlayout/zh.meta
 x64/data/control/noninverted.meta
 x64/data/control/settings.meta
 x64/data/credits

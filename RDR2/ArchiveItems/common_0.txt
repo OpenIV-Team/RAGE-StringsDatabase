@@ -498,8 +498,15 @@ data/companions/threatresponse/companionbehavioranalysis_threatresponse_bank.met
 data/control/common/common.meta
 data/control/common/right_handed/noninverted.meta
 data/control/display_order.meta
+data/control/layout/first_person/left_handed/standard.meta
+data/control/layout/first_person/left_handed/triggerswap.meta
+data/control/layout/first_person/right_handed/standard.meta
+data/control/layout/first_person/right_handed/triggerswap.meta
+data/control/layout/third_person/left_handed/common.meta
+data/control/layout/third_person/left_handed/triggerswap.meta
 data/control/layout/third_person/right_handed/common.meta
 data/control/layout/third_person/right_handed/standard.meta
+data/control/layout/third_person/right_handed/triggerswap.meta
 data/control/options/duck_brake/standard.meta
 data/control/options/special_ability/standard.meta
 data/control/prompts.meta

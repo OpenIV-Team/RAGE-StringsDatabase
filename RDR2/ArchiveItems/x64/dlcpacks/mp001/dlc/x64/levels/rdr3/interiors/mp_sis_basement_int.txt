@@ -1,5 +1,7 @@
 _cache
 _manifest
+mp001_mp_sis_basement_int_
+mp001_mp_sis_basement_int_shell
 mp001_mp_sis_bsmnt_ceiling_twr
 mp001_mp_sis_bsmnt_ceiling_twr+hidr
 mp001_mp_sis_bsmnt_decals1

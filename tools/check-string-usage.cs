@@ -14,7 +14,7 @@ namespace RageStringsDatabase
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Check String Usage Tool v1.0\n");
+            Console.WriteLine("Check String Usage Tool v1.1\n");
 
             if (args.Length != 3)
             {
@@ -92,8 +92,9 @@ namespace RageStringsDatabase
         static void CheckStringsForHashCollisions(List<string> strings, HashType hash)
         {
             var makeHash = HashManager.GetHashFunction(hash);
-            var lineCmp = HashManager.GetStringComparer(hash);
+            var lineComparer = HashManager.GetStringComparer(hash);
             var hashMap = new Dictionary<UInt32, string>();
+            var buffer = new List<string>();
 
             foreach (var line in strings)
             {
@@ -101,9 +102,9 @@ namespace RageStringsDatabase
                 if (hashMap.ContainsKey(lineHash))
                 {
                     var testLine = hashMap[lineHash];
-                    if (!lineCmp.Equals(line, testLine))
+                    if (!lineComparer.Equals(line, testLine))
                     {
-                        Console.WriteLine(string.Format("!Collision\t{0}\t{1}", testLine, line));
+                        buffer.Add(string.Format("INPUT_COLLISION\t0x{0:X8}\t{1}\t{2}", lineHash, testLine, line));
                     }
                 }
                 else
@@ -111,27 +112,67 @@ namespace RageStringsDatabase
                     hashMap.Add(lineHash, line);
                 }
             }
+
+            if (buffer.Any())
+            {
+                Console.WriteLine("#INPUT_COLLISION\tHash\tLine_1\tLine_2");
+                buffer.Sort();
+                buffer.ForEach(s => Console.WriteLine(s));
+                Console.WriteLine("");
+            }
         }
 
         static void CheckStrings(string inputFolder, HashType hash, List<string> strings)
         {
             var converter = new UInt32Converter();
             var makeHash = HashManager.GetHashFunction(hash);
+            var lineComparer = HashManager.GetStringComparer(hash);
             var files = Directory.GetFiles(inputFolder, "*.hashes", SearchOption.AllDirectories);
-
             var testData = strings.Select(s => new KeyValuePair<UInt32, string>(makeHash(s), s)).ToList();
+
+            var bufferCollisions = new List<string>();
+            var bufferNew = new List<string>();
 
             foreach (var fileName in files)
             {
                 var hashList = File.ReadAllLines(fileName).Select(s => (UInt32)converter.ConvertFromString(s)).ToDictionary(k => k, v => v);
+                var lines = File.ReadAllLines(Path.ChangeExtension(fileName, ".txt")).ToDictionary(k => makeHash(k), v => v);
+                var localFileName = fileName.Remove(0, inputFolder.Length + 1);
 
                 foreach (var test in testData)
                 {
                     if (hashList.ContainsKey(test.Key))
                     {
-                        Console.WriteLine(string.Format("{0}\tUsed in\t{1}", test.Value, fileName));
+                        string currentValue;
+                        if (lines.TryGetValue(test.Key, out currentValue))
+                        {
+                            if (!lineComparer.Equals(currentValue, test.Value))
+                            {
+                                bufferCollisions.Add(string.Format("COLLISION\t{0}\t{1}\t{2}", localFileName, currentValue, test.Value));
+                            }
+                        }
+                        else
+                        {
+                            bufferNew.Add(string.Format("NEW\t{0}\t{1}", localFileName, test.Value));
+                        }
                     }
                 }
+            }
+
+            if (bufferCollisions.Any())
+            {
+                Console.WriteLine("#COLLISION\tFile_name\tCurrent_line\tInput_line");
+                bufferCollisions.Sort();
+                bufferCollisions.ForEach(s => Console.WriteLine(s));
+                Console.WriteLine("");
+            }
+
+            if (bufferNew.Any())
+            {
+                Console.WriteLine("#NEW\tFile_name\tInput_line");
+                bufferNew.Sort();
+                bufferNew.ForEach(s => Console.WriteLine(s));
+                Console.WriteLine("");
             }
         }
     }

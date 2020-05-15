@@ -59,6 +59,7 @@ namespace RageStringsDatabase
                 }
 
                 var fileLines = new List<string>( File.ReadLines(inputLine) );
+                CheckStringsForHashCollisions(fileLines, hash);
                 CheckStrings(inputFolder, hash, fileLines);
             }
             else
@@ -86,6 +87,30 @@ namespace RageStringsDatabase
             Console.WriteLine("");
             Console.WriteLine("");
             Console.WriteLine("");
+        }
+
+        static void CheckStringsForHashCollisions(List<string> strings, HashType hash)
+        {
+            var makeHash = HashManager.GetHashFunction(hash);
+            var lineCmp = HashManager.GetStringComparer(hash);
+            var hashMap = new Dictionary<UInt32, string>();
+
+            foreach (var line in strings)
+            {
+                var lineHash = makeHash(line);
+                if (hashMap.ContainsKey(lineHash))
+                {
+                    var testLine = hashMap[lineHash];
+                    if (!lineCmp.Equals(line, testLine))
+                    {
+                        Console.WriteLine(string.Format("!Collision\t{0}\t{1}", testLine, line));
+                    }
+                }
+                else
+                {
+                    hashMap.Add(lineHash, line);
+                }
+            }
         }
 
         static void CheckStrings(string inputFolder, HashType hash, List<string> strings)

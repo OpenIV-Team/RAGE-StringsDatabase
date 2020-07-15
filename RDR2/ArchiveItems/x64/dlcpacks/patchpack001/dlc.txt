@@ -313,11 +313,17 @@ x64/anim/motions/horseback
 x64/anim/motions/mech_loco_f
 x64/anim/motions/mech_loco_m
 x64/audio/dlcpd01_game.dat325
+x64/audio/dlcpd01_game.dat325.nametable
 x64/audio/dlcpd01_game.dat325.rel
+x64/audio/dlcpd01_game.dat325.rel.nametable
 x64/audio/dlcpd01_sounds.dat98
+x64/audio/dlcpd01_sounds.dat98.nametable
 x64/audio/dlcpd01_sounds.dat98.rel
+x64/audio/dlcpd01_sounds.dat98.rel.nametable
 x64/audio/dlcpd01_speech2.dat14
+x64/audio/dlcpd01_speech2.dat14.nametable
 x64/audio/dlcpd01_speech2.dat14.rel
+x64/audio/dlcpd01_speech2.dat14.rel.nametable
 x64/audio/sfx/dlc_pd01
 x64/hd/packs/base/models/component_textures
 x64/levels/rdr3/area/lod/nopq_7_10_area_lod_combine_metadata

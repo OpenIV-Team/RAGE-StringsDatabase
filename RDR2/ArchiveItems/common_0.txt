@@ -229,7 +229,9 @@ data/ai/program/police_combatdirector_combat.meta
 data/ai/program/prisoner_combatdirector.meta
 data/ai/program/tacticaladvance_combatdirector.meta
 data/ai/program/townmob_combatdirector.meta
+data/ai/propscenarios.meta
 data/ai/propsets.meta
+data/ai/propsetscenarios.meta
 data/ai/referencedconditions.meta
 data/ai/scavengerlayouts.meta
 data/ai/scenarioinfo.meta
@@ -496,13 +498,19 @@ data/companions/lead/companionbehavioranalysis_lead.meta
 data/companions/threatresponse/companionbehavioranalysis_threatresponse.meta
 data/companions/threatresponse/companionbehavioranalysis_threatresponse_bank.meta
 data/control/common/common.meta
+data/control/common/left_handed/inverted.meta
+data/control/common/left_handed/noninverted.meta
+data/control/common/right_handed/inverted.meta
 data/control/common/right_handed/noninverted.meta
 data/control/display_order.meta
+data/control/layout/first_person/left_handed/common.meta
 data/control/layout/first_person/left_handed/standard.meta
 data/control/layout/first_person/left_handed/triggerswap.meta
+data/control/layout/first_person/right_handed/common.meta
 data/control/layout/first_person/right_handed/standard.meta
 data/control/layout/first_person/right_handed/triggerswap.meta
 data/control/layout/third_person/left_handed/common.meta
+data/control/layout/third_person/left_handed/standard.meta
 data/control/layout/third_person/left_handed/triggerswap.meta
 data/control/layout/third_person/right_handed/common.meta
 data/control/layout/third_person/right_handed/standard.meta
@@ -595,6 +603,7 @@ data/fleedecisionmakerdata.meta
 data/fleestyles.meta
 data/fluidvessels.meta
 data/fragment.xml
+data/frssaosettings.xml
 data/gestureconditions.meta
 data/glass/glassconfig.xml
 data/glass/hires.txt
@@ -640,6 +649,7 @@ data/glass/Security/0x0/Shotgun.xml
 data/grassPivotPositionTables.meta
 data/gravitywelldefinitions.meta
 data/handling.meta
+data/hbaosettings.xml
 data/ImposterExtents.dat
 data/interactive_focus_mode_presets.meta
 data/InteriorGroups.meta
@@ -782,6 +792,7 @@ data/levels/rdr3/sd_trolley_cable05.dat
 data/levels/rdr3/sd_trolley_cable06.dat
 data/levels/rdr3/sd_trolley_cable07.dat
 data/levels/rdr3/sd_trolley_cable08.dat
+data/levels/rdr3/sd_trolley_cable11.dat
 data/levels/rdr3/terrain.meta
 data/levels/rdr3/time.xml
 data/levels/rdr3/timeweather.xml
@@ -804,9 +815,13 @@ data/levels/rdr3/trains1.dat
 data/levels/rdr3/trains2.dat
 data/levels/rdr3/trains3.dat
 data/levels/rdr3/traintracks.xml
+data/levels/rdr3/trolley_intersection1_2.dat
 data/levels/rdr3/trolley_intersection2.dat
 data/levels/rdr3/trolley_intersection3.dat
+data/levels/rdr3/trolley_intersection4.dat
 data/levels/rdr3/trolley_intersection5.dat
+data/levels/rdr3/trolley_intersection6.dat
+data/levels/rdr3/trolley_intersection7.dat
 data/levels/rdr3/trolley1.dat
 data/levels/rdr3/trolley2.dat
 data/levels/rdr3/trolley3.dat
@@ -1035,6 +1050,7 @@ data/tune/scavengerdispatchmanagertunables.meta
 data/tune/traffictuning.meta
 data/tune/transportanalyseentryexittuneables.meta
 data/tune/uituning.meta
+data/tune/vehicletypes.meta
 data/tvplaylists.xml
 data/ui/colors.xml
 data/ui/colors_deuteranopia.xml

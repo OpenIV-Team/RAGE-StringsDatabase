@@ -1,0 +1,6 @@
+cutscene@fin1_ext2
+cutscene@fin1_int
+cutscene@fin1_mcs11
+cutscene@fin1_mcs6
+cutscene@fin1_mcs7
+cutscene@fin1_mcs9

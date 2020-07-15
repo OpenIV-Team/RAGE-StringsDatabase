@@ -1,0 +1,4 @@
+cutscene@fud1_ext
+cutscene@fud1_mcs1
+cutscene@fud1_mcs2
+cutscene@fud1_mcs3

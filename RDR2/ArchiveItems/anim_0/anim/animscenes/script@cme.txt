@@ -18,6 +18,9 @@ script@cme@exconfed_cme_shot2
 script@cme@exconfed_cme_shot3
 script@cme@exconfed_cme_shot4
 script@cme@exconfed_cme_shot5
+script@cme@fin1_cme_shot1
+script@cme@fin1_cme_shot2
+script@cme@fin1_cme_shot3
 script@cme@gng0_cme_shot0
 script@cme@gng0_cme_shot2
 script@cme@gng0_cme_shot3

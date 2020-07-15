@@ -1,0 +1,4 @@
+cutscene@fus1_ext
+cutscene@fus1_int
+cutscene@fus1_mcs1
+cutscene@fus1_mcs2

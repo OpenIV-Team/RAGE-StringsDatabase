@@ -1,0 +1,4 @@
+cutscene@crn1_ext
+cutscene@crn1_int
+cutscene@crn1_mcs1
+cutscene@crn1_mcs2

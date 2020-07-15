@@ -27,6 +27,7 @@ rhntn_s2_ext-7
 rhntn_s2_ext-8
 rhntn_s2_ext-9
 rhntn_s2_int
+rhntn_s2_int-0
 rhntn_s2_int-1
 rhntn_s4_int
 rhntn_s4_int_p1a1_t05

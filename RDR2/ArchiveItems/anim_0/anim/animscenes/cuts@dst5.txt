@@ -1,0 +1,5 @@
+cutscene@dst5_ext
+cutscene@dst5_ext2
+cutscene@dst5_int
+cutscene@dst5_mcs1
+cutscene@dst5_mcs3

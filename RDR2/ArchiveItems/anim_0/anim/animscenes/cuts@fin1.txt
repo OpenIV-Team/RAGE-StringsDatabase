@@ -1,0 +1,14 @@
+cutscene@fin1_ext
+cutscene@fin1_ext2
+cutscene@fin1_int
+cutscene@fin1_mcs1
+cutscene@fin1_mcs10
+cutscene@fin1_mcs11
+cutscene@fin1_mcs2
+cutscene@fin1_mcs3
+cutscene@fin1_mcs4
+cutscene@fin1_mcs5
+cutscene@fin1_mcs6
+cutscene@fin1_mcs7
+cutscene@fin1_mcs8
+cutscene@fin1_mcs9

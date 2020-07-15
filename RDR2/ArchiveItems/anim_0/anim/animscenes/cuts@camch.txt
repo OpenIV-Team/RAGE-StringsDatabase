@@ -1,0 +1,2 @@
+cutscene@camch_crob1_ext
+cutscene@camch_crob2

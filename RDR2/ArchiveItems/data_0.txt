@@ -251,6 +251,7 @@ data/ui/inputcontexts/sticky_feed_input_context
 data/ui/inputcontexts/store_input_context
 data/ui/inputcontexts/styledata
 data/ui/inputcontexts/translation_page_input_context
+data/ui/inputcontexts/ui_settings_input_context
 data/ui/inputcontexts/wardrobe_menu_input_context
 data/ui/loading_screen_images
 data/ui/localisedstyles
@@ -281,6 +282,7 @@ data/ui/styles_loc_korean
 data/ui/ui_resources_bundles/boot_flow_resources
 data/ui/ui_resources_bundles/hud_resources
 data/ui/ui_resources_bundles/landing_page_resources
+data/ui/ui_resources_bundles/mp_hud_resources
 data/ui/ui_resources_bundles/persistent_resources
 data/ui/ui_resources_bundles/policies_menu_resources
 data/ui/ui_resources_bundles/social_club_resources

@@ -4,5 +4,6 @@ fus2_ext-1
 fus2_ext-2
 fus2_ext-3
 fus2_mcs3
+fus2_mcs3-0
 fus2_mcs3-1
 fus2_mcs3-2

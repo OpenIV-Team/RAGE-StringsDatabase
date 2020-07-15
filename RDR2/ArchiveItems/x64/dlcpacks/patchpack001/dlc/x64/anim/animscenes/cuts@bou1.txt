@@ -1,0 +1,2 @@
+cutscene@bou1_ext
+cutscene@bou1_mcs1

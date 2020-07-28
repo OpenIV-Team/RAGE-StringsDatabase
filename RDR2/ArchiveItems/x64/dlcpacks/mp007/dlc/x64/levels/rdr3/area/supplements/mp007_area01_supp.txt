@@ -1,2 +1,7 @@
 _cache
 _manifest
+mp007_mshine_01_newplug
+mp007_mshine_02_newplug
+mp007_mshine_02_newplug+hidr
+mp007_mshine_03_newplug
+mp007_mshine_05_newplug

@@ -745,7 +745,13 @@ mes_marston6_teens_01
 mes_sadie4_males_01
 mes_sadie5_males_01
 motherhubbard_saddle_01
+mp_a_c_buck_01
+mp_a_c_deer_01
+mp_a_c_elk_01
 mp_a_c_horsecorpse_01
+mp_a_c_moose_01
+mp_a_c_owl_01
+mp_a_c_pronghorn_01
 mp_a_f_m_cardgameplayers_01
 mp_a_f_m_saloonpatrons_01
 mp_a_f_m_saloonpatrons_02

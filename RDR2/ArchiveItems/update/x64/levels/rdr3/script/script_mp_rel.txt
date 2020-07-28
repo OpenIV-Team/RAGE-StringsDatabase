@@ -3,6 +3,8 @@ adlerranch
 aguasdulces
 ambient_fishing_scenario
 angryisolationist
+animal_transformation_location
+animal_transformation_mission
 annesburg
 armadillo
 armoire_corpse_scenario
@@ -71,12 +73,14 @@ emeraldranch
 error_listener
 error_listener_gc
 fast_travel_prototype
+field_guide
 fishing_core
 flow_controller
 fm_creator_script_manager
 fm_creator_top_menu
 fm_deathmatch_controller
 fm_deathmatch_creator_new
+fm_fetch_creator
 fm_mission_controller
 fm_mission_creator_new
 fm_mission_debug_output
@@ -129,6 +133,7 @@ generic_show_mp_manager
 generic_single_use_item
 generic_smoking_item
 generic_weapon_item
+generic_weight_control_item
 gfh_authoring_tool
 gfh_campworks
 gfh_door_tool
@@ -170,6 +175,7 @@ herb_english_mace_single
 herb_evergreen_huckleberry
 herb_ghost_orchid
 herb_golden_currant
+herb_harrietum_officinalis
 herb_hummingbird_sage
 herb_indian_tobacco
 herb_item
@@ -230,6 +236,7 @@ init_global_block_ugc_transition
 interactive_campfire
 item_bait_herbivore
 item_bait_predator
+item_legendary_animal_pheromone
 itemdatabase_debug
 junction_test
 junction_test_startup
@@ -238,13 +245,18 @@ la_bear
 la_beaver
 la_bison
 la_boar
+la_buck
 la_cougar
 la_coyote
+la_elk
 la_fox
 la_moose
+la_panther
+la_ram
 la_wolf
 lagras
 larnedsod
+legendary_animal_map
 long_update
 lonniesshack
 loonycult
@@ -256,6 +268,7 @@ manzanitapost
 map_app_event_handler
 medium_update
 metal_detector
+metaped_animal_testing_tool
 metaped_clothing_gender_swap
 metaped_clothing_tool
 metaped_clothing_tool_outfit_testing
@@ -294,6 +307,7 @@ nb_unpaid_debt
 nb_wildman
 net_ability_card_ui_handler
 net_ace_thread_manager
+net_advanced_camera
 net_ambient_content_evaluator
 net_arrowheads
 net_assassination
@@ -319,6 +333,7 @@ net_camp_stress_test
 net_char_creator
 net_coach_holdup
 net_coins
+net_collectible_fossils
 net_collectible_random_dig_site
 net_crew_manager
 net_cutscene
@@ -357,6 +372,7 @@ net_pickup_collectibles_bottles
 net_pickup_collectibles_heirlooms
 net_pickup_collectibles_jewelry
 net_pickup_collectibles_tarot_cards
+net_player_camp_manager
 net_player_vehicle
 net_player_wheel_item_use
 net_rolling_playlist

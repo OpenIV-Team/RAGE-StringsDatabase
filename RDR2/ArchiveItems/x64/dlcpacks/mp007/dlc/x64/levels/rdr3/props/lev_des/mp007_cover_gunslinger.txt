@@ -1,1 +1,3 @@
 _manifest
+mp007_p_mpcover_gunslinger06
+mp007_p_mpcover_gunslinger06+hifr

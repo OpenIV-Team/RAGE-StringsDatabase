@@ -1,1 +1,6 @@
 _manifest
+mp007_s_ammo_elephant
+mp007_s_inv_varmint_tranqammo01x
+mp007_s_inv_varmint_tranqammo01x+hifr
+mp007_s_rif_elephantammo01x
+mp007_s_rif_elephantammo01x+hidr

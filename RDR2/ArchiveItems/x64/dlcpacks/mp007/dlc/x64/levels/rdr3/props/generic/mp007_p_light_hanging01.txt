@@ -1,1 +1,5 @@
 _manifest
+mp007_p_mp_deerantchandelier01x
+mp007_p_mp_deerantchandelier01x+hifr
+mp007_p_nat_lamp30x
+mp007_p_nat_lamp30x+hifr

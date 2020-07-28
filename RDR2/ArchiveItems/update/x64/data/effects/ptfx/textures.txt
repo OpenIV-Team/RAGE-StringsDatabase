@@ -12,6 +12,7 @@ scr_adv_sok
 scr_deadeye
 scr_ind1
 scr_net_adversary_team_border
+scr_net_camp
 scr_net_player_signal
 scr_net_race_checkpoints
 scr_poisoned_well

@@ -31,6 +31,7 @@ scr_fme_spawn_effects
 scr_ind1
 scr_jack2
 scr_net_adversary_team_border
+scr_net_camp
 scr_net_dust
 scr_net_dynamite
 scr_net_fire_smoke

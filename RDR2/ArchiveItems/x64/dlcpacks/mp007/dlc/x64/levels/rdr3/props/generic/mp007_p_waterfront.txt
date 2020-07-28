@@ -1,1 +1,12 @@
 _manifest
+mp007_p_catfish_eaten01x
+mp007_p_catfish_eaten01x+hifr
+mp007_p_catfish_lrg01x
+mp007_p_catfish_sml01x
+mp007_p_fishhanging_dam01x
+mp007_p_fishhanging_dam01x+hifr
+mp007_p_fishhanging01x_catfish
+mp007_p_fishhanging01x_catfish+hi
+mp007_p_fishnet_damage01x
+mp007_p_fishnet_damage01x+hidr
+mp007_p_fishnet_damage02x

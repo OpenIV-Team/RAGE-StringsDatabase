@@ -14,4 +14,6 @@ lac_01__2
 lac_01__3
 lac_01__4
 lac_01_fort2
+lac_01_fort2_e
+lac_01_fort2_e+hidr
 lac_01_fort2+hidr

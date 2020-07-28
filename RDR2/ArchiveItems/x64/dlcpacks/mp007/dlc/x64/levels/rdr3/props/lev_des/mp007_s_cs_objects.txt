@@ -1,1 +1,5 @@
 _manifest
+mp007_p_cs_nat_collectors01x
+mp007_p_cs_nat_collectors01x+hidr
+mp007_p_mp_chairdesk01x
+mp007_p_mp_chairdesk01x+hifr

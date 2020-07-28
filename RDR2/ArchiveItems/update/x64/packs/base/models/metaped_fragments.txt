@@ -105,6 +105,7 @@ meta_base_cs_mp_agent_hixon
 meta_base_cs_mp_bountyhunter
 meta_base_cs_mp_cripps
 meta_base_cs_mp_dannylee
+meta_base_cs_mp_harriet_davenport
 meta_base_cs_mp_horley
 meta_base_cs_mp_jeremiah_shaw
 meta_base_cs_mp_jessica
@@ -289,10 +290,12 @@ meta_base_mp_allison
 meta_base_mp_amos_lansing
 meta_base_mp_cliff
 meta_base_mp_female
+meta_base_mp_gus_macmillan
 meta_base_mp_henchman
 meta_base_mp_horley
 meta_base_mp_lem
 meta_base_mp_male
+meta_base_mp_predator_01
 meta_base_mp_revenge_marshall
 meta_base_mp_teddybrown
 meta_base_mp_the_boy

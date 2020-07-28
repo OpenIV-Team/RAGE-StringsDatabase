@@ -67,9 +67,7 @@ journal/content_root
 leaderboard_and_post_match/leaderboard_content
 leaderboard_and_post_match/leaderboard_mid_game_content
 leaderboard_and_post_match/leaderboard_post_match_host
-leaderboard_and_post_match/posse_stats_content
 leaderboard_and_post_match/post_match_content
-leaderboard_and_post_match/vote_reason_screen
 leaderboard_and_post_match/winners_content
 ledger/ledger_contribution_template
 ledger/ledger_full_page_contributions_template
@@ -129,8 +127,6 @@ maps/treasure_map_14
 maps/treasure_map_15
 maps/treasure_map_horsechase
 minigames_hud/community_cards
-minigames_hud/minigames_menu_dominos
-minigames_hud/minigames_menu_fivefingerfillet
 minigames_hud/minigames_menu_poker
 minigames_hud/minigames_menu_root
 minigames_hud/minigames_root
@@ -266,7 +262,6 @@ pause_progress_index
 pause_progress_mp_coop
 pause_progress_mp_index
 pause_progress_mp_missions_index
-pause_progress_mp_rank
 pause_progress_story_chapters
 pause_progress_story_index
 pause_stats_detail
@@ -308,7 +303,6 @@ sidemenus/player_menu/mp/camp_and_properties
 sidemenus/player_menu/mp/camp_location
 sidemenus/player_menu/mp/camp_size
 sidemenus/player_menu/mp/camp_stats
-sidemenus/player_menu/mp/character_creator_appearance_body
 sidemenus/player_menu/mp/character_creator_appearance_cheeks
 sidemenus/player_menu/mp/character_creator_appearance_ears
 sidemenus/player_menu/mp/character_creator_appearance_eyes_and_brows
@@ -338,7 +332,6 @@ sidemenus/player_menu/mp/horse_defaults_coop_selection
 sidemenus/player_menu/mp/horse_defaults_freeroam_selection
 sidemenus/player_menu/mp/horse_defaults_race_selection
 sidemenus/player_menu/mp/horse_options
-sidemenus/player_menu/mp/horses
 sidemenus/player_menu/mp/invites
 sidemenus/player_menu/mp/jobs
 sidemenus/player_menu/mp/jobs_elimination
@@ -365,7 +358,6 @@ sidemenus/player_menu/mp/lobby/lobby_weapon_loadout_type
 sidemenus/player_menu/mp/log_checklist_details
 sidemenus/player_menu/mp/log_mission_details
 sidemenus/player_menu/mp/log_root
-sidemenus/player_menu/mp/manage_hierarchy
 sidemenus/player_menu/mp/minigame_details
 sidemenus/player_menu/mp/minigame_jip_landing
 sidemenus/player_menu/mp/minigame_landing
@@ -377,7 +369,6 @@ sidemenus/player_menu/mp/player_options
 sidemenus/player_menu/mp/player_report
 sidemenus/player_menu/mp/player_report_cheating
 sidemenus/player_menu/mp/player_report_offensive
-sidemenus/player_menu/mp/players
 sidemenus/player_menu/mp/posse_create
 sidemenus/player_menu/mp/posse_join_list
 sidemenus/player_menu/mp/posse_join_list_empty
@@ -402,24 +393,14 @@ sidemenus/player_menu/mp/vehicle_defaults_coop_selection
 sidemenus/player_menu/mp/vehicle_defaults_freeroam_selection
 sidemenus/player_menu/mp/vehicle_defaults_race_selection
 sidemenus/player_menu/mp/vehicle_options
-sidemenus/player_menu/mp/vehicles
 sidemenus/player_menu/mp/view_current_posse
-sidemenus/player_menu/mp/view_posse
 sidemenus/player_menu/mp/walk_style_selector
 sidemenus/player_menu/post_office
 sidemenus/player_menu/sidemenu_pm
 sidemenus/player_menu/sidemenu_pm_lobby
 sidemenus/player_menu/sp/log_root
-sidemenus/player_menu/wardrobe/player_wardrobe_item_style_menu
-sidemenus/player_menu/wardrobe/player_wardrobe_item_variation_menu
-sidemenus/player_menu/wardrobe/player_wardrobe_main
-sidemenus/player_menu/wardrobe/player_wardrobe_menu_wrapper
-sidemenus/player_menu/wardrobe/player_wardrobe_outfit_customization_menu
 sidemenus/player_menu/weapon/player_weapon_inspect
 sidemenus/shops/cat/catalog_main
-sidemenus/shops/cat/pseudo_index
-sidemenus/shops/cat/root_index
-sidemenus/shops/cat/variation_index
 sidemenus/shops/collectibles/collectibles_main
 sidemenus/shops/collectibles/root_index
 sidemenus/shops/generic/bounty_management

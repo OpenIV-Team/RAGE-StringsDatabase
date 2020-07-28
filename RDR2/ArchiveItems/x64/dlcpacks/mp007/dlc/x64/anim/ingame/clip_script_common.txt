@@ -1,0 +1,7 @@
+script_common@seat@desk@female@base
+script_common@seat@desk@female@idle_a
+script_common@seat@desk@female@idle_b
+script_common@seat@desk@female@react_look@active_look
+script_common@seat@desk@female@react_look@enter@med
+script_common@seat@desk@female@react_look@exit@generic
+script_common@seat@desk@female@react_look@loop@generic

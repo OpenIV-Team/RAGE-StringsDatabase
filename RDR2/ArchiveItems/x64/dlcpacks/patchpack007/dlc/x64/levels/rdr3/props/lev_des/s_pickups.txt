@@ -1,0 +1,5 @@
+_manifest
+s_jewlerybox_lrg_fancy01x
+s_jewlerybox_lrg_fancy02x
+s_jewlerybox_lrg_fancy02x+hidr
+s_pickups

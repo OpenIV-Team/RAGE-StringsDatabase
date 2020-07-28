@@ -284,12 +284,10 @@ nb_moonshine_camp
 nb_photography
 nb_rival_collector
 nb_runaway_wagon
-nb_sick_horse
 nb_slumped_hunter
 nb_stalking_hunter
 nb_suspension_trap
 nb_tied_up_ped
-nb_trapped_wagon
 nb_treasure_hunter
 nb_tree_map
 nb_unpaid_debt
@@ -350,7 +348,6 @@ net_main_tlg_offline
 net_main_tlg_online
 net_mc_vs_mission_intro
 net_mission_intro_story_gvo
-net_moonshine_debug_ui
 net_moonshine_entrance
 net_moonshine_manager
 net_moonshine_property
@@ -394,6 +391,7 @@ placement_editor_props
 placement_editor_vehicles
 placement_editor_volumes
 placement_editor_weapons
+player_camp
 player_horse
 player_menu
 player_scenario_camera

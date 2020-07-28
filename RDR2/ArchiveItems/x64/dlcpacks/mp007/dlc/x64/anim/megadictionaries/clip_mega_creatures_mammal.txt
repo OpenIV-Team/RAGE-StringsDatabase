@@ -1,0 +1,6 @@
+_manifest
+mega_gen@creatures_mammal@boar@normal@2
+mega_gen@creatures_mammal@deer@normal
+mega_gen@creatures_mammal@deer@normal@2
+mega_gen@creatures_mammal@possum@normal
+mega_gen@creatures_mammal@rabbit@normal

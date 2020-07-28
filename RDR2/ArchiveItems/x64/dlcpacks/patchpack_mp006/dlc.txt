@@ -1,0 +1,4 @@
+common/data/overlayinfo.xml
+content.xml
+setup2.xml
+x64/levels/rdr3/interiors/mp006_moonshine01_int

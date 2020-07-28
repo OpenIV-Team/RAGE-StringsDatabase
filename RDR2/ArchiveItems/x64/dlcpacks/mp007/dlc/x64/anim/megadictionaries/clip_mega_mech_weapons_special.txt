@@ -1,0 +1,3 @@
+_manifest
+mega_mech_weapons_special@camera
+mega_mech_weapons_special@placeddynamite

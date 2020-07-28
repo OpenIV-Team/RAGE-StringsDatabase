@@ -1,0 +1,10 @@
+mech_hogtie@human@carried@human
+mech_hogtie@human@mount@remove@lt
+mech_hogtie@human@mount@remove@rt
+mech_hogtie@human@mount@stow@lt
+mech_hogtie@human@mount@stow@rt
+mech_hogtie@human_dead@carried@human
+mech_hogtie@human_dead@mount@remove@lt
+mech_hogtie@human_dead@mount@remove@rt
+mech_hogtie@human_dead@mount@stow@lt
+mech_hogtie@human_dead@mount@stow@rt

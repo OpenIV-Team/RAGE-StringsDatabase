@@ -1,0 +1,2 @@
+script_amb@animal@alligator_eat_dead_bird
+script_amb@animal@fox_catch_rodent

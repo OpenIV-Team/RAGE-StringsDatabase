@@ -1,0 +1,12 @@
+amb_misc@world_human_fiddle_handoff@drunk@future_performer@female_a@base
+amb_misc@world_human_fiddle_handoff@drunk@future_performer@female_a@stand_enter
+amb_misc@world_human_fiddle_handoff@drunk@future_performer@female_a@stand_exit
+amb_misc@world_human_fiddle_handoff@drunk@future_performer@male_a@base
+amb_misc@world_human_fiddle_handoff@drunk@future_performer@male_a@stand_enter
+amb_misc@world_human_fiddle_handoff@drunk@future_performer@male_a@stand_exit
+amb_misc@world_human_fiddle_handoff@sober@future_performer@female_a@base
+amb_misc@world_human_fiddle_handoff@sober@future_performer@female_a@stand_enter
+amb_misc@world_human_fiddle_handoff@sober@future_performer@female_a@stand_exit
+amb_misc@world_human_fiddle_handoff@sober@future_performer@male_a@base
+amb_misc@world_human_fiddle_handoff@sober@future_performer@male_a@stand_enter
+amb_misc@world_human_fiddle_handoff@sober@future_performer@male_a@stand_exit

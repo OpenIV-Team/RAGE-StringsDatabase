@@ -1,0 +1,7 @@
+creatures_mammal@boar@swimming@surface@base
+creatures_mammal@cougar@melee@streamed_core
+creatures_mammal@coyote@melee@streamed_core
+creatures_mammal@deer@swimming@surface@base
+creatures_mammal@possum@normal@getup
+creatures_mammal@possum@swimming@surface@base
+creatures_mammal@rabbit@swimming@surface@base

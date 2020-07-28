@@ -1,0 +1,3 @@
+amb_misc@world_human_stand_waiting@male_b@idle_a
+amb_misc@world_human_stand_waiting@male_b@idle_b
+amb_misc@world_human_stand_waiting@male_b@idle_c

@@ -1,0 +1,10 @@
+script_respawn@one_shot@hybrid@generic@longarm_lhand@sitting_journal_writing
+script_respawn@one_shot@hybrid@generic@longarm_lhand@sitting_journal_writing@front
+script_respawn@one_shot@hybrid@generic@longarm_lhand@sitting_journal_writing@left
+script_respawn@one_shot@hybrid@generic@longarm_lhand@sitting_journal_writing@right
+script_respawn@one_shot@hybrid@generic@unarmed@sitting_journal_writing@a
+script_respawn@one_shot@hybrid@generic@unarmed@sitting_journal_writing@b
+script_respawn@one_shot@hybrid@generic@unarmed@sitting_journal_writing@c
+script_respawn@one_shot@hybrid@generic@unarmed@sitting_journal_writing@front
+script_respawn@one_shot@hybrid@generic@unarmed@sitting_journal_writing@left
+script_respawn@one_shot@hybrid@generic@unarmed@sitting_journal_writing@right

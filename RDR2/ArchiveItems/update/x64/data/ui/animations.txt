@@ -119,8 +119,6 @@ pause/pausemenu_seasonreward_enter
 pause/pausemenu_seasonreward_exit
 radial_menus/emotes_menu_slot_granular_focus_transition
 radial_menus/radial_menu_slot_granular_focus_transition
-rpg_meters_fade_in
-rpg_meters_fade_out
 rpg_meters_flashing
 satchel_enter
 satchel_exit

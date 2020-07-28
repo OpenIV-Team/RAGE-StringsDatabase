@@ -1,0 +1,2 @@
+amb_creatures_reptile@gator@nip_attack
+amb_creatures_reptile@gator_giant@nip_attack

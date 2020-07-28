@@ -5,7 +5,6 @@ cmpndm_equipment_tu
 cmpndm_weapons_tu
 pausemenu_map
 pausemenu_player_update
-pm_tiles_settings
 sp_missions_10
 sp_missions_5
 sp_missions_tu

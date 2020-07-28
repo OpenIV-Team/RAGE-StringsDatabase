@@ -27,8 +27,6 @@ leaderboard_and_post_match_launcher
 lobby/pm_flow_lobby_player_options
 map_launcher_flow
 map_main_flow
-minigames/menu_dominos_flow
-minigames/menu_fivefingerfillet_flow
 minigames/minigames_ui_flow
 opening_credits_flow
 pause/abilities_menu_flow
@@ -58,11 +56,9 @@ player_menu/flow_mp_set_camp_location
 player_menu/flow_mp_stable_horses
 player_menu/flow_mp_stable_vehicles
 player_menu/flow_sp
-player_wardrobe_launch
 pm_flow_character_creator
 pm_flow_lobby
 pm_flow_lobby_launcher
-pm_flow_player_wardrobe
 pm_flow_weapon_inspect
 pm_launcher_flow
 rewards/rewards_menu_flow

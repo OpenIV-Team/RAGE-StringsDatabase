@@ -1,0 +1,4 @@
+script@mech@crafting_fallbacks@craft_bullets_explosive_f
+script@mech@treasure_hunting@chest
+script@mech@treasure_hunting@grab
+script@mech@treasure_hunting@nothing

@@ -1,0 +1,3 @@
+script@ambient@animal@big_cat_kill_raccoon@action
+script@ambient@animal@moose_fall_on_ice@action
+script@ambient@shop@catalog_player

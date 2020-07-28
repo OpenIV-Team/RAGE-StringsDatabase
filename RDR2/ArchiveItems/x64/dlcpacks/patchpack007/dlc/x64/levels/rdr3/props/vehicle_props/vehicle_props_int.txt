@@ -1,0 +1,8 @@
+_manifest
+p_norpass_up01x_seat01x
+p_norpass_up01x_seat01x+hidr
+p_seatsnorpass_upper01x
+p_seatsnorpass_upper01x+hidr
+p_seatsnorpass01x
+p_seatsnorpass01x+hidr
+vehicle_props_int

@@ -1625,6 +1625,7 @@ wallacestation
 wanted_poster
 wapiti
 watsonscabin
+weapon_locker
 wilderness_chest
 window_peek_scenario
 winter1

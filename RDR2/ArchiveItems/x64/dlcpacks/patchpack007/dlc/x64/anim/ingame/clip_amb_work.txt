@@ -1,0 +1,2 @@
+amb_work@world_human_inspect@male_a@idle_b
+amb_work@world_human_write_notebook@male_a@idle_c

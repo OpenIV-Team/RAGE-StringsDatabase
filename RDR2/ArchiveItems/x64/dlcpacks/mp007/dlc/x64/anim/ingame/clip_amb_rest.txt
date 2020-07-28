@@ -1,0 +1,4 @@
+amb_rest@world_human_sternguy@male_a@idle_a
+amb_rest@world_human_sternguy@male_a@idle_b
+amb_rest@world_human_sternguy@male_a@idle_c
+amb_rest@world_human_sternguy@male_a@stand_exit

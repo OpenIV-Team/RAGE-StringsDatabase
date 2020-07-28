@@ -1,0 +1,1 @@
+creatures_bird@duck@water@idle_variation

@@ -24,7 +24,6 @@ landing_page/flow/frontend_feed_flow
 landing_page/flow/landing_launcher_flow
 landing_page/screens/landing
 landing_page/screens/landing_mp
-landing_page/screens/landing_mp_countdown
 landing_page/screens/landing_mp_direct
 landing_page/screens/landing_mp_intro
 landing_page/screens/landing_sp

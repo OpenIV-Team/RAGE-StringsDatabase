@@ -1,0 +1,1 @@
+veh_wagon@inventory@equip@base@two_seater

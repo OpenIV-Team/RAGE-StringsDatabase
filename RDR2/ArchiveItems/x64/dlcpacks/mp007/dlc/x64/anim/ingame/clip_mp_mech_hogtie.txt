@@ -1,0 +1,4 @@
+mp_mech_hogtie@female@human@mount@remove@lt
+mp_mech_hogtie@female@human@mount@remove@rt
+mp_mech_hogtie@female@human_dead@mount@remove@lt
+mp_mech_hogtie@female@human_dead@mount@remove@rt

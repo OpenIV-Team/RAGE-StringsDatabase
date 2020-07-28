@@ -1,0 +1,3 @@
+_manifest
+mega_mech_boat_paddle@canoe@centre@entry_exit@from@onboard@back@jack
+mega_mech_boat_paddle@canoe@centre@exit@to@onboard@back

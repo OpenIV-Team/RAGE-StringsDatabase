@@ -1,0 +1,6 @@
+script@ambient@animal@alligator_eat_dead_bird@action
+script@ambient@animal@fox_catch_rodent@action
+script@ambient@animal@fox_hunt_in_snow@action
+script@ambient@animal@rams_headbutt@action
+script@ambient@animal@wolf_ambush_deer@action
+script@ambient@animal@wolves_playing_together@action

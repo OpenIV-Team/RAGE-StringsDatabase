@@ -1,0 +1,7 @@
+amb_creature_mammal@world_boar_drink_ground@base
+amb_creature_mammal@world_boar_drink_ground@idle
+amb_creature_mammal@world_boar_drink_ground@react_look@enter
+amb_creature_mammal@world_boar_drink_ground@react_look@enter_high
+amb_creature_mammal@world_boar_drink_ground@react_look@exit
+amb_creature_mammal@world_boar_drink_ground@stand_enter
+amb_creature_mammal@world_boar_drink_ground@stand_exit

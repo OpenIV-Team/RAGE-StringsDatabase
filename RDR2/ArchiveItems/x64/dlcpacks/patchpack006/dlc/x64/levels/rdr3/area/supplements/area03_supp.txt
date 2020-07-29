@@ -1,6 +1,7 @@
 _cache
 _manifest
 area03_supp
+area03_supp_strm
 mp006_gala_dock_addition
 mp006_gala_dock_addition_lod
 mp006_gala_dock_addition_slod

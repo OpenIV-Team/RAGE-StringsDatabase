@@ -5,3 +5,5 @@ mp007_a1supp_naturalist07_decal001+hidr
 mp007_a1supp_naturalist07_details001
 mp007_a1supp_naturalist07_details001+hidr
 mp007_a1supp_naturalist07_details002
+mp007_area02_supp
+mp007_area02_supp_strm

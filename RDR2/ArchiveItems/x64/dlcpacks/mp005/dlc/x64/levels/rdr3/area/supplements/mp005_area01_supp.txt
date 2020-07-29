@@ -32,6 +32,7 @@ mp005_a1bpnecklace02_01+hidr
 mp005_a1bpnecklace02_02
 mp005_a1bpnecklace02_02+hidr
 mp005_area01_supp
+mp005_area01_supp_strm
 mp005_big01_buried
 mp005_big01_buried001
 mp005_big01_unburied

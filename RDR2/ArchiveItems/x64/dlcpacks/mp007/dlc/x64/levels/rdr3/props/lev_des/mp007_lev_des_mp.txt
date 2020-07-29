@@ -1,4 +1,5 @@
 _manifest
+mp007_lev_des_mp
 mp007_p_backdrop_cabin01x
 mp007_p_backdrop_cabin01x_s
 mp007_p_backdrop_cemetery01x

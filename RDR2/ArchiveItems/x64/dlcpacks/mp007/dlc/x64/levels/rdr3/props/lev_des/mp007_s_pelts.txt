@@ -86,3 +86,4 @@ mp007_p_nat_pelt_wolflegend02x
 mp007_p_nat_pelt_wolflegend02x+hifr
 mp007_p_nat_pelt_wolflegend03x
 mp007_p_nat_pelt_wolflegend03x+hifr
+mp007_s_pelts

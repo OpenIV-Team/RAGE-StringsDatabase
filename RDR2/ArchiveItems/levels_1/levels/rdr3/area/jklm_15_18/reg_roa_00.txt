@@ -10,6 +10,7 @@ reg_roa_00_booby_trap_dec
 reg_roa_00_booby_trap_dec+hidr
 reg_roa_00_mine_lod
 reg_roa_00_mine_slod
+reg_roa_00_strm
 reg_roa_00+hi
 reg_roa_14p_14_balloon
 reg_roa_14p_14_balloon+hi

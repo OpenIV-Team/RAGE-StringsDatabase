@@ -26,6 +26,7 @@ mp005_a2_pnecklace03_01+hidr
 mp005_annesburg_bountyboard
 mp005_area02_supp
 mp005_area02_supp_long_0
+mp005_area02_supp_strm
 mp005_emeraldstation_bountyboard
 mp005_p_tree_log_04_rsref001
 mp005_p_tree_log_04_rsref001+hidr

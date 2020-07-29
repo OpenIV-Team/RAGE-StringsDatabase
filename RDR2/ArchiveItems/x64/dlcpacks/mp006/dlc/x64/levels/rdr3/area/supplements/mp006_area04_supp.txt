@@ -16,5 +16,6 @@ mp006_a4supp_moonshine03_plug
 mp006_a4supp_moonshine05
 mp006_a4supp_moonshine05_plug
 mp006_area04_supp
+mp006_area04_supp_strm
 mp006_mshine05_flasbackint
 mp006_mshine05_flasbackint+hidr

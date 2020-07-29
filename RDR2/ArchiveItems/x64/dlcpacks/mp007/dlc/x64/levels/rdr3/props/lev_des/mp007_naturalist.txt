@@ -1,4 +1,5 @@
 _manifest
+mp007_naturalist
 mp007_p_advancedcamera01x
 mp007_p_advancedcamera01x+hifr
 mp007_p_advancedcameraplate01x

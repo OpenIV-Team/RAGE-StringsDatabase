@@ -10,3 +10,4 @@ mp007_p_fishhanging01x_catfish+hi
 mp007_p_fishnet_damage01x
 mp007_p_fishnet_damage01x+hidr
 mp007_p_fishnet_damage02x
+mp007_p_waterfront

@@ -6,6 +6,7 @@ mp005_a3_odearring1_ipl
 mp005_a3_ranecklace02_ipl
 mp005_area03_supp
 mp005_area03_supp_long_0
+mp005_area03_supp_strm
 mp005_area03_supp_strm_0
 mp005_rhodes_bountyboard
 mp005_saintdenis_bountyboard

@@ -1,6 +1,7 @@
 _cache
 _manifest
 mp007_int_bar_thm_goth_lights
+mp007_moonshine01_int
 mp007_msh_int_bar_bck01
 mp007_msh_int_bar_bck01+hidr
 mp007_msh_int_bar_counter009

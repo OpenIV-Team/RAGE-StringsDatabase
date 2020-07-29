@@ -1,5 +1,6 @@
 _cache
 _manifest
 area01_supplements
+area01_supplements_strm
 sup_area01_misc
 sup_area01_misc+hidr

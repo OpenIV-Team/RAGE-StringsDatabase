@@ -9,6 +9,7 @@ reg_bgv_01_icicles+hidr
 reg_bgv_01_oldworldscript1_dc
 reg_bgv_01_oldworldscript1_dc+hidr
 reg_bgv_01_slod
+reg_bgv_01_strm
 reg_bgv_01+hi
 reg_bgv_crevice_blend_03
 reg_bgv_glacier_block_ipl_02

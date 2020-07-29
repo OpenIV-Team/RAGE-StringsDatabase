@@ -22,6 +22,7 @@ mp006_area03_sup_vfx
 mp006_area03_sup_vfx001
 mp006_area03_supp
 mp006_area03_supp_lightbox
+mp006_area03_supp_strm
 mp006_wafpolcyfm_rho
 mp006_wafpolcyfm_rho+hidr
 mp006_xmas_bulb_emis1

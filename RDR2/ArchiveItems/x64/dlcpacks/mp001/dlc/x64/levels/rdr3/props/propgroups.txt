@@ -218,3 +218,5 @@ pg_re_exconfederategang02x
 pg_teamster_wagon02x_gen02
 pg_teamster_wagon04x_gen02
 pg_veh_wagon05x_5
+pg_mp_tannercamp01x
+pg_mp_tannercamp01x

@@ -74,3 +74,10 @@ mp001_p_mp_track_wide02
 mp001_p_mp_track_wide03
 mp001_p_mp_track_wide04
 mp001_roadside
+mp001_mp_barrelshot02
+mp001_mp_crosssection01
+mp001_mp_fenceshort01
+mp001_mp_fort_mod
+mp001_mp_haybalelong01
+mp001_mp_race_track
+mp001_mp_race_track01

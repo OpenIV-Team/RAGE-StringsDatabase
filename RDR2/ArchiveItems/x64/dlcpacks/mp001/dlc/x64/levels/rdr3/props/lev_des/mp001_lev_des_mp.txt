@@ -204,3 +204,13 @@ mp001_s_whittlingwolf02b
 mp001_s_whittlingwolf02c
 mp001_s_whittlingwolf02d
 mp001_s_whittlingwolf02e
+mp001_mp_lev_des
+mp001_p_mp_pickup_barrel
+mp001_p_player_belt
+mp001_p_veh_gunforhire
+mp001_prop_mp_icons
+mp001_s_moonshinesack
+mp001_s_mp_raceflag
+mp001_s_mp_stone_marker
+mp001_s_mprockcircle
+mp001_s_whittlingwolf

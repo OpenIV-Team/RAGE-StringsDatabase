@@ -51,3 +51,4 @@ toast_fme
 toast_log_blips_mp
 toasts_mp_daily_objective
 toasts_mp_generic
+TOAST_AWARDS_SET_S

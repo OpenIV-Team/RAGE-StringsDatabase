@@ -47,8 +47,8 @@ toast_awards_set_o
 toast_awards_set_p
 toast_awards_set_q
 toast_awards_set_r
+TOAST_AWARDS_SET_S
 toast_fme
 toast_log_blips_mp
 toasts_mp_daily_objective
 toasts_mp_generic
-TOAST_AWARDS_SET_S

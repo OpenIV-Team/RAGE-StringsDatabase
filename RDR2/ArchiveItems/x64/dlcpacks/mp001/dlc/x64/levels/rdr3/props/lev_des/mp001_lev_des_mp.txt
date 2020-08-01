@@ -1,5 +1,6 @@
 _manifest
 mp001_lev_des_mp
+mp001_mp_lev_des
 mp001_mp_map01x
 mp001_mp_map01x+hifr
 mp001_mp_photo_alfredomontez_01x
@@ -65,6 +66,7 @@ mp001_p_mp_map02x
 mp001_p_mp_map02x+hifr
 mp001_p_mp_pelt_xlarge_acbear01
 mp001_p_mp_pelt_xlarge_acbear01+hifr
+mp001_p_mp_pickup_barrel
 mp001_p_mp_pickup_barrel_gun01a
 mp001_p_mp_pickup_barrel_gun01a+hidr
 mp001_p_mp_pickup_barrel_gun02a
@@ -107,14 +109,17 @@ mp001_p_mptenttrack303x
 mp001_p_mptenttrack303x+hifr
 mp001_p_mptenttrack306x
 mp001_p_mptenttrack306x+hifr
+mp001_p_player_belt
 mp001_p_railroadtiepile01x
 mp001_p_railroadtiepile01x+hifr
+mp001_p_veh_gunforhire
 mp001_p_veh_gunforhire01x
 mp001_p_veh_gunforhire02x
 mp001_p_veh_gunforhire03x
 mp001_prop_mp_cant_place_lrg
 mp001_prop_mp_cant_place_med
 mp001_prop_mp_cant_place_sm
+mp001_prop_mp_icons
 mp001_prop_mp_max_out_lrg
 mp001_prop_mp_max_out_med
 mp001_prop_mp_max_out_sm
@@ -133,6 +138,7 @@ mp001_s_fasttravelmarker01x+hidr
 mp001_s_healthpack01x
 mp001_s_healthpack01x+hidr
 mp001_s_hotchkiss_cannon_clip
+mp001_s_moonshinesack
 mp001_s_moonshinesack01x
 mp001_s_moonshinesack02x
 mp001_s_moonshinesupplies_m01
@@ -166,6 +172,8 @@ mp001_s_mp_finishline01x+hifr
 mp001_s_mp_racecheckflag01x
 mp001_s_mp_racecheckflag02x
 mp001_s_mp_racefinishflag01x
+mp001_s_mp_raceflag
+mp001_s_mp_stone_marker
 mp001_s_mp_stone_marker01a
 mp001_s_mp_stone_marker02a
 mp001_s_mp_stone_marker03a
@@ -173,6 +181,7 @@ mp001_s_mp_stone_marker04a
 mp001_s_mp_tin_soap01x
 mp001_s_mpcorona01x
 mp001_s_mpcorona01x+hifr
+mp001_s_mprockcircle
 mp001_s_mprockcircle_10m
 mp001_s_mprockcircle_15m
 mp001_s_mprockcircle01x
@@ -194,6 +203,7 @@ mp001_s_splitfirelog02x_nofire
 mp001_s_tntsticksnoexp01x
 mp001_s_traphingewire01x
 mp001_s_weaponblocker5x5x5
+mp001_s_whittlingwolf
 mp001_s_whittlingwolf01a
 mp001_s_whittlingwolf01b
 mp001_s_whittlingwolf01c
@@ -204,13 +214,3 @@ mp001_s_whittlingwolf02b
 mp001_s_whittlingwolf02c
 mp001_s_whittlingwolf02d
 mp001_s_whittlingwolf02e
-mp001_mp_lev_des
-mp001_p_mp_pickup_barrel
-mp001_p_player_belt
-mp001_p_veh_gunforhire
-mp001_prop_mp_icons
-mp001_s_moonshinesack
-mp001_s_mp_raceflag
-mp001_s_mp_stone_marker
-mp001_s_mprockcircle
-mp001_s_whittlingwolf

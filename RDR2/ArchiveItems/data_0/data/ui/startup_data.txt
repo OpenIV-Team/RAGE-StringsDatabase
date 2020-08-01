@@ -1,5 +1,6 @@
 app_postamble_flow
 app_preamble_flow
+boot_flow/account_picker/account_picker
 boot_flow/account_picker/account_picker_with_background
 boot_flow/audio_selection
 boot_flow/boot_launcher_flow

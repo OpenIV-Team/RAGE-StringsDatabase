@@ -22,6 +22,12 @@ script@mp@bounty@jail_dropoff@dead@wagon@std_sheriff
 script@mp@bounty@jail_dropoff@dead@wagon@stw_sheriff
 script@mp@bounty@jail_dropoff@dead@wagon@tum_sheriff
 script@mp@bounty@jail_dropoff@dead@wagon@val_sheriff
+script@mp@clue_tracking@dyingPeds@dyingPed_chestInjury
+script@mp@clue_tracking@dyingPeds@dyingPed_crawling
+script@mp@clue_tracking@dyingPeds@dyingPed_dogInjury
+script@mp@clue_tracking@dyingPeds@dyingPed_fallsOffHorse
+script@mp@clue_tracking@dyingPeds@dyingPed_sitting
+script@mp@clue_tracking@dyingPeds@dyingPed_stomachInjury
 script@mp@introflow@soloonfoot
 script@mp@introflow@soloonhorse
 script@mp@introflow@teamonfoot
@@ -34,12 +40,6 @@ script@mp@moonshiner@moonshine_band@handoff_piano
 script@mp@moonshiner@moonshine_band@handoff_washboard
 script@mp@moonshiner@story_missions@moon2@dynamite_plant@dynamite_plant
 script@mp@moonshiner@story_missions@respawns
-script@mp@clue_tracking@dyingPeds@dyingPed_chestInjury
-script@mp@clue_tracking@dyingPeds@dyingPed_crawling
-script@mp@clue_tracking@dyingPeds@dyingPed_dogInjury
-script@mp@clue_tracking@dyingPeds@dyingPed_fallsOffHorse
-script@mp@clue_tracking@dyingPeds@dyingPed_sitting
-script@mp@clue_tracking@dyingPeds@dyingPed_stomachInjury
 script@mp@Naturalist@Animal_Sightings@legendary_alligator
 script@mp@Naturalist@Animal_Sightings@legendary_bear
 script@mp@Naturalist@Animal_Sightings@legendary_beaver

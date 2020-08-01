@@ -30,6 +30,7 @@ moon5_ext-6
 moon5_ext-7
 moon5_ext-8
 moon5_ext-9
+MOON5_INT
 moon5_int-0
 moon5_int-1
 moon5_int-10
@@ -98,4 +99,3 @@ moon5_mcs2-4
 moon5_mcs2-5
 moon5_mcs2-6
 moon5_mcs2-7
-MOON5_INT

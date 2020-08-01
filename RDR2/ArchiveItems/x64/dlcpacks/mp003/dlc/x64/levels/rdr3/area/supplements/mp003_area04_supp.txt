@@ -3,5 +3,3 @@ _manifest
 mp003_area04_supp
 mp003_area4_PlaylistMarker_05
 mp003_area4_PlaylistMarker_06
-mp003_area4_PlaylistMarker_05
-mp003_area4_PlaylistMarker_06

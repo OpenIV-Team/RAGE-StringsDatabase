@@ -199,6 +199,7 @@ pg_mp_possecamp_tent_tallleanto_survivor01
 pg_mp_possecamp_tent_tallleanto_survivor01_b
 pg_mp_possecamp_tent_tallleanto_survivor01_c
 pg_mp_snakesales01x
+pg_mp_tannercamp01x
 pg_mp_tannercamp02x
 pg_mp_tannercamp03x
 pg_mp_veh_rowboat_supplies01
@@ -218,5 +219,3 @@ pg_re_exconfederategang02x
 pg_teamster_wagon02x_gen02
 pg_teamster_wagon04x_gen02
 pg_veh_wagon05x_5
-pg_mp_tannercamp01x
-pg_mp_tannercamp01x

@@ -1,6 +1,5 @@
 bird
 character_creator
-vehicle
 DeerIdles
 Facial
 FacingWithZonalIntroOutro
@@ -86,8 +85,6 @@ TaskMotionWeaponIntroHorseback
 TaskMotionWeaponIntroWagonPassenger
 TaskMotionWeaponOutroWagonPassenger
 TaskVaultHuman
+vehicle
 weapon
 YawSweep_3Dir_InputClips
-fish
-PED
-WEAPON

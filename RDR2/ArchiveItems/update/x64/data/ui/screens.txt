@@ -157,6 +157,7 @@ mp_hud/gamemodes/fractiontimer
 mp_hud/gamemodes/ftimer_scores_and_a_meter
 mp_hud/gamemodes/mstimer_and_scores
 mp_hud/mp_death_screen
+NATURALIST_APP_HOST
 newspapers/newsclip_disco_defacedgrave
 newspapers/newspaper_bl_01
 newspapers/newspaper_bl_02
@@ -262,6 +263,9 @@ pause_progress_index
 pause_progress_mp_coop
 pause_progress_mp_index
 pause_progress_mp_missions_index
+pause_progress_naturalist_details
+pause_progress_naturalist_grid_horz
+pause_progress_naturalist_index
 pause_progress_story_chapters
 pause_progress_story_index
 pause_stats_detail
@@ -297,6 +301,7 @@ sidemenus/player_menu/log_common/log_checklist
 sidemenus/player_menu/log_common/log_mission_details
 sidemenus/player_menu/log_common/log_notification_game_invite
 sidemenus/player_menu/log_common/log_notification_weapon_details
+sidemenus/player_menu/mp/animal_sighting_missions
 sidemenus/player_menu/mp/attributes_stats
 sidemenus/player_menu/mp/camp
 sidemenus/player_menu/mp/camp_and_properties
@@ -446,8 +451,3 @@ translate/translate_newspaper
 wantedposters/poster_marstonblueprints
 wantedposters/wantedchaingang
 wantedposters/wantedridethelightning
-NATURALIST_APP_HOST
-pause_progress_naturalist_details
-pause_progress_naturalist_grid_horz
-pause_progress_naturalist_index
-sidemenus/player_menu/mp/animal_sighting_missions

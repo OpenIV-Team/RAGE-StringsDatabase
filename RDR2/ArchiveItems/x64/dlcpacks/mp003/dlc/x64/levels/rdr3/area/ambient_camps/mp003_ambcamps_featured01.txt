@@ -1,3 +1,15 @@
 _cache
 _manifest
 mp003_ambcamps_featured01
+mp003_feature_east_arm
+mp003_feature_east_rho
+mp003_feature_sth_tum
+mp003_feature_sth_val
+mp003_feature_sth_van
+mp003_feature_west_bla
+mp003_feature_east_arm
+mp003_feature_east_rho
+mp003_feature_sth_tum
+mp003_feature_sth_val
+mp003_feature_sth_van
+mp003_feature_west_bla

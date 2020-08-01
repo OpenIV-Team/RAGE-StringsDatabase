@@ -6,3 +6,4 @@ mp001_p_cratetwin01x
 mp001_p_mp_crateweapon_01a
 mp001_p_mp_crateweapon_01a+hidr
 mp001_storage
+mp001_mp_barrelshared

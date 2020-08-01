@@ -9,3 +9,5 @@ mp001_p_genmed03x+hifr
 mp001_p_wagon01x
 mp001_p_wagon01x+hifr
 mp001_vehicle_props
+mp001_pgvehgen_dlc
+mp001_veh_armor

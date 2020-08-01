@@ -3,3 +3,4 @@ mp001_farm
 mp001_p_mp_haybalecover01x
 mp001_p_mp_haybalecover01x+hidr
 mp001_p_mp_haybalecover03x
+mp001_mp_haybalecover01x

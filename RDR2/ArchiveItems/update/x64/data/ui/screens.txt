@@ -446,3 +446,8 @@ translate/translate_newspaper
 wantedposters/poster_marstonblueprints
 wantedposters/wantedchaingang
 wantedposters/wantedridethelightning
+NATURALIST_APP_HOST
+pause_progress_naturalist_details
+pause_progress_naturalist_grid_horz
+pause_progress_naturalist_index
+sidemenus/player_menu/mp/animal_sighting_missions

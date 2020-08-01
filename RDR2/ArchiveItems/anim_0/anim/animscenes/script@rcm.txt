@@ -208,8 +208,11 @@ script@rcm@cal@ig@rc3@ig3_calloway_dueltrick@ig3_calloway_dueltrick
 script@rcm@cal@ig@s3@ig1_slimtied@rcal_s3_ig1_slimtied_calloway
 script@rcm@cal@ig@s3@ig1_slimtied@rcal_s3_ig1_slimtied_main
 script@rcm@cal@leadin@rc1@ilo
+script@rcm@CAL@leadin@rc2@base
 script@rcm@cal@leadin@rc2@base_jm
 script@rcm@cal@leadin@rc2@calloway_loop
+script@rcm@CAL@leadin@rc2@leadin_left
+script@rcm@CAL@leadin@rc2@leadin_right
 script@rcm@cal@leadin@rc2@left_jm
 script@rcm@cal@leadin@rc2@right_jm
 script@rcm@cal@leadin@rc3@waiting

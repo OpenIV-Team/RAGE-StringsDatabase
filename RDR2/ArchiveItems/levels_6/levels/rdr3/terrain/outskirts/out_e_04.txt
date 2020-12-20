@@ -37,5 +37,7 @@ out_e_04_hd_13
 out_e_04_hd_14
 out_e_04_hd_15
 out_e_04_hd_16
+out_e_04_lod
 out_e_04_long_0
+out_e_04_slod
 out_e_04_strm

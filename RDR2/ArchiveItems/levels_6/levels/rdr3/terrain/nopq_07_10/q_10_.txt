@@ -1,7 +1,11 @@
 _cache
 _manifest
+hi@q_10__collision_0
+hi@q_10__collision_1
 q_10_
 q_10__bkt_3
+q_10__bkt_3+hi
+q_10__collision_0
 q_10__hd_0_0_0
 q_10__hd_0_0_1
 q_10__hd_0_0_-1

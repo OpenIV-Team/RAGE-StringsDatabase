@@ -37,5 +37,7 @@ out_e_02_hd_15_lod
 out_e_02_hd_16
 out_e_02_hd_16_lod
 out_e_02_hd_16_slod
+out_e_02_lod
 out_e_02_long_0
+out_e_02_slod
 out_e_02_strm

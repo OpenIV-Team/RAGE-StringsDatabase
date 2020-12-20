@@ -37,5 +37,7 @@ out_d_03_hd_13
 out_d_03_hd_14
 out_d_03_hd_15
 out_d_03_hd_16
+out_d_03_lod
 out_d_03_long_0
+out_d_03_slod
 out_d_03_strm

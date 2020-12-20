@@ -1,1 +1,7 @@
 _manifest
+linenshirt_mr1_002_c0_000_m
+linenshirt_mr1_002_c0_000_m+hi
+linenshirt_mr1_002_c0_000_nm
+linenshirt_mr1_002_c0_999_ab
+pantcombo_mr1_007_c1_999_ab
+pantcombo_mr1_007_c3_998_ab

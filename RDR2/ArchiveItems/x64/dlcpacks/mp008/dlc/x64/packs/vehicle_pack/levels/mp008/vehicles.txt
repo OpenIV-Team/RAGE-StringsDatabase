@@ -2,10 +2,14 @@ _manifest
 tugboat3
 tugboat3_hi
 vehicles_wagonarmoured01x_liv_1
+vehicles_wagonarmoured01x_liv_10
 vehicles_wagonarmoured01x_liv_2
 vehicles_wagonarmoured01x_liv_3
 vehicles_wagonarmoured01x_liv_4
 vehicles_wagonarmoured01x_liv_5
 vehicles_wagonarmoured01x_liv_6
+vehicles_wagonarmoured01x_liv_7
+vehicles_wagonarmoured01x_liv_8
+vehicles_wagonarmoured01x_liv_9
 warwagon2
 warwagon2_hi

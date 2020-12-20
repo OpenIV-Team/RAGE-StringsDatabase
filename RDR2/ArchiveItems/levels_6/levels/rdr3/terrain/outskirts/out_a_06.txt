@@ -37,5 +37,7 @@ out_a_06_hd_15
 out_a_06_hd_15_lod
 out_a_06_hd_16
 out_a_06_hd_16_lod
+out_a_06_lod
 out_a_06_long_0
+out_a_06_slod
 out_a_06_strm

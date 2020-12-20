@@ -1,7 +1,11 @@
 mech_inventory@equip@fallback@base_spin@dual
 mech_inventory@equip@fallback@base_spin@single_handgun@lhip
+mech_inventory@equip@fallback@base_spin@single_handgun@rhip
 mech_inventory@equip@fallback@base_spin@single_handgun@shared
+mech_inventory@equip@vehicle@shared@seated@base@unarmed@satchel@camera_gesture
+mech_inventory@equip@vehicle@shared@seated@first_person@unarmed@satchel@camera_gesture
 mech_inventory@equip_female@base_spin@dual
 mech_inventory@equip_female@base_spin@single_handgun@lhip
 mech_inventory@equip_female@base_spin@single_handgun@rhip
 mech_inventory@equip_female@base_spin@single_handgun@shared
+mech_inventory@equip_female@fallback@base_spin@dual

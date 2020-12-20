@@ -1,2 +1,10 @@
 _cache
 _manifest
+p_95__trees_0
+q_92__trees_0
+q_93__trees_0
+q_94__grass_0
+q_94__trees_0
+q_95__grass_0
+q_95__grass_1
+q_95__trees_0

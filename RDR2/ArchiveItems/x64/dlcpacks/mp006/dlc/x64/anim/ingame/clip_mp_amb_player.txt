@@ -84,6 +84,7 @@ mp_amb_player@player_moonshine_customer@sober@female_a@idle_b
 mp_amb_player@player_moonshine_customer@sober@female_a@idle_c
 mp_amb_player@player_moonshine_customer@sober@female_a@stand_enter
 mp_amb_player@player_moonshine_customer@sober@female_a@stand_exit
+mp_amb_player@player_moonshine_customer@sober@female_a@trans
 mp_amb_player@player_moonshine_customer@sober@female_b@base
 mp_amb_player@player_moonshine_customer@sober@female_b@idle_a
 mp_amb_player@player_moonshine_customer@sober@female_b@idle_b

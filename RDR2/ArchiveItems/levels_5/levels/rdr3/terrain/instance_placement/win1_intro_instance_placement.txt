@@ -1,2 +1,6 @@
 _cache
 _manifest
+win1_intro_grass_0
+win1_intro_grass_1
+win1_intro_trees_0
+win1_intro_trees_1

@@ -1,1 +1,4 @@
+veh_horseback@aim@front@special@camera
 veh_horseback@aim@front@special@camera@base@sweep
+veh_horseback@aim@front@special@camera@female
+veh_horseback@aim@front@special@camera@female@sweep

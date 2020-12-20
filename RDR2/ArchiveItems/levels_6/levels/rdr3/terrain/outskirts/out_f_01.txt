@@ -37,5 +37,7 @@ out_f_01_hd_15
 out_f_01_hd_15_lod
 out_f_01_hd_16
 out_f_01_hd_16_lod
+out_f_01_lod
 out_f_01_long_0
+out_f_01_slod
 out_f_01_strm

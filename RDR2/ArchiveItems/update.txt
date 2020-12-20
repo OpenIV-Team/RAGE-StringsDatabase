@@ -15,6 +15,8 @@ common/data/action/strike_bones.meta
 common/data/ai/aimposedata.meta
 common/data/ai/aimupperbodydata.meta
 common/data/ai/ambientpedmodelsets.meta
+common/data/ai/animalattackbehaviours.meta
+common/data/ai/animalcontextualanimations.meta
 common/data/ai/baitinfo.meta
 common/data/ai/carryconfigdata.meta
 common/data/ai/climbtune.meta
@@ -130,10 +132,12 @@ common/data/ai/scenarios/amb_rest.meta
 common/data/ai/scenarios/amb_work.meta
 common/data/ai/scenarios/animals_bird.meta
 common/data/ai/scenarios/animals_mammal.meta
+common/data/ai/scenarios/code.meta
 common/data/ai/scenarios/conditionalanims/amb_camp_ca.meta
 common/data/ai/scenarios/conditionalanims/amb_misc_ca.meta
 common/data/ai/scenarios/conditionalanims/amb_rest_ca.meta
 common/data/ai/scenarios/conditionalanims/amb_work_ca.meta
+common/data/ai/scenarios/conditionalanims/animals_mammal_ca.meta
 common/data/ai/scenarios/conditionalanims/mech_ca.meta
 common/data/ai/scenarios/conditionalanims/mech_ransack_ca.meta
 common/data/ai/scenarios/conditionalanims/mp_amb_player_ca.meta
@@ -154,7 +158,9 @@ common/data/ai/scenarios/proc.meta
 common/data/ai/scenarios/script_common.meta
 common/data/ai/scenarios/scriptambvigs.meta
 common/data/ai/scenarios/sequencescenarios.meta
+common/data/ai/scenarios/wb_herbs.meta
 common/data/ai/scenarios/worldbrains.meta
+common/data/ai/scenariotriggers.meta
 common/data/ai/sceneterrainanalyzerdata.meta
 common/data/ai/searchpointsofinterest.meta
 common/data/ai/speechcontextrulesets/ambient.meta
@@ -191,6 +197,7 @@ common/data/anim/anim_fat.meta
 common/data/anim/exit_helper/breakoutarchetypes.pso.meta
 common/data/anim/exit_helper/defaultbreakouts.ibp
 common/data/anim/exit_helper/posemotionstatemap.ims
+common/data/anim/facial_anim_requests/facial_anim_requests.xml
 common/data/anim/facial_clipset_groups/facial_clipset_groups.xml
 common/data/anim/move_networks/move_networks.xml
 common/data/anim/pose_databases/nm_blend_out_sets.meta
@@ -236,6 +243,8 @@ common/data/damage/hit_react_data.meta
 common/data/damage/melee_damage_modifiers.meta
 common/data/deferredprobes.meta
 common/data/dispatch.meta
+common/data/dispatchresponses/custom/custom_outlaw3.meta
+common/data/dispatchresponses/custom/missioncreator.meta
 common/data/dispatchresponses/custom/netplainslarge.meta
 common/data/dispatchresponses/custom/netplainssmall.meta
 common/data/dispatchresponses/custom/netplainssmalldelayedresponse.meta
@@ -273,6 +282,7 @@ common/data/iteminteractions/interaction_maintain_shortarm.meta
 common/data/iteminteractions/interaction_mp_catalogue.meta
 common/data/iteminteractions/iteminteractionconfigs.meta
 common/data/journal.meta
+common/data/landingpagevideos.meta
 common/data/levels/instance_veg/instance_veg.meta
 common/data/levels/rdr3/ai/flee.meta
 common/data/levels/rdr3/ai/vehiclepoints.meta
@@ -1347,7 +1357,11 @@ common/shaders/fxdb/sga_win32_50_final_init.fxdb
 common/shaders/preload.list
 common/shaders/preloadinit.list
 common/shaders/preloadms.list
+common/shaders/sga_vulkan.vkwarmupcachewindows
+common/shaders/sga_vulkan_final.vkpipelinecacheyeti
 common/shaders/sga_vulkan_final.vkWarmupCacheWindows
+common/shaders/sga_vulkan_final.vkwarmupcacheyeti
+common/shaders/sga_win32_60.d3d12warmupcachewindows
 common/shaders/sga_win32_60_final.d3d12WarmupCacheWindows
 content.xml
 pack_patch/base/content.xml
@@ -1374,6 +1388,10 @@ pack_patch/mp005/setup2.xml
 pack_patch/mp006/common/data/ai/weaponcomponents.meta
 pack_patch/mp006/content.xml
 pack_patch/mp006/setup2.xml
+pack_patch/mp007/common/data/ai/weaponcomponents.meta
+pack_patch/mp007/common/packs/base/data/ai/weaponanimations.meta
+pack_patch/mp007/content.xml
+pack_patch/mp007/setup2.xml
 pack_patch/opt001/common/data/overlayinfo.xml
 pack_patch/opt001/content.xml
 pack_patch/opt001/setup2.xml
@@ -1399,6 +1417,7 @@ pack_patch/row_patchpack002/common/data/extrafoldermount.xml
 pack_patch/row_patchpack002/content.xml
 pack_patch/row_patchpack002/setup2.xml
 pack_patch/row_patchpack005/content.xml
+pack_patch/row_patchpack008/content.xml
 setup2.xml
 x64/anim/creaturemetadata
 x64/anim/expressions
@@ -1433,6 +1452,7 @@ x64/audio/conversations_tu004
 x64/audio/conversations_tu005
 x64/audio/conversations_tu006
 x64/audio/conversations_tu007
+x64/audio/conversations_tu008
 x64/audio/materialmap
 x64/audio/occlusion
 x64/camera/data_manager
@@ -1612,6 +1632,8 @@ x64/data/ui/blipdata
 x64/data/ui/controllers/mapcameracontroller
 x64/data/ui/controllers/mapcontroller
 x64/data/ui/controllers/sonarcontroller
+x64/data/ui/controllers/uiOnScreenKeyboardData
+x64/data/ui/controllers/uiOnScreenKeyboardLayoutData
 x64/data/ui/controllers/waypointcontroller
 x64/data/ui/datastore
 x64/data/ui/dictionary
@@ -2702,6 +2724,7 @@ x64/packs/base/data/shop_items
 x64/packs/base/models/metaped_fragments
 x64/packs/base/models/weapon_slods
 x64/patch/audio/sfx/dlc_socialclub
+x64/patch/audio/sfx/streams_startup
 x64/patch/data/cdimages/scaleform_frontend
 x64/patch/data/cdimages/scaleform_generic
 x64/patch/data/cdimages/scaleform_minimap
@@ -2746,6 +2769,7 @@ x64/textures/gradientmappostfx
 x64/textures/graphics
 x64/textures/lutpostfx
 x64/textures/lutpostfx_hdr
+x64/textures/peddamagedecals
 x64/textures/pedtattoos
 x64/textures/rope
 x64/textures/ui/loading_screen_images_multiplayer
@@ -2758,8 +2782,11 @@ x64/textures/ui/ui_season1
 x64/textures/ui/ui_season2
 x64/textures/ui/ui_season3
 x64/textures/ui/ui_season4
+x64/textures/ui/ui_season5
+x64/textures/ui/ui_season6
 x64/textures/ui/ui_swatches
 x64/textures/ui/ui_textures_mp
+x64/textures/weapon_atlas
 x64/textures/world_snow_coverage_xmas
 x64/textures/world_snow_coverage_xmas_secondary
 x64/textures/worldheight

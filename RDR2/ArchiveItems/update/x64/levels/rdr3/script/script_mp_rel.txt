@@ -283,6 +283,7 @@ moonshine_drink_item
 mountainman
 mp_freemode_tutorial
 mp_intro
+mystery_item_location
 nb_animal_attack
 nb_arrowhead_injury
 nb_beggar
@@ -292,7 +293,6 @@ nb_egg_protector
 nb_graverobber
 nb_hobo_dog
 nb_kidnapped
-nb_locked_safe
 nb_moonshine_camp
 nb_photography
 nb_rival_collector
@@ -303,7 +303,6 @@ nb_suspension_trap
 nb_tied_up_ped
 nb_treasure_hunter
 nb_tree_map
-nb_unpaid_debt
 nb_wildman
 net_ability_card_ui_handler
 net_ace_thread_manager

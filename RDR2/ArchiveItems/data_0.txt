@@ -242,6 +242,7 @@ data/ui/inputcontexts/quick_select_weapon_wheel_input_context
 data/ui/inputcontexts/satchel_folder_menu_input_context
 data/ui/inputcontexts/satchel_menu_input_context
 data/ui/inputcontexts/settings_input_context
+data/ui/inputcontexts/shop_browsing_input_context
 data/ui/inputcontexts/simple_menu_input_context
 data/ui/inputcontexts/social_club_feed_controller_disconnect_input_context
 data/ui/inputcontexts/social_club_feed_filter_input_context

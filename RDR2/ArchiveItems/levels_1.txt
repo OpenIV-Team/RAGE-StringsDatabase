@@ -346,5 +346,6 @@ levels/rdr3/popzone_volume
 levels/rdr3/resident
 levels/rdr3/road_nodes
 levels/rdr3/slownesszones
+levels/rdr3/startupreq
 levels/rdr3/trainconfigs
 levels/rdr3/waypointrec

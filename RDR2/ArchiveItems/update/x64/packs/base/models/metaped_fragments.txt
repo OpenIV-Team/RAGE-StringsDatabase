@@ -290,11 +290,13 @@ meta_base_mp_allison
 meta_base_mp_amos_lansing
 meta_base_mp_cliff
 meta_base_mp_female
+meta_base_mp_female_light
 meta_base_mp_gus_macmillan
 meta_base_mp_henchman
 meta_base_mp_horley
 meta_base_mp_lem
 meta_base_mp_male
+meta_base_mp_male_light
 meta_base_mp_predator_01
 meta_base_mp_revenge_marshall
 meta_base_mp_teddybrown

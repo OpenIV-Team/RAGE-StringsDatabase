@@ -305,6 +305,7 @@ data/ai/speechcontextrulesets/dutch.meta
 data/ai/speechcontextrulesets/dutch_gang.meta
 data/ai/speechcontextrulesets/dutch_gang_campgreets.meta
 data/ai/speechcontextrulesets/dutch_gang_greets.meta
+data/ai/speechcontextrulesets/dutch_gang_marston_greets.meta
 data/ai/speechcontextrulesets/flowgreets/cgo_companions.meta
 data/ai/speechcontextrulesets/flowgreets/cgo_player.meta
 data/ai/speechcontextrulesets/genstore.meta
@@ -461,6 +462,7 @@ data/anim/dictionary_meta/motion_dictionary_budget_flags.meta
 data/anim/exit_helper/BreakoutArchetypes.pso.meta
 data/anim/exit_helper/DefaultBreakouts.ibp
 data/anim/exit_helper/PoseMotionstateMap.ims
+data/anim/facial_anim_requests/facial_anim_requests.xml
 data/anim/facial_clipset_groups/facial_clipset_groups.xml
 data/anim/move_networks/move_networks.xml
 data/anim/pose_databases/nm_blend_out_sets.meta
@@ -529,6 +531,9 @@ data/damage/melee_damage_modifiers.meta
 data/deadeye.meta
 data/defaulttaskdata.meta
 data/deferredprobes.meta
+data/deferredprobes_128x128.meta
+data/deferredprobes_256x256.meta
+data/deferredprobes_512x512.meta
 data/detailfoamsettings.xml
 data/dispatch.meta
 data/dispatchresponses/custom/custom_mud3b.meta
@@ -585,6 +590,7 @@ data/effects/DeadEyeTargets.meta
 data/effects/effects.meta
 data/effects/FallenSnow.xml
 data/effects/peds/env_accumulation.xml
+data/effects/ptxshaderinfo.meta
 data/effects/SnowTracks.xml
 data/emotional_presets.meta
 data/eventresponses/animaleventresponses.meta

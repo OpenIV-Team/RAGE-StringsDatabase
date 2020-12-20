@@ -356,6 +356,7 @@ meta_base_straps
 meta_female_base_straps
 mp_female
 mp_hat_fr1_047_springs
+mp_head_mr1_sc08_lbt_008
 mp_longclosedcoat_springs
 mp_male
 mp_meta_base_straps

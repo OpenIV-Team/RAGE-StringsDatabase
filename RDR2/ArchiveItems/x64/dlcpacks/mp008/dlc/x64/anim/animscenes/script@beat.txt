@@ -1,0 +1,4 @@
+script@beat@wilderness@berrygang@trapped_woman
+script@beat@wilderness@berrygang@trapped_woman_trap
+script@beat@wilderness@hostagerescue@femalehostage
+script@beat@wilderness@hostagerescue@malehostage

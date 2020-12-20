@@ -1,0 +1,14 @@
+script_mp@bounty@jail_dropoff@alive@ann
+script_mp@bounty@jail_dropoff@alive@arm
+script_mp@bounty@jail_dropoff@alive@blk
+script_mp@bounty@jail_dropoff@alive@rhd
+script_mp@bounty@jail_dropoff@alive@std
+script_mp@bounty@jail_dropoff@alive@stw
+script_mp@bounty@jail_dropoff@alive@tum
+script_mp@bounty@jail_dropoff@alive@val
+script_mp@emotes@up_yours@male@unarmed@full
+script_mp@emotes@up_yours@male@unarmed@upper
+script_mp@endflow@endcelebration@team_grouping@protect@mppro_ig1_endcelebration_v1
+script_mp@endflow@endcelebration@team_grouping@protect@mppro_ig2_endsadwalk_v1
+script_mp@endflow@endcelebration@team_grouping@protect@mppro_ig2_endsadwalk_v2
+script_mp@photo_studio@vformation

@@ -1,0 +1,4 @@
+kit_emote_action_beckon_1
+UPGRADE_PHOTO_POSE_FUN
+UPGRADE_PHOTO_POSE_SIT_ON_CRATES
+walk_style_inquisitive

@@ -1,0 +1,4 @@
+_manifest
+p_shipsmal2x
+p_shipsmal2x+hidr
+p_waterfront

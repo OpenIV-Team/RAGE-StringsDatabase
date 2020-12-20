@@ -1,0 +1,2 @@
+_manifest
+mega_gen@creatures_reptile@snake@normal

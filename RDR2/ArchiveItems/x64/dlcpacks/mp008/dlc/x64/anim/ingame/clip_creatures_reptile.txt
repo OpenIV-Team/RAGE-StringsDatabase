@@ -1,0 +1,5 @@
+creatures_reptile@snake@melee@streamed_core
+creatures_reptile@snake@normal@dead
+creatures_reptile@snakewater@swimming@dead
+creatures_reptile@snakewater@swimming@surface
+creatures_reptile@snakewater@swimming@surface@base

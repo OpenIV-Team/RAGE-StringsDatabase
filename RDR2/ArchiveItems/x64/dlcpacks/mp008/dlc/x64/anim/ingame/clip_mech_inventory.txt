@@ -1,0 +1,7 @@
+mech_inventory@equip@fallback@base_spin@dual
+mech_inventory@equip@fallback@base_spin@single_handgun@lhip
+mech_inventory@equip@fallback@base_spin@single_handgun@shared
+mech_inventory@equip_female@base_spin@dual
+mech_inventory@equip_female@base_spin@single_handgun@lhip
+mech_inventory@equip_female@base_spin@single_handgun@rhip
+mech_inventory@equip_female@base_spin@single_handgun@shared

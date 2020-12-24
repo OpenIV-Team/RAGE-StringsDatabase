@@ -586,6 +586,7 @@ script@vignette@dutch_23@action_c
 script@vignette@dutch_23@action_c_alt_front
 script@vignette@dutch_23@action_c_alt_left
 script@vignette@dutch_23@action_c_alt_right
+script@vignette@dutch_23@base
 script@vignette@dutch_24@action_a
 script@vignette@dutch_24@action_a_int
 script@vignette@dutch_24@action_b

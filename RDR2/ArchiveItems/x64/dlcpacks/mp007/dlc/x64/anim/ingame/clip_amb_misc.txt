@@ -10,3 +10,17 @@ amb_misc@world_human_fiddle_handoff@sober@future_performer@female_a@stand_exit
 amb_misc@world_human_fiddle_handoff@sober@future_performer@male_a@base
 amb_misc@world_human_fiddle_handoff@sober@future_performer@male_a@stand_enter
 amb_misc@world_human_fiddle_handoff@sober@future_performer@male_a@stand_exit
+amb_misc@world_human_naturalist@microscope@female_a@base
+amb_misc@world_human_naturalist@microscope@female_a@idle_a
+amb_misc@world_human_naturalist@microscope@female_a@idle_b
+amb_misc@world_human_naturalist@microscope@female_a@idle_c
+amb_misc@world_human_naturalist@microscope@female_a@react_look@active_look
+amb_misc@world_human_naturalist@microscope@female_a@react_look@enter@high
+amb_misc@world_human_naturalist@microscope@female_a@react_look@enter@low
+amb_misc@world_human_naturalist@microscope@female_a@react_look@enter@med
+amb_misc@world_human_naturalist@microscope@female_a@react_look@exit@dismissive
+amb_misc@world_human_naturalist@microscope@female_a@react_look@exit@generic
+amb_misc@world_human_naturalist@microscope@female_a@react_look@exit@relieved
+amb_misc@world_human_naturalist@microscope@female_a@react_look@loop@generic
+amb_misc@world_human_naturalist@microscope@female_a@stand_enter
+amb_misc@world_human_naturalist@microscope@female_a@stand_exit

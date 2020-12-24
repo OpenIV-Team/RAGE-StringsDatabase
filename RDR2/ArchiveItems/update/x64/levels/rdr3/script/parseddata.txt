@@ -2,6 +2,7 @@ aberdeen_farm
 abigail2_1
 adler_ranch
 aguasdulces
+ambientvignettes
 annesburg
 beechers2_2
 benchmark_poi_data
@@ -376,6 +377,7 @@ sadie5
 saint_denis1
 sal1_mcs3
 saloon1
+satchel_elements
 sean1
 sen1_int
 sisika
@@ -392,6 +394,7 @@ train_robbery1
 train_robbery2
 train_robbery3
 train_robbery4
+train_routes
 tre1_ext
 tre1_mcs0
 trelawny1

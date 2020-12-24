@@ -19,6 +19,9 @@ script@specialped@pdbpr_bland_preacher@ig@ig_3@ig_3
 script@specialped@pdbpr_bland_preacher@ig@ig_7@ig_7
 script@specialped@pdchm_chelonian@ig@ig_1@ig_1
 script@specialped@pdchm_chelonian@ig@ig_2@ig_2_andershelgerson_jump
+script@specialped@pdchm_chelonian@ig@ig_2@ig_2_chelonian^1_jump
+script@specialped@pdchm_chelonian@ig@ig_2@ig_2_chelonian^2_jump
+script@specialped@pdchm_chelonian@ig@ig_2@ig_2_chelonian^3_jump
 script@specialped@pdchm_chelonian@ig@ig_2@ig_2_chelonian_jump
 script@specialped@pdchm_chelonian@ig@ig_2@ig_2_chelonian_master_jump
 script@specialped@pdcpr_crackpot_robot@ig@ig_1@ig_1

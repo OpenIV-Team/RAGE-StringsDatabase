@@ -1,5 +1,10 @@
+animal_transformation_data
 camp_locations
+character_editor_data
+fetch_bounty_board_caged_target
+fetch_bounty_board_escort
 fetch_bounty_board_hideout_target
+fetch_bounty_board_horde
 fetch_bounty_board_known_target
 fetch_bounty_board_lure
 fetch_bounty_board_moving_known_target
@@ -7,6 +12,8 @@ fetch_bounty_board_scout_stakeout
 fetch_bounty_board_timed_target
 fetch_bounty_board_track
 fetch_bounty_board_track_multi
+fetch_bounty_dynamic
+fetch_bounty_infiltration
 fetch_bounty_player_bounty_hunters
 fetch_camp_raid
 fetch_camp_resupply_broken_down
@@ -83,8 +90,15 @@ mp_fme_supply_train
 mp_fme_treasure_hunt
 mp_fme_wildlife_photographer
 mp_fme_wreckage
+net_char_creator_data
 net_gun_for_hire_missions
 net_moonshine_property
+net_ped_xp_values
+net_rank_definitions
 net_turn_in_locations
+net_xp
+pedshots
+posse_feud_data
 regions
+satchel_elements
 season_rewards

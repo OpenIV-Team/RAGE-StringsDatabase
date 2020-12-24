@@ -1309,6 +1309,9 @@ cwmg5au
 cwpf1au
 cwpg1au
 cwpu1au
+cwrc1au
+cwrc2au
+cwrl1au
 cwrm1au
 cwrm2au
 cwsb1au
@@ -1338,12 +1341,17 @@ cwug1au
 cwug2au
 cwug3au
 dch3aud
+dmichau
+dminoau
 dmonkau
 dnj2aud
 dnj3aud
 dnj4aud
+dodmbau
+dopnaud
 downaud
 drunk_traveler_2
+dsbscau
 dsmehau
 dst1
 dst1aud
@@ -1364,6 +1372,7 @@ es1aud
 fake_beggar
 fbw1aud
 fbw4aud
+fffmcau
 fhj1au
 fhm1aud
 fhm2aud
@@ -1387,7 +1396,9 @@ fjm2aud
 fjm3aud
 fjm4aud
 fjm5aud
+fmaaud
 fmj6au
+fnstaau
 fortm
 freelance_undertaker
 freezing_woman
@@ -1431,6 +1442,7 @@ gun2aud
 gun3aud
 gun5aud
 hanging
+hbvhaud
 help
 herdaud
 hlp2aud
@@ -1455,6 +1467,8 @@ ind3
 ind3aud
 jack
 javier
+jboaud
+jck2aud
 john_player
 jsng1au
 jsng2au
@@ -1475,6 +1489,8 @@ kieran
 knsg1au
 ksng1au
 lar1
+lar1aud
+lccolau
 lcmpaud
 len1aud
 len2aud
@@ -1507,6 +1523,7 @@ mar8
 mar8aud
 marybeth
 masnaud
+memaud
 mgblk
 mgcls
 mgcrk
@@ -1634,6 +1651,7 @@ rcmpaud
 rcraw
 rcrkf
 rcrle
+rctxdau
 rdch3
 rdopn
 rdown
@@ -1691,6 +1709,7 @@ rmllr
 rmnr1
 rmob01
 rmob02
+rmry0au
 rmryb
 rmud3
 rnat2
@@ -1724,6 +1743,7 @@ sadie_adler
 sal1
 sal1aud
 satch
+scaraud
 scrb
 scscaud
 scsfaud
@@ -1744,6 +1764,7 @@ sharpshooter_2
 shbcaud
 sheaau
 shenaud
+shffaud
 shfosau
 shop
 showfau
@@ -1751,6 +1772,8 @@ shrb
 shrctau
 shsdaud
 sixpt
+sk1aud
+sk2aud
 skag3au
 skltau
 sksg2au
@@ -1876,6 +1899,7 @@ wallaud
 ward
 wildman
 wnt1
+wnt1aud
 wnt2
 wnt2aud
 wnt4

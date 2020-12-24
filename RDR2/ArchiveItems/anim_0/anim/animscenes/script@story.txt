@@ -196,6 +196,8 @@ script@story@fin2@ig@ig1_cleet_spotted@ig1_cleet_spotted
 script@story@fin2@ig@ig10_charles_and_crowd@fin2_charles_and_crowd_charles
 script@story@fin2@ig@ig10_charles_and_crowd@fin2_charles_and_crowd_enter_f01
 script@story@fin2@ig@ig10_charles_and_crowd@fin2_charles_and_crowd_enter_m01
+script@story@fin2@ig@ig10_charles_and_crowd@fin2_charles_and_crowd_enter_m01^2_f01^1
+script@story@fin2@ig@ig10_charles_and_crowd@fin2_charles_and_crowd_enter_m01^3
 script@story@fin2@ig@ig10_charles_and_crowd@fin2_charles_and_crowd_enter_main
 script@story@fin2@ig@ig10_charles_and_crowd@fin2_charles_and_crowd_main
 script@story@fin2@ig@ig2_chase_cleet@ig2_chase_cleet_charles
@@ -299,6 +301,8 @@ script@story@fus2@ig@fus2_ig27_walk_avoid_break_guard@ig27_walk_avoid_break_guar
 script@story@fus2@ig@fus2_ig28_guard_check_away@fus2_ig28_guard_check_away
 script@story@fus2@ig@fus2_ig29_guard_kick_chair@fus2_ig29_action_kick_chair
 script@story@fus2@ig@fus2_ig29_guard_kick_chair@fus2_ig29_action_kick_chair_leon
+script@story@fus2@ig@fus2_ig29_guard_kick_chair@fus2_ig29_guard^1_kick_chair
+script@story@fus2@ig@fus2_ig29_guard_kick_chair@fus2_ig29_guard^2_kick_chair
 script@story@fus2@ig@fus2_ig29_guard_kick_chair@fus2_ig29_guard_kick_chair
 script@story@fus2@ig@fus2_ig30_hanging_help@fus2_ig30_hanging_help
 script@story@fus2@ig@fus2_ig30_hanging_help@fus2_ig30_hanging_help_v1
@@ -468,6 +472,7 @@ script@story@ind1@ai_scenario_reactions@party_ai_female_02@gossip_female_02
 script@story@ind1@ai_scenario_reactions@party_ai_formal_server@ai_ind1_formal_server_iaplgze
 script@story@ind1@ai_scenario_reactions@party_ai_gilbert_knightly@ai_ind1_gilk_ithinkisawyou
 script@story@ind1@ai_scenario_reactions@party_ai_hector_fellowes@ai_ind1_hectorf_sohard
+script@story@ind1@ai_scenario_reactions@party_ai_heston_jameson@ai_ind1_hestonj_ohtheeavesdrop
 script@story@ind1@ai_scenario_reactions@party_ai_hobart_crawley@ai_ind1_hobartc_didyahear
 script@story@ind1@ai_scenario_reactions@party_ai_ind1_man_1@party_ai_ind1_man_1
 script@story@ind1@ai_scenario_reactions@party_ai_ind1_man_2@party_ai_ind1_man_2
@@ -598,6 +603,8 @@ script@story@ind3@leadin@mcs7@leadin_prompttosit
 script@story@ind3@leadout@int@leadout
 script@story@ind3@leadout@mcs4@leadout
 script@story@lar1@ig@ig_1_watchingfight@ig1_watchingfight_abe
+script@story@lar1@ig@ig_1_watchingfight@ig1_watchingfight_laramierider^1
+script@story@lar1@ig@ig_1_watchingfight@ig1_watchingfight_laramierider^2
 script@story@lar1@ig@ig_2_outro_ptl@outro_ptl
 script@story@lar1@leadin@mcs1@leadin
 script@story@mar1@blendout
@@ -1178,6 +1185,7 @@ script@story@nts3@ig@ig23_charles_finds_keys@ig23_charles_finds_keys
 script@story@nts3@ig@ig24_arthur_rotates_cannon@ig24_arthur_rotates_cannon
 script@story@nts3@ig@ig3_guards_chat@ig3_guards_chat
 script@story@nts3@ig@ig3_guards_chat@ig3_guards_idle_01
+script@story@nts3@ig@ig3_guards_chat@ig3_guards_idle_01^1
 script@story@nts3@ig@ig4_wall_gesture@ig4_wall_gesture
 script@story@nts3@ig@ig5_wall_cover_shine_lantern@ig5_wall_cover_shine_lantern
 script@story@nts3@ig@ig5_wall_cover_shine_lantern@ig5_wall_cover_shine_lantern_charles

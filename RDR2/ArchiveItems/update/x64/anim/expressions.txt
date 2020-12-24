@@ -285,7 +285,9 @@ cs_missmarjorie
 cs_mollyoshea
 cs_moneybag
 cs_mp_cliff
+cs_mp_cripps_straps
 cs_mp_hans_face
+cs_mp_harriet_davenport
 cs_mp_henchman_face
 cs_mp_horley_face
 cs_mp_langston

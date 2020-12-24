@@ -88,6 +88,7 @@ pg_ambient_camp_add_canoe02
 pg_ambient_camp_add_cart01
 pg_ambient_camp_add_central_firebasin01
 pg_ambient_camp_add_central_firechar01
+pg_ambient_camp_add_central_firedebris01
 pg_ambient_camp_add_central_firedirt01
 pg_ambient_camp_add_central_firerock01
 pg_ambient_camp_add_central_firescrub01
@@ -178,6 +179,7 @@ pg_beartrap01x
 pg_beartrap02x
 pg_bh_campreturn01x
 pg_bh_rancher01x
+pg_bh_skinnergang02x
 pg_bh_skinnerwagon01x
 pg_campfirerobbery01x
 pg_caravancampfire01x
@@ -261,10 +263,12 @@ pg_player_campfire02x
 pg_player_campfire03x
 pg_player_campfire04x
 pg_player_campfire4x401x
+pg_player_campfire4x402x
 pg_rc_beauandpene201x
 pg_rc_bountystrawduel01x
 pg_rc_calloway01x
 pg_rc_exconfederates1_01x
+pg_rc_gunslingerduel201x
 pg_rc_monroe1_01x
 pg_rc_nativewagoncornwall01x
 pg_rc_oddfellows2_01x
@@ -291,6 +295,7 @@ pg_re_fleeingfamily01x
 pg_re_frozentodeath01x
 pg_re_fund_before01x
 pg_re_herbalistcamp_swamp01x
+pg_re_hostagecamp02x
 pg_re_inbredgang01x
 pg_re_inbredkidnap02x
 pg_re_islandstandoff01x
@@ -312,6 +317,7 @@ pg_re_savageaftermath04x
 pg_re_savagefight01x
 pg_re_savagewagon01x
 pg_re_sharpshootercamp01x
+pg_re_sharpshootercamp02x
 pg_re_sharpshooterfarm01x
 pg_re_spookedhorse01x
 pg_re_supplydelivery_gsmith01x

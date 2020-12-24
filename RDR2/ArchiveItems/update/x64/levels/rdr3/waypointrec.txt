@@ -1164,6 +1164,8 @@ sad3_cme_timelapse
 sad3_cme_timelapse_2
 sad3_deer
 sad3_escape
+sad3_flee_ambush1
+sad3_flee_ambush2
 sad3_painttorhodes
 sad3_rhodestodew
 sad3_sadierock2

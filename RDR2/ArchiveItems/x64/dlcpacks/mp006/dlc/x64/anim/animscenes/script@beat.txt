@@ -15,9 +15,11 @@ script@beat@town@pickpocket@tailor
 script@beat@wilderness@berrygang@trapped_woman
 script@beat@wilderness@berrygang@trapped_woman_trap
 script@beat@wilderness@crashedwagon@action
+script@beat@wilderness@legendaryanimalencounter@turnover
 script@beat@wilderness@lostfriend@lake_bodyloops
 script@beat@wilderness@lostfriend@lake_turnbody
 script@beat@wilderness@moonshine_marketing@kidnapped_buyers@hostage@hostage
 script@beat@wilderness@moonshine_marketing@kidnapped_buyers@hostagerescue@hostage_rescue
 script@beat@wilderness@moonshine_marketing@kidnapped_buyers@trainholdup@trainholdup
 script@beat@wilderness@moonshine_marketing@kidnapped_buyers@wagon_search@wagon
+script@beat@wilderness@suspensiontrap@handover

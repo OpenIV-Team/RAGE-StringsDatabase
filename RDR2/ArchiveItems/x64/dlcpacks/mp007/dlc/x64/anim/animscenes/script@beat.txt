@@ -7,6 +7,8 @@ script@beat@town@darkalleybum@drunksteal
 script@beat@wilderness@crashedwagon@action
 script@beat@wilderness@hostagerescue@femalehostage
 script@beat@wilderness@hostagerescue@malehostage
+script@beat@wilderness@legendaryanimalencounter@turnover
 script@beat@wilderness@lostfriend@lake_bodyloops
 script@beat@wilderness@lostfriend@lake_turnbody
 script@beat@wilderness@moonshine_marketing@kidnapped_buyers@hostage@hostage
+script@beat@wilderness@suspensiontrap@handover

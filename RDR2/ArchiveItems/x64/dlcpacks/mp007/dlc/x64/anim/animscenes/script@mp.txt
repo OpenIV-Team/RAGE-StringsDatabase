@@ -28,6 +28,7 @@ script@mp@clue_tracking@dyingPeds@dyingPed_dogInjury
 script@mp@clue_tracking@dyingPeds@dyingPed_fallsOffHorse
 script@mp@clue_tracking@dyingPeds@dyingPed_sitting
 script@mp@clue_tracking@dyingPeds@dyingPed_stomachInjury
+script@mp@endflow@endcelebration@team_grouping@halloween@team@celebration_team
 script@mp@introflow@soloonfoot
 script@mp@introflow@soloonhorse
 script@mp@introflow@teamonfoot
@@ -40,6 +41,8 @@ script@mp@moonshiner@moonshine_band@handoff_piano
 script@mp@moonshiner@moonshine_band@handoff_washboard
 script@mp@moonshiner@story_missions@moon2@dynamite_plant@dynamite_plant
 script@mp@moonshiner@story_missions@respawns
+script@mp@naturalist@animal_events@beaver_dive
+script@mp@naturalist@animal_events@moose_fall_on_ice
 script@mp@Naturalist@Animal_Sightings@legendary_alligator
 script@mp@Naturalist@Animal_Sightings@legendary_bear
 script@mp@Naturalist@Animal_Sightings@legendary_beaver
@@ -54,8 +57,11 @@ script@mp@Naturalist@Animal_Sightings@legendary_moose
 script@mp@Naturalist@Animal_Sightings@legendary_panther
 script@mp@Naturalist@Animal_Sightings@legendary_ram
 script@mp@Naturalist@Animal_Sightings@legendary_wolf
+script@mp@naturalist@gus@ig1_shop
 script@mp@Naturalist@HAR@IG1_SHOP@IG1_SHOP
 script@mp@Naturalist@HAR@IG10_GETUP
+script@mp@naturalist@har@ig2_idle_intro
+script@mp@naturalist@nat@ig1_getup
 script@mp@Naturalist@NAT@IG2_ANIMAL_CONTROL
 script@mp@Naturalist@NAT@IG3_CAGE_OPENING@ig3_cage_opening_large
 script@mp@Naturalist@NAT@IG3_CAGE_OPENING@ig3_cage_opening_medium
@@ -68,11 +74,18 @@ script@mp@Naturalist@NAT@IG4_POACHER_HIT_CAGE@ig4_poacher_hit_cage_xlarge
 script@mp@Naturalist@NAT@IG5_POACHER_FRIENDLY_CAGE@ig5_poacher_friendly_cage_large
 script@mp@Naturalist@NAT@IG5_POACHER_FRIENDLY_CAGE@ig5_poacher_friendly_cage_medium
 script@mp@Naturalist@NAT@IG5_POACHER_FRIENDLY_CAGE@ig5_poacher_friendly_cage_xlarge
+script@mp@naturalist@nat@ig6_legendary_animal_pheromone
 script@mp@naturalist@poacher@beaver@leader
+script@mp@naturalist@protect@alligator_scene
+script@mp@naturalist@protect@bear_scene
+script@mp@naturalist@protect@cougar_scene
+script@mp@naturalist@protect@elk_scene
+script@mp@naturalist@protect@wolf_scene
 script@mp@photo_studio@celebrate@celebrate
 script@mp@photo_studio@chair_rifles@chair_rifles
 script@mp@photo_studio@dog@dog
 script@mp@photo_studio@fun@fun
+script@mp@photo_studio@posse_photo_vformation@posse_photo_vformation
 script@mp@photo_studio@sit_on_crate@sit_on_crate
 script@mp@photo_studio@taxidermy@alligator@alligator
 script@mp@photo_studio@taxidermy@beaver@beaver

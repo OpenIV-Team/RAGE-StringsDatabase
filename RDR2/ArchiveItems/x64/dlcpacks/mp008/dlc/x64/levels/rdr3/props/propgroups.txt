@@ -1,0 +1,6 @@
+pg_mp008_ambient_campfireransacked01x
+pg_mp008_ambient_campfireransacked04x
+pg_mp008_bh_caged01x
+pg_mp008_bh_loot01x
+pg_mp008_bh_loot02x
+pg_mp008_inbredgang01x

@@ -1,4 +1,5 @@
 pg_mp_possecamp_decor_large002x
+pg_mp_possecamp_decor_large004x
 pg_mp_possecamp_decor_large006x
 pg_mp_possecamp_decor_large007x
 pg_mp_possecamp_decor_large007x_b

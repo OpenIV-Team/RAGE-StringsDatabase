@@ -249,6 +249,7 @@ script@beat@wilderness@snakebite@snakebite
 script@beat@wilderness@spookedhorse@petting
 script@beat@wilderness@strandedrider@horseflee
 script@beat@wilderness@strandedrider@horsekick
+script@beat@wilderness@suspensiontrap@handover
 script@beat@wilderness@torchprocession@action
 script@beat@wilderness@torchprocession@action_b
 script@beat@wilderness@torturingcaptive@victim

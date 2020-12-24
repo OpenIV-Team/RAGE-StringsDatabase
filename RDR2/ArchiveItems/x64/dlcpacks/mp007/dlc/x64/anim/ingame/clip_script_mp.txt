@@ -14,6 +14,7 @@ script_mp@bounty@jail_dropoff@dead@std
 script_mp@bounty@jail_dropoff@dead@stw
 script_mp@bounty@jail_dropoff@dead@tum
 script_mp@bounty@jail_dropoff@dead@val
+script_mp@clue_tracking@clue_tracking_player
 script_mp@cook@ig2_idle_intros
 script_mp@emotes@chicken@male@unarmed@full
 script_mp@emotes@chicken@male@unarmed@upper
@@ -89,4 +90,9 @@ script_mp@moonshiner@band@handoffs@fiddle@ai
 script_mp@moonshiner@band@handoffs@guitar@ai
 script_mp@moonshiner@story_missions@moon1@ig2_rest
 script_mp@moonshiner@story_missions@moon2@dynamite_plant
+script_mp@naturalist@player_potions@female@fat
+script_mp@naturalist@player_potions@female@skinny
+script_mp@naturalist@player_potions@male@fat
+script_mp@naturalist@player_potions@male@skinny
+script_mp@naturalist@spirit_animal_herbs
 script_mp@photo_studio@vformation

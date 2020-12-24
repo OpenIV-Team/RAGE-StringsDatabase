@@ -632,6 +632,7 @@ banu1au
 bawg1au
 bawg2au
 bawg3au
+bbhord
 bblu
 bbtsst
 bcas1au
@@ -660,6 +661,7 @@ bdulaud
 be22
 beau_gray
 beaver
+bescrt
 bhcr
 bhjbwau
 bhjroau
@@ -685,10 +687,13 @@ bjck6au
 bkndwn
 bktrg
 blind_beggar
+bminfau
 bnd1au
 bnd2au
 bnp1aud
 bnp2aud
+bntdyn
+bntyin
 bntyt
 bou1
 bou1aud
@@ -1006,6 +1011,7 @@ ch14aud
 ch15aud
 ch16aud
 ch17aud
+charaud
 charles_smith
 charles_smith_es
 chcl1au
@@ -1136,6 +1142,7 @@ cmsf1au
 cmsf2au
 cmsf3au
 cnvy
+collaud
 comp
 concerned_aunt
 cookaud
@@ -1181,6 +1188,7 @@ crleaud
 crmb3
 crn1
 crn1aud
+crp06au
 crplr
 crrh1a
 crrh2a
@@ -1351,6 +1359,9 @@ cwmg5au
 cwpf1au
 cwpg1au
 cwpu1au
+cwrc1au
+cwrc2au
+cwrl1au
 cwrm1au
 cwrm2au
 cwsb1au
@@ -1400,10 +1411,14 @@ desstau
 devanau
 dewshau
 dmc_play
+dmichau
+dminoau
 dmonkau
 dnj2aud
 dnj3aud
 dnj4aud
+dodmbau
+dopnaud
 dorothea_wicklow
 downaud
 dr_macintosh
@@ -1424,6 +1439,7 @@ drrveau
 drsdgau
 drsdmau
 drunk_traveler_2
+dsbscau
 dsmehau
 dst1
 dst1aud
@@ -1450,6 +1466,7 @@ fake_beggar
 fbw1aud
 fbw4aud
 fetch
+fffmcau
 fh_towndealer
 fhj1au
 fhm1aud
@@ -1474,6 +1491,7 @@ fjm2aud
 fjm3aud
 fjm4aud
 fjm5aud
+fmaaud
 fmadd
 fmarch
 fmeat
@@ -1493,10 +1511,23 @@ fmhtp
 fmj6au
 fmpp
 fmui
+fnstaau
 fortm
+fransau
+frbenau
+frblwau
 freelance_undertaker
 freezing_woman
+fremrau
 friendly_man
+frrhoau
+frrigau
+frstdau
+frstwau
+frtwdau
+frvalau
+frvanau
+frwalau
 ftellau
 fud1
 fud1aud
@@ -1545,6 +1576,7 @@ gun2aud
 gun3aud
 gun5aud
 hanging
+hbvhaud
 hdint
 hdog
 hdout
@@ -1575,6 +1607,8 @@ ind3aud
 intcpt
 jack
 javier
+jboaud
+jck2aud
 jk_ticket_taker
 jlbrk
 joe
@@ -1602,7 +1636,10 @@ kieran
 knsg1au
 ksng1au
 lar1
+lar1aud
+lccolau
 lcmpaud
+leganm
 len1aud
 len2aud
 len3aud
@@ -1619,6 +1656,8 @@ lsminau
 lssolau
 lsundau
 lswomau
+ltdroau
+ltsrhau
 maggaud
 map
 mar1
@@ -1646,6 +1685,7 @@ mbhstau
 mbhtwau
 mbhvaau
 mc_play
+memaud
 mgabdau
 mgbbau
 mgblk
@@ -1679,6 +1719,7 @@ mh1aud
 micah_bell
 mickey
 mllraud
+mnintau
 mob01au
 mob02au
 mob1
@@ -1692,11 +1733,28 @@ mob4aud
 mob5
 mob5aud
 molly
+moon1au
+moon2au
+moon3au
+moon4au
+moon5au
 mountain_bear_hunter
 movta
+mpbthau
+mpclaau
 mpfd
 mpft
+mpgo1au
+mpgo2au
+mpgo3au
+mpgu1au
+mpgu2au
+mpgu3au
+mpgu4au
 mphonau
+mpicbau
+mpicdau
+mpicmau
 mpintau
 mpintro
 mpjb1au
@@ -1706,7 +1764,14 @@ mplobau
 mplrdau
 mpmurau
 mpodrau
+mpou1au
+mpou2au
+mpou3au
+mpou4au
 mppjaau
+mpre1au
+mpre2au
+mpsbiau
 mpsfmau
 mpsknau
 mptbyau
@@ -1746,6 +1811,7 @@ mud6aud
 nahid
 nas
 nasal
+nasalau
 nasbeau
 nasbi
 nasbiau
@@ -1757,6 +1823,7 @@ nasbuau
 nasbv
 nasbvau
 nascg
+nascgau
 nascy
 nascyau
 nasel
@@ -1773,9 +1840,12 @@ nasraau
 naswo
 naswoau
 naturau
+nbaaaud
+nbbeg
 nbd1
 nbd1aud
 nbegp
+nbhdaud
 nbmt
 nbshin
 nbthaud
@@ -1786,6 +1856,7 @@ news
 nicholas_timmins
 nmnu
 norris_forsythe
+ntintau
 nts1
 nts1aud
 nts2
@@ -1799,6 +1870,7 @@ ntv2
 ntv2aud
 ntv3
 ntv3aud
+obhebct
 oddfaud
 odr4
 odr4aud
@@ -1883,6 +1955,7 @@ rcmpaud
 rcraw
 rcrkf
 rcrle
+rctxdau
 rdch3
 rdopn
 rdown
@@ -1914,6 +1987,7 @@ rekhbau
 reldaud
 relov_man
 relov_woman
+remcpau
 repaaud
 repo
 reriaud
@@ -1921,6 +1995,7 @@ resam_whore
 resamau
 resfvht
 resup
+resusau
 rethaud
 rev1
 rev1_witness
@@ -1950,6 +2025,7 @@ rmllr
 rmnr1
 rmob01
 rmob02
+rmry0au
 rmryb
 rmud3
 rnat2
@@ -1988,6 +2064,7 @@ sal1
 sal1aud
 satch
 satdoau
+scaraud
 scrb
 scscaud
 scsfaud
@@ -2010,6 +2087,7 @@ shbcaud
 sheaau
 shenaud
 sherif
+shffaud
 shfosau
 shop
 showfau
@@ -2017,6 +2095,8 @@ shrb
 shrctau
 shsdaud
 sixpt
+sk1aud
+sk2aud
 skag3au
 skltau
 sksg2au
@@ -2062,6 +2142,7 @@ sppc
 sppicau
 sppj
 spprjau
+spsbtau
 spsdvau
 spshrau
 spsnwau
@@ -2110,6 +2191,7 @@ tnrb
 town_widow
 tracks
 tradaud
+trappau
 tre1
 tre1aud
 treas
@@ -2159,6 +2241,7 @@ wgnbo
 wgntv
 wildman
 wnt1
+wnt1aud
 wnt2
 wnt2aud
 wnt4

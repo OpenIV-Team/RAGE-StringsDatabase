@@ -1,2 +1,6 @@
 _manifest
 clothing_item_m_ugarment_005_tint_004
+VEST_MR1_026_C1_000_nm
+VEST_MR1_026_C1_999_ab
+vest_mr1_026_c3_000_nm
+vest_mr1_026_c3_999_ab

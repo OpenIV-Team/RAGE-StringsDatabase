@@ -12,5 +12,7 @@ goreh_mr1_001_c0_004_ab
 goreh_mr1_001_c0_006_ab
 goreh_mr1_003_c0_006_ab
 goreh_mr1_005_c0_006_ab
+hat_mr1_071_c1_998_ab
+hat_mr1_071_c1_998_nm
 p_c_horse_01_hand_000_c0_000_wrinklemask
 p_c_horse_01_head_000_c0_000_wrinklemask

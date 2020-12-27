@@ -1,3 +1,10 @@
+feet_FR1_000_c0_000_ab
+feet_FR1_000_c0_000_nm
+feet_FR1_000_c0_001_nm
+feet_fr1_000_c0_008_ab
+feet_FR1_000_c1_020_ab
+feet_mr1_000_c0_000_nm
+feet_MR1_000_c0_008_ab
 gore_calf_000_c0_000_ab
 gore_calf_000_c0_000_nm
 gore_foot_000_c0_000_ab
@@ -66,6 +73,7 @@ hand_fr1_000_c0_000_nm
 hand_fr1_000_c0_001_nm
 hand_fr1_000_c0_008_ab
 hand_fr1_000_c0_020_ab
+hand_fr1_000_c1_008_ab
 player_zero_nude_lower_000_c0_000_ab
 player_zero_nude_lower_000_c0_000_nm
 player_zero_nude_lower_000_c0_002_nm

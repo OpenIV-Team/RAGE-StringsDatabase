@@ -1,3 +1,8 @@
 _manifest
+tatteredshirt_mr1_002_c3_000_ab
 tatteredshirt_mr1_002_c3_999_ab
 teeth_gen_0000_c0_001_ab
+teeth_story_0001_c0_000_ab
+tie_mr1_026_c0_000_nm
+tie_mr1_026_c1_999_ab
+tie_mr1_026_c3_000_nm

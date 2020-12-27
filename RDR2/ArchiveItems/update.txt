@@ -1612,6 +1612,7 @@ x64/data/metadata/explosion
 x64/data/metadata/ik/bodyblendtemplates
 x64/data/metadata/ik/bodydampingtemplates
 x64/data/metadata/landingofflinetiles
+x64/data/metadata/materials/pbrWeaponSurfaces
 x64/data/metadata/pedattributes
 x64/data/metadata/pedpersonality
 x64/data/metadata/tunableobjects

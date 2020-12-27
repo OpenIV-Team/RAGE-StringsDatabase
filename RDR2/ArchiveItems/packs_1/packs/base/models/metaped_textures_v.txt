@@ -1,1 +1,2 @@
 _manifest
+clothing_item_m_ugarment_005_tint_004

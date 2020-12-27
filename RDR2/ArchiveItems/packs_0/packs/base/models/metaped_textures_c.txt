@@ -1,1 +1,14 @@
 _manifest
+coat_mr1_009_c1_999_ab
+coat_mr1_009_c3_999_ab
+coat_mr1_024_c3_999_ab
+coat_mr1_086_c0_000_ab
+combooveralls_mr1_002_c3_999_ab
+comboshirt_mr1_009_c3_998_ab
+comboshirt_mr1_009_c3_999_ab
+comboshirt_mr1_010_c3_998_ab
+comboshirt_mr1_010_c3_999_ab
+combovest_mr1_024_c1_000_nm
+combovest_mr1_024_c1_999_ab
+combovest_mr1_024_c3_999_ab
+combovest_mr1_039_c3_999_ab

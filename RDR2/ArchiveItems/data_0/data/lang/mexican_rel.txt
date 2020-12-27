@@ -1881,6 +1881,7 @@ unpnsau
 unsg2au
 usng1au
 usng3au
+ussng1
 utp1
 utp1aud
 utp2

@@ -1,1 +1,3 @@
 _manifest
+bridle_hr1_004_c1_000_ab
+bridle_hr1_004_c1_000_nm

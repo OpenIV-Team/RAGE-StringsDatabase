@@ -47,6 +47,7 @@ grizzlies5
 grizzlies5+hi
 grizzliesmain
 grizzliesmain+hi
+guarma_terrain
 guarma_terrain+hi
 hea_tunnels
 hea_tunnels+hi

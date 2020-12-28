@@ -370,6 +370,7 @@ p_c_horse01
 p_cs_kettle01x
 p_grindingwheel01x
 p_main_breastmutton01x
+p_spoonmid01x_liquid
 parasol
 ped_shared
 player
@@ -381,6 +382,7 @@ prop_bucket
 prop_can
 propbowl_stew
 propgamblingchips
+propgroup_moneybags
 propmeat_bowl
 propmeat_filet
 propnut_bowl
@@ -388,7 +390,9 @@ props
 s_cottonraw01x
 s_interact_lantern01x
 s_lev_journal_book
+s_mp_lassoloop01x
 s_mp_moneybags_02x
+sack_spring
 scalpfemale
 screen
 steamdonkey02

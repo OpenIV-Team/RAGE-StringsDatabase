@@ -1,5 +1,6 @@
 _cache
 _manifest
+mp001_amb_camps_hen_mp
 mp001_min_hid_mantecafalls
 mp001_reg_hen_mp_chollasp_hamlins
 mp001_reg_hen_mp_chollasp_hangrk

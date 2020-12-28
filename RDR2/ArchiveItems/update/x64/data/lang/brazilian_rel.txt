@@ -629,6 +629,7 @@ banj2au
 banj3au
 banj4au
 banu1au
+bathing_girl
 bawg1au
 bawg2au
 bawg3au
@@ -1189,6 +1190,7 @@ crmb3
 crn1
 crn1aud
 crp06au
+crp07au
 crplr
 crrh1a
 crrh2a
@@ -2008,6 +2010,7 @@ rgun1
 rgun1_slinger
 rgun2
 rgun3
+RGUN4_Slinger
 rgun5
 rhd_preacher
 rhdstfa
@@ -2221,6 +2224,7 @@ unpnsau
 unsg2au
 usng1au
 usng3au
+ussng1
 utp1
 utp1aud
 utp2

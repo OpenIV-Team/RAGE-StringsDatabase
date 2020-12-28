@@ -937,6 +937,7 @@ mp_fm_track_prospector_01
 mp_fm_track_targets_males_01
 mp_freeroam_tut_females_01
 mp_freeroam_tut_males_01
+MP_G_F_M_CULTGUARDS_01
 mp_g_f_m_cultmembers_01
 mp_g_f_m_laperlegang_01
 mp_g_f_m_laperlevips_01
@@ -944,6 +945,7 @@ mp_g_f_m_owlhootfamily_01
 mp_g_m_m_animalpoachers_01
 mp_g_m_m_armoredjuggernauts_01
 mp_g_m_m_bountyhunters_01
+MP_G_M_M_CULTGUARDS_01
 mp_g_m_m_cultmembers_01
 mp_g_m_m_owlhootfamily_01
 mp_g_m_m_redbengang_01
@@ -1066,6 +1068,7 @@ mp_u_f_m_buyer_regular_01
 mp_u_f_m_buyer_regular_02
 mp_u_f_m_buyer_special_01
 mp_u_f_m_buyer_special_02
+MP_U_F_M_CULTPRIEST_01
 mp_u_f_m_gunslinger3_rifleman_02
 mp_u_f_m_gunslinger3_sharpshooter_01
 mp_u_f_m_laperlevipmasked_01
@@ -1079,6 +1082,7 @@ mp_u_f_m_laperlevipunmasked_04
 mp_u_f_m_lbt_owlhootvictim_01
 mp_u_f_m_legendarybounty_001
 mp_u_f_m_legendarybounty_002
+MP_U_F_M_LEGENDARYBOUNTY_03
 MP_U_F_M_NAT_TRAVELER_01
 MP_U_F_M_NAT_WORKER_01
 MP_U_F_M_NAT_WORKER_02
@@ -1169,6 +1173,7 @@ mp_u_m_m_buyer_special_05
 mp_u_m_m_buyer_special_06
 mp_u_m_m_buyer_special_07
 mp_u_m_m_buyer_special_08
+MP_U_M_M_CULTPRIEST_01
 MP_U_M_M_DYINGPOACHER_01
 MP_U_M_M_DYINGPOACHER_02
 MP_U_M_M_DYINGPOACHER_03
@@ -1196,6 +1201,8 @@ mp_u_m_m_legendarybounty_004
 mp_u_m_m_legendarybounty_005
 mp_u_m_m_legendarybounty_006
 mp_u_m_m_legendarybounty_007
+MP_U_M_M_LEGENDARYBOUNTY_08
+MP_U_M_M_LEGENDARYBOUNTY_09
 MP_U_M_M_NAT_FARMER_01
 MP_U_M_M_NAT_FARMER_02
 MP_U_M_M_NAT_FARMER_03

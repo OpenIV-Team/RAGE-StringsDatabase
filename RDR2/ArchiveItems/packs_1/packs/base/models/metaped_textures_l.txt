@@ -1,1 +1,10 @@
 _manifest
+Lowr_fr1_013_c3_999_ab
+lowr_fr1_026_c0_000_ab
+lowr_fr1_026_c1_999_ab
+lowr_fr1_027_c3_998_ab
+lowr_fr1_027_c3_999_ab
+lowr_fr1_027_ELDERLYTATTERED_c3_998_ab
+lowr_fr1_029_c0_000_ab
+lowr_fr1_040_C1_999_ab
+lowr_fr1_040_c3_999_ab

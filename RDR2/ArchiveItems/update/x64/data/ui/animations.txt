@@ -113,6 +113,7 @@ minigames/player_stack_active_player_exit
 mp_race_wrongway_pulse
 overlay/overlay_enter
 overlay/overlay_exit
+pause/input_mapping_flashing
 pause/pausemenu_enter
 pause/pausemenu_exit
 pause/pausemenu_seasonreward_enter

@@ -4,8 +4,10 @@ ability_cards_set_a
 ability_cards_set_b
 ability_cards_set_c
 ability_cards_set_d
+animal_map_dynamic
 blips_mp
 generic_textures_tu
+help_standalone_mp
 inventory_items_mp
 menu_camp_textures
 mp_character_creator
@@ -24,12 +26,14 @@ pm_rank_awards_generic
 pm_rank_up
 pm_tiles_help_mp
 pm_tiles_progress_mp
+pm_tiles_story_purchase_sp
 scoretimer_ink_backgrounds
 scoretimer_meter
 scoretimer_meter_thirds
 shard_backgrounds
 swatches_camp_mp
 swatches_gunsmith_mp
+swatches_stable_mp
 toast_awards_set_a
 toast_awards_set_b
 toast_awards_set_c

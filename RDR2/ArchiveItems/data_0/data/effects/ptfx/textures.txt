@@ -1,6 +1,8 @@
 amb_lights
 anm_animals
 anm_foodprep
+anm_gang2
+anm_human_sick_pee
 anm_impacts
 anm_ind
 anm_oddf
@@ -8,9 +10,15 @@ anm_smoking
 core
 des_native3
 eagle_eye
+scr_beat_treasure_hunter
+scr_generic
 scr_ind1
+scr_marston
 scr_net_adversary_team_border
 scr_net_player_signal
+scr_odr3
 scr_poisoned_well
 scr_rhodes
 scr_utopia2
+scr_vantage_point
+scr_vignette_javier_5

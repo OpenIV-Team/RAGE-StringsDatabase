@@ -90,6 +90,7 @@ mp_fme_supply_train
 mp_fme_treasure_hunt
 mp_fme_wildlife_photographer
 mp_fme_wreckage
+mystery_item_data
 net_char_creator_data
 net_gun_for_hire_missions
 net_moonshine_property

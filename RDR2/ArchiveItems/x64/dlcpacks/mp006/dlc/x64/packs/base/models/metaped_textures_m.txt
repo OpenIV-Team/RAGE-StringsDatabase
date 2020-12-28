@@ -1,3 +1,4 @@
+MP_horse_01_hair_000_c0_000_ab
 mp_horse_01_hair_000_c0_000_m
 mp_horse_01_hair_000_c0_000_m+hi
 mp_horse_01_hair_000_c0_000_nm
@@ -43,3 +44,5 @@ mp_horse_01_head_000_c0_839_ab
 mp_horse_01_head_000_c0_839_ab+hi
 mp_horse_01_head_000_c0_840_ab
 mp_horse_01_head_000_c0_840_ab+hi
+mp_vest_mr1_010_002_full_c1_991_ab
+mp_vest_mr1_010_002_full_c1_991_nm

@@ -1693,6 +1693,7 @@ x64/data/ui/inputcontexts/map_input_context
 x64/data/ui/inputcontexts/midgame_leaderboard_input_context
 x64/data/ui/inputcontexts/minigame_overlay_input_context
 x64/data/ui/inputcontexts/online_player_input_context
+x64/data/ui/inputcontexts/policy_menu_input_context
 x64/data/ui/inputcontexts/postmatch_leaderboard_input_context
 x64/data/ui/inputcontexts/quick_select_satchel_item_wheel_input_context
 x64/data/ui/inputcontexts/quick_select_weapon_wheel_compact_input_context

@@ -249,6 +249,7 @@ ui_clothing_style_f_pants_201
 ui_clothing_style_f_pants_202
 ui_clothing_style_f_pants_203
 ui_clothing_style_f_pants_204
+ui_clothing_style_f_pants_205
 ui_clothing_style_f_pants_301
 ui_clothing_style_f_pants_302
 ui_clothing_style_f_pants_303
@@ -290,6 +291,7 @@ ui_clothing_style_f_shirt_200
 ui_clothing_style_f_shirt_201
 ui_clothing_style_f_shirt_202
 ui_clothing_style_f_shirt_203
+ui_clothing_style_f_shirt_208
 ui_clothing_style_f_shirt_210
 ui_clothing_style_f_shirt_211
 ui_clothing_style_f_shirt_300

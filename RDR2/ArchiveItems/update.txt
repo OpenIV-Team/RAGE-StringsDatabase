@@ -1627,6 +1627,7 @@ x64/data/tune/combattasks
 x64/data/tune/covergenerationtuning
 x64/data/tune/defaulttasks
 x64/data/tune/dispatchtuning
+x64/data/tune/fleedecisionstuning
 x64/data/tune/generalevents
 x64/data/tune/generaltasks
 x64/data/tune/horsespookedcontroltunables

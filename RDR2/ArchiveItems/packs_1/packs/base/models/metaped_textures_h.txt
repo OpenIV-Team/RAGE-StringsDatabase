@@ -5,6 +5,7 @@ hand_fr1_000_c0_008_ab
 hand_fr1_000_c0_020_ab
 hand_fr1_000_c1_008_ab
 hand_mr1_000_c0_000_ab
+hand_mr1_000_c0_007_ab
 hand_mr1_000_c1_008_ab
 hand_TR1_000_c0_000_ab
 hand_tr1_000_c0_007_ab
@@ -16,6 +17,7 @@ hat_mr1_001_c1_999_ab
 hat_mr1_004_c3_999_ab
 hat_mr1_063_c1_999_ab
 Hat_Mr1_072_c3_000_nm
+hat_mr1_085_c3_999_ab
 hat_mr1_135_c1_000_nm
 hat_mr1_135_c1_999_ab
 head_fr1_sc08_makeup_c0_001_ab
@@ -34,12 +36,14 @@ head_fr1_weathered_008_nm
 head_fr1_weathered_010_nm
 head_mr1_0026_c0_000_ab
 head_mr1_0026_c0_000_nm
+head_mr1_0134_c0_000_nm
 head_mr1_0134_c0_001_ab
 head_mr1_0134_c0_001_nm
 head_mr1_aged_000_nm
 head_mr1_aged_005_nm
 head_mr1_aged_008_nm
 head_mr1_aged_009_nm
+head_mr1_aged_011_nm
 head_mr1_aged_012_nm
 Head_Mr1_Freak_017_NM
 head_mr1_obese_003_nm
@@ -50,7 +54,9 @@ head_mr1_rough_017_nm
 head_mr1_rough_024_nm
 head_mr1_rough_026_nm
 head_mr1_rough_027_nm
+Head_Mr1_Rough_028_nm
 head_mr1_rough_032_nm
+Head_mr1_sc04_rough_c0_010_ab
 head_mr1_sc05_rough_c0_000_ab
 head_mr1_sc08_dirty_c0_006_ab
 head_mr1_sc08_dirty_c0_008_ab
@@ -73,6 +79,7 @@ head_mr1_sc08_rough_c0_030_ab
 head_mr1_sc08_rough_c0_031_ab
 head_mr1_sc08_rough_c0_032_ab
 head_mr1_sc08_rough_c0_033_ab
+head_mr1_sc08_rough_c0_041_ab
 Head_mr1_sc08_rough_c0_049_AB
 head_mr1_weathered_000_nm
 head_mr1_weathered_003_nm
@@ -81,6 +88,8 @@ head_mr1_weathered_005_nm
 head_mr1_weathered_006_nm
 head_mr1_weathered_007_nm
 head_mr1_weathered_009_nm
+head_mr1_weathered_010_nm
+head_mr1_weathered_011_nm
 head_mr1_weathered_014_nm
 head_mr1_weathered_015_nm
 head_mr1_weathered_021_nm
@@ -100,8 +109,10 @@ horn_hr1_004_c3_999_ab
 horn_hr1_005_c0_000_ab
 horn_hr1_005_c0_001_ab
 horn_hr1_006_c0_000_ab
+horn_hr1_006_c3_999_ab
 horn_hr1_008_c3_000_nm
 horn_hr1_009_c3_000_nm
 horn_hr1_009_c3_999_ab
+horn_hr1_012_c3_999_ab
 horn_hr3_000_c3_000_nm
 horn_HR3_000_c3_999_ab

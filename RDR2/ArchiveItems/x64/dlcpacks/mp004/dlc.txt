@@ -1,6 +1,10 @@
 common/data/ai/transportanimations.meta
+common/data/ai/transportanimations/default_wagon_war/types/entry_exit/interior_left/closed_door.meta
 common/data/ai/transportanimations/default_wagon_war/types/entry_exit/interior_left/jacking.meta
+common/data/ai/transportanimations/default_wagon_war/types/entry_exit/interior_left/open_door.meta
+common/data/ai/transportanimations/default_wagon_war/types/entry_exit/interior_right/closed_door.meta
 common/data/ai/transportanimations/default_wagon_war/types/entry_exit/interior_right/jacking.meta
+common/data/ai/transportanimations/default_wagon_war/types/entry_exit/interior_right/open_door.meta
 common/data/ai/vehiclelayouts.meta
 common/data/ai/weapon_revolver_lemat_mp.meta
 common/data/ai/weaponcomponents.meta

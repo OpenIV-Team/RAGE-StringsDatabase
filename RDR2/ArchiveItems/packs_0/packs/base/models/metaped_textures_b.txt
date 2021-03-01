@@ -3,6 +3,8 @@ belt_mr1_000_holster_c2_999_ab
 Belt_MR1_002_HOLSTER_C3_999_ab
 belt_mr1_012_c1_000_nm
 belt_mr1_012_c1_999_ab
+belt_mr1_012_c3_000_nm
+belt_mr1_012_c3_999_ab
 boot_mr1_035_c0_000_nm
 BOOT_MR1_055_c0_000_ab
 BOOT_MR1_055_c0_000_nm

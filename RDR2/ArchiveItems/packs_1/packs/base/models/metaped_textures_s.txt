@@ -6,6 +6,7 @@ scarf_mr1_006_c0_000_ab
 scarf_mr1_006_c0_000_nm
 scarf_mr1_010_down_c0_000_ab
 scarf_mr1_010_down_c3_997_ab
+scarf_mr1_015_c3_999_ab
 Shawl_FR1_006_c3_999_ab
 stirrup_hr1_000_c0_003_ab
 stirrup_hr1_000_c3_000_nm
@@ -17,6 +18,7 @@ stirrup_hr1_005_c0_000_ab
 stirrup_hr1_005_c0_000_m
 stirrup_hr1_005_c0_000_nm
 stirrup_hr1_006_c0_000_ab
+stirrup_hr1_006_c3_999_ab
 stirrup_hr1_007_c0_002_ab
 stirrup_hr1_007_c3_000_nm
 stirrup_hr1_008_c3_000_nm

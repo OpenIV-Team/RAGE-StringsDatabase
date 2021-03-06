@@ -11,6 +11,7 @@ old_cpt_int_shell+hidr
 old_cptqua_txd
 old_cptqua_txd_shell
 old_cptquarter_int
+old_cptqutarter_int
 old_cptqutarter_int_ref
 old_cptqutarter_int_ref+hidr
 old_cptqutarter_shadowproxy

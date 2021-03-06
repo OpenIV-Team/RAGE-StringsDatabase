@@ -26,6 +26,10 @@ script@mp@bounty@jail_dropoff@dead@wagon@stw_sheriff
 script@mp@bounty@jail_dropoff@dead@wagon@tum_sheriff
 script@mp@bounty@jail_dropoff@dead@wagon@val_sheriff
 script@mp@bounty@legendary@lbedw@bink@lbedw_bink
+script@mp@bounty@legendary@LBEDW@IG@LBDEW_FM_EXT1@lbedw_fm_ext1
+script@mp@bounty@legendary@LBEDW@IG@LBDEW_FM_EXT2@lbedw_fm_ext2
+script@mp@bounty@legendary@LBEDW@IG@LBDEW_FM_EXT3@lbedw_fm_ext3
+script@mp@bounty@legendary@LBEDW@IG@LBDEW_FM_EXT4@lbedw_fm_ext4
 script@mp@bounty@legendary@lbfin@bink@lbfin_bink
 script@mp@bounty@legendary@lbmon@bink@lbmon_bink
 script@mp@photo_studio@ig10_j_taxidermy@alligator@alligator
@@ -37,5 +41,6 @@ script@mp@photo_studio@ig12_o_vault@vault
 script@mp@photo_studio@ig12_p_drink@drink
 script@mp@photo_studio@ig12_q_banjo@banjo
 script@mp@photo_studio@posse_photo_vformation@posse_photo_vformation
+script@mp@player@open_letter
 script@mp@trans@reverseanglecam_onhorse_f
 script@mp@trans@reverseanglecam_onhorse_m

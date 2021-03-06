@@ -9,6 +9,7 @@ old_cpt_int_floor
 old_cpt_int_shell
 old_cpt_int_shell+hidr
 old_cptquarter_int
+old_cptqutarter_int
 old_cptqutarter_int_ref
 old_cptqutarter_int_ref+hidr
 old_cptqutarter_shadowproxy

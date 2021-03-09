@@ -76,6 +76,7 @@ map_card_rho_trainstation
 map_card_str_butcher
 map_card_str_depot
 map_card_str_generalstore
+map_card_strangers
 map_card_tbl_butcher
 map_card_tbl_generalstore
 map_card_tbl_gunsmith

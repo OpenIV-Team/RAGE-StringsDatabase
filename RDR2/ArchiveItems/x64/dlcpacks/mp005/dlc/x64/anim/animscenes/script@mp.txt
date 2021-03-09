@@ -61,6 +61,7 @@ script@mp@endflow@endcelebration@hunters_win_v1
 script@mp@endflow@endcelebration@predator_win_v1
 script@mp@endflow@endcelebration@predator_win_v2
 script@mp@endflow@endcelebration@predator_win_v3
+SCRIPT@MP@ENDFLOW@ENDCELEBRATION@Protector_FailAlive_V1
 script@mp@endflow@endcelebration@protector_win_v1
 script@mp@endflow@endcelebration@wagon
 script@mp@freemode_events@supply_train@bluegill

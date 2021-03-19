@@ -2485,6 +2485,7 @@ x64/levels/rdr3/script/parseddata
 x64/levels/rdr3/script/parseddata_mp
 x64/levels/rdr3/script/script_mp_rel
 x64/levels/rdr3/script/script_rel
+x64/levels/rdr3/script/script_mp_rel_tty
 x64/levels/rdr3/streaming/cutscene@bhint_int_srl
 x64/levels/rdr3/streaming/cutscene@fin2_ext_p15_srl
 x64/levels/rdr3/streaming/cutscene@fin2_ext_p17_srl

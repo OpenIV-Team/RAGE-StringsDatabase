@@ -1,4 +1,5 @@
 _manifest
+decapgore_mr1_000_c0_000_m
 decapgore_mr1_000_c0_000_nm
 decapgore_mr1_000_c0_000_nm+hi
 decapgore_mr1_000_c0_001_nm
@@ -9,6 +10,7 @@ decapgore_mr1_000_c22_000_ab
 decapgore_mr1_000_c22_000_ab+hi
 decapgore_mr1_000_c9_000_ab
 decapgore_mr1_000_c9_000_ab+hi
+decapgore_mr1_001_c0_000_m
 decapgore_mr1_001_c0_000_nm
 decapgore_mr1_001_c0_000_nm+hi
 decapgore_mr1_001_c0_001_nm
@@ -19,6 +21,7 @@ decapgore_mr1_001_c22_000_ab
 decapgore_mr1_001_c22_000_ab+hi
 decapgore_mr1_001_c9_000_ab
 decapgore_mr1_001_c9_000_ab+hi
+decapgore_mr1_002_c0_000_m
 decapgore_mr1_002_c0_000_nm
 decapgore_mr1_002_c0_000_nm+hi
 decapgore_mr1_002_c0_001_nm

@@ -1,3 +1,5 @@
+mantle_mr1_000_c3_000_nm
+mantle_mr1_000_c3_999_ab
 mp_boot_fr1_015_001_c1_999_ab
 mp_boot_fr1_015_001_c1_999_nm
 mp_coat_mr1_202_open_c1_997_ab

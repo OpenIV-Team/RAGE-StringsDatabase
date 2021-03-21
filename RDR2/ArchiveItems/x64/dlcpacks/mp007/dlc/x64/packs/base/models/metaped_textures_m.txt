@@ -1,4 +1,5 @@
 _manifest
+mantle_mr1_000_c0_000_ab
 mp_a_c_cougar_01_head_000_c0_000_ab
 MP_A_C_Cougar_01_head_000_c0_000_nm
 mp_a_c_cougar_01_task_000_c0_000_ab

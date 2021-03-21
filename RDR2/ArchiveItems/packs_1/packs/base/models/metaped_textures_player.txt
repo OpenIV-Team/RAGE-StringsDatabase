@@ -1068,6 +1068,8 @@ player_zero_jbib_003_c0_000_m
 player_zero_jbib_003_c0_000_m+hi
 player_zero_jbib_003_c0_000_nm
 player_zero_jbib_003_c0_000_nm+hi
+player_zero_merge
+player_zero_merge_2
 player_zero_necktie_000_c0_000_ab
 player_zero_necktie_000_c0_000_m
 player_zero_necktie_000_c0_000_m+hi
@@ -2419,5 +2421,3 @@ player_zero_vest_016_full_c0_000_wrinklemask
 player_zero_vest_017_full_c0_000_wrinklemask
 player_zero_vest_018_full_c0_000_wrinklemask
 player_zero_vest_019_full_c0_000_wrinklemask
-player_zero_merge
-player_zero_merge_2

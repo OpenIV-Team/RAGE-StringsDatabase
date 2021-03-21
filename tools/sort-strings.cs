@@ -71,7 +71,7 @@ namespace RageStringsDatabase
             var sw = Stopwatch.StartNew();
             foreach (var fileName in files)
             {
-                Console.WriteLine(fileName + " - Processing file...");
+                // Console.WriteLine(fileName + " - Processing file...");
                 var fileData = new Dictionary<UInt32, List<string>>();
                 var fileLines = File.ReadAllLines(fileName);
                 foreach (var line in fileLines)

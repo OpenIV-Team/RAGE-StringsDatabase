@@ -1,0 +1,8 @@
+pant_fr1_022_full_c1_998_ab
+pant_fr1_022_full_c1_998_nm
+pant_fr1_022_full_c1_999_ab
+pant_fr1_022_full_c1_999_nm
+pant_mr1_022_full_c1_998_ab
+pant_mr1_022_full_c1_998_nm
+pant_mr1_022_full_c1_999_ab
+pant_mr1_022_full_c1_999_nm

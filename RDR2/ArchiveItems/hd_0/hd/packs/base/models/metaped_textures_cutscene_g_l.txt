@@ -1,3 +1,5 @@
 _manifest
 cs_johnmarston_ms1_head_003_c0_000_ab
+cs_johnmarston_ms1_head_003_c0_000_ab+hi
 cs_johnmarston_ms1_head_003_c0_000_nm
+cs_johnmarston_ms1_head_003_c0_000_nm+hi

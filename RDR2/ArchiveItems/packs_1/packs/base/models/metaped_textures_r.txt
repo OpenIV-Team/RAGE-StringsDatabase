@@ -1,12 +1,17 @@
 _manifest
 rcup_mr1_000_c1_000_ab
+rcup_mr1_000_c1_000_ab+hi
 rcup_mr1_000_c1_001_ab
+rcup_mr1_000_c1_001_ab+hi
 rcup_mr1_000_c1_002_ab
+rcup_mr1_000_c1_002_ab+hi
 rcup_mr1_000_c1_999_ab
 rcup_mr1_000_c3_000_nm
 rcup_mr1_000_c3_999_ab
 rcup_mr1_001_c1_000_ab
+rcup_mr1_001_c1_000_ab+hi
 rcup_mr1_001_c1_001_ab
+rcup_mr1_001_c1_001_ab+hi
 rcup_mr1_001_c1_999_ab
 rcup_mr1_001_c3_000_nm
 rcup_mr1_001_c3_999_ab

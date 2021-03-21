@@ -1,9 +1,16 @@
 _manifest
 eye_cap_gen_0000_c0_999_ab
 eyes_gen_0000_c0_001_ab
+eyes_gen_0000_c0_001_ab+hi
 eyes_gen_0000_c0_002_ab
+eyes_gen_0000_c0_002_ab+hi
 eyes_gen_0000_c0_003_ab
+eyes_gen_0000_c0_003_ab+hi
 eyes_gen_0000_c0_004_ab
+eyes_gen_0000_c0_004_ab+hi
 eyes_gen_0000_c0_005_ab
+eyes_gen_0000_c0_005_ab+hi
 eyes_gen_0000_c0_006_ab
+eyes_gen_0000_c0_006_ab+hi
 eyes_gen_0000_c0_007_ab
+eyes_gen_0000_c0_007_ab+hi

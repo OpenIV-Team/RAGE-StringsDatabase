@@ -1,3 +1,5 @@
 _manifest
 player_zero_head_000_c0_000_nm
+player_zero_head_000_c0_000_nm+hi
 player_zero_head_000_c3_000_ab
+player_zero_head_000_c3_000_ab+hi

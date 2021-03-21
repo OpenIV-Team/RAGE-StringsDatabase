@@ -1,5 +1,6 @@
 _manifest
 kcup_mr1_001_c0_000_ab
+kcup_mr1_001_c0_000_ab+hi
 kcup_mr1_001_c1_999_ab
 kcup_mr1_002_c0_000_ab
 kcup_mr1_002_c0_002_ab

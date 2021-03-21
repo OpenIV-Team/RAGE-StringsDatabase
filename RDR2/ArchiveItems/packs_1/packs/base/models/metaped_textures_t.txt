@@ -1,4 +1,5 @@
 _manifest
+cs_mrsadler_fs1_scarf_001_c0
 task_mr1_025_c0_000_ab
 task_mr1_025_c0_000_ab+hi
 tatteredoveralls_mr1_000_c3_000_ab

@@ -615,6 +615,7 @@ cs_mp_jessica
 cs_mp_jorge_montez
 cs_mp_langston
 cs_mp_lee
+cs_mp_lem
 cs_mp_mabel
 cs_mp_maggie
 cs_mp_marshall_davies
@@ -623,6 +624,7 @@ cs_mp_mradler
 cs_mp_oldman_jones
 cs_mp_revenge_marshall
 cs_mp_samson_finch
+cs_mp_seth
 cs_mp_shaky
 cs_mp_sherifffreeman
 cs_mp_teddybrown
@@ -786,6 +788,7 @@ MP_a_c_panther_01
 MP_A_C_Possum_01
 mp_a_c_pronghorn_01
 MP_A_C_Rabbit_01
+mp_a_c_sheep_01
 MP_A_C_Wolf_01
 mp_a_f_m_cardgameplayers_01
 mp_a_f_m_saloonpatrons_01

@@ -31,6 +31,7 @@ comboshirt_mr1_046_undercoat_merge
 combovest_mr1_006_undercoat
 combovest_mr1_013_undercoat
 combovest_mr1_041_nopocketwatch
+cs_antonyforemen_ms1_coat_000
 cs_antonyforemen_ms1_merge_5
 cs_warvet_ms1_merge_2
 glov_mr1_008

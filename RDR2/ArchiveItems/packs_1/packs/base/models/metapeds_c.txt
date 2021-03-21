@@ -133,6 +133,7 @@ coat_mr1_024_highrider
 coat_mr1_024_mauled
 coat_mr1_024_westernright
 coat_mr1_025_duelwield
+coat_mr1_027
 coat_mr1_027_alt000
 coat_mr1_027_merge_2
 coat_mr1_028

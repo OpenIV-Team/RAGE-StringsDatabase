@@ -2,8 +2,10 @@ _cache
 _manifest
 o_06_
 o_06__bkt_0
+o_06__bkt_0+hi
 o_06__bkt_2
 o_06__bkt_3
+o_06__bkt_3+hi
 o_06__hd_0_0_0
 o_06__hd_0_0_1
 o_06__hd_0_0_-1

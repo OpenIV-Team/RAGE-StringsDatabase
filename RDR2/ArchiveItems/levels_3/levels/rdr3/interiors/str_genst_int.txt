@@ -21,6 +21,7 @@ str_genst_int_shadow_proxy
 str_genst_int_shell
 str_genst_int_shell001
 str_genst_int_shell001+hidr
+str_genst_int+hi
 str_genst_ladder
 str_genst_main_02
 str_genst_reflblocker

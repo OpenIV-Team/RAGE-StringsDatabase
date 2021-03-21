@@ -21,6 +21,7 @@ val_bank_int_shdw_proxy
 val_bank_int_shell
 val_bank_int_teller
 val_bank_int_trim2
+val_bank_int+hi
 val_bank_main_shell
 val_bank_main_shell+hidr
 val_bank_mud5_windowblock

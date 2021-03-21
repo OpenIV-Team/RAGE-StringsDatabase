@@ -101,6 +101,7 @@ new_pie_03_trackcover_d
 new_pie_03_trackcover_d+hidr
 new_pie_03_transdock
 new_pie_03_txd1
+new_pie_03_txd1+hi
 new_pie_03_wdbrds1
 new_pie_03_wdpile_prxslod
 new_pie_03_wrh

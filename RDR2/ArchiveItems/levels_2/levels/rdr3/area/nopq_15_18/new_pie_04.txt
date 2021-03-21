@@ -18,6 +18,7 @@ new_pie_04_debris_a_14
 new_pie_04_debris_a_15
 new_pie_04_debris_a_16
 new_pie_04_debris_txd
+new_pie_04_debris_txd+hi
 new_pie_04_dockruin
 new_pie_04_ground1
 new_pie_04_ground1_det1
@@ -45,4 +46,5 @@ new_pie_04_signs1b
 new_pie_04_slopedplanks
 new_pie_04_sugarshack01a
 new_pie_04_txd1
+new_pie_04_txd1+hi
 new_pie_04_wdbrds_02

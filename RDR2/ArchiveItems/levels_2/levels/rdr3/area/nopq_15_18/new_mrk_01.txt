@@ -35,6 +35,7 @@ new_mrk_01_marketstand+hidr
 new_mrk_01_markprops3
 new_mrk_01_markprops3+hidr
 new_mrk_01_mrkttemp
+new_mrk_01_mrkttemp+hi
 new_mrk_01_proxy2_slod
 new_mrk_01_prpclpse01
 new_mrk_01_prpclpse01+hidr
@@ -43,5 +44,7 @@ new_mrk_01_shuttstall
 new_mrk_01_shuttstall+hidr
 new_mrk_01_tarpaa001
 new_mrk_01_txd1
+new_mrk_01_txd1+hi
 new_mrk_01_txd2
+new_mrk_01_txd2+hi
 new_slm_p_crate14cx001

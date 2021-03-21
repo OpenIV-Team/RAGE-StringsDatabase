@@ -6,6 +6,7 @@ str_frt_decals02
 str_frt_int
 str_frt_int_shadow_proxy
 str_frt_int_txd
+str_frt_int_txd+hi
 str_frt_lightbox
 str_frt_lightbox002
 str_frt_partition01

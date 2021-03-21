@@ -2,6 +2,7 @@ _cache
 _manifest
 c_13_
 c_13__bkt_2
+c_13__bkt_2+hi
 c_13__falls_d_01
 c_13__falls_d_01+hidr
 c_13__hd_0_0_0
@@ -69,6 +70,7 @@ c_13__hd_0_-4_-2
 c_13__hd_0_-4_3
 c_13__hd_0_-4_-3
 c_13__hd_0_-4_-4
+c_13_+hi
 c_13_03_decal001
 c_13_03_decal003
 c_13_mud_decal

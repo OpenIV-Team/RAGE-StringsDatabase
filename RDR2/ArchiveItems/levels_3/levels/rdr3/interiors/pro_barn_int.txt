@@ -10,4 +10,5 @@ pro_barn_int_ladder_01
 pro_barn_int_ladder_02
 pro_barn_int_shd_proxy
 pro_barn_int_shell
+pro_barn_int+hi
 pro_barn_lightbox

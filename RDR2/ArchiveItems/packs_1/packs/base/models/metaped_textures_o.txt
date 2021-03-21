@@ -2,6 +2,7 @@ _manifest
 outfit_fr1_000_c4_000_ab
 outfit_fr1_000_c4_000_ab+hi
 outfit_fr1_000_c4_000_m
+outfit_fr1_000_c4_000_m+hi
 outfit_fr1_000_c4_000_nm
 outfit_fr1_000_c4_000_nm+hi
 outfit_tr1_000_c1_000_m
@@ -10,6 +11,7 @@ outfit_tr1_000_c1_000_nm+hi
 outfit_tr1_000_c1_999_ab
 outfit_tr1_000_c1_999_ab+hi
 outfit_tr1_001_c1_000_m
+outfit_tr1_001_c1_000_m+hi
 outfit_tr1_001_c1_000_nm
 outfit_tr1_001_c1_000_nm+hi
 outfit_tr1_001_c1_999_ab

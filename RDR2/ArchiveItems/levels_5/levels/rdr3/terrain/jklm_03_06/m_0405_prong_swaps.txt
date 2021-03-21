@@ -13,6 +13,7 @@ m_0405__prog_sslod01
 m_0405__prog_sslod02
 m_0405__prog_sslod03
 m_0405__prog_swap
+m_0405__prog_swap+hi
 m_0405__prog_swaps_00
 m_0405__prog_swaps_01
 m_0405__prog_swaps_01mud

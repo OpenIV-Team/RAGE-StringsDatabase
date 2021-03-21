@@ -51,3 +51,4 @@ shack_rarefish_int_sink
 shack_rarefish_int_sink+hidr
 shack_rarefish_int_slips
 shack_rarefish_int_slips+hidr
+shack_rarefish_int+hi

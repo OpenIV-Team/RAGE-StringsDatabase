@@ -2,8 +2,11 @@ _cache
 _manifest
 m_06_
 m_06__bkt_0
+m_06__bkt_0+hi
 m_06__bkt_1
+m_06__bkt_1+hi
 m_06__bkt_2
+m_06__bkt_2+hi
 m_06__bkt_3
 m_06__derd02
 m_06__derd03

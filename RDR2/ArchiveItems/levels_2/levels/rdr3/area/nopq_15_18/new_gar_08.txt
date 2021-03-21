@@ -18,3 +18,4 @@ new_gar_08_mansion02_z+hidr
 new_gar_08_railing_1
 new_gar_08_railing2
 new_gar_08_txd1
+new_gar_08_txd1+hi

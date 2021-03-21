@@ -28,4 +28,5 @@ shack_it_01_int_slips
 shack_it_01_int_slips+hidr
 shack_it_01_int_walls
 shack_it_01_int_walls+hidr
+shack_it_01_int+hi
 shack_it_01_lightbox

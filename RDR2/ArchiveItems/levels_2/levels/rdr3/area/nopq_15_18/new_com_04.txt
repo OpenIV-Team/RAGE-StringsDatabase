@@ -51,7 +51,9 @@ new_com_04_touro_dec_01
 new_com_04_touro_det_01
 new_com_04_touro+hidr
 new_com_04_txd1
+new_com_04_txd1+hi
 new_com_04_txd2
+new_com_04_txd2+hi
 new_com_bulb_emitter_booth
 new_com_bulb_emitter_letter
 new_com_bulb_emitter_sign

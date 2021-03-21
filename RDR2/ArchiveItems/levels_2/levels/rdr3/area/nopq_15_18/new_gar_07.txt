@@ -22,3 +22,4 @@ new_gar_07_mansiona_dec+hidr
 new_gar_07_metal_fence
 new_gar_07_txd_ter
 new_gar_07_txd1
+new_gar_07_txd1+hi

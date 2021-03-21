@@ -3,7 +3,9 @@ _manifest
 l_04_
 l_04__bkt_1
 l_04__bkt_2
+l_04__bkt_2+hi
 l_04__bkt_3
+l_04__bkt_3+hi
 l_04__hd_0_0_0
 l_04__hd_0_0_1
 l_04__hd_0_0_-1

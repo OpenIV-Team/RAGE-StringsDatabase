@@ -37,4 +37,5 @@ sol_01_outhouse_vfx
 sol_01_stairs
 sol_01_stairs+hidr
 sol_01_txd_01
+sol_01_txd_01+hi
 sol_01_wall

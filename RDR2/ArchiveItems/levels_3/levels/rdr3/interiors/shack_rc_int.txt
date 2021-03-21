@@ -40,4 +40,5 @@ shack_rc_int
 shack_rc_int_ref_proxy
 shack_rc_int_ref_proxy+hidr
 shack_rc_int_shadowproxy
+shack_rc_int+hi
 shack_rc_lightbox_001

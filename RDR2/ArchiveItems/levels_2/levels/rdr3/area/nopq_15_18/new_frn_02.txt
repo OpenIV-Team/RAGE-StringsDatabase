@@ -2,6 +2,7 @@ _manifest
 new_barber_int_lod
 new_frn_02_txd1
 new_frn_02_txd2
+new_frn_02_txd2+hi
 new_frn_02_txd3
 new_frn_02_txd4
 new_frn02_1139_decals_01

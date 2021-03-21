@@ -9,6 +9,7 @@ new_gang01_down_details01+hidr
 new_gang01_down_details02
 new_gang01_down_details02+hidr
 new_gang01_int
+new_gang01_int+hi
 new_gang01_ladder
 new_gang01_nowater
 new_gang01_shadowproxy

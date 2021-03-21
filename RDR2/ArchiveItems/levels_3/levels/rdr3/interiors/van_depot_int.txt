@@ -17,5 +17,6 @@ van_depot_int_shell01
 van_depot_int_shell01+hidr
 van_depot_int_shell02
 van_depot_int_shell02+hidr
+van_depot_int+hi
 van_depot_lightbox01
 van_depot_lightbox02

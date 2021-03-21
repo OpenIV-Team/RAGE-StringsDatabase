@@ -4,7 +4,9 @@ q_06_
 q_06___decal001
 q_06___decal002
 q_06__bkt_1
+q_06__bkt_1+hi
 q_06__bkt_3
+q_06__bkt_3+hi
 q_06__grass_decal001
 q_06__grass_decal001+hidr
 q_06__hd_0_0_0

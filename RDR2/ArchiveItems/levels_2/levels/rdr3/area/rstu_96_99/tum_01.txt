@@ -23,5 +23,6 @@ tum_01_stonewall_03_lod
 tum_01_stonewall_04
 tum_01_stonewall_04_lod
 tum_01_txd_01
+tum_01_txd_01+hi
 tum_01_wall_loose
 tum_01_wall_loose+hidr

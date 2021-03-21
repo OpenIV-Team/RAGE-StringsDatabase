@@ -19,3 +19,4 @@ van_hotel_int_ref_b
 van_hotel_int_room_shell
 van_hotel_int_room_shell+hidr
 van_hotel_int_shadow
+van_hotel_int+hi

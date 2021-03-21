@@ -40,3 +40,4 @@ win_snow_win4
 win_snow_woodchips003
 win_snow_woodchips01
 win_snow_woodchips02
+win_snow+hi

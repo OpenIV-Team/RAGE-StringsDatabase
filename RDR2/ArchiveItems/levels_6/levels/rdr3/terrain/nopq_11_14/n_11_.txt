@@ -3,9 +3,12 @@ _manifest
 n_11_
 n_11___decal001
 n_11__bkt_0
+n_11__bkt_0+hi
 n_11__bkt_1
+n_11__bkt_1+hi
 n_11__bkt_2
 n_11__bkt_3
+n_11__bkt_3+hi
 n_11__hd_0_0_0
 n_11__hd_0_0_1
 n_11__hd_0_0_-1

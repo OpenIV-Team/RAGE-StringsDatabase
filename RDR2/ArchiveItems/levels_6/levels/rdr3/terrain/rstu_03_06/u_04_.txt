@@ -2,8 +2,11 @@ _cache
 _manifest
 u_04_
 u_04__bkt_0
+u_04__bkt_0+hi
 u_04__bkt_2
+u_04__bkt_2+hi
 u_04__bkt_3
+u_04__bkt_3+hi
 u_04__hd_0_0_0
 u_04__hd_0_0_1
 u_04__hd_0_0_-1

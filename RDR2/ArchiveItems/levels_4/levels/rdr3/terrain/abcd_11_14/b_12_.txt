@@ -2,9 +2,13 @@ _cache
 _manifest
 b_12_
 b_12__bkt_0
+b_12__bkt_0+hi
 b_12__bkt_1
+b_12__bkt_1+hi
 b_12__bkt_2
+b_12__bkt_2+hi
 b_12__bkt_3
+b_12__bkt_3+hi
 b_12__grass_de01
 b_12__hd_0_0_0
 b_12__hd_0_0_1
@@ -73,6 +77,7 @@ b_12__hd_0_-4_-3
 b_12__hd_0_-4_3+hidr
 b_12__hd_0_-4_-4
 b_12__rock_seam_d
+b_12_+hi
 b_12_03_decal001
 b_12_03_decal002
 b_12_04_decals01

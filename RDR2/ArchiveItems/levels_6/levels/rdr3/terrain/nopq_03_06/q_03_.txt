@@ -2,8 +2,11 @@ _cache
 _manifest
 q_03_
 q_03__bkt_0
+q_03__bkt_0+hi
 q_03__bkt_2
+q_03__bkt_2+hi
 q_03__bkt_3
+q_03__bkt_3+hi
 q_03__cave_enterance_decal001
 q_03__hd_0_0_0
 q_03__hd_0_0_1

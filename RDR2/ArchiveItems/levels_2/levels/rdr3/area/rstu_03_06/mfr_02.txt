@@ -2,6 +2,7 @@ _cache
 _manifest
 hi@mfr_02_0
 mfr_02__mfr_02
+mfr_02__mfr_02+hi
 mfr_02__mfr02_combo_slod
 mfr_02_0
 mfr_02_1

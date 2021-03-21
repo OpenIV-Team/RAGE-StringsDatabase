@@ -2,6 +2,7 @@ _cache
 _manifest
 c_12_
 c_12__bkt_3
+c_12__bkt_3+hi
 c_12__cave_ent_decal
 c_12__hd_0_0_0
 c_12__hd_0_0_1
@@ -71,6 +72,7 @@ c_12__hd_0_-4_-2
 c_12__hd_0_-4_3
 c_12__hd_0_-4_-3
 c_12__hd_0_-4_-4
+c_12_+hi
 c_12_03_decal001
 c_12_03_decal002
 c_12_algae_d

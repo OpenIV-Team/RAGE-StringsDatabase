@@ -84,4 +84,5 @@ win_xrocks01+hidr
 win1_intro
 win1_intro_cutscene
 win1_intro_cutscene_lod
+win1_intro_cutscene+hi
 win1_intro_strm

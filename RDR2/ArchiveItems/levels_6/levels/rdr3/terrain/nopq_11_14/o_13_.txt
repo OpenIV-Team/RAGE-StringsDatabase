@@ -3,8 +3,11 @@ _manifest
 o_13_
 o_13___decal002
 o_13__bkt_1
+o_13__bkt_1+hi
 o_13__bkt_2
+o_13__bkt_2+hi
 o_13__bkt_3
+o_13__bkt_3+hi
 o_13__decal
 o_13__decal+hidr
 o_13__hd_0_0_0

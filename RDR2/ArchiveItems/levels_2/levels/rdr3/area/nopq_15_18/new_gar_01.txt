@@ -23,6 +23,7 @@ new_gar_01_awn5
 new_gar_01_cano01
 new_gar_01_cano01+hidr
 new_gar_01_des_mob3_trolley
+new_gar_01_des_mob3_trolley+hi
 new_gar_01_exglass
 new_gar_01_exotic
 new_gar_01_exotic_sign_01
@@ -56,7 +57,9 @@ new_gar_01_pillars+hidr
 new_gar_01_sign
 new_gar_01_sign+hidr
 new_gar_01_txd1
+new_gar_01_txd1+hi
 new_gar_01_txd2
+new_gar_01_txd2+hi
 new_gar_01_water_fntn
 new_gar_01_water_pool
 new_gar_01_water_pool_lod

@@ -121,6 +121,7 @@ new_man_bron_gnd_shell+hidr
 new_man_bron_int_shell
 new_man_bron_int_sp
 new_man_bron_int_txd
+new_man_bron_int_txd+hi
 new_man_bron_music_mirror
 new_man_bronte
 new_man_bronte_int_ref_a

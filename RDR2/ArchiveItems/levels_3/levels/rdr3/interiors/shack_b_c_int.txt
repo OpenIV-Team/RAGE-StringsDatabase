@@ -22,3 +22,4 @@ shack_b_c_int_ref_proxy_c
 shack_b_c_int_rm2_chimney
 shack_b_c_int_shdw_prxy
 shack_b_c_int_trims
+shack_b_c_int+hi

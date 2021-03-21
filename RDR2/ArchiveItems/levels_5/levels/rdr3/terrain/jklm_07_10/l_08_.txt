@@ -5,9 +5,13 @@ l_08___decal001
 l_08___decal002
 l_08___decal003
 l_08__bkt_0
+l_08__bkt_0+hi
 l_08__bkt_1
+l_08__bkt_1+hi
 l_08__bkt_2
+l_08__bkt_2+hi
 l_08__bkt_3
+l_08__bkt_3+hi
 l_08__hd_0_0_0
 l_08__hd_0_0_1
 l_08__hd_0_0_-1

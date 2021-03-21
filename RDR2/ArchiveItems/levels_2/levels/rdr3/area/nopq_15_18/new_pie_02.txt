@@ -9,6 +9,7 @@ new_pie_02_debris_08
 new_pie_02_debris_11
 new_pie_02_debris_12
 new_pie_02_debris_txd
+new_pie_02_debris_txd+hi
 new_pie_02_dec_a_03
 new_pie_02_dockmain1
 new_pie_02_dockmain1_dc
@@ -42,7 +43,9 @@ new_pie_02_sideware
 new_pie_02_sideware+hidr
 new_pie_02_smallhouse1
 new_pie_02_txd1
+new_pie_02_txd1+hi
 new_pie_02_txd2
+new_pie_02_txd2+hi
 new_pie_02_warehouse1
 new_pie_02_warehouse1_det
 new_pie_02_warehouse1_intdet

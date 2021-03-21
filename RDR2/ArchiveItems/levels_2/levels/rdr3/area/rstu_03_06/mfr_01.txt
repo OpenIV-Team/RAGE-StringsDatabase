@@ -2,6 +2,7 @@ _cache
 _manifest
 hi@mfr_01_0
 mfr_01__mfr_01
+mfr_01__mfr_01+hi
 mfr_01_0
 mfr_01_blacksmith01_vfx
 mfr_01_bunkhouse01_vfx

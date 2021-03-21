@@ -7,6 +7,7 @@ van_hobo_int_ref+hidr
 van_hobo_int_shadow_proxy
 van_hobo_int_shell
 van_hobo_int_shell+hidr
+van_hobo_int+hi
 van_hobo_lightboxbottom
 van_hobo_lightboxupper
 van_horn_ruin_cell_debris

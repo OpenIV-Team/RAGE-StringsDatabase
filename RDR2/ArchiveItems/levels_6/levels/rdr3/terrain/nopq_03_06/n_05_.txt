@@ -3,7 +3,9 @@ _manifest
 n_05_
 n_05___decal001
 n_05__bkt_0
+n_05__bkt_0+hi
 n_05__bkt_3
+n_05__bkt_3+hi
 n_05__hd_0_0_0
 n_05__hd_0_0_1
 n_05__hd_0_0_-1

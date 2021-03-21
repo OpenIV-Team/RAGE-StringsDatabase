@@ -39,6 +39,7 @@ ser_grandkor_bow_walls+hidr
 ser_grandkor_l1_int
 ser_grandkor_l1_int_shell
 ser_grandkor_l1_int_txd1
+ser_grandkor_l1_int_txd1+hi
 ser_grandkor_l1_ref_a
 ser_grandkor_l1_ref_b
 ser_grandkor_l1_ref_c

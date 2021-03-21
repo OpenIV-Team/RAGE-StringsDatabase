@@ -8,6 +8,7 @@ new_police_int_proxy
 new_police_int_proxy+hidr
 new_police_int_shadowproxy
 new_police_int_shell
+new_police_int+hi
 new_police_jailintcells
 new_police_jailintcells+hidr
 new_police_lob_decals

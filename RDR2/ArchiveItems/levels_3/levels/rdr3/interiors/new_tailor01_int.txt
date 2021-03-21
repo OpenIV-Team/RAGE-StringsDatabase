@@ -30,6 +30,7 @@ new_tailor_int_ref_c
 new_tailor_int_shell
 new_tailor_int_shop_cab
 new_tailor_int_txd
+new_tailor_int_txd+hi
 new_tailor_lightbox
 new_tailor_lightbox001
 new_tailor_lightbox002

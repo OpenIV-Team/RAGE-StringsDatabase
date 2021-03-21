@@ -26,3 +26,4 @@ mp001_mp_charcrt_mirror_female
 mp001_mp_charcrt_mirror_male
 mp001_mp_chrm_stand
 mp001_mp1_charcreate_int_txd
+mp001_mp1_charcreate_int_txd+hi

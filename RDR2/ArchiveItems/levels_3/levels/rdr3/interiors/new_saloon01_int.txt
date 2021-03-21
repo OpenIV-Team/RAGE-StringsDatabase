@@ -54,7 +54,9 @@ new_saloon01_int_ref_d
 new_saloon01_int_ref_d+hidr
 new_saloon01_int_shadowproxy
 new_saloon01_int_shell
+new_saloon01_int_shell+hi
 new_saloon01_int_txd
+new_saloon01_int_txd+hi
 new_saloon01_stairway
 new_saloon01_stairway+hidr
 new_saloon01_stairwayupper

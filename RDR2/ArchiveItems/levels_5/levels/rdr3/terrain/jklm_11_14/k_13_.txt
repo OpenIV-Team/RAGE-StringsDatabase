@@ -2,7 +2,9 @@ _cache
 _manifest
 k_13_
 k_13__bkt_1
+k_13__bkt_1+hi
 k_13__bkt_2
+k_13__bkt_2+hi
 k_13__bkt_3
 k_13__decs
 k_13__decs+hidr

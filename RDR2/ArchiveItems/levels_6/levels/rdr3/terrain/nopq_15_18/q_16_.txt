@@ -2,7 +2,9 @@ _cache
 _manifest
 q_16_
 q_16__bkt_1
+q_16__bkt_1+hi
 q_16__bkt_3
+q_16__bkt_3+hi
 q_16__hd_0_0_0
 q_16__hd_0_0_1
 q_16__hd_0_0_-1

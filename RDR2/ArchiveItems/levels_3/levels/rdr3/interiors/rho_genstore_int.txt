@@ -27,6 +27,8 @@ rho_genst_hooks
 rho_genstor_int_shadowproxy
 rho_genstore_int
 rho_genstore_int_shell_txd
+rho_genstore_int_shell_txd+hi
 rho_genstore_int_txd
+rho_genstore_int_txd+hi
 rho_genstore_lightbox
 rho_genstore_lightbox001

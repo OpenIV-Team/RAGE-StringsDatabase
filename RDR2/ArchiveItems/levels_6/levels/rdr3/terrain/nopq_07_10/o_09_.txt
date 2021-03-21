@@ -3,7 +3,9 @@ _manifest
 o_09_
 o_09__bkt_0
 o_09__bkt_2
+o_09__bkt_2+hi
 o_09__bkt_3
+o_09__bkt_3+hi
 o_09__hd_0_0_0
 o_09__hd_0_0_1
 o_09__hd_0_0_-1

@@ -10,5 +10,6 @@ new_gamble_int_ref
 new_gamble_int_ref+hidr
 new_gamble_int_shell
 new_gamble_int_shell+hidr
+new_gamble_int+hi
 new_gamble_lightbox
 new_gamble_shadowproxy

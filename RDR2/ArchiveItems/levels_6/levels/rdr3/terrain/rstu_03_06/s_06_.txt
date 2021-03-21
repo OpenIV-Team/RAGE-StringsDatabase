@@ -3,6 +3,7 @@ _manifest
 s_06_
 s_06___decal001
 s_06__bkt_0
+s_06__bkt_0+hi
 s_06__hd_0_0_0
 s_06__hd_0_0_1
 s_06__hd_0_0_-1

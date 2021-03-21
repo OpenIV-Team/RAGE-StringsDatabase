@@ -12,8 +12,10 @@ new_magic_int_ref_proxy_b
 new_magic_int_shadowproxy
 new_magic_int_shell
 new_magic_int_shell_txd
+new_magic_int_shell_txd+hi
 new_magic_int_shell+hidr
 new_magic_int_txd
+new_magic_int_txd+hi
 new_magic_lob_bulb_holder
 new_magic_lob_curtains
 new_magic_lob_decals

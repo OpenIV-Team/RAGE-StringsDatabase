@@ -33,4 +33,5 @@ val_genstore_int_ref+hidr
 val_genstore_int_shell
 val_genstore_int_shell+hidr
 val_genstore_int_txd
+val_genstore_int_txd+hi
 val_genstore_shadowproxy

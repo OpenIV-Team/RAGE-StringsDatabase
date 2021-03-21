@@ -22,4 +22,6 @@ val_carriage_int_stable02
 val_carriage_lh_01
 val_carriagehouse_int
 val_carriagehouse_int_shell
+val_carriagehouse_int_shell+hi
 val_carriagehouse_int_txd
+val_carriagehouse_int_txd+hi

@@ -5,6 +5,7 @@ hi@mfr_03_1
 hi@mfr_03_2
 hi@mfr_03_3
 mfr_03__mfr_03
+mfr_03__mfr_03+hi
 mfr_03__mfr03_combo07_slod
 mfr_03__mfr03_combo08_slod
 mfr_03__mfr03_combo09_slod

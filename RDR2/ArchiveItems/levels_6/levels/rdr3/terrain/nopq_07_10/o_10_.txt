@@ -3,6 +3,7 @@ _manifest
 o_10_
 o_10__beach_decal001
 o_10__bkt_3
+o_10__bkt_3+hi
 o_10__hd_0_0_0
 o_10__hd_0_0_1
 o_10__hd_0_0_-1

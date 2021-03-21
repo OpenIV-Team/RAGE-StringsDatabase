@@ -13,6 +13,7 @@ new_pharmacy_int
 new_pharmacy_int_ref
 new_pharmacy_int_ref+hidr
 new_pharmacy_int_txd
+new_pharmacy_int_txd+hi
 new_pharmacy_pole01
 new_pharmacy_post
 new_pharmacy_shadowproxy

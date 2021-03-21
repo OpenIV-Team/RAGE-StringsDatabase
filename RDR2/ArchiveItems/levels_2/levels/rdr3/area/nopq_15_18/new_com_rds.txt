@@ -112,8 +112,11 @@ new_com_rds_debris_32
 new_com_rds_debris_33
 new_com_rds_debris_txd
 new_com_rds_txd1
+new_com_rds_txd1+hi
 new_com_rds_txd2
+new_com_rds_txd2+hi
 new_com_rds_txd3
+new_com_rds_txd3+hi
 new_trolley_stop_blue
 new_trolley_stop_blue+hidr
 newcordpr_combo01_slod

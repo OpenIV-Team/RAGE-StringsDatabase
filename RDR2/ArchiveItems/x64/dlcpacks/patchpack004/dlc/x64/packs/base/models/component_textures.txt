@@ -1,5 +1,9 @@
 _manifest
 horn_hr1_011_c1_008_ab
+horn_hr1_011_c1_008_ab+hi
 horn_hr1_011_c1_009_ab
+horn_hr1_011_c1_009_ab+hi
 HORN_HR1_011_c1_010_ab
+HORN_HR1_011_c1_010_ab+hi
 HORN_HR1_011_c1_010_nm
+HORN_HR1_011_c1_010_nm+hi

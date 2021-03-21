@@ -9,3 +9,4 @@ m_13_es_st2_essslod
 m_13_es_st2_esswap
 m_13_esswap
 m_13_esswap_strm
+m_13_esswap+hi

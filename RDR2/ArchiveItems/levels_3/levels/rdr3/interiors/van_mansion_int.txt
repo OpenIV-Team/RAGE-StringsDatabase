@@ -28,3 +28,4 @@ van_man_int_trim2
 van_man_int_trim2+hidr
 van_mansion_int
 van_mansion_int_fp_lights
+van_mansion_int+hi

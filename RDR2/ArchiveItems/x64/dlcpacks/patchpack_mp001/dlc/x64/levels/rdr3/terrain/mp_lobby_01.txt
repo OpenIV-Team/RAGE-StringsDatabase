@@ -42,6 +42,7 @@ mp001_mp_grave_016
 mp001_mp_hrt_church_windows
 mp001_mp_hrt_church_windows+hidr
 mp001_mp_lobby_02_swamp_txd
+mp001_mp_lobby_02_swamp_txd+hi
 mp001_mp_lobby_base_terrain
 mp001_mp_lobby_charmilo_ext
 mp001_mp_lobby_swamp_campfireseats02

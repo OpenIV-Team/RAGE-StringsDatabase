@@ -7,6 +7,7 @@ j_12_ftr_strm_0
 j_12ftr_j_12_ftr
 j_12ftr_j_12_ftr_dec
 j_12ftr_j_12_ftr_dec+hidr
+j_12ftr_j_12_ftr+hi
 j_12ftr_k_15_mine_decal
 j_12ftr_k_15_mine_entrance
 j_12ftr_k_15_mine_entrance_lod

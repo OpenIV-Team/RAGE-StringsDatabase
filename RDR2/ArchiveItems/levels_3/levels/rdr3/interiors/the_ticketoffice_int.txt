@@ -20,5 +20,6 @@ the_tcktoffice_shell+hidr
 the_ticketoffice_int
 the_ticketoffice_int_ref
 the_ticketoffice_int_ref+hidr
+the_ticketoffice_int+hi
 the_ticketoffice_lightbox
 ticketoffice_int_shadowproxy

@@ -42,6 +42,7 @@ arm_03_saloon_scarletfvr_lod
 arm_03_saloon01x
 arm_03_saloon01x+hidr
 arm_03_txd
+arm_03_txd+hi
 arm_03_undertaker_em
 arm_03_undertaker01x
 arm_03_undertaker01x+hidr

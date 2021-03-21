@@ -28,6 +28,7 @@ shack_b_a_br1_ref_proxy_b
 shack_b_a_br2_ref_proxy_a
 shack_b_a_br3_ref_proxy_d
 shack_b_a_int
+shack_b_a_int+hi
 shack_b_a_main_ref_proxy_c
 shack_b_a_shadow_proxy
 shack_b_b_int_dc002

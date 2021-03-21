@@ -90,6 +90,7 @@ mp001_p_mp_pickup_barrel_logo6x
 mp001_p_mp_pickup_barrel_logo7x
 mp001_p_mp_pickup_barrel_logo8x
 mp001_p_mp_pickup_barrel_logo9x
+mp001_p_mp_pickup_barrel+hi
 mp001_p_mp_still01x
 mp001_p_mp_still01x+hidr
 mp001_p_mp_still02x
@@ -113,6 +114,7 @@ mp001_p_player_belt
 mp001_p_railroadtiepile01x
 mp001_p_railroadtiepile01x+hifr
 mp001_p_veh_gunforhire
+mp001_p_veh_gunforhire+hi
 mp001_p_veh_gunforhire01x
 mp001_p_veh_gunforhire02x
 mp001_p_veh_gunforhire03x
@@ -173,7 +175,9 @@ mp001_s_mp_racecheckflag01x
 mp001_s_mp_racecheckflag02x
 mp001_s_mp_racefinishflag01x
 mp001_s_mp_raceflag
+mp001_s_mp_raceflag+hi
 mp001_s_mp_stone_marker
+mp001_s_mp_stone_marker+hi
 mp001_s_mp_stone_marker01a
 mp001_s_mp_stone_marker02a
 mp001_s_mp_stone_marker03a

@@ -15,5 +15,6 @@ q0304_tunnel_exit_support
 q0304_tunnel_exit_support+hidr
 railway_sca_plates_a001
 rdrail_tunnel_exit
+rdrail_tunnel_exit+hi
 tunel_q3_q4_decal_01
 tunel_q3_q4_decal_01+hidr

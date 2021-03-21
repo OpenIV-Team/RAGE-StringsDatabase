@@ -2,8 +2,11 @@ _cache
 _manifest
 o_12_
 o_12__bkt_0
+o_12__bkt_0+hi
 o_12__bkt_1
+o_12__bkt_1+hi
 o_12__bkt_2
+o_12__bkt_2+hi
 o_12__hd_0_0_0
 o_12__hd_0_0_1
 o_12__hd_0_0_-1
@@ -78,6 +81,7 @@ o_12_09_rail_decal_01
 o_12_09_rail_decal_02
 o_12_09_rslvc2_campdecal
 o_12_decal
+o_12_decal+hi
 o_12_horse_junc_dec_01
 o_12_junction_road_dcl_01
 o_12_junction_road_dcl_01+hidr

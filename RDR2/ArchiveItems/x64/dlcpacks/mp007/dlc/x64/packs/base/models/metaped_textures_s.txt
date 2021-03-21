@@ -1,4 +1,5 @@
 _manifest
 saddlecombo_hr1_005_c1_000_m
+saddlecombo_hr1_005_c1_000_m+hi
 saddlecombo_hr1_005_c1_000_nm
 saddlecombo_hr1_005_c1_000_nm+hi

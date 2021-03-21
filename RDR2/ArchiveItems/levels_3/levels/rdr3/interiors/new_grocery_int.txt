@@ -12,6 +12,7 @@ new_grocery_int
 new_grocery_int_ref
 new_grocery_int_ref+hidr
 new_grocery_int_shell
+new_grocery_int+hi
 new_grocery_shadowproxy
 sdn_genst_biscuits_sign
 sdn_genst_bread_sign

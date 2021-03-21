@@ -15,6 +15,7 @@ tum_04__tumble_wall_glue
 tum_04__tumble_wall_glue+hidr
 tum_04__tumbleweed_wall
 tum_04__tumbleweed_wall+hidr
+tum_04_+hi
 tum_04_0
 tum_04_1
 tum_04_2

@@ -1,6 +1,7 @@
 _cache
 _manifest
 mp006_a4_mshine03_05_ext_addon
+mp006_a4_mshine03_05_ext_addon+hi
 mp006_a4_mshine03_dc
 mp006_a4_mshine03_ext
 mp006_a4_mshine03_ext_lod

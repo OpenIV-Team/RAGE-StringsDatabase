@@ -8,6 +8,7 @@ mp006_a3_mshine01_dc
 mp006_a3_mshine01_dc+hidr
 mp006_a3_mshine01_ext
 mp006_a3_mshine01_ext_addon
+mp006_a3_mshine01_ext_addon+hi
 mp006_a3_mshine01_ext+hidr
 mp006_a3_mshine01_fakeint
 mp006_a3_mshine01_fakeint+hidr

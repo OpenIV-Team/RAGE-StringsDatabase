@@ -142,8 +142,11 @@ new_pie_train_staircase
 new_pie_train_tshed_ext
 new_pie_train_tshed_ext+hidr
 new_pie_train_txd1
+new_pie_train_txd1+hi
 new_pie_train_txd2
+new_pie_train_txd2+hi
 new_pie_train_txd3
+new_pie_train_txd3+hi
 new_pie_traincablemesh1_hvlit
 new_shed_open
 new_shed_open+hidr

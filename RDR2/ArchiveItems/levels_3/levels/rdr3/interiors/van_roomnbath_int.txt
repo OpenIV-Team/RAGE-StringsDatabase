@@ -13,6 +13,8 @@ van_room_int_bedrm_shell
 van_room_n_bath_shadow
 van_roomnbath_int
 van_roomnbath_int_shell
+van_roomnbath_int_shell+hi
+van_roomnbath_int+hi
 van_roomnbath_lightbox
 van_roomnbath_ligthbox001
 van_roomnbath_ref

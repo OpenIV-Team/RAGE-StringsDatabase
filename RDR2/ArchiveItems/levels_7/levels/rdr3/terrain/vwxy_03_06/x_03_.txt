@@ -2,7 +2,9 @@ _cache
 _manifest
 x_03_
 x_03__bkt_2
+x_03__bkt_2+hi
 x_03__bkt_3
+x_03__bkt_3+hi
 x_03__hd_0_0_0
 x_03__hd_0_0_1
 x_03__hd_0_0_-1

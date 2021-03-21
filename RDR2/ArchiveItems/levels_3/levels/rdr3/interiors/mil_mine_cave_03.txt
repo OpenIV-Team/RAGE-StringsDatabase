@@ -2,6 +2,7 @@ _cache
 _manifest
 mil_03_decal
 mil_cave_int_03_txd
+mil_cave_int_03_txd+hi
 mil_mine_beam_corner
 mil_mine_beamarchway
 mil_mine_beams

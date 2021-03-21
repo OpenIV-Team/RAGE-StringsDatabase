@@ -2,7 +2,9 @@ _cache
 _manifest
 k_17_
 k_17__bkt_2
+k_17__bkt_2+hi
 k_17__bkt_3
+k_17__bkt_3+hi
 k_17__hd_0_0_0
 k_17__hd_0_0_1
 k_17__hd_0_0_-1

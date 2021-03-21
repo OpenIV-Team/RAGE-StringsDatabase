@@ -2,7 +2,9 @@ _cache
 _manifest
 u_05_
 u_05__bkt_0
+u_05__bkt_0+hi
 u_05__bkt_3
+u_05__bkt_3+hi
 u_05__hd_0_0_0
 u_05__hd_0_0_1
 u_05__hd_0_0_-1

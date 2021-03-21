@@ -1,8 +1,10 @@
 _manifest
 linenshirt_mr1_004_c0_000_m
+linenshirt_mr1_004_c0_000_m+hi
 linenshirt_mr1_004_c0_000_nm
 linenshirt_mr1_004_c0_999_ab
 linenshirt_mr1_004_c1_000_m
+linenshirt_mr1_004_c1_000_m+hi
 linenshirt_mr1_004_c1_000_nm
 linenshirt_mr1_004_c1_000_nm+hi
 linenshirt_mr1_004_c1_999_ab
@@ -44,11 +46,13 @@ lowertorsosock_fr1_000_c3_000_nm+hi
 lowertorsosock_fr1_000_c3_999_ab
 lowertorsosock_fr1_000_c3_999_ab+hi
 lowertorsosock_fr1_002_c0_000_m
+lowertorsosock_fr1_002_c0_000_m+hi
 lowertorsosock_fr1_002_c0_000_nm
 lowertorsosock_fr1_002_c0_000_nm+hi
 lowertorsosock_fr1_002_c0_999_ab
 lowertorsosock_fr1_002_c0_999_ab+hi
 lowr_fr1_013_apron01_c1_000_m
+lowr_fr1_013_apron01_c1_000_m+hi
 lowr_fr1_013_apron01_c1_000_nm
 lowr_fr1_013_apron01_c1_000_nm+hi
 lowr_fr1_013_apron01_c1_999_ab
@@ -118,6 +122,7 @@ lowr_fr1_040_c1_999_ab+hi
 lowr_fr1_040_c3_999_ab
 lowr_fr1_040_c3_999_ab+hi
 lowr_mr1_039_c1_000_m
+lowr_mr1_039_c1_000_m+hi
 lowr_mr1_039_c1_000_nm
 lowr_mr1_039_c1_000_nm+hi
 lowr_mr1_039_c1_999_ab

@@ -4,6 +4,7 @@ hi@sod_house_int
 sod_house_int
 sod_house_int_ref_proxy
 sod_house_int_ref_proxy+hidr
+sod_house_int+hi
 sod_house_lightbox
 sod_house_shadowproxy
 sod_int_blankets

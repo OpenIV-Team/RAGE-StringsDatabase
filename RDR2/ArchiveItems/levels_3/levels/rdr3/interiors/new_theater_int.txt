@@ -61,6 +61,7 @@ new_theater_int_rope
 new_theater_int_shadow_proxy
 new_theater_int_shell
 new_theater_int_txd
+new_theater_int_txd+hi
 new_theater_light_holder
 new_theater_lightbox
 new_theater_main_shell

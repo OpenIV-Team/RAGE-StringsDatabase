@@ -19,3 +19,4 @@ pho_boat_int_walls
 pho_houseboat_int
 pho_houseboat_int_ref
 pho_houseboat_int_ref+hidr
+pho_houseboat_int+hi

@@ -2,6 +2,7 @@ _cache
 _manifest
 y_13_
 y_13__bkt_2
+y_13__bkt_2+hi
 y_13__decal_grass_01
 y_13__decal_grass_02
 y_13__hd_0_0_0

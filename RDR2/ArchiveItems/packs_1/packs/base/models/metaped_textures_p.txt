@@ -48,6 +48,7 @@ p_c_horse_01_acc2_001_c3_998_ab+hi
 p_c_horse_01_acc2_001_c4_000_ab
 p_c_horse_01_acc2_001_c4_000_ab+hi
 p_c_horse_01_acc2_001_c4_000_m
+p_c_horse_01_acc2_001_c4_000_m+hi
 p_c_horse_01_acc2_001_c4_000_nm
 p_c_horse_01_acc2_001_c4_000_nm+hi
 p_c_horse_01_acc3_001_c0_001_ab
@@ -76,6 +77,7 @@ p_c_horse_01_hand_000_c0_000_wrinklemask
 p_c_horse_01_hand_000_c0_003_nm
 p_c_horse_01_hand_000_c0_003_nm+hi
 p_c_horse_01_hand_000_c0_004_m
+p_c_horse_01_hand_000_c0_004_m+hi
 p_c_horse_01_hand_000_c0_006_nm
 p_c_horse_01_hand_000_c0_006_nm+hi
 p_c_horse_01_hand_000_c0_098_ab
@@ -89,6 +91,7 @@ p_c_horse_01_head_000_c0_000_wrinklemask
 p_c_horse_01_head_000_c0_003_nm
 p_c_horse_01_head_000_c0_003_nm+hi
 p_c_horse_01_head_000_c0_004_m
+p_c_horse_01_head_000_c0_004_m+hi
 p_c_horse_01_head_000_c0_098_ab
 p_c_horse_01_head_000_c0_098_ab+hi
 p_c_horse_01_head_000_c0_868_ab
@@ -104,6 +107,7 @@ p_c_horse_01_teef_000_c0_001_ab
 p_c_horse_01_uppr_002_c0_000_ab
 p_c_horse_01_uppr_002_c0_000_ab+hi
 p_c_horse_01_uppr_002_c0_000_m
+p_c_horse_01_uppr_002_c0_000_m+hi
 p_c_horse_01_uppr_002_c0_000_nm
 p_c_horse_01_uppr_002_c0_001_ab
 p_c_horse_01_uppr_002_c0_002_ab
@@ -113,14 +117,17 @@ p_c_horse_01_uppr_002_c0_005_ab
 p_c_horse_01_uppr_002_c0_999_ab
 p_c_horse_01_uppr_002_c0_999_ab+hi
 p_c_horse_01_uppr_002_c2_000_m
+p_c_horse_01_uppr_002_c2_000_m+hi
 p_eyes_mr1_000_c0_000_ab
 p_eyes_mr1_000_c1_999_ab
 pant_fr1_000_c0_000_m
+pant_fr1_000_c0_000_m+hi
 pant_fr1_000_c0_000_nm
 pant_fr1_000_c0_000_nm+hi
 pant_fr1_000_c1_999_ab
 pant_fr1_000_c1_999_ab+hi
 pant_fr1_001_c0_000_m
+pant_fr1_001_c0_000_m+hi
 pant_fr1_001_c0_000_nm
 pant_fr1_001_c0_000_nm+hi
 pant_fr1_001_c1_999_ab
@@ -131,6 +138,7 @@ pant_mr1_000_c0_001_nm
 pant_mr1_000_c0_999_ab
 pant_mr1_000_c0_999_ab+hi
 pant_mr1_000_c1_000_m
+pant_mr1_000_c1_000_m+hi
 pant_mr1_000_c1_000_nm
 pant_mr1_000_c1_000_nm+hi
 pant_mr1_000_c1_996_ab
@@ -140,6 +148,7 @@ pant_mr1_000_c1_997_ab+hi
 pant_mr1_000_c1_998_ab
 pant_mr1_000_c1_998_ab+hi
 pant_mr1_000_c2_000_m
+pant_mr1_000_c2_000_m+hi
 pant_mr1_000_c2_998_ab
 pant_mr1_000_c2_998_ab+hi
 pant_mr1_000_c2_999_ab
@@ -150,19 +159,25 @@ pant_mr1_000_c3_999_ab
 pant_mr1_000_c3_999_ab+hi
 pant_mr1_000_chaps_c0_000_nm
 pant_mr1_001_c3_000_m
+pant_mr1_001_c3_000_m+hi
 pant_mr1_001_chaps_c0_000_m
+pant_mr1_001_chaps_c0_000_m+hi
 pant_mr1_001_chaps_c0_000_nm
 pant_mr1_001_chaps_c0_000_nm+hi
 pant_mr1_002_c3_000_m
+pant_mr1_002_c3_000_m+hi
 pant_mr1_003_c3_000_ab
 pant_mr1_003_c3_000_ab+hi
 pant_mr1_004_c0_000_m
+pant_mr1_004_c0_000_m+hi
 pant_mr1_004_c0_000_nm
 pant_mr1_004_c0_000_nm+hi
 pant_mr1_004_c1_999_ab
 pant_mr1_004_c1_999_ab+hi
 pant_mr1_005_c0_000_m
+pant_mr1_005_c0_000_m+hi
 pant_mr1_005_c1_000_m
+pant_mr1_005_c1_000_m+hi
 pant_mr1_006_c0_000_nm
 pant_mr1_006_c0_000_nm+hi
 pant_mr1_009_c1_999_ab
@@ -172,6 +187,7 @@ pant_mr1_009_c3_999_ab+hi
 pant_mr1_009_c4_000_ab
 pant_mr1_009_c4_000_ab+hi
 pant_mr1_010_c3_000_m
+pant_mr1_010_c3_000_m+hi
 pant_mr1_015_c1_000_ab
 pant_mr1_015_c1_000_ab+hi
 pant_mr1_015_c2_001_ab
@@ -185,6 +201,7 @@ pant_mr1_016_c3_002_ab+hi
 pant_mr1_016_c3_998_ab
 pant_mr1_016_c3_998_ab+hi
 pant_mr1_017_c0_000_m
+pant_mr1_017_c0_000_m+hi
 pant_mr1_017_c0_000_nm
 pant_mr1_017_c0_000_nm+hi
 pant_mr1_017_c0_999_ab
@@ -196,14 +213,17 @@ pant_mr1_020_c0_999_ab+hi
 pant_mr1_022_c0_000_ab
 pant_mr1_022_c0_000_ab+hi
 pant_mr1_022_c0_000_m
+pant_mr1_022_c0_000_m+hi
 pant_mr1_022_c0_000_nm
 pant_mr1_022_c0_000_nm+hi
 pant_mr1_022_c1_998_ab
 pant_mr1_022_c1_998_ab+hi
 pant_mr1_023_c0_000_m
+pant_mr1_023_c0_000_m+hi
 pant_mr1_023_c0_000_nm
 pant_mr1_023_c0_000_nm+hi
 pant_mr1_023_c1_000_m
+pant_mr1_023_c1_000_m+hi
 pant_mr1_023_c1_000_nm
 pant_mr1_023_c1_000_nm+hi
 pant_mr1_023_c1_999_ab
@@ -223,6 +243,7 @@ pant_mr1_026_c0_999_ab+hi
 pant_mr1_026_c3_999_ab
 pant_mr1_026_c3_999_ab+hi
 pant_mr1_026_c5_000_m
+pant_mr1_026_c5_000_m+hi
 pant_mr1_026_c5_000_nm
 pant_mr1_026_c5_000_nm+hi
 pant_mr1_026_c5_999_ab
@@ -230,6 +251,7 @@ pant_mr1_026_c5_999_ab+hi
 pant_mr1_027_c0_000_ab
 pant_mr1_027_c0_000_ab+hi
 pant_mr1_027_c0_000_m
+pant_mr1_027_c0_000_m+hi
 pant_mr1_027_c0_000_nm
 pant_mr1_027_c0_000_nm+hi
 pant_mr1_029_c0_000_nm
@@ -237,11 +259,13 @@ pant_mr1_029_c0_000_nm+hi
 pant_mr1_030_c0_000_ab
 pant_mr1_030_c0_000_ab+hi
 pant_mr1_030_c0_000_m
+pant_mr1_030_c0_000_m+hi
 pant_mr1_030_c0_000_nm
 pant_mr1_030_c0_000_nm+hi
 pant_mr1_030_c1_000_ab
 pant_mr1_030_c1_000_ab+hi
 pant_mr1_030_c1_000_m
+pant_mr1_030_c1_000_m+hi
 pant_mr1_030_c1_001_ab
 pant_mr1_030_c1_001_ab+hi
 pant_mr1_030_c1_002_ab
@@ -251,6 +275,7 @@ pant_mr1_030_c1_999_ab+hi
 pant_mr1_030_c2_000_ab
 pant_mr1_030_c2_000_ab+hi
 pant_mr1_030_c2_000_m
+pant_mr1_030_c2_000_m+hi
 pant_mr1_030_c2_000_nm
 pant_mr1_030_c2_000_nm+hi
 pant_mr1_030_c2_001_ab
@@ -279,14 +304,17 @@ pant_mr1_034_c3_000_nm+hi
 pant_mr1_034_c3_998_ab
 pant_mr1_034_c3_998_ab+hi
 pant_mr1_035_c0_000_m
+pant_mr1_035_c0_000_m+hi
 pant_mr1_035_c0_000_nm
 pant_mr1_035_c0_000_nm+hi
 pant_mr1_035_c0_999_ab
 pant_mr1_035_c0_999_ab+hi
 pant_mr1_038_c0_999_m
+pant_mr1_038_c0_999_m+hi
 pant_mr1_038_c0_999_nm
 pant_mr1_038_c0_999_nm+hi
 pant_mr1_038_mummified_c5_000_m
+pant_mr1_038_mummified_c5_000_m+hi
 pant_mr1_038_mummified_c5_000_nm
 pant_mr1_038_mummified_c5_000_nm+hi
 pant_mr1_038_mummified_c5_999_ab
@@ -294,6 +322,7 @@ pant_mr1_038_mummified_c5_999_ab+hi
 pant_mr1_039_c0_000_ab
 pant_mr1_039_c0_000_ab+hi
 pant_mr1_039_c0_000_m
+pant_mr1_039_c0_000_m+hi
 pant_mr1_039_c0_000_nm
 pant_mr1_039_c0_000_nm+hi
 pant_mr1_039_c3_001_ab
@@ -319,6 +348,7 @@ pant_mr1_041_c0_000_ab+hi
 pant_mr1_041_c0_001_ab
 pant_mr1_041_c0_001_ab+hi
 pant_mr1_041_c1_000_m
+pant_mr1_041_c1_000_m+hi
 pant_mr1_041_c1_000_nm
 pant_mr1_041_c1_000_nm+hi
 pant_mr1_041_c1_999_ab
@@ -326,20 +356,25 @@ pant_mr1_041_c1_999_ab+hi
 pant_mr1_048_c1_999_ab
 pant_mr1_048_c1_999_ab+hi
 pant_mr1_050_c3_000_m
+pant_mr1_050_c3_000_m+hi
 pant_mr1_051_c3_000_m
+pant_mr1_051_c3_000_m+hi
 pant_mr1_052_c1_999_ab
 pant_mr1_052_c1_999_ab+hi
 pant_mr1_053_c0_000_ab
 pant_mr1_053_c0_000_ab+hi
 pant_mr1_063_c3_000_m
+pant_mr1_063_c3_000_m+hi
 pant_mr1_063_c3_000_nm
 pant_mr1_063_c3_000_nm+hi
 pant_mr1_069_c1_000_ab
 pant_mr1_069_c1_000_ab+hi
 pant_mr1_069_c1_000_m
+pant_mr1_069_c1_000_m+hi
 pant_mr1_069_c1_000_nm
 pant_mr1_069_c1_000_nm+hi
 pant_mr1_070_c3_000_m
+pant_mr1_070_c3_000_m+hi
 pant_mr1_070_c3_000_nm
 pant_mr1_070_c3_000_nm+hi
 pant_mr1_070_c3_998_ab
@@ -349,13 +384,16 @@ pant_mr1_071_c1_000_ab+hi
 pant_tr1_013_c0_000_ab
 pant_tr1_013_c0_000_ab+hi
 pant_tr1_013_c0_000_m
+pant_tr1_013_c0_000_m+hi
 pant_tr1_013_c0_000_nm
 pant_tr1_014_c3_000_m
+pant_tr1_014_c3_000_m+hi
 pant_tr1_014_c3_000_nm
 pant_tr1_014_c3_000_nm+hi
 pant_tr1_014_c3_999_ab
 pant_tr1_014_c3_999_ab+hi
 pant_tr1_015_c1_000_m
+pant_tr1_015_c1_000_m+hi
 pant_tr1_015_c1_000_nm
 pant_tr1_015_c1_000_nm+hi
 pant_tr1_015_c1_999_ab
@@ -380,6 +418,7 @@ pantcombo_mr1_004_c3_998_ab+hi
 pantcombo_mr1_004_c3_999_ab
 pantcombo_mr1_004_c3_999_ab+hi
 pantcombo_mr1_006_c1_000_m
+pantcombo_mr1_006_c1_000_m+hi
 pantcombo_mr1_006_c1_000_nm
 pantcombo_mr1_006_c1_000_nm+hi
 pantcombo_mr1_006_c1_998_ab
@@ -394,14 +433,17 @@ pantcombo_mr1_007_c3_998_ab
 pantcombo_mr1_009_c1_997_ab
 pantcombo_mr1_009_c1_997_ab+hi
 pantcombo_mr1_009_c1_997_m
+pantcombo_mr1_009_c1_997_m+hi
 pantcombo_mr1_009_c1_997_nm
 pantcombo_mr1_009_c1_997_nm+hi
 pantcombo_mr1_009_c1_998_ab
 pantcombo_mr1_009_c1_998_ab+hi
 pantcombo_mr1_009_c1_998_m
+pantcombo_mr1_009_c1_998_m+hi
 PantCombo_MR1_009_c1_999_ab
 pantcombo_mr1_009_c1_999_ab+hi
 pantcombo_mr1_009_c1_999_m
+pantcombo_mr1_009_c1_999_m+hi
 PantCombo_MR1_009_c1_999_nm
 pantcombo_mr1_009_c1_999_nm+hi
 pantcombo_mr1_009_c3_997_ab
@@ -435,6 +477,7 @@ pantcombo_mr1_021_c3_998_ab+hi
 pantcombo_mr1_021_c3_999_ab
 pantcombo_mr1_021_c3_999_ab+hi
 pantcombo_mr1_022_c1_998_m
+pantcombo_mr1_022_c1_998_m+hi
 pantcombo_mr1_022_c1_998_nm
 pantcombo_mr1_022_c1_998_nm+hi
 pantcombo_mr1_022_c3_998_ab
@@ -522,6 +565,7 @@ pantcombo_mr1_051_c3_999_ab
 pantcombo_mr1_052_c3_998_ab
 pantcombo_mr1_052_c3_998_ab+hi
 pantcombo_mr1_053_c1_998_m
+pantcombo_mr1_053_c1_998_m+hi
 pantcombo_mr1_053_c1_998_nm
 pantcombo_mr1_053_c1_998_nm+hi
 pantcombo_mr1_054_c1_000_m
@@ -539,6 +583,7 @@ pantcombo_mr1_065_c1_999_ab+hi
 pantcombo_mr1_065_c3_999_ab
 pantcombo_mr1_065_c3_999_ab+hi
 pantcombo_mr1_067_c1_000_m
+pantcombo_mr1_067_c1_000_m+hi
 pantcombo_mr1_067_c1_000_nm
 pantcombo_mr1_067_c1_000_nm+hi
 pantcombo_mr1_067_c1_999_ab
@@ -546,6 +591,7 @@ pantcombo_mr1_067_c1_999_ab+hi
 pelt_large_alligator_000_c0_000_ab
 pelt_large_alligator_000_c0_000_ab+hi
 pelt_large_alligator_000_c0_000_m
+pelt_large_alligator_000_c0_000_m+hi
 pelt_large_alligator_000_c0_000_nm
 pelt_large_alligator_000_c0_000_nm+hi
 pelt_large_alligator_000_c0_001_ab
@@ -555,6 +601,7 @@ pelt_large_alligator_000_c0_002_ab+hi
 pelt_large_bighornram_000_c0_000_ab
 pelt_large_bighornram_000_c0_000_ab+hi
 pelt_large_bighornram_000_c0_000_m
+pelt_large_bighornram_000_c0_000_m+hi
 pelt_large_bighornram_000_c0_000_nm
 pelt_large_bighornram_000_c0_000_nm+hi
 pelt_large_bighornram_000_c0_001_ab
@@ -568,6 +615,7 @@ pelt_large_bighornram_000_c0_004_ab+hi
 pelt_large_boar_000_c0_000_ab
 pelt_large_boar_000_c0_000_ab+hi
 pelt_large_boar_000_c0_000_m
+pelt_large_boar_000_c0_000_m+hi
 pelt_large_boar_000_c0_000_nm
 pelt_large_boar_000_c0_000_nm+hi
 pelt_large_boar_000_c0_001_ab
@@ -579,6 +627,7 @@ pelt_large_boar_000_c0_004_ab+hi
 pelt_large_donky_000_c0_000_ab
 pelt_large_donky_000_c0_000_ab+hi
 pelt_large_donky_000_c0_000_m
+pelt_large_donky_000_c0_000_m+hi
 pelt_large_donky_000_c0_000_nm
 pelt_large_donky_000_c0_000_nm+hi
 pelt_large_donky_000_c0_001_ab
@@ -588,6 +637,7 @@ pelt_large_donky_000_c0_002_ab+hi
 pelt_large_elk_000_c0_000_ab
 pelt_large_elk_000_c0_000_ab+hi
 pelt_large_elk_000_c0_000_m
+pelt_large_elk_000_c0_000_m+hi
 pelt_large_elk_000_c0_000_nm
 pelt_large_elk_000_c0_000_nm+hi
 pelt_large_elk_000_c0_001_ab
@@ -599,6 +649,7 @@ pelt_large_elk_000_c0_999_ab+hi
 pelt_large_javelina_000_c0_000_ab
 pelt_large_javelina_000_c0_000_ab+hi
 pelt_large_javelina_000_c0_000_m
+pelt_large_javelina_000_c0_000_m+hi
 pelt_large_javelina_000_c0_000_nm
 pelt_large_javelina_000_c0_000_nm+hi
 pelt_large_javelina_000_c0_001_ab
@@ -608,6 +659,7 @@ pelt_large_javelina_000_c0_002_ab+hi
 pelt_large_panther_000_c0_000_ab
 pelt_large_panther_000_c0_000_ab+hi
 pelt_large_panther_000_c0_000_m
+pelt_large_panther_000_c0_000_m+hi
 pelt_large_panther_000_c0_000_nm
 pelt_large_panther_000_c0_000_nm+hi
 pelt_large_panther_000_c0_001_ab
@@ -619,6 +671,7 @@ pelt_large_panther_000_c0_003_ab+hi
 pelt_large_pig_000_c0_000_ab
 pelt_large_pig_000_c0_000_ab+hi
 pelt_large_pig_000_c0_000_m
+pelt_large_pig_000_c0_000_m+hi
 pelt_large_pig_000_c0_000_nm
 pelt_large_pig_000_c0_000_nm+hi
 pelt_large_pig_000_c0_001_ab
@@ -628,6 +681,7 @@ pelt_large_pig_000_c0_002_ab+hi
 pelt_medium_buck_000_c0_000_ab
 pelt_medium_buck_000_c0_000_ab+hi
 pelt_medium_buck_000_c0_000_m
+pelt_medium_buck_000_c0_000_m+hi
 pelt_medium_buck_000_c0_000_nm
 pelt_medium_buck_000_c0_000_nm+hi
 pelt_medium_buck_000_c0_001_ab
@@ -639,6 +693,7 @@ pelt_medium_buck_000_c0_003_ab+hi
 pelt_medium_cougar_000_c0_000_ab
 pelt_medium_cougar_000_c0_000_ab+hi
 pelt_medium_cougar_000_c0_000_m
+pelt_medium_cougar_000_c0_000_m+hi
 pelt_medium_cougar_000_c0_000_nm
 pelt_medium_cougar_000_c0_000_nm+hi
 pelt_medium_cougar_000_c0_001_ab
@@ -652,6 +707,7 @@ pelt_medium_cougar_000_c0_004_ab+hi
 pelt_medium_deer_000_c0_000_ab
 pelt_medium_deer_000_c0_000_ab+hi
 pelt_medium_deer_000_c0_000_m
+pelt_medium_deer_000_c0_000_m+hi
 pelt_medium_deer_000_c0_000_nm
 pelt_medium_deer_000_c0_000_nm+hi
 pelt_medium_deer_000_c0_001_ab
@@ -663,6 +719,7 @@ pelt_medium_deer_000_c0_003_ab+hi
 pelt_medium_pronghorn_000_c0_000_ab
 pelt_medium_pronghorn_000_c0_000_ab+hi
 pelt_medium_pronghorn_000_c0_000_m
+pelt_medium_pronghorn_000_c0_000_m+hi
 pelt_medium_pronghorn_000_c0_000_nm
 pelt_medium_pronghorn_000_c0_000_nm+hi
 pelt_medium_pronghorn_000_c0_001_ab
@@ -680,6 +737,7 @@ pelt_medium_pronghorn_000_c0_006_ab+hi
 Pelt_Medium_Wolf_000_c0_000_ab
 pelt_medium_wolf_000_c0_000_ab+hi
 pelt_medium_wolf_000_c0_000_m
+pelt_medium_wolf_000_c0_000_m+hi
 Pelt_Medium_Wolf_000_c0_000_nm
 pelt_medium_wolf_000_c0_000_nm+hi
 pelt_medium_wolf_000_c0_001_ab
@@ -691,6 +749,7 @@ pelt_medium_wolf_000_c0_003_ab+hi
 pelt_mediumlarge_beaver_000_c0_000_ab
 pelt_mediumlarge_beaver_000_c0_000_ab+hi
 pelt_mediumlarge_beaver_000_c0_000_m
+pelt_mediumlarge_beaver_000_c0_000_m+hi
 pelt_mediumlarge_beaver_000_c0_000_nm
 pelt_mediumlarge_beaver_000_c0_000_nm+hi
 pelt_mediumlarge_beaver_000_c0_001_ab
@@ -702,6 +761,7 @@ pelt_mediumlarge_beaver_000_c0_003_ab+hi
 pelt_mediumlarge_coyote_000_c0_000_ab
 pelt_mediumlarge_coyote_000_c0_000_ab+hi
 pelt_mediumlarge_coyote_000_c0_000_m
+pelt_mediumlarge_coyote_000_c0_000_m+hi
 pelt_mediumlarge_coyote_000_c0_000_nm
 pelt_mediumlarge_coyote_000_c0_000_nm+hi
 pelt_mediumlarge_coyote_000_c0_001_ab
@@ -713,6 +773,7 @@ pelt_mediumlarge_coyote_000_c0_003_ab+hi
 pelt_mediumlarge_goat_000_c0_000_ab
 pelt_mediumlarge_goat_000_c0_000_ab+hi
 pelt_mediumlarge_goat_000_c0_000_m
+pelt_mediumlarge_goat_000_c0_000_m+hi
 pelt_mediumlarge_goat_000_c0_000_nm
 pelt_mediumlarge_goat_000_c0_000_nm+hi
 pelt_mediumlarge_goat_000_c0_001_ab
@@ -722,6 +783,7 @@ pelt_mediumlarge_goat_000_c0_002_ab+hi
 pelt_mediumlarge_sheep_000_c0_000_ab
 pelt_mediumlarge_sheep_000_c0_000_ab+hi
 pelt_mediumlarge_sheep_000_c0_000_m
+pelt_mediumlarge_sheep_000_c0_000_m+hi
 pelt_mediumlarge_sheep_000_c0_000_nm
 pelt_mediumlarge_sheep_000_c0_000_nm+hi
 pelt_mediumlarge_sheep_000_c0_001_ab
@@ -733,6 +795,7 @@ pelt_mediumlarge_sheep_000_c0_003_ab+hi
 Pelt_MediumSmall_fox_000_c0_000_ab
 pelt_mediumsmall_fox_000_c0_000_ab+hi
 pelt_mediumsmall_fox_000_c0_000_m
+pelt_mediumsmall_fox_000_c0_000_m+hi
 Pelt_MediumSmall_fox_000_c0_000_nm
 pelt_mediumsmall_fox_000_c0_000_nm+hi
 pelt_mediumsmall_fox_000_c0_001_ab

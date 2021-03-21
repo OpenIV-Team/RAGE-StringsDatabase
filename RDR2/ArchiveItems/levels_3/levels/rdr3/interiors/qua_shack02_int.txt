@@ -13,4 +13,5 @@ qua_shack02_int_shell_ref+hidr
 qua_shack02_int_shell+hidr
 qua_shack02_int_shelves
 qua_shack02_int_shelves+hidr
+qua_shack02_int+hi
 qua_shack02_lightbox

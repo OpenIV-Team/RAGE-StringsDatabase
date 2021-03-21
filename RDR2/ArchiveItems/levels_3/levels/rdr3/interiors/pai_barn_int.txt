@@ -10,6 +10,7 @@ pai_barn_int_floor
 pai_barn_int_floor+hidr
 pai_barn_int_ref_proxy
 pai_barn_int_ref_proxy+hidr
+pai_barn_int+hi
 pai_barn_lightbox
 pai_stable_int_decals
 pai_stable_int_decals+hidr

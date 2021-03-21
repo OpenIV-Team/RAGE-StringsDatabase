@@ -2,7 +2,9 @@ _cache
 _manifest
 n_15_
 n_15__bkt_0
+n_15__bkt_0+hi
 n_15__bkt_2
+n_15__bkt_2+hi
 n_15__hd_0_0_0
 n_15__hd_0_0_1
 n_15__hd_0_0_-1

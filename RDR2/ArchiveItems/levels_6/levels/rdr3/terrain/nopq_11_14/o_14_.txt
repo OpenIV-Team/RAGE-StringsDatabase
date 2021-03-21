@@ -2,7 +2,9 @@ _cache
 _manifest
 o_14_
 o_14__bkt_2
+o_14__bkt_2+hi
 o_14__bkt_3
+o_14__bkt_3+hi
 o_14__hd_0_0_0
 o_14__hd_0_0_1
 o_14__hd_0_0_-1

@@ -2,7 +2,9 @@ _cache
 _manifest
 n_08_
 n_08__bkt_0
+n_08__bkt_0+hi
 n_08__bkt_1
+n_08__bkt_1+hi
 n_08__bkt_3
 n_08__decal01
 n_08__decal02

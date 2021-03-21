@@ -2,7 +2,9 @@ _manifest
 new_boats_02_lumberpile
 new_boats_02_lumberpile+hidr
 new_boats_02_sd1_txd
+new_boats_02_sd1_txd+hi
 new_boats_02_txd1
+new_boats_02_txd1+hi
 new_boats_crane_01
 new_boats_crane_01_dec
 new_boats_crane_cage_01

@@ -32,6 +32,7 @@ val_hotel_int_main
 val_hotel_int_shadowproxy
 val_hotel_int_shell
 val_hotel_int_txd
+val_hotel_int_txd+hi
 val_hotel_lower_shell
 val_hotel_lower_shell+hidr
 val_hotel_lowerhall_details

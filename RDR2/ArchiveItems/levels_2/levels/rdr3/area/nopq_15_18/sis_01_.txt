@@ -18,6 +18,7 @@ sis_01_newcellblock3_em
 sis_01_newcellblock3+hidr
 sis_01_newcellwindow004
 sis_01_txd
+sis_01_txd+hi
 sis_barn01
 sis_barn01+hidr
 sis_basemnt_door

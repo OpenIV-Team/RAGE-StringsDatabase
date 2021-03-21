@@ -33,7 +33,9 @@ mp001_littlecreek02_detail+hidr
 mp001_mp_tre01_chestdebris01
 mp001_mp_tre01_chestdebris01+hidr
 mp001_mp_tre01_lakeisabella01_txd
+mp001_mp_tre01_lakeisabella01_txd+hi
 mp001_mp_tre01_lakeisabella03_txd
+mp001_mp_tre01_lakeisabella03_txd+hi
 mp001_mp_tre01_pirate_boat
 mp001_mp_tre01_pirate_boat+hidr
 mp001_mp_tre01_pirate_boat2

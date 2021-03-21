@@ -16,6 +16,7 @@ new_exotic_int_mrr_ref
 new_exotic_int_mrr_ref+hidr
 new_exotic_int_refln_proxy
 new_exotic_int_refln_proxy+hidr
+new_exotic_int+hi
 new_exotic_leaves
 new_exotic_leaves+hidr
 new_exotic_lightbox

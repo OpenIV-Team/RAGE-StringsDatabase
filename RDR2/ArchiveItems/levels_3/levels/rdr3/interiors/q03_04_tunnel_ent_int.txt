@@ -20,3 +20,4 @@ q0304_tunnel_ent_supporta
 q0304_tunnel_ent_supportb
 railway_sca_plates_a002
 rdrail_tunnel015_ent
+rdrail_tunnel015_ent+hi

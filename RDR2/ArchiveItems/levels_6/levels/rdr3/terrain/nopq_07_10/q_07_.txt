@@ -2,7 +2,9 @@ _cache
 _manifest
 q_07_
 q_07__bkt_0
+q_07__bkt_0+hi
 q_07__bkt_1
+q_07__bkt_1+hi
 q_07__hd_0_0_0
 q_07__hd_0_0_1
 q_07__hd_0_0_-1

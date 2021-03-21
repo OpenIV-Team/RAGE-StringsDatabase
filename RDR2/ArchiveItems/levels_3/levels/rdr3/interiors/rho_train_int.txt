@@ -13,6 +13,7 @@ rho_train_int_ref_proxy_a
 rho_train_int_ref_proxy_b
 rho_train_int_txd
 rho_train_int_txd_shell
+rho_train_int_txd+hi
 rho_train_lightbox
 rho_train_room2_decals
 rho_train_room2_decals+hidr

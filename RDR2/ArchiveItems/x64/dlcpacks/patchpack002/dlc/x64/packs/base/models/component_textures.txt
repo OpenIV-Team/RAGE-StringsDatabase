@@ -4,9 +4,11 @@ a_c_alligator_01_head_000_c0_004_ab+hi
 a_c_bear_01_pelt_002_c0_001_ab
 a_c_bear_01_pelt_002_c0_001_ab+hi
 accs_mr1_032_c0_000_ab
+accs_mr1_032_c0_000_ab+hi
 pelt_large_bighornram_000_c0_000_ab
 pelt_large_bighornram_000_c0_000_ab+hi
 pelt_large_bighornram_000_c0_000_m
+pelt_large_bighornram_000_c0_000_m+hi
 pelt_large_bighornram_000_c0_000_nm
 pelt_large_bighornram_000_c0_000_nm+hi
 pelt_large_bighornram_000_c0_001_ab
@@ -20,6 +22,7 @@ pelt_large_bighornram_000_c0_004_ab+hi
 pelt_large_boar_000_c0_000_ab
 pelt_large_boar_000_c0_000_ab+hi
 pelt_large_boar_000_c0_000_m
+pelt_large_boar_000_c0_000_m+hi
 pelt_large_boar_000_c0_000_nm
 pelt_large_boar_000_c0_000_nm+hi
 pelt_large_boar_000_c0_001_ab
@@ -31,6 +34,7 @@ pelt_large_boar_000_c0_004_ab+hi
 pelt_large_javelina_000_c0_000_ab
 pelt_large_javelina_000_c0_000_ab+hi
 pelt_large_javelina_000_c0_000_m
+pelt_large_javelina_000_c0_000_m+hi
 pelt_large_javelina_000_c0_000_nm
 pelt_large_javelina_000_c0_000_nm+hi
 pelt_large_javelina_000_c0_001_ab
@@ -40,6 +44,7 @@ pelt_large_javelina_000_c0_002_ab+hi
 pelt_large_panther_000_c0_000_ab
 pelt_large_panther_000_c0_000_ab+hi
 pelt_large_panther_000_c0_000_m
+pelt_large_panther_000_c0_000_m+hi
 pelt_large_panther_000_c0_000_nm
 pelt_large_panther_000_c0_000_nm+hi
 pelt_large_panther_000_c0_001_ab
@@ -51,6 +56,7 @@ pelt_large_panther_000_c0_003_ab+hi
 pelt_medium_buck_000_c0_000_ab
 pelt_medium_buck_000_c0_000_ab+hi
 pelt_medium_buck_000_c0_000_m
+pelt_medium_buck_000_c0_000_m+hi
 pelt_medium_buck_000_c0_000_nm
 pelt_medium_buck_000_c0_000_nm+hi
 pelt_medium_buck_000_c0_001_ab
@@ -62,6 +68,7 @@ pelt_medium_buck_000_c0_003_ab+hi
 pelt_medium_cougar_000_c0_000_ab
 pelt_medium_cougar_000_c0_000_ab+hi
 pelt_medium_cougar_000_c0_000_m
+pelt_medium_cougar_000_c0_000_m+hi
 pelt_medium_cougar_000_c0_000_nm
 pelt_medium_cougar_000_c0_000_nm+hi
 pelt_medium_cougar_000_c0_001_ab
@@ -75,6 +82,7 @@ pelt_medium_cougar_000_c0_004_ab+hi
 pelt_medium_deer_000_c0_000_ab
 pelt_medium_deer_000_c0_000_ab+hi
 pelt_medium_deer_000_c0_000_m
+pelt_medium_deer_000_c0_000_m+hi
 pelt_medium_deer_000_c0_000_nm
 pelt_medium_deer_000_c0_000_nm+hi
 pelt_medium_deer_000_c0_001_ab
@@ -86,6 +94,7 @@ pelt_medium_deer_000_c0_003_ab+hi
 pelt_medium_pronghorn_000_c0_000_ab
 pelt_medium_pronghorn_000_c0_000_ab+hi
 pelt_medium_pronghorn_000_c0_000_m
+pelt_medium_pronghorn_000_c0_000_m+hi
 pelt_medium_pronghorn_000_c0_000_nm
 pelt_medium_pronghorn_000_c0_000_nm+hi
 pelt_medium_pronghorn_000_c0_001_ab
@@ -103,6 +112,7 @@ pelt_medium_pronghorn_000_c0_006_ab+hi
 Pelt_Medium_Wolf_000_c0_000_ab
 pelt_medium_wolf_000_c0_000_ab+hi
 pelt_medium_wolf_000_c0_000_m
+pelt_medium_wolf_000_c0_000_m+hi
 Pelt_Medium_Wolf_000_c0_000_nm
 pelt_medium_wolf_000_c0_000_nm+hi
 pelt_medium_wolf_000_c0_001_ab

@@ -2,6 +2,7 @@ _cache
 _manifest
 p_05_
 p_05__bkt_0
+p_05__bkt_0+hi
 p_05__bkt_2
 p_05__bkt_3
 p_05__deroad_001

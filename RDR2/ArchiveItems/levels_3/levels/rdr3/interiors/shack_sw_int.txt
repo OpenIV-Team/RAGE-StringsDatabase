@@ -18,4 +18,5 @@ shack_sw_int_shell
 shack_sw_int_shell+hidr
 shack_sw_int_wall_planks
 shack_sw_int_wall_planks+hidr
+shack_sw_int+hi
 shack_sw_lightbox

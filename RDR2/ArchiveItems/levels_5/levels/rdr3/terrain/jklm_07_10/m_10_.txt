@@ -2,6 +2,7 @@ _cache
 _manifest
 m_10_
 m_10__bkt_0
+m_10__bkt_0+hi
 m_10__decals_000
 m_10__decals_001
 m_10__decals_002

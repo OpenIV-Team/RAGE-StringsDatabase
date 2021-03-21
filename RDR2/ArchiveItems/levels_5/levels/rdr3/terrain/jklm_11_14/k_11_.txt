@@ -2,9 +2,13 @@ _cache
 _manifest
 k_11_
 k_11__bkt_0
+k_11__bkt_0+hi
 k_11__bkt_1
+k_11__bkt_1+hi
 k_11__bkt_2
+k_11__bkt_2+hi
 k_11__bkt_3
+k_11__bkt_3+hi
 k_11__hd_0_0_0
 k_11__hd_0_0_1
 k_11__hd_0_0_-1

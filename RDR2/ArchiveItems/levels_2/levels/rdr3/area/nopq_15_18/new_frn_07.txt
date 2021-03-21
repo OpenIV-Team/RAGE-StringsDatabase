@@ -58,5 +58,8 @@ new_frn_07_props_debris_04
 new_frn_07_props_debris_05
 new_frn_07_props_debris_txd
 new_frn_07_txd1
+new_frn_07_txd1+hi
 new_frn_07_txd2
+new_frn_07_txd2+hi
 new_frn_07_txd3
+new_frn_07_txd3+hi

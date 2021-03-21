@@ -2,7 +2,9 @@ _cache
 _manifest
 t_96_
 t_96__bkt_1
+t_96__bkt_1+hi
 t_96__bkt_3
+t_96__bkt_3+hi
 t_96__hd_0_0_0
 t_96__hd_0_0_1
 t_96__hd_0_0_-1

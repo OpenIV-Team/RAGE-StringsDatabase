@@ -280,6 +280,7 @@ rstu_3_6_rarrcross_03
 rstu_3_6_rarrcross_03_det
 rstu_3_6_rarrcross_03_lod
 tb1_j_1114_r_b_rails
+tb1_j_1114_r_b_rails+hi
 tres_sleepers_014
 tres_sleepers_015
 tres_sleepers_038_slod

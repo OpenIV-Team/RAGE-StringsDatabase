@@ -1,6 +1,9 @@
 common/data/ai/aimupperbodydata.meta
 common/data/ai/vehiclelayouts.meta
 common/data/ai/weaponanimations.meta
+common/data/ai/weapons_mp005_bountyhunter_mp.meta
+common/data/ai/weapons_mp005_collector_mp.meta
+common/data/ai/weapons_mp005_trader_mp.meta
 common/data/anim/dictionary_meta/clip_dictionary_budget_flags.meta
 common/data/anim/dictionary_meta/motion_dictionary_budget_flags.meta
 common/data/handling.meta
@@ -137,6 +140,7 @@ x64/anim/motions/mech_loco_f
 x64/anim/motions/mech_loco_m
 x64/anim/motions/mech_strafe
 x64/anim/motions/mech_weapons
+x64/audio/conversations/491688219
 x64/audio/dlcmp005_curves.dat20
 x64/audio/dlcmp005_curves.dat20.nametable
 x64/audio/dlcmp005_curves.dat20.rel

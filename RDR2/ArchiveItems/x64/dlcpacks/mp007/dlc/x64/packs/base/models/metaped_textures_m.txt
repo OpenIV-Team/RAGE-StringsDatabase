@@ -1,4 +1,6 @@
 _manifest
+mantle_mr1_000_c_merge
+mantle_mr1_000_c_merge+hi
 mantle_mr1_000_c0_000_ab
 mantle_mr1_000_c0_000_ab+hi
 mp_a_c_alligator_01_carcass_000_c0_000_ab

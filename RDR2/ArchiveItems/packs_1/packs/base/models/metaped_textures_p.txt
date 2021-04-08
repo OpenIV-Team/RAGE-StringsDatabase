@@ -263,6 +263,8 @@ pant_mr1_002_c3_000_m
 pant_mr1_002_c3_000_m+hi
 pant_mr1_002_c4_000_merge
 pant_mr1_002_c4_000_merge+hi
+pant_mr1_003_c_merge
+pant_mr1_003_c_merge+hi
 pant_mr1_003_c3_000_ab
 pant_mr1_003_c3_000_ab+hi
 pant_mr1_004_c0_000_m
@@ -281,6 +283,8 @@ pant_mr1_005_c3_merge
 pant_mr1_005_c3_merge+hi
 pant_mr1_006_c0_000_nm
 pant_mr1_006_c0_000_nm+hi
+pant_mr1_009_c_merge
+pant_mr1_009_c_merge+hi
 pant_mr1_009_c1_999_ab
 pant_mr1_009_c1_999_ab+hi
 pant_mr1_009_c3_999_ab
@@ -291,6 +295,8 @@ pant_mr1_009_c4_000_ab
 pant_mr1_009_c4_000_ab+hi
 pant_mr1_009_c4_000_merge
 pant_mr1_009_c4_000_merge+hi
+pant_mr1_010_c_merge
+pant_mr1_010_c_merge+hi
 pant_mr1_010_c3_000_m
 pant_mr1_010_c3_000_m+hi
 pant_mr1_015_c1_000_ab
@@ -319,6 +325,10 @@ pant_mr1_017_c0_999_ab
 pant_mr1_017_c0_999_ab+hi
 pant_mr1_019_c3_merge
 pant_mr1_019_c3_merge+hi
+pant_mr1_020_c_merge
+pant_mr1_020_c_merge_2
+pant_mr1_020_c_merge_2+hi
+pant_mr1_020_c_merge+hi
 pant_mr1_020_c0_000_nm
 pant_mr1_020_c0_000_nm+hi
 pant_mr1_020_c0_999_ab
@@ -385,6 +395,8 @@ pant_mr1_027_c0_000_nm
 pant_mr1_027_c0_000_nm+hi
 pant_mr1_027_c3_merge
 pant_mr1_027_c3_merge+hi
+pant_mr1_028_c_merge
+pant_mr1_028_c_merge+hi
 pant_mr1_028_c3_merge
 pant_mr1_028_c3_merge+hi
 pant_mr1_029_c0_000_nm
@@ -443,6 +455,8 @@ pant_mr1_033_beartrap_c4_000_merge
 pant_mr1_033_beartrap_c4_000_merge+hi
 pant_mr1_033_beartrap_c5_000_merge
 pant_mr1_033_beartrap_c5_000_merge+hi
+pant_mr1_033_c_merge
+pant_mr1_033_c_merge+hi
 pant_mr1_033_c1_000_merge
 pant_mr1_033_c1_000_merge+hi
 pant_mr1_033_c1_998_ab
@@ -455,6 +469,8 @@ pant_mr1_034_alt_01_tattered_c5_merge
 pant_mr1_034_alt_01_tattered_c5_merge+hi
 pant_mr1_034_alt_01_tattered_c6_merge
 pant_mr1_034_alt_01_tattered_c6_merge+hi
+pant_mr1_034_c_merge
+pant_mr1_034_c_merge+hi
 pant_mr1_034_c0_999_ab
 pant_mr1_034_c0_999_ab+hi
 pant_mr1_034_c3_000_m
@@ -468,6 +484,8 @@ pant_mr1_035_c0_000_nm
 pant_mr1_035_c0_000_nm+hi
 pant_mr1_035_c0_999_ab
 pant_mr1_035_c0_999_ab+hi
+pant_mr1_036_c_merge
+pant_mr1_036_c_merge+hi
 pant_mr1_036_c3_merge
 pant_mr1_036_c3_merge+hi
 pant_mr1_036_tattered_c0_000_merge
@@ -502,6 +520,8 @@ pant_mr1_039_c3_009_ab
 pant_mr1_039_c3_009_ab+hi
 pant_mr1_039_c3_merge
 pant_mr1_039_c3_merge+hi
+pant_mr1_040_c_merge
+pant_mr1_040_c_merge+hi
 pant_mr1_040_c0_000_ab
 pant_mr1_040_c0_000_ab+hi
 pant_mr1_040_c0_999_ab
@@ -554,6 +574,8 @@ pant_mr1_048_c1_999_ab
 pant_mr1_048_c1_999_ab+hi
 pant_mr1_048_c3_merge
 pant_mr1_048_c3_merge+hi
+pant_mr1_050_c_merge
+pant_mr1_050_c_merge+hi
 pant_mr1_050_c3_000_m
 pant_mr1_050_c3_000_m+hi
 pant_mr1_051_c1_merge
@@ -596,6 +618,8 @@ pant_mr1_062_c4_001_merge
 pant_mr1_062_c4_001_merge+hi
 pant_mr1_062_c4_002_merge
 pant_mr1_062_c4_002_merge+hi
+pant_mr1_063_c_merge
+pant_mr1_063_c_merge+hi
 pant_mr1_063_c3_000_m
 pant_mr1_063_c3_000_m+hi
 pant_mr1_063_c3_000_nm
@@ -637,6 +661,8 @@ pant_tr1_015_c1_999_ab
 pant_tr1_015_c1_999_ab+hi
 pant_tr1_016_c0_merge
 pant_tr1_016_c0_merge+hi
+pant_tr1_053_c_merge
+pant_tr1_053_c_merge+hi
 pant_tr1_053_c1_999_ab
 pant_tr1_053_c1_999_ab+hi
 pant_tr1_053_c3_000_merge

@@ -48,6 +48,8 @@ dress_fr1_007_c3_merge
 dress_fr1_007_c3_merge+hi
 dress_fr1_008_c3_merge
 dress_fr1_008_c3_merge+hi
+dress_fr1_011_c_merge
+dress_fr1_011_c_merge+hi
 dress_fr1_011_c0_merge
 dress_fr1_011_c0_merge+hi
 dress_fr1_013_wet_c3_merge

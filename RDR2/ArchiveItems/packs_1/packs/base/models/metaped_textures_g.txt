@@ -4,6 +4,8 @@ generic_gill_000_merge+hi
 glasses_mr1_frame_003_c0_003_ab
 glasses_mr1_frame_003_c0_004_ab
 glasses_mr1_frame_003_c1_999_ab
+glov_fr1_000_c_merge
+glov_fr1_000_c_merge+hi
 glov_fr1_000_c3_merge
 glov_fr1_000_c3_merge+hi
 glov_fr1_002_c0_merge
@@ -16,6 +18,8 @@ glov_fr1_003_c3_000_nm
 glov_fr1_003_c3_000_nm+hi
 glov_fr1_003_c3_999_ab
 glov_fr1_003_c3_999_ab+hi
+glov_mr1_007_c_merge
+glov_mr1_007_c_merge+hi
 glov_mr1_007_c1_000_m
 glov_mr1_007_c1_merge
 glov_mr1_007_c1_merge+hi
@@ -39,9 +43,12 @@ glov_mr1_008_c3_000_m
 glov_mr1_008_c3_000_nm
 glov_mr1_008_c3_000_nm+hi
 glov_mr1_008_c3_999_ab
+glov_mr1_011_c_merge
 glov_mr1_011_c0_000_ab
 glov_mr1_011_c3_merge
 glov_mr1_011_c3_merge+hi
+glov_mr1_013_c_merge
+glov_mr1_013_c_merge+hi
 glov_mr1_013_c3_merge
 glov_mr1_013_c3_merge+hi
 glov_mr1_014_c1_merge
@@ -67,6 +74,8 @@ glov_mr1_016_c1_000_merge+hi
 glov_mr1_016_c1_999_ab
 glov_mr1_016_c3_merge
 glov_mr1_016_c3_merge+hi
+glov_mr1_017_c_merge
+glov_mr1_017_c_merge+hi
 glov_mr1_017_c3_merge
 glov_mr1_017_c3_merge+hi
 glov_mr1_018_c0_000_merge

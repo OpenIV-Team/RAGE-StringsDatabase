@@ -7,6 +7,8 @@ mannequinhead_mr1_000_c0_000_ab
 mannequinhead_mr1_000_c0_000_m
 mannequinhead_mr1_000_c0_000_m+hi
 mannequinhead_mr1_000_c0_000_nm
+mantle_mr1_000_c_merge
+mantle_mr1_000_c_merge+hi
 mantle_mr1_000_c0_000_ab
 mantle_mr1_000_c0_000_ab+hi
 mantle_mr1_000_c3_merge

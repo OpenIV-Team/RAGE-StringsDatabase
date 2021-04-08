@@ -157,6 +157,7 @@ belt_mr1_006_c1_999_ab
 belt_mr1_006_c3_000_m
 belt_mr1_006_c3_000_nm
 belt_mr1_006_c3_999_ab
+belt_mr1_006_holster_c_merge
 belt_mr1_006_holster_c1_999_ab
 belt_mr1_007_c0_000_merge
 belt_mr1_007_c0_000_merge+hi
@@ -164,6 +165,7 @@ belt_mr1_007_c1_merge
 belt_mr1_007_c1_merge+hi
 belt_mr1_007_c3_merge
 belt_mr1_007_c3_merge+hi
+belt_mr1_009_c_merge
 belt_mr1_009_c3_merge
 belt_mr1_010_c0_000_merge
 belt_mr1_010_c0_000_merge+hi
@@ -235,6 +237,7 @@ bodyarmor_mr1_000_c1_000_nm
 bodyarmor_mr1_000_c1_000_nm+hi
 bodyarmor_mr1_000_c1_999_ab
 bodyarmor_mr1_000_c1_999_ab+hi
+boot_fr1_000_c_merge
 boot_fr1_000_c1_000_ab
 boot_fr1_000_c1_002_ab
 boot_fr1_000_c1_merge
@@ -313,6 +316,7 @@ boot_fr1_010_c1_999_ab
 boot_fr1_010_c3_000_m
 boot_fr1_010_c3_000_nm
 boot_fr1_010_c3_999_ab
+boot_fr1_011_c_merge
 boot_fr1_011_c1_000_m
 boot_fr1_011_c1_000_nm
 boot_fr1_011_c3_999_ab
@@ -346,6 +350,8 @@ boot_mr1_006_spurs_c1_999_ab
 boot_mr1_006_spurs_c3_000_nm
 boot_mr1_006_spurs_c3_001_m
 boot_mr1_006_spurs_c3_999_ab
+boot_mr1_015_c_merge
+boot_mr1_015_c_merge+hi
 boot_mr1_015_c0_000_m
 boot_mr1_015_c0_000_nm
 boot_mr1_015_c0_002_ab
@@ -357,6 +363,7 @@ boot_mr1_015_c3_000_nm
 boot_mr1_015_c3_merge
 boot_mr1_015_c4_000_merge
 boot_mr1_015_c4_000_nm
+boot_mr1_017_c_merge
 boot_mr1_017_c0_000_ab
 boot_mr1_017_c0_000_m
 boot_mr1_017_c0_000_m+hi
@@ -388,6 +395,8 @@ boot_mr1_017_c3_004_ab
 boot_mr1_017_c3_999_ab
 boot_mr1_017_c4_000_m
 boot_mr1_017_c4_000_merge
+boot_mr1_019_c_merge
+boot_mr1_019_c_merge+hi
 boot_mr1_019_c0_000_m
 boot_mr1_019_c1_002_ab_merge
 boot_mr1_019_c1_002_ab_merge+hi
@@ -403,7 +412,9 @@ boot_mr1_022_c1_000_nm
 boot_mr1_022_c3_000_ab
 boot_mr1_022_c3_merge
 boot_mr1_022_c3_merge+hi
+boot_mr1_022_spurs_c_merge
 boot_mr1_022_spurs_c1_000_nm
+boot_mr1_022_spursunder_c_merge
 boot_mr1_022_spursunder_c3_000_m
 boot_mr1_022_spursunder_c3_000_nm
 boot_mr1_027_c1_000_m
@@ -427,6 +438,8 @@ boot_mr1_028_c3_merge+hi
 boot_mr1_028_spurs_c1_000_m
 boot_mr1_028_spurs_c1_000_nm
 boot_mr1_028_spurs_c3_999_ab
+boot_mr1_029_c_merge
+boot_mr1_029_c_merge+hi
 boot_mr1_029_c0_000_m
 boot_mr1_029_c0_999_ab
 boot_mr1_029_c2_999_ab
@@ -452,6 +465,7 @@ boot_mr1_033_c2_000_ab
 boot_mr1_033_c2_000_m
 boot_mr1_033_c2_000_nm
 boot_mr1_034_c2_000_merge
+boot_mr1_035_c_merge
 boot_mr1_035_c0_000_m
 boot_mr1_035_c0_000_nm
 boot_mr1_035_c0_999_ab
@@ -490,6 +504,7 @@ boot_mr1_038_c1_000_nm
 boot_mr1_038_c1_999_ab
 boot_mr1_038_c3_merge
 boot_mr1_038_c3_merge+hi
+boot_mr1_039_c_merge
 boot_mr1_039_c0_000_ab
 boot_mr1_039_c0_000_m
 boot_mr1_039_c0_001_ab
@@ -505,6 +520,8 @@ boot_mr1_039_spurs_c2_000_m
 boot_mr1_039_spurs_c2_000_nm
 boot_mr1_039_spurs_c2_999_ab
 boot_mr1_039_spurs_c3_merge
+boot_mr1_040_c_merge
+boot_mr1_040_c_merge+hi
 boot_mr1_040_c0_000_merge
 boot_mr1_040_c0_000_merge+hi
 boot_mr1_040_c0_999_ab
@@ -595,6 +612,7 @@ boot_mr1_051_c1_000_nm
 boot_mr1_051_c1_999_ab
 boot_mr1_051_c3_999_ab_merge
 boot_mr1_051_c3_999_ab_merge+hi
+BOOT_MR1_055_c_merge
 BOOT_MR1_055_c0_000_ab
 boot_mr1_055_c0_000_m
 boot_mr1_055_c0_000_m+hi

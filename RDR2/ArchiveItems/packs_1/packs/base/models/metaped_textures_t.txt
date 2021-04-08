@@ -3,6 +3,8 @@ cs_mrsadler_fs1_scarf_001_c0
 cs_mrsadler_fs1_scarf_001_c0+hi
 task_mr1_024_c0_000_merge
 task_mr1_024_c0_000_merge+hi
+task_mr1_025_c_merge
+task_mr1_025_c_merge+hi
 task_mr1_025_c0_000_ab
 task_mr1_025_c0_000_ab+hi
 tatteredoveralls_mr1_000_c1_000_m
@@ -69,12 +71,18 @@ tie_mr1_011_c0_000_merge
 tie_mr1_011_c1_000_merge
 tie_mr1_011_c1_999_ab
 tie_mr1_011_c3_merge
+tie_mr1_012_c_merge
+tie_mr1_012_c_merge+hi
 tie_mr1_012_c0_000_ab
 tie_mr1_012_c0_000_ab+hi
 tie_mr1_012_c3_999_ab
 tie_mr1_012_c3_999_ab+hi
+tie_mr1_016_c_merge
+tie_mr1_016_c_merge+hi
 tie_mr1_016_c3_merge
 tie_mr1_016_c3_merge+hi
+tie_mr1_019_c_merge
+tie_mr1_019_c_merge+hi
 tie_mr1_019_c1_998_ab
 tie_mr1_019_c1_998_ab+hi
 tie_mr1_020_c1_000_ab

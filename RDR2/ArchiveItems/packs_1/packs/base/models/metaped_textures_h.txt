@@ -268,6 +268,8 @@ hat_fr1_017_c1_merge
 hat_fr1_017_c1_merge+hi
 hat_fr1_017_c3_merge
 hat_fr1_017_c3_merge+hi
+hat_fr1_018_c_merge
+hat_fr1_018_c_merge+hi
 hat_fr1_018_c1_merge
 hat_fr1_018_c1_merge+hi
 hat_fr1_018_c3_000_merge
@@ -299,8 +301,12 @@ hat_fr1_023_c0_000_nm+hi
 hat_fr1_023_c1_999_ab
 hat_fr1_023_c3_999_ab_merge
 hat_fr1_023_c3_999_ab_merge+hi
+hat_fr1_025_c_merge
+hat_fr1_025_c_merge+hi
 hat_fr1_025_c1_merge
 hat_fr1_025_c1_merge+hi
+hat_fr1_026_c_merge
+hat_fr1_026_c_merge+hi
 hat_fr1_026_c1_000_m
 hat_fr1_026_c1_000_m+hi
 hat_fr1_026_c1_000_nm
@@ -432,6 +438,8 @@ hat_mr1_012_c1_merge
 hat_mr1_012_c1_merge+hi
 hat_mr1_012_c3_merge
 hat_mr1_012_c3_merge+hi
+hat_mr1_013_c_merge
+hat_mr1_013_c_merge+hi
 hat_mr1_013_c1_999_ab
 hat_mr1_013_c2_000_m
 hat_mr1_013_c2_000_m+hi
@@ -517,6 +525,8 @@ hat_mr1_026_c1_merge
 hat_mr1_026_c1_merge+hi
 hat_mr1_026_c3_merge
 hat_mr1_026_c3_merge+hi
+hat_mr1_027_c_merge
+hat_mr1_027_c_merge+hi
 hat_mr1_027_c0_000_ab
 hat_mr1_027_c1_000_nm
 hat_mr1_027_c1_999_ab
@@ -653,6 +663,8 @@ hat_mr1_059_c1_merge
 hat_mr1_059_c1_merge+hi
 hat_mr1_059_c3_merge
 hat_mr1_059_c3_merge+hi
+hat_mr1_060_c_merge
+hat_mr1_060_c_merge+hi
 hat_mr1_060_c3_merge
 hat_mr1_060_c3_merge+hi
 hat_mr1_061_c0_000_nm_merge
@@ -674,6 +686,8 @@ hat_mr1_063_c3_000_ab
 hat_mr1_063_c3_004_ab
 hat_mr1_063_c3_merge
 hat_mr1_063_c3_merge+hi
+hat_mr1_064_c_merge
+hat_mr1_064_c_merge+hi
 hat_mr1_064_c0_000_ab
 hat_mr1_064_c0_000_m
 hat_mr1_064_c0_000_m+hi
@@ -787,6 +801,8 @@ hat_mr1_085_c1_merge+hi
 hat_mr1_085_c3_000_m
 hat_mr1_085_c3_000_m+hi
 hat_mr1_085_c3_999_ab
+hat_mr1_086_c_merge
+hat_mr1_086_c_merge+hi
 hat_mr1_086_c1_000_ab
 hat_mr1_086_c1_000_ab+hi
 hat_mr1_086_c1_000_nm
@@ -837,6 +853,8 @@ hat_mr1_095_c1_000_m
 hat_mr1_095_c1_000_m+hi
 hat_mr1_095_c1_000_nm
 hat_mr1_095_c1_999_ab
+hat_mr1_096_c_merge
+hat_mr1_096_c_merge+hi
 hat_mr1_096_c1_999_ab
 hat_mr1_096_c3_merge
 hat_mr1_096_c3_merge+hi
@@ -856,6 +874,8 @@ hat_mr1_100_c1_999_ab_merge
 hat_mr1_100_c1_999_ab_merge+hi
 hat_mr1_100_c3_merge
 hat_mr1_100_c3_merge+hi
+hat_mr1_102_c_merge
+hat_mr1_102_c_merge+hi
 hat_mr1_102_c0_000_nm
 hat_mr1_102_c2_000_ab
 hat_mr1_102_c3_002_ab
@@ -896,6 +916,8 @@ hat_mr1_108_c3_000_m
 hat_mr1_108_c3_000_m+hi
 hat_mr1_108_c3_000_nm
 hat_mr1_108_c3_999_ab
+hat_mr1_109_c_merge
+hat_mr1_109_c_merge+hi
 hat_mr1_109_c0_000_nm
 hat_mr1_109_c1_001_ab
 hat_mr1_109_c1_001_ab+hi
@@ -914,6 +936,8 @@ hat_mr1_111_c1_000_m
 hat_mr1_111_c1_000_m+hi
 hat_mr1_111_c3_000_m
 hat_mr1_111_c3_000_m+hi
+hat_mr1_112_c_merge
+hat_mr1_112_c_merge+hi
 hat_mr1_112_c0_000_ab
 hat_mr1_112_c0_000_m
 hat_mr1_112_c0_000_nm
@@ -979,6 +1003,7 @@ hat_mr1_136_c1_merge
 hat_mr1_136_c1_merge+hi
 hat_mr1_139_c1_000_merge
 hat_mr1_139_c1_000_merge+hi
+hat_mr1_601_c_merge
 hat_mr1_601_c3_merge
 hat_tr1_065_c3_merge
 hat_tr1_065_c3_merge+hi
@@ -2041,9 +2066,11 @@ horn_hr1_000_c1_merge
 horn_hr1_000_c3_000_m
 horn_hr1_000_c3_000_nm
 horn_hr1_000_c3_999_ab
+horn_hr1_001_c_merge
 horn_hr1_001_c1_merge
 horn_hr1_001_c3_000_m
 horn_hr1_001_c3_000_nm
+horn_hr1_002_c_merge
 horn_hr1_002_c0_000_ab
 horn_hr1_002_c0_001_ab
 horn_hr1_002_c1_merge
@@ -2083,12 +2110,16 @@ horn_hr1_006_c3_000_m+hi
 horn_hr1_006_c3_000_nm
 horn_hr1_006_c3_000_nm+hi
 horn_hr1_006_c3_999_ab
+horn_hr1_007_c_merge
+horn_hr1_007_c_merge+hi
 horn_hr1_007_c1_merge
 horn_hr1_007_c1_merge+hi
 horn_hr1_007_c3_000_m
 horn_hr1_007_c3_000_m+hi
 horn_hr1_007_c3_000_nm
 horn_hr1_007_c3_000_nm+hi
+horn_hr1_008_c_merge
+horn_hr1_008_c_merge+hi
 horn_hr1_008_c1_merge
 horn_hr1_008_c1_merge+hi
 horn_hr1_008_c3_000_m
@@ -2104,9 +2135,11 @@ horn_hr1_009_c3_000_m+hi
 horn_hr1_009_c3_000_nm
 horn_hr1_009_c3_000_nm+hi
 horn_hr1_009_c3_999_ab
+horn_hr1_010_c_merge
 horn_hr1_010_c1_merge
 horn_hr1_010_c3_000_m
 horn_hr1_010_c3_000_nm
+horn_hr1_011_c_merge
 horn_hr1_011_c1_merge
 horn_hr1_011_c3_000_m
 horn_hr1_011_c3_000_nm

@@ -65,6 +65,8 @@ chemise_fr1_000_c3_000_merge
 chemise_fr1_000_c3_000_merge+hi
 chemise_fr1_000_midbosomcorset_c3_000_nm_merge
 chemise_fr1_000_midbosomcorset_c3_000_nm_merge+hi
+chemise_fr1_000_tucked_alt_001_c_merge
+chemise_fr1_000_tucked_alt_001_c_merge+hi
 chemise_fr1_000_tucked_alt_001_c3_merge
 chemise_fr1_000_tucked_alt_001_c3_merge+hi
 chemise_fr1_000_tucked_alt_001_tattered_c5_merge
@@ -104,6 +106,8 @@ cloak_mr1_003_c1_merge
 cloak_mr1_003_c1_merge+hi
 cloak_mr1_003_c3_merge
 cloak_mr1_003_c3_merge+hi
+coat_fr1_000_c_merge
+coat_fr1_000_c_merge+hi
 coat_fr1_000_c0_004_ab
 coat_fr1_000_c0_004_ab+hi
 coat_fr1_000_c0_020_ab
@@ -144,10 +148,14 @@ coat_fr1_024_c1_000_nm
 coat_fr1_024_c1_000_nm+hi
 coat_fr1_024_c3_merge
 coat_fr1_024_c3_merge+hi
+coat_fr1_039_c_merge
+coat_fr1_039_c_merge+hi
 coat_fr1_039_c1_999_ab
 coat_fr1_039_c1_999_ab+hi
 coat_fr1_039_c3_999_ab
 coat_fr1_039_c3_999_ab+hi
+coat_fr1_040_c_merge
+coat_fr1_040_c_merge+hi
 coat_fr1_040_c1_999_ab
 coat_fr1_040_c1_999_ab+hi
 coat_fr1_041_c1_merge
@@ -550,6 +558,8 @@ coat_mr1_011_c3_999_ab
 coat_mr1_011_c3_999_ab+hi
 coat_mr1_013_merge
 coat_mr1_013_merge+hi
+coat_mr1_015_c_merge
+coat_mr1_015_c_merge+hi
 coat_mr1_015_c0_000_ab
 coat_mr1_015_c0_000_ab+hi
 coat_mr1_015_c0_000_m
@@ -574,6 +584,8 @@ coat_mr1_016_c1_000_nm
 coat_mr1_016_c1_000_nm+hi
 coat_mr1_016_c3_999_ab
 coat_mr1_016_c3_999_ab+hi
+coat_mr1_017_c_merge
+coat_mr1_017_c_merge+hi
 coat_mr1_017_c0_000_ab
 coat_mr1_017_c0_000_ab+hi
 coat_mr1_017_c0_001_ab
@@ -666,6 +678,10 @@ coat_mr1_018_c3_998_ab
 coat_mr1_018_c3_998_ab+hi
 coat_mr1_018_c3_999_ab
 coat_mr1_018_c3_999_ab+hi
+coat_mr1_019_c_merge
+coat_mr1_019_c_merge_2
+coat_mr1_019_c_merge_2+hi
+coat_mr1_019_c_merge+hi
 coat_mr1_019_c0_000_ab
 coat_mr1_019_c0_000_ab+hi
 coat_mr1_019_c0_001_ab
@@ -983,6 +999,8 @@ coat_mr1_049_c1_merge
 coat_mr1_049_c1_merge+hi
 coat_mr1_049_c3_merge
 coat_mr1_049_c3_merge+hi
+coat_mr1_050_c_merge
+coat_mr1_050_c_merge+hi
 coat_mr1_050_c0_000_ab
 coat_mr1_050_c0_001_ab
 coat_mr1_050_c0_002_ab
@@ -1044,6 +1062,8 @@ coat_mr1_061_c0_000_merge
 coat_mr1_061_c0_000_merge+hi
 coat_mr1_061_c3_merge
 coat_mr1_061_c3_merge+hi
+coat_mr1_062_c_merge
+coat_mr1_062_c_merge+hi
 coat_mr1_062_c3_000_merge
 coat_mr1_062_c3_000_merge+hi
 coat_mr1_062_c3_997_ab
@@ -1201,12 +1221,16 @@ coat_mr1_087_c1_merge
 coat_mr1_087_c1_merge+hi
 coat_mr1_087_c3_merge
 coat_mr1_087_c3_merge+hi
+coat_mr1_088_c_merge
+coat_mr1_088_c_merge+hi
 coat_mr1_088_c0_000_ab
 coat_mr1_088_c0_000_ab+hi
 coat_mr1_088_c0_999_ab
 coat_mr1_088_c0_999_ab+hi
 coat_mr1_088_c1_999_ab
 coat_mr1_088_c1_999_ab+hi
+coat_mr1_089_c_merge
+coat_mr1_089_c_merge+hi
 coat_mr1_089_c1_merge
 coat_mr1_089_c1_merge+hi
 coat_mr1_090_c0_000_m
@@ -1289,6 +1313,8 @@ coat_mr1_103_c3_999_ab
 coat_mr1_103_c3_999_ab+hi
 coat_mr1_104_c3_merge
 coat_mr1_104_c3_merge+hi
+coat_mr1_105_c_merge
+coat_mr1_105_c_merge+hi
 coat_mr1_105_c0_000_ab
 coat_mr1_105_c0_000_ab+hi
 coat_mr1_105_c3_merge
@@ -1348,6 +1374,8 @@ coat_tr1_011_c0_000_m
 coat_tr1_011_c0_000_m+hi
 coat_tr1_011_c0_000_nm
 coat_tr1_011_c0_000_nm+hi
+coat_Tr1_012_c_merge
+coat_Tr1_012_c_merge+hi
 coat_Tr1_012_c0_000_ab
 coat_tr1_012_c0_000_ab+hi
 coat_tr1_012_c1_000_m
@@ -1827,8 +1855,12 @@ comboshirt_mr1_045_c3_merge
 comboshirt_mr1_045_c3_merge+hi
 comboshirt_mr1_046_c1_999_ab_merge
 comboshirt_mr1_046_c1_999_ab_merge+hi
+comboshirt_tr1_001_c_merge
+comboshirt_tr1_001_c_merge+hi
 comboshirt_tr1_001_c3_merge
 comboshirt_tr1_001_c3_merge+hi
+comboshirt_tr1_002_c_merge
+comboshirt_tr1_002_c_merge+hi
 comboshirt_tr1_002_c3_000_merge
 comboshirt_tr1_002_c3_000_merge+hi
 comboshirt_tr1_003_c1_merge
@@ -1959,6 +1991,8 @@ combovest_mr1_013_c1_merge
 combovest_mr1_013_c1_merge+hi
 combovest_mr1_013_c3_merge
 combovest_mr1_013_c3_merge+hi
+combovest_mr1_014_c_merge
+combovest_mr1_014_c_merge+hi
 combovest_mr1_014_c1_998_ab
 combovest_mr1_014_c1_998_ab+hi
 combovest_mr1_014_c3_merge
@@ -2016,6 +2050,8 @@ combovest_mr1_022_c3_999_ab
 combovest_mr1_022_c3_999_ab+hi
 combovest_mr1_022_c3_999_merge
 combovest_mr1_022_c3_999_merge+hi
+combovest_mr1_023_c_merge
+combovest_mr1_023_c_merge+hi
 combovest_mr1_023_c1_998_ab
 combovest_mr1_023_c1_998_ab+hi
 combovest_mr1_023_c1_999_ab
@@ -2110,6 +2146,8 @@ combovest_mr1_033_c3_998_ab
 combovest_mr1_033_c3_998_ab+hi
 combovest_mr1_033_c3_merge
 combovest_mr1_033_c3_merge+hi
+combovest_mr1_034_c_merge
+combovest_mr1_034_c_merge+hi
 combovest_mr1_034_c1_996_ab
 combovest_mr1_034_c1_996_ab+hi
 combovest_mr1_034_c1_997_ab
@@ -2152,6 +2190,8 @@ combovest_mr1_037_c3_998_ab
 combovest_mr1_037_c3_998_ab+hi
 combovest_mr1_037_c3_999_ab
 combovest_mr1_037_c3_999_ab+hi
+combovest_mr1_038_c_merge
+combovest_mr1_038_c_merge+hi
 combovest_mr1_038_c1_999_ab
 combovest_mr1_038_c1_999_ab+hi
 combovest_mr1_038_c1_merge

@@ -27,6 +27,8 @@ linenshirt_mr1_004_c1_999_ab
 linenshirt_mr1_004_c1_999_ab+hi
 linenshirt_mr1_004_c3_merge
 linenshirt_mr1_004_c3_merge+hi
+lioncloth_mr1_000_c_merge
+lioncloth_mr1_000_c_merge+hi
 lioncloth_mr1_000_c1_000_m
 lioncloth_mr1_000_c1_000_nm
 lioncloth_mr1_000_c1_000_nm+hi

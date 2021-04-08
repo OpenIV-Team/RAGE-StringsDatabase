@@ -1,3 +1,13 @@
 _manifest
+cs_dutch_ms1_merge_10
+cs_dutch_ms1_merge_10+hi
+cs_dutch_ms1_merge_3
+cs_dutch_ms1_merge_3+hi
+cs_lenny_ms1_merge_2
+cs_lenny_ms1_merge_2+hi
 player_zero_head_1001_c0_000_nm
 player_zero_head_1001_c0_000_nm+hi
+player_zero_head_999_c_merge
+player_zero_head_999_c_merge_2
+player_zero_head_999_c_merge_2+hi
+player_zero_head_999_c_merge+hi

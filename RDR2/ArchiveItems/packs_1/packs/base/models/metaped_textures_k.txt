@@ -1,7 +1,16 @@
 _manifest
 kcup_mr1_001_c0_000_ab
 kcup_mr1_001_c0_000_ab+hi
+kcup_mr1_001_c0_000_merge
+kcup_mr1_001_c0_000_merge+hi
+kcup_mr1_001_c1_001_merge
+kcup_mr1_001_c1_001_merge+hi
 kcup_mr1_001_c1_999_ab
+kcup_mr1_001_c3_merge
+kcup_mr1_001_c3_merge+hi
 kcup_mr1_002_c0_000_ab
+kcup_mr1_002_c0_000_merge
 kcup_mr1_002_c0_002_ab
 kcup_mr1_002_c1_999_ab
+kcup_mr1_002_c3_merge
+kcup_mr1_002_c3_merge+hi

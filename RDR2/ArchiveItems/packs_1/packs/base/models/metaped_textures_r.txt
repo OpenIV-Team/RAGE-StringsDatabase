@@ -1,6 +1,7 @@
 _manifest
 rcup_mr1_000_c1_000_ab
 rcup_mr1_000_c1_000_ab+hi
+rcup_mr1_000_c1_000_merge
 rcup_mr1_000_c1_001_ab
 rcup_mr1_000_c1_001_ab+hi
 rcup_mr1_000_c1_002_ab
@@ -17,3 +18,10 @@ rcup_mr1_001_c1_999_ab
 rcup_mr1_001_c3_000_m
 rcup_mr1_001_c3_000_nm
 rcup_mr1_001_c3_999_ab
+rcup_mr1_003_c0_000_merge
+rcup_mr1_003_c0_000_merge+hi
+rcup_mr1_004_c3_merge
+rcup_mr1_004_c3_merge+hi
+ring_mr1_000_c0_000_merge
+rodentcarcass_000_merge
+rodentcarcass_000_merge+hi

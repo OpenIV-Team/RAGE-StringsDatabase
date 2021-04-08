@@ -165,6 +165,8 @@ feet_mr1_000_c4_025_m
 feet_mr1_000_c4_025_m+hi
 feet_mr1_000_c4_025_nm
 feet_mr1_000_c4_025_nm+hi
+feet_mr1_000_c5_025_merge
+feet_mr1_000_c5_025_merge+hi
 feet_mr1_001_c0_009_ab
 feet_mr1_001_c0_009_m
 feet_mr1_001_c0_009_m+hi
@@ -187,3 +189,5 @@ feet_tr1_000_c0_000_nm+hi
 feet_tr1_000_c0_008_ab
 feet_tr1_000_c0_008_ab+hi
 feet_tr1_000_c0_011_m
+felinecarcass_000_merge
+felinecarcass_000_merge+hi

@@ -1,5 +1,13 @@
 _manifest
+player_zero_head_000_c0_000_merge
+player_zero_head_000_c0_000_merge+hi
 player_zero_head_000_c0_000_nm
 player_zero_head_000_c0_000_nm+hi
+player_zero_head_000_c1_000_merge
+player_zero_head_000_c1_000_merge+hi
 player_zero_head_000_c3_000_ab
 player_zero_head_000_c3_000_ab+hi
+player_zero_merge_121
+player_zero_merge_121+hi
+player_zero_merge_14
+player_zero_merge_14+hi

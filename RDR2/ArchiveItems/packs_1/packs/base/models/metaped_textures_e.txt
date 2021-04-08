@@ -1,4 +1,6 @@
 _manifest
+earring_fr1_000_c1_merge
+earring_fr1_000_c1_merge+hi
 eye_cap_gen_0000_c0_999_ab
 eyes_gen_0000_c0_001_ab
 eyes_gen_0000_c0_001_ab+hi
@@ -15,3 +17,5 @@ eyes_gen_0000_c0_006_ab
 eyes_gen_0000_c0_006_ab+hi
 eyes_gen_0000_c0_007_ab
 eyes_gen_0000_c0_007_ab+hi
+eyes_mr1_0000_c0_000_merge
+eyes_mr1_0000_c0_000_merge+hi

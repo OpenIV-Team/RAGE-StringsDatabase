@@ -1,3 +1,13 @@
 _manifest
+cs_billwilliamson_ms1_merge_8
+cs_billwilliamson_ms1_merge_8+hi
 cs_charlessmith_ms1_head_001_c0_000_nm
 cs_charlessmith_ms1_head_001_c0_000_nm+hi
+cs_charlessmith_ms1_merge_14
+cs_charlessmith_ms1_merge_14+hi
+cs_charlessmith_ms1_merge_6
+cs_charlessmith_ms1_merge_6+hi
+cs_dutch_ms1_merge_10
+cs_dutch_ms1_merge_10+hi
+cs_dutch_ms1_merge_3
+cs_dutch_ms1_merge_3+hi

@@ -1,5 +1,8 @@
 _manifest
 clothing_item_m_ugarment_005_tint_004
+veil_fr1_000_c0_000_merge
+vest_fr1_001_c3_merge
+vest_fr1_001_c3_merge+hi
 vest_mr1_000_c0_000_ab
 vest_mr1_000_c0_000_ab+hi
 vest_mr1_000_c0_000_m
@@ -42,6 +45,8 @@ vest_mr1_000_c0_017_ab
 vest_mr1_000_c0_017_ab+hi
 vest_mr1_000_c1_999_ab
 vest_mr1_000_c1_999_ab+hi
+vest_mr1_000_c1_merge
+vest_mr1_000_c1_merge+hi
 vest_mr1_000_c3_000_m
 vest_mr1_000_c3_000_nm
 vest_mr1_000_c3_000_nm+hi
@@ -115,10 +120,16 @@ vest_mr1_001_c3_998_ab
 vest_mr1_001_c3_998_ab+hi
 vest_mr1_001_c3_999_ab
 vest_mr1_001_c3_999_ab+hi
+vest_mr1_002_c0_000_merge
+vest_mr1_002_c0_000_merge+hi
 vest_mr1_002_c0_001_ab
 vest_mr1_002_c0_001_ab+hi
 vest_mr1_002_c0_002_ab
 vest_mr1_002_c0_002_ab+hi
+vest_mr1_002_c1_merge
+vest_mr1_002_c1_merge+hi
+vest_mr1_002_c3_merge
+vest_mr1_002_c3_merge+hi
 vest_mr1_005_c0_000_ab
 vest_mr1_005_c0_000_ab+hi
 vest_mr1_005_c0_000_m
@@ -250,6 +261,7 @@ vest_mr1_012_c0_999_ab
 vest_mr1_012_c1_000_nm
 vest_mr1_012_c1_001_nm
 vest_mr1_012_c1_998_ab
+vest_mr1_012_c1_merge
 vest_mr1_012_c3_000_ab
 vest_mr1_012_c3_000_nm
 vest_mr1_012_c3_001_ab
@@ -259,9 +271,11 @@ vest_mr1_012_c3_003_ab
 vest_mr1_012_c3_004_ab
 vest_mr1_012_c3_005_ab
 vest_mr1_012_c3_998_ab
+vest_mr1_012_c3_merge
 vest_mr1_013_c1_000_nm
 vest_mr1_013_c1_001_nm
 vest_mr1_013_c1_999_ab
+vest_mr1_013_c1_merge
 vest_mr1_013_c3_000_ab
 vest_mr1_013_c3_001_ab
 vest_mr1_013_c3_001_nm
@@ -270,6 +284,9 @@ vest_mr1_013_c3_003_ab
 vest_mr1_013_c3_004_ab
 vest_mr1_013_c3_005_ab
 vest_mr1_013_c3_998_ab
+vest_mr1_013_c3_merge
+vest_mr1_014_c0_merge
+vest_mr1_014_c0_merge+hi
 vest_mr1_014_c1_000_m
 vest_mr1_014_c1_000_nm
 vest_mr1_014_c1_002_ab
@@ -284,6 +301,8 @@ vest_mr1_014_c3_999_ab
 vest_mr1_015_c0_000_ab
 vest_mr1_015_c0_001_ab
 vest_mr1_015_c0_002_nm
+vest_mr1_015_c0_merge
+vest_mr1_015_c0_merge+hi
 vest_mr1_015_c1_000_ab
 vest_mr1_015_c1_000_m
 vest_mr1_015_c1_000_nm
@@ -314,6 +333,7 @@ vest_mr1_016_c0_999_ab+hi
 vest_mr1_016_c1_000_nm
 vest_mr1_016_c1_001_nm
 vest_mr1_016_c1_999_ab
+vest_mr1_016_c1_merge
 vest_mr1_016_c3_000_m
 vest_mr1_016_c3_000_nm
 vest_mr1_016_c3_001_nm
@@ -381,6 +401,7 @@ vest_mr1_019_c1_002_nm
 vest_mr1_019_c1_999_ab
 vest_mr1_019_c3_000_nm
 vest_mr1_019_c3_001_nm
+vest_mr1_019_c3_merge
 vest_mr1_020_c0_000_m
 vest_mr1_020_c0_000_m+hi
 vest_mr1_020_c0_000_nm
@@ -395,6 +416,7 @@ vest_mr1_022_c0_000_nm
 vest_mr1_022_c0_001_ab
 vest_mr1_022_c0_002_ab
 vest_mr1_022_c1_999_ab
+vest_mr1_022_c3_merge
 vest_mr1_023_c0_000_m
 vest_mr1_023_c0_000_m+hi
 vest_mr1_023_c0_000_nm

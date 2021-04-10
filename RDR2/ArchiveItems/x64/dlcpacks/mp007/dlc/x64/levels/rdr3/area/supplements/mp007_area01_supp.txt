@@ -3,6 +3,7 @@ _manifest
 mp007_a1_str_whore_int_milo
 mp007_area01_supp
 mp007_area01_supp_strm
+mp007_area01_supp_strm_0
 mp007_mshine_01_newplug
 mp007_mshine_02_newplug
 mp007_mshine_02_newplug+hidr

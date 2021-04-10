@@ -3,6 +3,7 @@ _manifest
 but_interior_decal
 but_interior_decal+hidr
 but_mine
+but_mine_0
 but_mine_entrance
 but_mine_entrance_foliage_002
 but_mine_entrance_foliage_002+hidr

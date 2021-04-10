@@ -3,3 +3,4 @@ _manifest
 vwxy_7_10_ha
 vwxy_7_10_ha_dummy
 vwxy_7_10_ha_strm
+vwxy_7_10_ha_strm_0

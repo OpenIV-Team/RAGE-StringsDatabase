@@ -1,7 +1,11 @@
 _cache
 _manifest
 bac_01
+bac_01__0
+bac_01__1
 bac_01__2
+bac_01__3
+bac_01__4
 bac_01_bridge_end_slod
 bac_01_bridge_log_01
 bac_01_bridge_log_01_dcl
@@ -30,6 +34,7 @@ bac_01_tunnel02_cap_lod
 bac_01_upper1
 bac_01_upper2
 bac_01_wire
+bac_01_wire_1
 bac_01_wire_2
 bac_01_wires_case0_end
 bac_01_wires_case0_start

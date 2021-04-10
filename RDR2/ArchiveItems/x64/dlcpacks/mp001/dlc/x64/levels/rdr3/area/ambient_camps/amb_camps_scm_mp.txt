@@ -2,8 +2,10 @@ _cache
 _manifest
 mp001_clay2_rhodes01
 mp001_mp_intro_gang_rhodes4
+mp001_mp_intro_gang_rhodes4_1
 mp001_mp_intro_gang_rhodes4_2
 mp001_mp_jessicacamp_tumbleweed
+mp001_mp_jessicacamp_tumbleweed_1
 mp001_mp_jessicacamp_tumbleweed_2
 mp001_mp_scm_amb_boatramp
 mp001_mp_scm_amb_boatramp+hidr

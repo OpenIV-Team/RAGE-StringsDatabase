@@ -1,7 +1,11 @@
 _cache
 _manifest
 area04_supp
+area04_supp_0
+area04_supp_1
 area04_supp_2
+area04_supp_3
+area04_supp_4
 area04_supp_strm
 supp_dis_tal_pit_dsc_cover
 supp_dis_tal_pit_dsc_cover+hidr

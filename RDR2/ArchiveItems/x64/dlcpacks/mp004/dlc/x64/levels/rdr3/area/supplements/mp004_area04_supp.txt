@@ -7,4 +7,5 @@ mp004_area4_playlistmarker_03
 mp004_area4_playlistmarker_04
 mp004_area4_playlistmarker_05
 mp004_supp_gfh_langton_crates
+mp004_supp_gfh_langton_crates_1
 mp004_supp_gfh_shaky_objects

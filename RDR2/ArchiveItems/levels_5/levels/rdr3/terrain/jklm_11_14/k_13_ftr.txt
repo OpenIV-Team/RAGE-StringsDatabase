@@ -1,6 +1,9 @@
 _cache
 _manifest
+k_13_ftr_0
+k_13_ftr_1
 k_13_ftr_2
+k_13_ftr_3
 k_13_ftr_k_12_decal
 k_13_ftr_sisters
 k_13_ftr_sisters+hidr

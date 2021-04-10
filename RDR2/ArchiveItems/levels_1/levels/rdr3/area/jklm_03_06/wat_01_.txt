@@ -1,5 +1,6 @@
 _cache
 _manifest
+wat_01__0
 wat_01_lightbox
 wat_01_txd
 wat_01_txd+hi

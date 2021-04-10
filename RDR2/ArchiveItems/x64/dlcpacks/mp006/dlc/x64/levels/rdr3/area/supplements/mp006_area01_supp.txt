@@ -12,9 +12,11 @@ mp006_a1_mshine04_lod
 mp006_a1_mshine04_slod
 mp006_a1supp_moonshine04
 mp006_a1supp_moonshine04_plug
+mp006_a1supp_moonshine04_plug_1
 mp006_a1supp_moonshine04_plug_2
 mp006_area01_supp
 mp006_area01_supp_strm
+mp006_area01_supp_strm_0
 mp006_graffiti_wafpolcyfm_a1
 mp006_graffiti_wafpolcyfm_a1+hi
 mp006_wafpolcyfm_bla

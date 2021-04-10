@@ -1,5 +1,6 @@
 _cache
 _manifest
+shack_lc_0
 slc_lc_80cm_ruler
 slc_lc_altar
 slc_lc_altar+hidr

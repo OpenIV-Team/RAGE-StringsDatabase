@@ -34,4 +34,5 @@ amb_grt_s_tent02_d001+hidr
 amb_grt_tablecloth01
 amb_grt_tablecloth01+hidr
 mp_intro_gang_blackwater3
+mp_intro_gang_blackwater3_1
 mp_jessicacamp_blackwater

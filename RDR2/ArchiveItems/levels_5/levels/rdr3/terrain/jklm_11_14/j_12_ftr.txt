@@ -1,6 +1,8 @@
 _cache
 _manifest
 j_12_ftr
+j_12_ftr_0
+j_12_ftr_1
 j_12_ftr_long_0
 j_12_ftr_strm
 j_12_ftr_strm_0

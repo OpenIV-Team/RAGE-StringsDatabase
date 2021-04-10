@@ -1,5 +1,6 @@
 _cache
 _manifest
+her_01_0
 her_01_shack_01
 her_01_shack_01_dc
 her_01_shack_01_slod

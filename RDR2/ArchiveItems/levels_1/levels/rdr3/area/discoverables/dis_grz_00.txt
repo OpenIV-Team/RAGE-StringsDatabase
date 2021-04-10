@@ -10,6 +10,7 @@ dis_grz_00_4
 dis_grz_00_5
 dis_grz_00_6
 dis_grz_00_dead_horse
+dis_grz_00_dead_horse_1
 dis_grz_00_dead_horse_2
 dis_grz_00_dead_horse+hi
 dis_grz_00_dead_horsebody
@@ -17,10 +18,13 @@ dis_grz_00_dead_horsebody+hidr
 dis_grz_00_frozencamp
 dis_grz_00_frozencamp+hi
 dis_grz_00_frozencamp01
+dis_grz_00_frozencamp01_1
 dis_grz_00_frozencamp01_2
 dis_grz_00_frozencamp02
+dis_grz_00_frozencamp02_1
 dis_grz_00_frozencamp02_2
 dis_grz_00_frozencamp04
+dis_grz_00_frozencamp04_1
 dis_grz_00_frozencamp04_2
 dis_grz_00_horse_corpse1
 dis_grz_00_horse_corpse2

@@ -1,5 +1,7 @@
 _cache
 _manifest
+civ_01_0
+civ_01_1
 civ_01_log_fence001
 civ_01_ne_tower_proxy
 civ_01_outhouse

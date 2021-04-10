@@ -1,5 +1,6 @@
 _cache
 _manifest
+dov_lab_0
 dov_lab_building
 dov_lab_building+hidr
 dov_lab_lab_decal

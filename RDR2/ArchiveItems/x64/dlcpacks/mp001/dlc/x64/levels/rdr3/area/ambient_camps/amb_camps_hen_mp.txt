@@ -2,6 +2,7 @@ _cache
 _manifest
 mp001_amb_camps_hen_mp
 mp001_min_hid_mantecafalls
+mp001_min_hid_mantecafalls_1
 mp001_mp_hen_ambcahen+hi
 mp001_mp_hen_dirt_00
 mp001_mp_hen_dirt_00+hidr

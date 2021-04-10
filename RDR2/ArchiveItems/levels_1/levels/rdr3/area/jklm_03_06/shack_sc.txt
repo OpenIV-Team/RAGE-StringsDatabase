@@ -1,5 +1,6 @@
 _cache
 _manifest
+shack_sc_0
 ssc_cabin_01
 ssc_cabin_01_dec
 ssc_cabin_01+hidr

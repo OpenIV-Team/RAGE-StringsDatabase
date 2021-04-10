@@ -1,7 +1,10 @@
 _cache
 _manifest
 p_13_ftr
+p_13_ftr_0
+p_13_ftr_1
 p_13_ftr_2
+p_13_ftr_3
 p_13_ftr_burnt
 p_13_ftr_burnt_lod
 p_13_ftr_burnt_slod

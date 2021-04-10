@@ -3,6 +3,7 @@ _manifest
 dce_area04_supp
 dce_area04_supp_strm
 sppack_a4sup_aquaduct
+sppack_a4sup_aquaduct_1
 sppack_a4sup_aquaduct+hidr
 sppack_a4sup_elementaltrail
 sppack_a4sup_elementaltrail+hidr

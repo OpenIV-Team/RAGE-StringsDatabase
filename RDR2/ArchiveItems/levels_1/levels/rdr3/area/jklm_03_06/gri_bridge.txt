@@ -1,6 +1,7 @@
 _cache
 _manifest
 gri_bridge
+gri_bridge_0
 gri_bridge_01
 gri_bridge_01_d
 gri_bridge_01_d+hidr
@@ -15,7 +16,9 @@ gri_bridge_02_det
 gri_bridge_02_lod_01_d
 gri_bridge_02_slod
 gri_bridge_02+hidr
+gri_bridge_1
 gri_bridge_2
+gri_bridge_3
 gri_bridge+hi
 gri_bridgeplanks_01
 gri_ropebridge_01

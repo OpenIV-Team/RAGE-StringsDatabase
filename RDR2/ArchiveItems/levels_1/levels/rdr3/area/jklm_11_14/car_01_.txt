@@ -1,6 +1,8 @@
 _cache
 _manifest
 car_01_
+car_01__0
+car_01__1
 car_01_+hi
 car_01_vfx_001
 car_01_vfx_002

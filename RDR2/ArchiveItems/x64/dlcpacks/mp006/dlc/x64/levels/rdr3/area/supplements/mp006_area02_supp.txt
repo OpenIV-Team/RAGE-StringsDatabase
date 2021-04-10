@@ -12,9 +12,11 @@ mp006_a2_mshine02_lod
 mp006_a2_mshine02_slod
 mp006_a2supp_moonshine02
 mp006_a2supp_moonshine02_plug
+mp006_a2supp_moonshine02_plug_1
 mp006_a2supp_moonshine02_plug_2
 mp006_area02_supp
 mp006_area02_supp_strm
+mp006_area02_supp_strm_0
 mp006_wafpolcyfm_val00
 mp006_wafpolcyfm_val00+hidr
 mp006_wafpolcyfm_val01

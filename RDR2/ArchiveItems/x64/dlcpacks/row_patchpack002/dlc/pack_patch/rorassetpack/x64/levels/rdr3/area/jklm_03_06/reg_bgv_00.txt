@@ -10,7 +10,12 @@ reg_bgv__sp_wagoncrsh
 reg_bgv__sp_wagoncrsh+hidr
 reg_bgv_+hi
 reg_bgv_00
+reg_bgv_00_0
+reg_bgv_00_1
 reg_bgv_00_2
+reg_bgv_00_3
+reg_bgv_00_4
+reg_bgv_00_5
 reg_bgv_00_campfiredebris01
 reg_bgv_00_campfiredebris01+hidr
 reg_bgv_00+hi
@@ -84,6 +89,7 @@ reg_bgv_rvrbed_end+hidr
 reg_bgv_rvrbed_start
 reg_bgv_rvrbed_start+hidr
 reg_bgv_skinnermass01
+reg_bgv_skinnermass01_1
 reg_bgv_skinnermass01+hidr
 reg_bgv_skinnermass011
 reg_bgv_skinnermass03

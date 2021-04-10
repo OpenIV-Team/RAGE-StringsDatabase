@@ -1,6 +1,11 @@
 _cache
 _manifest
+roa_bridge_0
+roa_bridge_1
 roa_bridge_2
+roa_bridge_3
+roa_bridge_4
+roa_bridge_5
 rob_bridge
 rob_bridge_base
 rob_bridge_base_dec

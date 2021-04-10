@@ -3,6 +3,7 @@ _manifest
 reg_bgv_01
 reg_bgv_01_
 reg_bgv_01_+hi
+reg_bgv_01_2
 reg_bgv_01_icicles
 reg_bgv_01_icicles_decal
 reg_bgv_01_icicles+hidr

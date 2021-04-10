@@ -5,9 +5,11 @@ dce_area01_supp_strm
 sppack_a1sup_clny_add_on
 sppack_a1sup_clny_add_on+hidr
 sppack_a1sup_frznwaterfall
+sppack_a1sup_frznwaterfall_2
 sppack_a1sup_hcring02_01
 sppack_a1sup_hcring02_01+hidr
 sppack_a1sup_obelisk
+sppack_a1sup_obelisk_2
 sppack_a1sup_obelisk_dec
 sppack_a1sup_obelisk_dec+hidr
 sppack_a1sup_obelisk+hidr

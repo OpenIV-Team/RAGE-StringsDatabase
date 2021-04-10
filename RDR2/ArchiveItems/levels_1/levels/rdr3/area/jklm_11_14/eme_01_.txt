@@ -3,6 +3,7 @@ _manifest
 eme_00_grave_rocks
 eme_00_grave_rocks+hidr
 eme_01_
+eme_01__2
 eme_01_+hi
 eme_01_audioproxy
 eme_01_bridge_001

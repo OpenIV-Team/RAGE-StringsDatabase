@@ -1,6 +1,7 @@
 _cache
 _manifest
 amb_camp_cml_story_stdenis
+amb_camp_cml_story_stdenis_2
 amb_camp_cml_story_valentine
 amb_camps_cml_00
 amb_camps_cml_00_0
@@ -53,8 +54,11 @@ amb_cml_stick_01+hidr
 bh_wifeandlover
 gang_odriscollboys_cml001
 gang_odriscollboys_cml002
+gang_odriscollboys_cml002_2
 gang_odriscollboys_cml003
 gang_odriscollboys_cml004
+gang_odriscollboys_cml004_2
 gang_odriscollboys_cml005
 k_11_p_chelonian_camp
+k_11_p_chelonian_camp_2
 k_11_p_mary1_camp

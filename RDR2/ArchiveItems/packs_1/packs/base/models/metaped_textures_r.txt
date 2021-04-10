@@ -10,6 +10,8 @@ rcup_mr1_000_c1_999_ab
 rcup_mr1_000_c3_000_m
 rcup_mr1_000_c3_000_nm
 rcup_mr1_000_c3_999_ab
+rcup_mr1_001_c1_00_merge
+rcup_mr1_001_c1_00_merge+hi
 rcup_mr1_001_c1_000_ab
 rcup_mr1_001_c1_000_ab+hi
 rcup_mr1_001_c1_001_ab

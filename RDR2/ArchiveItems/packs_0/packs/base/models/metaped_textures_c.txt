@@ -17,6 +17,8 @@ ccup_mr1_000_c1_999_ab
 ccup_mr1_000_c3_000_m
 ccup_mr1_000_c3_000_nm
 ccup_mr1_000_c3_999_ab
+ccup_mr1_001_c0_00_merge
+ccup_mr1_001_c0_00_merge+hi
 ccup_mr1_001_c0_001_ab
 ccup_mr1_001_c0_001_ab+hi
 ccup_mr1_001_c1_000_m
@@ -388,6 +390,8 @@ coat_mr1_006_c1_000_nm_merge
 coat_mr1_006_c1_000_nm_merge+hi
 coat_mr1_006_c2_000_m
 coat_mr1_006_c2_000_m+hi
+coat_mr1_006_c3_00_merge
+coat_mr1_006_c3_00_merge+hi
 coat_mr1_006_c3_merge
 coat_mr1_006_c3_merge+hi
 coat_mr1_009_c1_000_merge

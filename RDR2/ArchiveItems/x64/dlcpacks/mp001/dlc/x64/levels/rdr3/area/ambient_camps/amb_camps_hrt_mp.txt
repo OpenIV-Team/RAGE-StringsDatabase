@@ -10,3 +10,4 @@ mp001_mp_hrt_p_sawbucktable01x+hidr
 mp001_mp_hrt_rug001x
 mp001_mp_hrt_rug001x+hidr
 mp001_mp_intro_gang_valentine2
+mp001_mp_intro_gang_valentine2_2

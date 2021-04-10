@@ -6,6 +6,7 @@ c_11_02_arch
 c_11_02_arch_slod
 c_11_02_arch+hidr
 c_11_boobytrap_01
+c_11_boobytrap_01_2
 c_11_boobytrap_01+hidr
 c_11_notrap_01
 c_13_notrap_01

@@ -19,6 +19,7 @@ mp006_a3sup_moon3_dc
 mp006_a3sup_moon3+hidr
 mp006_a3supp_moonshine01
 mp006_a3supp_moonshine01_plug
+mp006_a3supp_moonshine01_plug_2
 mp006_area03_sup_vfx
 mp006_area03_sup_vfx001
 mp006_area03_supp

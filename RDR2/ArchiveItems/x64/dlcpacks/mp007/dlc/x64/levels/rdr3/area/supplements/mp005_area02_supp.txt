@@ -16,6 +16,7 @@ mp007_a2_gbracelet02_01+hidr
 mp007_a2_hcring02_01
 mp007_a2_hcring02_01+hidr
 mp007_a2_hcring02_ipl
+mp007_a2_hcring02_ipl_2
 mp007_a2_hgbracelet02_ipl
 mp007_a2_hgearring02_ipl
 mp007_a2_hsbracelet01_ipl
@@ -30,6 +31,7 @@ mp007_p_tree_log_04_rsref001+hidr
 MP007_VALENTINE_BOUNTYBOARD
 MP007_VANHORN_BOUNTYBOARD
 mp007_watertower_addon
+mp007_watertower_addon_2
 mp007_watertower_addon+hidr
 mp007_watertower_planks
 mp007_watertower_planks+hidr

@@ -162,6 +162,7 @@ amb_scm_tablecloth003
 amb_scm_tablecloth003+hidr
 bh_rhodes_rancher
 gang_lemoyne_scm001
+gang_lemoyne_scm001_2
 gang_lemoyne_scm002
 gang_lemoyne_scm003
 gang_lemoyne_scm004
@@ -181,5 +182,6 @@ gang_lemoyne_scm017
 gang_lemoyne_scm018
 gang_lemoyne_scm019
 mp_intro_gang_rhodes4
+mp_intro_gang_rhodes4_2
 mp_jessicacamp_tumbleweed
 rc_creepy

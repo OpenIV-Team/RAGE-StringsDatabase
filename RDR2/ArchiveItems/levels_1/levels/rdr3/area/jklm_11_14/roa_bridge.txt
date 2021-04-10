@@ -1,5 +1,6 @@
 _cache
 _manifest
+roa_bridge_2
 rob_bridge
 rob_bridge_base
 rob_bridge_base_dec

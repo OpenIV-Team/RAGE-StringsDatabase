@@ -1,6 +1,7 @@
 _manifest
 generic_gill_000_merge
 generic_gill_000_merge+hi
+glasses_mr1_frame_003_c0_00_merge
 glasses_mr1_frame_003_c0_003_ab
 glasses_mr1_frame_003_c0_004_ab
 glasses_mr1_frame_003_c1_999_ab
@@ -100,6 +101,8 @@ glov_mr1_024_c1_000_merge+hi
 glov_mr1_024_c1_999_ab
 glov_mr1_024_c3_000_merge
 glov_mr1_024_c3_999_ab
+glov_mr1_025_c3_00_merge
+glov_mr1_025_c3_00_merge+hi
 glov_tr1_008_c0_000_ab
 glov_tr1_008_c0_000_m
 glov_tr1_008_c0_000_nm

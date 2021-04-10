@@ -693,6 +693,8 @@ hat_mr1_064_c0_000_m
 hat_mr1_064_c0_000_m+hi
 hat_mr1_064_c0_000_nm
 hat_mr1_064_c0_005_ab
+hat_mr1_064_c3_00_merge
+hat_mr1_064_c3_00_merge+hi
 hat_mr1_064_c3_000_ab
 hat_mr1_064_c3_002_ab
 hat_mr1_064_c3_005_ab
@@ -872,6 +874,8 @@ hat_mr1_100_c1_002_ab
 hat_mr1_100_c1_002_ab+hi
 hat_mr1_100_c1_999_ab_merge
 hat_mr1_100_c1_999_ab_merge+hi
+hat_mr1_100_c2_00_merge
+hat_mr1_100_c2_00_merge+hi
 hat_mr1_100_c3_merge
 hat_mr1_100_c3_merge+hi
 hat_mr1_102_c_merge
@@ -1581,6 +1585,9 @@ head_mr1_sc03_rough_c0_009_ab+hi
 head_mr1_sc04_c0_000_m
 head_mr1_sc04_c0_000_m+hi
 head_mr1_sc04_mp_c0_000_ab
+head_mr1_sc04_painted_c0_00_merge
+head_mr1_sc04_painted_c0_00_merge_2
+head_mr1_sc04_painted_c0_00_merge+hi
 head_mr1_sc04_painted_c0_002_ab
 head_mr1_sc04_painted_c0_002_ab+hi
 head_mr1_sc04_painted_c0_002_m

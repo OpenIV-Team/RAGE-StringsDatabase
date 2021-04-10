@@ -1,6 +1,7 @@
 _cache
 _manifest
 area02_supplements
+area02_supplements_2
 area02_supplements_strm
 sup_the_03_ivyfix_01
 sup_the_03_ivyfix_01+hidr

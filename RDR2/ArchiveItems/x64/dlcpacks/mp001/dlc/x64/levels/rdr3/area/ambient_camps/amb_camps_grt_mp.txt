@@ -34,3 +34,4 @@ mp001_mp_grt_terraincap_01
 mp001_mp_grt_terraincap_01+hidr
 mp001_mp_intro_gang_blackwater3
 mp001_mp_jessicacamp_blackwater
+mp001_mp_jessicacamp_blackwater_2

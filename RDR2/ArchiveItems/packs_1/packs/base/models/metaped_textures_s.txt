@@ -229,6 +229,7 @@ scarf_mr1_010_down_c3_000_merge
 scarf_mr1_010_down_c3_997_ab
 scarf_mr1_010_down_c3_998_ab
 scarf_mr1_010_down_c3_999_ab
+scarf_mr1_010_up_c0_00_merge
 scarf_mr1_010_up_c0_000_ab
 scarf_mr1_010_up_c0_003_ab
 scarf_mr1_010_up_c0_004_ab

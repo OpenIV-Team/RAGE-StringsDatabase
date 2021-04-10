@@ -1,6 +1,7 @@
 _cache
 _manifest
 reg_roa_00
+reg_roa_00_2
 reg_roa_00_balloon_crash
 reg_roa_00_balloon_crash+hidr
 reg_roa_00_balloon_debris

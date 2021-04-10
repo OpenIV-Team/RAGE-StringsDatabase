@@ -16,6 +16,7 @@ mp001_mp_tre03_rhodes05_wa_lod
 mp001_mp_tre03_rhodes05_wagon
 mp001_mp_tre03_rhodes05_wagon+hidr
 mp001_mp_trea_03_gfh_awning
+mp001_mp_trea_03_gfh_awning_2
 mp001_rhodes01_detail
 mp001_rhodes01_detail+hidr
 mp001_rhodes04_detail

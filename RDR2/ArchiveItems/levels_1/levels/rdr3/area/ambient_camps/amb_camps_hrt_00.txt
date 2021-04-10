@@ -121,10 +121,12 @@ amb_hrt_woodstake003
 amb_hrt_woodstake004
 gang_odoriscollboys_hrt002
 gang_odoriscollboys_hrt005
+gang_odoriscollboys_hrt005_2
 gang_odriscollboys_hrt001
 gang_odriscollboys_hrt003
 gang_odriscollboys_hrt004
 gang_odriscollboys_hrt006
+gang_odriscollboys_hrt006_2
 gang_odriscollboys_hrt007
 gang_odriscollboys_hrt008
 gang_odriscollboys_hrt009
@@ -138,3 +140,4 @@ hi@amb_camps_hrt_00_2
 hrt_31_rope_ends
 hrt_camp_hunting2
 mp_intro_gang_valentine2
+mp_intro_gang_valentine2_2

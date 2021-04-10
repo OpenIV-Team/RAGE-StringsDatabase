@@ -10,6 +10,7 @@ reg_bgv__sp_wagoncrsh
 reg_bgv__sp_wagoncrsh+hidr
 reg_bgv_+hi
 reg_bgv_00
+reg_bgv_00_2
 reg_bgv_00_campfiredebris01
 reg_bgv_00_campfiredebris01+hidr
 reg_bgv_00+hi

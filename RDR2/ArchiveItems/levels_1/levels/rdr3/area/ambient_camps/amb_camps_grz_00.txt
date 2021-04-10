@@ -1,6 +1,7 @@
 _cache
 _manifest
 amb_camp_gre_story_hunter
+amb_camp_gre_story_hunter_2
 amb_camp_gre_story_treasure
 amb_camp_grz_finale2
 amb_camps_grz_00

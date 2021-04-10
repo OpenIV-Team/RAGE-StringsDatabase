@@ -221,7 +221,9 @@ amb_camp_bgv_mount_view_1
 amb_camp_bgv_mount_view_2
 amb_camp_bgv_ovrhang
 amb_camp_bgv_robbery
+amb_camp_bgv_robbery_2
 amb_camp_bgv_skinners
+amb_camp_bgv_skinners_2
 amb_camp_bgv_trap01
 amb_camp_bgv_wagon01
 amb_camp_bgv_wildchest
@@ -238,12 +240,16 @@ gang_odriscollboys_bgv003
 gang_odriscollboys_bgv004
 gang_odriscollboys_bgv005
 gang_odriscollboys_bgv006
+gang_odriscollboys_bgv006_2
 gang_odriscollboys_bgv007
 gang_odriscollboys_bgv008
 gang_odriscollboys_bgv009
 gang_odriscollboys_bgv010
+gang_odriscollboys_bgv010_2
 hi@amb_camps_bgv_00_0
 hi@amb_camps_bgv_00_1
 mp_jessicacamp_val
+mp_jessicacamp_val_2
 n_06p_loanshark_hunter2
 p_05p_rcevellynmiller_camp01
+p_05p_rcevellynmiller_camp01_2

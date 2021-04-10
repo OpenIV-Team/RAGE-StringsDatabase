@@ -88,6 +88,7 @@ mp001_mp_winlose_desert_terrain
 mp001_mp_winlose_desert_txd
 mp001_mp_winlose_desert_txd+hi
 mp001_mp_winlose_forest
+mp001_mp_winlose_forest_2
 mp001_mp_winlose_forest_gallows
 mp001_mp_winlose_forest_lod
 mp001_mp_winlose_forest_platform
@@ -96,6 +97,7 @@ mp001_mp_winlose_forest_terrain
 mp001_mp_winlose_forest_txd
 mp001_mp_winlose_forest_txd+hi
 mp001_mp_winlose_snow
+mp001_mp_winlose_snow_2
 mp001_mp_winlose_snow_gallows
 mp001_mp_winlose_snow_lod
 mp001_mp_winlose_snow_platform

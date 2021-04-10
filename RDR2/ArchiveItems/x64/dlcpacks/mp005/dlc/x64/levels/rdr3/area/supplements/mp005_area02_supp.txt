@@ -16,6 +16,7 @@ mp005_a2_gbracelet02_01+hidr
 mp005_a2_hcring02_01
 mp005_a2_hcring02_01+hidr
 mp005_a2_hcring02_ipl
+mp005_a2_hcring02_ipl_2
 mp005_a2_hgbracelet02_ipl
 mp005_a2_hgearring02_ipl
 mp005_a2_hsbracelet01_ipl
@@ -33,6 +34,7 @@ mp005_p_tree_log_04_rsref001+hidr
 mp005_valentine_bountyboard
 mp005_vanhorn_bountyboard
 mp005_watertower_addon
+mp005_watertower_addon_2
 mp005_watertower_addon+hidr
 mp005_watertower_planks
 mp005_watertower_planks+hidr

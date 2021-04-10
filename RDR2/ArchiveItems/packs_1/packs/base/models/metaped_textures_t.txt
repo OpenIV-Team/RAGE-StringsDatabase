@@ -1,6 +1,4 @@
 _manifest
-cs_mrsadler_fs1_scarf_001_c0
-cs_mrsadler_fs1_scarf_001_c0+hi
 task_mr1_024_c0_000_merge
 task_mr1_024_c0_000_merge+hi
 task_mr1_025_c_merge
@@ -46,6 +44,8 @@ tatteredunionsuit_mr1_000_c3_merge
 tatteredunionsuit_mr1_000_c3_merge+hi
 tatteredunionsuit_mr1_000_full_c1_000_merge
 tatteredunionsuit_mr1_000_full_c1_000_merge+hi
+tatteredunionsuit_mr1_000_full_c3_merge
+tatteredunionsuit_mr1_000_full_c3_merge+hi
 tatteredunionsuit_mr1_001_c1_merge
 tatteredunionsuit_mr1_001_c1_merge+hi
 tatteredunionsuit_mr1_001_c3_merge

@@ -1,5 +1,4 @@
 _manifest
-clothing_item_m_ugarment_005_tint_004
 veil_fr1_000_c0_000_merge
 vest_fr1_001_c3_merge
 vest_fr1_001_c3_merge+hi
@@ -327,6 +326,7 @@ vest_mr1_015_c3_004_ab
 vest_mr1_015_c3_005_ab
 vest_mr1_015_c3_999_ab
 vest_mr1_016_c0_000_ab
+vest_mr1_016_c0_000_m
 vest_mr1_016_c0_000_nm
 vest_mr1_016_c0_001_ab
 vest_mr1_016_c0_001_nm

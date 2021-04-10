@@ -16,9 +16,3 @@ dis_tal_tree_fallen_005
 dis_tal_tree_fallen_006
 dis_tall_savage02
 dis_tall_savage02+hi
-re_sp_savagewarning_01_1
-re_sp_savagewarning_02_1
-re_sp_savagewarning_02_2
-re_sp_savagewarning_02_3
-re_sp_savagewarning_02_4
-re_sp_savagewarning_02_5

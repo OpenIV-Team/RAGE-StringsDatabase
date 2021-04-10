@@ -2,6 +2,7 @@ _manifest
 a_c_alligator_01_head_000_c0_004_ab
 a_c_alligator_01_head_000_c0_004_ab+hi
 a_c_alligator_01_merge
+a_c_alligator_01_merge+hi
 a_c_bear_01_merge_2
 a_c_bear_01_merge_2+hi
 a_c_bear_01_merge_3
@@ -29,7 +30,6 @@ accs_mr1_032_c3_merge
 accs_mr1_032_c3_merge+hi
 cs_dutch_ms1_merge_12
 cs_dutch_ms1_merge_12+hi
-mp_necktie_mr1_004_c2_000_merge
 pelt_large_bighornram_000_c0_000_ab
 pelt_large_bighornram_000_c0_000_ab+hi
 pelt_large_bighornram_000_c0_000_m

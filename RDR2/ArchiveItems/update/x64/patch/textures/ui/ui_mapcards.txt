@@ -109,3 +109,6 @@ map_card_trader_butcher
 map_card_trader_intro
 map_card_trader_stew_pot
 map_card_travelling_saleswoman
+map_card_gun_for_hire_jake
+map_card_gun_for_hire_sadie
+map_card_gun_for_hire_obediah

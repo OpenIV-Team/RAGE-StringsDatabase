@@ -76,6 +76,8 @@ sha_man_int
 sha_man_int_commode
 sha_man_int_commode004
 sha_man_int_shell
+sha_man_int_shell+hi
+sha_man_int+hi
 sha_man_kitch_decals004
 sha_man_kitch_decals01
 sha_man_kitch_decals02

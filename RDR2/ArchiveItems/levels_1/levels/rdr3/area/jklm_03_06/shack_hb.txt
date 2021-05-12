@@ -1,5 +1,6 @@
 _cache
 _manifest
+shack_hb_0
 shb_shack_ext
 shb_shack_ext_d
 shb_shack_ext_d+hidr

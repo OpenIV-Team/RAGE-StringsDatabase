@@ -14,6 +14,7 @@ q0304_tunnel_shell
 q0304_tunnel_shell+hidr
 q0304_tunnel_supports
 q0304_tunnel_supports+hidr
+q0304_tunnel+hi
 q3_q4_mid_decals_00a
 q3_q4_mid_decals_00b
 q3_q4_mid_decals_01a

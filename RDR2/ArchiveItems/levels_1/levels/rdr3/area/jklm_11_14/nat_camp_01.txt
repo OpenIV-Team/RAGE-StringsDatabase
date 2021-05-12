@@ -22,6 +22,9 @@ nat_lerug2_020
 nat_lerug2_020+hidr
 nat_native_army01_slod
 nat_native01_slod
+nat_native1_coh_02_1
+nat_native1_coh_02_2
+nat_native1_coh_02_3
 nat_native2_canopy
 nat_native2_canopy_slod
 nat_native2_canopy+hidr

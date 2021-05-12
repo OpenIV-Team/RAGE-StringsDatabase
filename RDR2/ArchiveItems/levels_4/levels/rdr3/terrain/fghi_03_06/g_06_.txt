@@ -2,6 +2,7 @@ _cache
 _manifest
 g_06_
 g_06__bkt_1
+g_06__bkt_1+hi
 g_06__glacier_decal001
 g_06__glacier_decal001+hidr
 g_06__hd_0_0_0

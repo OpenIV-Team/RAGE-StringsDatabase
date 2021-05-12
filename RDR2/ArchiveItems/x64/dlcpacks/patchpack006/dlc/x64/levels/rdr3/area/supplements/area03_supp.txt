@@ -1,7 +1,14 @@
 _cache
 _manifest
 area03_supp
+area03_supp_0
+area03_supp_1
+area03_supp_2
+area03_supp_3
+area03_supp_4
+area03_supp_5
 area03_supp_strm
+area03_supp_strm_0
 mp006_gala_dock_addition
 mp006_gala_dock_addition_lod
 mp006_gala_dock_addition_slod

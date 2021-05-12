@@ -17,6 +17,8 @@ rho_sal_int
 rho_sal_int_bath_details01
 rho_sal_int_bath_details01+hidr
 rho_sal_int_shell
+rho_sal_int_shell+hi
+rho_sal_int+hi
 rho_sal_player_mirror
 rho_sal_rearhall1_details
 rho_sal_rhall1_dc

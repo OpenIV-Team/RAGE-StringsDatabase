@@ -1,7 +1,14 @@
 _cache
 _manifest
 area04_supplements
+area04_supplements_0
+area04_supplements_1
+area04_supplements_2
+area04_supplements_3
+area04_supplements_4
+area04_supplements_5
 area04_supplements_strm
+area04_supplements_strm_0
 sup_fom_01_wallfix_01
 sup_fom_01_wallfix_01+hidr
 sup_stairstepper_dummy

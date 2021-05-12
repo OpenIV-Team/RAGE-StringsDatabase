@@ -46,7 +46,9 @@ new_gar_03_ter02_t
 new_gar_03_ter02+hidr
 new_gar_03_terext_dec
 new_gar_03_txd1
+new_gar_03_txd1+hi
 new_gar_03_txd3
+new_gar_03_txd3+hi
 new_gar_03_wall01_transp
 new_gar_03_wall01_transp+hidr
 new_gar_03_wall022

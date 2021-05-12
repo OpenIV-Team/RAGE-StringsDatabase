@@ -18,4 +18,5 @@ ple_house01_int_ref_proxy+hidr
 ple_house01_int_shdw_proxy
 ple_house01_int_walls
 ple_house01_int_walls+hidr
+ple_house01_int+hi
 ple_house01_lightbox

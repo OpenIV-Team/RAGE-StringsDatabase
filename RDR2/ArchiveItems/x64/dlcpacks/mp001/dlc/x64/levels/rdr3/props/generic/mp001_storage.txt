@@ -1,5 +1,6 @@
 _manifest
 mp001_mp_barrelshared
+mp001_mp_barrelshared+hi
 mp001_p_barreltriple01x
 mp001_p_barreltwin01x
 mp001_p_cratetriple01x

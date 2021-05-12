@@ -1,5 +1,6 @@
 _cache
 _manifest
+bea_01__0
 bea_01_dummy_hv
 bea_01_mapboard001
 bea_01_mapboard001+hidr

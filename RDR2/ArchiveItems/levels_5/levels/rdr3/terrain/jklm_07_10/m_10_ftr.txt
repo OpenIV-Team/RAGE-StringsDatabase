@@ -1,6 +1,7 @@
 _cache
 _manifest
 m_10_ftr_
+m_10_ftr_0
 m_10_ftr_ship_rock
 m_10_ftr_ship_rock_d1
 m_10_ftr_ship_rock_d2

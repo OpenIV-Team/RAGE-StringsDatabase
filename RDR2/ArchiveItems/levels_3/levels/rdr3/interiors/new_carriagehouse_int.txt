@@ -24,3 +24,4 @@ new_carriage_lightholder
 new_carriage_shop_detail01
 new_carriage_shop_detail01+hidr
 new_carriagehouse_int
+new_carriagehouse_int+hi

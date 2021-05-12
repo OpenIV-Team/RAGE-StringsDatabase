@@ -4,8 +4,11 @@ i_15_
 i_15___decal006_01
 i_15___decal006_01+hidr
 i_15__bkt_0
+i_15__bkt_0+hi
 i_15__bkt_1
+i_15__bkt_1+hi
 i_15__bkt_2
+i_15__bkt_2+hi
 i_15__hd_0_0_0
 i_15__hd_0_0_1
 i_15__hd_0_0_-1

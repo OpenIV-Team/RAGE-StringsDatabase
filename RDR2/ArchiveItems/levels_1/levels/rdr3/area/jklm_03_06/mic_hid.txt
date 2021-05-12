@@ -5,6 +5,10 @@ mic_blankie01
 mic_group_logpile01
 mic_group_logpile01+hidr
 mic_hid
+mic_hid_0
+mic_hid_1
+mic_hid_2
+mic_hid_3
 mic_hid_barrels_01
 mic_hid_barrels_02
 mic_hid_barrels_a

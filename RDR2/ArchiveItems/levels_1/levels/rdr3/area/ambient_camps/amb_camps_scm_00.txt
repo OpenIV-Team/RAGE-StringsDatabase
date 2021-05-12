@@ -1,6 +1,7 @@
 _cache
 _manifest
 amb_camp_scm_story_murfee
+amb_camp_scm_story_murfee_1
 amb_camps_scm_00
 amb_camps_scm_00_strm
 amb_scm_
@@ -161,7 +162,10 @@ amb_scm_s_tent02_d003+hidr
 amb_scm_tablecloth003
 amb_scm_tablecloth003+hidr
 bh_rhodes_rancher
+bh_rhodes_rancher_1
 gang_lemoyne_scm001
+gang_lemoyne_scm001_1
+gang_lemoyne_scm001_2
 gang_lemoyne_scm002
 gang_lemoyne_scm003
 gang_lemoyne_scm004
@@ -181,5 +185,7 @@ gang_lemoyne_scm017
 gang_lemoyne_scm018
 gang_lemoyne_scm019
 mp_intro_gang_rhodes4
+mp_intro_gang_rhodes4_1
+mp_intro_gang_rhodes4_2
 mp_jessicacamp_tumbleweed
 rc_creepy

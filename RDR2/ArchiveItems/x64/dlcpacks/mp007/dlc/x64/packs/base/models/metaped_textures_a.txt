@@ -1,1 +1,7 @@
 _manifest
+a_c_eagle_01_head_000_c0_003_ab
+a_c_eagle_01_head_000_c0_003_ab+hi
+a_c_eagle_01_head_000_c0_004_ab
+a_c_eagle_01_head_000_c0_004_ab+hi
+a_c_eagle_01_head_000_c0_005_ab
+a_c_eagle_01_head_000_c0_005_ab+hi

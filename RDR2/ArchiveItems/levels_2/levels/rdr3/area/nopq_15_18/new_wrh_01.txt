@@ -21,4 +21,5 @@ new_wrh_01_tower_det+hidr
 new_wrh_01_tower_wt
 new_wrh_01_tower+hidr
 new_wrh_01_txd1
+new_wrh_01_txd1+hi
 newwr01pr_combo01_dslod

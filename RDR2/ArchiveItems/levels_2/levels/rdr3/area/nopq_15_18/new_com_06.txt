@@ -28,7 +28,9 @@ new_com_06_trainstn_poles_dec
 new_com_06_trainstn+hidr
 new_com_06_trolleyext
 new_com_06_txd1
+new_com_06_txd1+hi
 new_com_06_txd2
+new_com_06_txd2+hi
 new_com_train_canopy_roof
 new_com_train_canopy_roof+hidr
 new_trolley_ext

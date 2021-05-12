@@ -51,6 +51,7 @@ new_wrh_03_props_debris_txd
 new_wrh_03_stables_01
 new_wrh_03_stables_01+hidr
 new_wrh_03_txd1
+new_wrh_03_txd1+hi
 new_wrh_03_wall_metal_01
 new_wrh_03_wall_metal_03
 new_wrh_03_wall01

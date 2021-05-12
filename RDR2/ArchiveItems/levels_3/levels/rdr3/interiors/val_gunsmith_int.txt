@@ -18,6 +18,7 @@ val_gunsmith_int_ref+hidr
 val_gunsmith_int_shadowproxy
 val_gunsmith_int_shell
 val_gunsmith_int_txd
+val_gunsmith_int_txd+hi
 val_gunsmith_lh_closed
 val_gunsmith_lh_open
 val_gunsmith_shdwbox

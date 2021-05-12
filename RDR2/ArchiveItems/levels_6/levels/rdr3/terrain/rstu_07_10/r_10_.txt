@@ -3,6 +3,7 @@ _manifest
 r_10_
 r_10___decal001
 r_10__bkt_0
+r_10__bkt_0+hi
 r_10__hd_0_0_0
 r_10__hd_0_0_1
 r_10__hd_0_0_-1

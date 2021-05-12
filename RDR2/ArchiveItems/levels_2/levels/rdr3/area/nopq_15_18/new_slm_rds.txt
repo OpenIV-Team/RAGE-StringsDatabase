@@ -44,7 +44,9 @@ new_slm_rds_p15yard_dec
 new_slm_rds_props
 new_slm_rds_txd1
 new_slm_rds_txd2
+new_slm_rds_txd2+hi
 new_slm_rds_txd3
+new_slm_rds_txd3+hi
 newslrdpr_roads01_slod
 newslrdpr_roads02_slod
 newslrdpr_roads03_slod

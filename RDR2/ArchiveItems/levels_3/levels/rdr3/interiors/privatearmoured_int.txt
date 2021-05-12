@@ -25,3 +25,4 @@ privatearmoured_int_table
 privatearmoured_int_table+hidr
 privatearmoured_int_windr
 privatearmoured_int_windr+hidr
+privatearmoured_int+hi

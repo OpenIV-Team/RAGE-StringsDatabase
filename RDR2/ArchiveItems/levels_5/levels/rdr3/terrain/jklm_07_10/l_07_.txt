@@ -2,8 +2,11 @@ _cache
 _manifest
 l_07_
 l_07__bkt_1
+l_07__bkt_1+hi
 l_07__bkt_2
+l_07__bkt_2+hi
 l_07__bkt_3
+l_07__bkt_3+hi
 l_07__hd_0_0_0
 l_07__hd_0_0_1
 l_07__hd_0_0_-1

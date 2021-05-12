@@ -50,5 +50,7 @@ new_frn_04_saloon_detail
 new_frn_04_saloon_ground_decal
 new_frn_04_saloon+hidr
 new_frn_04_txd1
+new_frn_04_txd1+hi
 new_frn_04_txd2
+new_frn_04_txd2+hi
 new_frn_04_water

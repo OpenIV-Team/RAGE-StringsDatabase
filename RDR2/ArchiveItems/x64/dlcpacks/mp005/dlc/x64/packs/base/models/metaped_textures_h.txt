@@ -1,4 +1,10 @@
+hair_gen_999_c0_999_m
+hair_gen_999_c0_999_m+hi
+hat_mr1_063_c1_000_m
+hat_mr1_063_c1_000_m+hi
 hat_mr1_063_c1_000_nm
 hat_mr1_063_c1_999_ab
+hat_mr1_063_c3_000_m
+hat_mr1_063_c3_000_m+hi
 hat_mr1_063_c3_000_nm
 hat_mr1_063_c3_999_ab

@@ -2,8 +2,11 @@ _cache
 _manifest
 n_09_
 n_09__bkt_0
+n_09__bkt_0+hi
 n_09__bkt_1
+n_09__bkt_1+hi
 n_09__bkt_2
+n_09__bkt_2+hi
 n_09__bkt_3
 n_09__hd_0_0_0
 n_09__hd_0_0_1

@@ -26,6 +26,7 @@ rho_slum_player_int
 rho_slum_player_int_ref
 rho_slum_player_int_ref+hidr
 rho_slum_player_int_shell
+rho_slum_player_int+hi
 rho_slum_player_mirror
 rho_slum_player_mirror+hidr
 rho_slum_player_shell

@@ -22,7 +22,9 @@ rho_bank_hall_lightbox
 rho_bank_int
 rho_bank_int_shadowproxy
 rho_bank_int_shell
+rho_bank_int_shell+hi
 rho_bank_int_txd
+rho_bank_int_txd+hi
 rho_bank_int_walla
 rho_bank_int_wallb
 rho_bank_int_wallb+hidr

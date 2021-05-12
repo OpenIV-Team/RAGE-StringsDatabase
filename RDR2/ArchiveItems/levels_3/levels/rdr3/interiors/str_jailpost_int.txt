@@ -17,3 +17,4 @@ str_jailpost_int_ref_proxy
 str_jailpost_int_ref_proxy+hidr
 str_jailpost_int_shadow_proxy
 str_jailpost_int_txd
+str_jailpost_int_txd+hi

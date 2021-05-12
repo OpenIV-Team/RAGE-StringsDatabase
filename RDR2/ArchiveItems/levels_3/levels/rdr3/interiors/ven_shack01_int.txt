@@ -33,4 +33,5 @@ ven_shack01_int_sheets
 ven_shack01_int_shell
 ven_shack01_int_shell+hi
 ven_shack01_int_shell+hidr
+ven_shack01_int+hi
 ven_shack01_lightbox

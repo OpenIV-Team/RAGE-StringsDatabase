@@ -18,4 +18,5 @@ sil_house_int
 sil_house_int_ref
 sil_house_int_ref+hidr
 sil_house_int_shadow
+sil_house_int+hi
 sil_house_lightbox

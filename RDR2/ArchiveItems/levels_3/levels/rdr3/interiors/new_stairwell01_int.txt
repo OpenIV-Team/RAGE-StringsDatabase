@@ -10,6 +10,7 @@ new_stairwell01_int_decal+hidr
 new_stairwell01_int_floor
 new_stairwell01_int_floor+hidr
 new_stairwell01_int_shell_txd
+new_stairwell01_int_shell_txd+hi
 new_stairwell01_int_txd
 new_stairwell01_int_walls
 new_stairwell01_int_walls+hidr

@@ -6,6 +6,7 @@ hi@mfr_04_2
 hi@mfr_04_3
 hi@mfr_04_4
 mfr_04_
+mfr_04_+hi
 mfr_04_0
 mfr_04_1
 mfr_04_2
@@ -32,12 +33,14 @@ mfr_04_cottage03_em
 mfr_04_cottage03_em_lod
 mfr_04_cottage03+hidr
 mfr_04_em
+mfr_04_em+hi
 mfr_04_fence
 mfr_04_fence_b
 mfr_04_gate
 mfr_04_gate+hidr
 mfr_04_gate2
 mfr_04_hd
+mfr_04_hd+hi
 mfr_04_hen_bridge_01
 mfr_04_hen_bridge_01_dec
 mfr_04_hen_bridge_01_dec+hidr

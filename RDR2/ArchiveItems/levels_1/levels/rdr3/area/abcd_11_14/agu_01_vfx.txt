@@ -52,6 +52,7 @@ agu_01_vfx_splash_030
 agu_01_vfx_splash_031
 agu_01_vfx_splash_032
 agu_01_vfx_strm
+agu_01_vfx_strm_0
 agu_01_vfx_sugarmill
 agu_01_vfx_tower
 agu_01_vfx_walls001

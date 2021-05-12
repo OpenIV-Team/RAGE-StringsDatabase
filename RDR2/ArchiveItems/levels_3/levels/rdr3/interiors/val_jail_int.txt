@@ -10,6 +10,7 @@ val_jail_int_ref
 val_jail_int_ref+hidr
 val_jail_int_shadowproxy
 val_jail_int_txd
+val_jail_int_txd+hi
 val_jail_int_walla
 val_jail_int_wallb
 val_jail_interior_shell

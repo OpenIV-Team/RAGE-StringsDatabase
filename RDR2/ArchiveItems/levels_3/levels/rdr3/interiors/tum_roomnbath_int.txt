@@ -21,5 +21,6 @@ tum_roomnbath_int
 tum_roomnbath_int_ref
 tum_roomnbath_int_ref+hidr
 tum_roomnbath_int_shad
+tum_roomnbath_int+hi
 tum_roomnbath_lightbox
 tum_roomnbath_lightbox001

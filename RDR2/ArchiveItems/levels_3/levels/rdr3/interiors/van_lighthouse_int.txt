@@ -13,3 +13,4 @@ van_lighthouse_int_ref_b
 van_lighthouse_int_shdw_prxy
 van_lighthouse_int_shell
 van_lighthouse_int_shell+hidr
+van_lighthouse_int+hi

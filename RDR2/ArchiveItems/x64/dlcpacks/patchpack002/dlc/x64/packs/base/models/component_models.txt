@@ -98,8 +98,10 @@ cs_bathingladies_01_fs1_merge_13
 cs_bathingladies_01_fs1_merge_14
 cs_bathingladies_01_fs1_merge_15
 cs_bathingladies_01_fs1_merge_16
+cs_dutch_ms1_coat_001
 cs_dutch_ms1_merge_17
 cs_javierescuella_ms1_merge_34
+cs_javierescuella_ms1_wrap_000
 cs_warvet_ms1_merge_2
 hair_fr1_024
 hair_fr1_024_alt01
@@ -180,6 +182,7 @@ player_three_ms1_shirt_002_o_r_full
 player_three_ms1_shirt_003_c_b_full
 player_three_ms1_shirt_003_c_r_full
 player_three_ms1_shirt_003_o_b_full
+player_zero_coat_018
 player_zero_mask_003
 player_zero_mask_003_co
 player_zero_mask_003_co_highcollar

@@ -8,9 +8,11 @@ mp005_a4_capseriesmarker_05
 mp005_a4_gbbracelet03_01
 mp005_a4_gbbracelet03_01+hidr
 mp005_a4_hsbracelet03_ipl
+mp005_a4_hsbracelet03_ipl_1
 mp005_a4_itbracelet03_ipl
 mp005_a4_newseriesmarker_05
 mp005_a4_orgbbracelet03_ipl
+mp005_a4_orgbbracelet03_ipl_1
 mp005_a4_q06_lbm
 mp005_a4_q06_lbm+hidr
 mp005_a4_r5_lbm

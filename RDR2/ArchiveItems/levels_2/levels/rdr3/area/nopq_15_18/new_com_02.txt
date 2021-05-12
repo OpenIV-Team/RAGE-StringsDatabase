@@ -34,7 +34,9 @@ new_com_02_pickwick_det+hidr
 new_com_02_pickwick+hidr
 new_com_02_props_debris_01
 new_com_02_txd1
+new_com_02_txd1+hi
 new_com_02_txd2
+new_com_02_txd2+hi
 new_com_02_vfx_bulbs_01
 new_com_02_vfx_bulbs_02
 newcom02_mlflag01_sim

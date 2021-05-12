@@ -14,6 +14,7 @@ wat_basement
 wat_basement+hidr
 wat_cabin_int
 wat_cabin_int_shadow_proxy
+wat_cabin_int+hi
 wat_cabin_lightbox_back
 wat_cabin_lightbox_basement
 wat_cabin_lightbox_fireplace

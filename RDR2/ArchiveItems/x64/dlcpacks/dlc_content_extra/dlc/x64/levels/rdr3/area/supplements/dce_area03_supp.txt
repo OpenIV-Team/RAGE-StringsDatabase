@@ -6,5 +6,6 @@ sppack_a3sup_bolgertree
 sppack_a3sup_bolgertree+hidr
 sppack_a3sup_cateyetrinket
 sppack_a3sup_sharktoothtrinket
+sppack_a3sup_sharktoothtrinket_1
 sppack_a3sup_shrkth_crate
 sppack_a3sup_shrkth_crate+hidr

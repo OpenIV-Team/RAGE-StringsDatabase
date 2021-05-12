@@ -5,6 +5,7 @@ pro_work_int_shadowproxy
 pro_workshop_int
 pro_workshop_int_ref
 pro_workshop_int_ref+hidr
+pro_workshop_int+hi
 pro_workshop_lightbox
 pro_wrkshp_int_beams
 pro_wrkshp_int_beams+hidr

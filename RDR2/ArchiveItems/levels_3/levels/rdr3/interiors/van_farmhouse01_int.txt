@@ -47,6 +47,7 @@ van_farmhse01_int_windows
 van_farmhse01_int_windows+hidr
 van_farmhse01_int_wires
 van_farmhse01_int_wires+hidr
+van_farmhse01_int+hi
 van_lab_animals
 van_lab_animals+hidr
 van_shadow_proxy

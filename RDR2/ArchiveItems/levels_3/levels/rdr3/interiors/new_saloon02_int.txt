@@ -10,6 +10,7 @@ new_saloon02_int_ref_c
 new_saloon02_int_shadowproxy
 new_saloon02_int_shell
 new_saloon02_int_txd
+new_saloon02_int_txd+hi
 salslum_back_detail
 salslum_back_detail+hidr
 salslum_back_int_decals02

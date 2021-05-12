@@ -1,10 +1,12 @@
 _cache
 _manifest
 arm_05__corpsepit01
+arm_05__corpsepit01+hi
 arm_05_0
 arm_05_1
 arm_05_building05_em
 arm_05_cholera
+arm_05_cholera_1
 arm_05_cholera_lod
 arm_05_cholera+hidr
 arm_05_corpsepit_slod
@@ -54,6 +56,7 @@ arm_05_sheriff_int_lod
 arm_05_sheriffsoffice01x
 arm_05_sheriffsoffice01x+hidr
 arm_05_txd_01
+arm_05_txd_01+hi
 arm_05_vfx_bonefire01_a
 arm_05_vfx_bonefire01_ab
 arm_05_vfx_bonefire01_abc

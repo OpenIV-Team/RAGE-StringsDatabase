@@ -23,6 +23,7 @@ shack_ai_int_shell+hidr
 shack_ai_int_tools
 shack_ai_int_wood
 shack_ai_int_wood+hidr
+shack_ai_int+hi
 shack_ai_lightbox
 shack_ai_wincustom
 shack_ai_wincustom+hidr

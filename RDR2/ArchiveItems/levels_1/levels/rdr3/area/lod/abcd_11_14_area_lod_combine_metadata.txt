@@ -1,6 +1,11 @@
 _cache
 _manifest
 abcd_11_14_area_lod
+abcd_11_14_area_lod_combine_metadata_001
+abcd_11_14_area_lod_combine_metadata_001_strm
+abcd_11_14_area_lod_combine_metadata_002_strm
+abcd_11_14_area_lod_combine_metadata_003_strm
+abcd_11_14_area_lod_combine_metadata_004_strm
 agu_01_
 agu_01__long_0
 agu_01__strm_0

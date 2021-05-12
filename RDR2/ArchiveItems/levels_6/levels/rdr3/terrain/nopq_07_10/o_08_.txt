@@ -2,9 +2,13 @@ _cache
 _manifest
 o_08_
 o_08__bkt_0
+o_08__bkt_0+hi
 o_08__bkt_1
+o_08__bkt_1+hi
 o_08__bkt_2
+o_08__bkt_2+hi
 o_08__bkt_3
+o_08__bkt_3+hi
 o_08__hd_0_0_0
 o_08__hd_0_0_1
 o_08__hd_0_0_-1

@@ -20,7 +20,9 @@ new_slm_03_props_debris02
 new_slm_03_shotgun
 new_slm_03_shotgun+hidr
 new_slm_03_txd1
+new_slm_03_txd1+hi
 new_slm_03_txd2
+new_slm_03_txd2+hi
 new_slm_03_water
 new_slm_03_water+hidr
 new_slm_03_water001

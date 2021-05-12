@@ -43,5 +43,8 @@ new_mrk_02_stablebuild
 new_mrk_02_stablebuild_d
 new_mrk_02_stablebuild+hidr
 new_mrk_02_txd1
+new_mrk_02_txd1+hi
 new_mrk_02_txd2
+new_mrk_02_txd2+hi
 new_mrk_02_txd3
+new_mrk_02_txd3+hi

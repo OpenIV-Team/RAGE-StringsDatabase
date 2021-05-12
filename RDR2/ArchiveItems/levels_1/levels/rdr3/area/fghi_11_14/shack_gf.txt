@@ -12,3 +12,4 @@ sgf_rockshack98
 sgf_rockshack99
 sgf_rockshackstones
 sgf_rockshackstones+hidr
+shack_gf_0

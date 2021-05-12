@@ -2,6 +2,7 @@ _cache
 _manifest
 n_04_
 n_04__bkt_1
+n_04__bkt_1+hi
 n_04__hd_0_0_0
 n_04__hd_0_0_1
 n_04__hd_0_0_-1

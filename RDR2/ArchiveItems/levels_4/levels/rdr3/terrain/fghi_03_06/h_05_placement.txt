@@ -1,6 +1,8 @@
 _cache
 _manifest
 h_05_placement
+h_05_placement_0
+h_05_placement_1
 h_05_placement_long_0
 h_05_placement_strm
 h_05p_glacier_runnoff

@@ -69,7 +69,9 @@ new_com_05_props_txd
 new_com_05_taxi_tail_items
 new_com_05_taxi_tail_items+hidr
 new_com_05_txd1
+new_com_05_txd1+hi
 new_com_05_txd2
+new_com_05_txd2+hi
 new_displaywin002
 new_displaywin002+hidr
 new_magic_int_lod

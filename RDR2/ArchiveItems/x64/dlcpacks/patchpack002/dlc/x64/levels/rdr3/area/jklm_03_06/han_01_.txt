@@ -1,4 +1,6 @@
 _cache
 _manifest
+han_01__0
+han_01__1
 han_01_props_debris_03
 han_01_props_debris_03+hidr

@@ -6,3 +6,4 @@ scw_shack_cwb
 scw_shack_cwb_ext
 scw_shack_cwb_ext+hidr
 scw_shack_cwb+hi
+shack_cwb_0

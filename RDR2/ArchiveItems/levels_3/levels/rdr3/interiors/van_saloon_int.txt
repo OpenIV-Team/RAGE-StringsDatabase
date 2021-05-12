@@ -19,6 +19,7 @@ van_saloon_int
 van_saloon_int_ref
 van_saloon_int_ref+hidr
 van_saloon_int_shell
+van_saloon_int+hi
 van_saloon_lightbox_001
 van_saloon_lightbox_002
 van_saloon_shell_decals

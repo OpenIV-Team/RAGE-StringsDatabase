@@ -5,8 +5,11 @@ u_99___decal001
 u_99___decal002
 u_99___decal003
 u_99__bkt_1
+u_99__bkt_1+hi
 u_99__bkt_2
+u_99__bkt_2+hi
 u_99__bkt_3
+u_99__bkt_3+hi
 u_99__hd_0_0_0
 u_99__hd_0_0_1
 u_99__hd_0_0_-1

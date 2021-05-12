@@ -14,5 +14,6 @@ shack_bv_int_ref_proxy
 shack_bv_int_ref_proxy+hidr
 shack_bv_int_shadowproxy
 shack_bv_int_walls
+shack_bv_int+hi
 shack_bv_lightblocker
 shack_bv_lightbox

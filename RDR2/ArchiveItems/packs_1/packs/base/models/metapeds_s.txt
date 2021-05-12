@@ -60,6 +60,7 @@ scarf_mr1_024
 scarf_mr1_025
 scarf_mr1_026
 scarf_mr1_026_alt
+sdobesemen_01_mf1_coat_026
 sdobesemen_01_mf1_merge_2
 sdobesemen_01_mf1_tie_024
 sdobesewomen_01_ff1_gloves_000

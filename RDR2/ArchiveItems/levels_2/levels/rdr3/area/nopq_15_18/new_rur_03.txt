@@ -1,6 +1,7 @@
 _manifest
 new_rur_03
 new_rur_03_txd1
+new_rur_03_txd1+hi
 new_rur03_01_farm_barn
 new_rur03_01_farm_barn+hidr
 new_rur03_carriage

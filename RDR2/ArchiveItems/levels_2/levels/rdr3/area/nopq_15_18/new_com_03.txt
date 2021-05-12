@@ -55,7 +55,9 @@ new_com_03_tinycs_ext
 new_com_03_towers
 new_com_03_towers+hidr
 new_com_03_txd1
+new_com_03_txd1+hi
 new_com_03_txd2
+new_com_03_txd2+hi
 new_com3_837royal
 new_com3_837royal_d
 new_com3_837royal+hidr

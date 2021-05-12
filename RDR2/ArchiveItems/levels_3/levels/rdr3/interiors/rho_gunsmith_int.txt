@@ -28,6 +28,7 @@ rho_gunsmith_guns
 rho_gunsmith_int
 rho_gunsmith_int_shadowproxy
 rho_gunsmith_int_shell
+rho_gunsmith_int+hi
 rho_gunsmith_shop
 rho_gunsmith_shop+hidr
 rhogunsmith_lightbox

@@ -1,5 +1,6 @@
 _cache
 _manifest
+lof_01__0
 lof_01_decals
 lof_01_decals+hidr
 lof_01_drclosed

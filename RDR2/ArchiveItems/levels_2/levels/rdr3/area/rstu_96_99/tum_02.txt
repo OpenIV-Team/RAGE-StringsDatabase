@@ -45,3 +45,4 @@ tum_02_saloon_ladder+hidr
 tum_02_shack
 tum_02_shack_dcl
 tum_02_txd_01
+tum_02_txd_01+hi

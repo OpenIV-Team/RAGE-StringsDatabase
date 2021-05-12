@@ -37,6 +37,7 @@ new_slm_01_debris_12
 new_slm_01_debris_13
 new_slm_01_debris_18
 new_slm_01_debris_txd
+new_slm_01_debris_txd+hi
 new_slm_01_fences
 new_slm_01_ground01
 new_slm_01_ground01_deb
@@ -63,7 +64,9 @@ new_slm_01_tenant3+hidr
 new_slm_01_tenant4
 new_slm_01_tenant4_d
 new_slm_01_txd1
+new_slm_01_txd1+hi
 new_slm_01_txd2
+new_slm_01_txd2+hi
 new_slm_01_wall2
 new_slm_01_wall2+hidr
 new_slm_01b_shotguns_01

@@ -15,6 +15,7 @@ new_shad_main_shell
 new_shad_main_shell+hidr
 new_shad_shop_int_shell
 new_shad_shop_int_txd
+new_shad_shop_int_txd+hi
 new_shady_lightbox
 new_shady_lightbox001
 new_shady_shop_int

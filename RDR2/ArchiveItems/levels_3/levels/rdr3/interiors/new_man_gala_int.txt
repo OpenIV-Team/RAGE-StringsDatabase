@@ -143,7 +143,9 @@ gm_widercurtain
 gm_widercurtain+hidr
 hi@new_man_gala_int
 new_gala_int_shell
+new_gala_int_shell+hi
 new_gala_int_txd
+new_gala_int_txd+hi
 new_man_candelabra06_00
 new_man_candelabra06_01
 new_man_candelabra06_02

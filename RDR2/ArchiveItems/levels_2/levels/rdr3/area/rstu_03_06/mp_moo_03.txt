@@ -1,5 +1,6 @@
 _cache
 _manifest
+mp_moo_03_0
 mp_moo_03_d
 mp_moo_03_d+hidr
 mp_moo_03_hd

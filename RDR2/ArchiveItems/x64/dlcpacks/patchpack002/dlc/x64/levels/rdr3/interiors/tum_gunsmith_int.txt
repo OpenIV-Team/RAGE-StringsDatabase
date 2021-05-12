@@ -17,4 +17,5 @@ tum_gunsmith_int_shadow
 tum_gunsmith_int_shell
 tum_gunsmith_int_shell_tnt
 tum_gunsmith_int_shell_tnt+hidr
+tum_gunsmith_int+hi
 tum_gunsmith_lightbox

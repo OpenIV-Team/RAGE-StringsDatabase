@@ -16,6 +16,7 @@ str_whore_int_ref_proxy_d
 str_whore_int_ref_proxy_e
 str_whore_int_shell_txd
 str_whore_int_txd
+str_whore_int_txd+hi
 str_whr_bath_wins
 str_whr_bedroom1_trim
 str_whr_bedroom2_mirror

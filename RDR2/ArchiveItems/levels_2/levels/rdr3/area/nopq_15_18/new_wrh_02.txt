@@ -29,6 +29,7 @@ new_wrh_02_props_debris_txd
 new_wrh_02_sm_1
 new_wrh_02_sm_1+hidr
 new_wrh_02_txd1
+new_wrh_02_txd1+hi
 new_wrh_02_wall_s01
 new_wrh_02_water_twr
 new_wrh_02_water_twr+hidr

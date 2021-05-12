@@ -6,6 +6,8 @@ gap_01_interior_gap_mine_int_milo_
 gap_01_long_0
 gap_01_strm_0
 rstu_92_95_area_lod
+rstu_92_95_area_lod_combine_metadata_001
+rstu_92_95_area_lod_combine_metadata_001_strm
 scr_01
 scr_01_interior_scr_shack_int_milo_
 scr_01_long_0

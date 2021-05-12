@@ -2,7 +2,9 @@ _cache
 _manifest
 l_15_
 l_15__bkt_1
+l_15__bkt_1+hi
 l_15__bkt_3
+l_15__bkt_3+hi
 l_15__hd_0_0_0
 l_15__hd_0_0_1
 l_15__hd_0_0_-1

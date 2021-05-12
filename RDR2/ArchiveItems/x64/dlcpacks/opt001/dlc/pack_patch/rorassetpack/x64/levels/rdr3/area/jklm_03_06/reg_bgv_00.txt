@@ -1,3 +1,10 @@
 _cache
+reg_bgv_00_0
+reg_bgv_00_1
+reg_bgv_00_2
+reg_bgv_00_3
+reg_bgv_00_4
+reg_bgv_00_5
 reg_bgv_murderrock
 reg_bgv_murderrock+hidr
+reg_bgv_skinnermass01_1

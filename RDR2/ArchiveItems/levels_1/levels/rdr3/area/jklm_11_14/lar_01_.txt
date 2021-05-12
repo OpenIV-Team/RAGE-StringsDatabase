@@ -1,6 +1,7 @@
 _cache
 _manifest
 lar_01_
+lar_01__0
 lar_01_lightbox
 lar_01_vfx_001
 lar_home_ext

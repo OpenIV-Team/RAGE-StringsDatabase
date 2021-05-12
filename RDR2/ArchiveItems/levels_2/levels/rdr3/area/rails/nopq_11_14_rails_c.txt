@@ -93,6 +93,7 @@ n_1114_r_c_lod_94
 n_1114_r_c_lod_95
 n_1114_r_c_lod_96
 n_1114_r_c_rails
+n_1114_r_c_rails+hi
 n_1114_r_c_sle00
 n_1114_r_c_sle00_det
 n_1114_r_c_sle01

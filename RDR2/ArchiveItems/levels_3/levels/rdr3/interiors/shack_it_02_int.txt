@@ -23,4 +23,5 @@ shack_it_02_int_slips
 shack_it_02_int_slips+hidr
 shack_it_02_int_walls
 shack_it_02_int_walls+hidr
+shack_it_02_int+hi
 shack_it_02_lightbox

@@ -5,6 +5,7 @@ mp001_mp_sis_tower02_bars+hidr
 mp001_mp_sis_tower02_int_decals
 mp001_mp_sis_tower02_int_decals+hidr
 mp001_mp_sis_tower2_int
+mp001_mp_sis_tower2_int+hi
 mp001_mp_sis_tower2_railing_01
 mp001_mp_sis_tower2_shell
 mp001_mp_sis_tower2_shell+hidr

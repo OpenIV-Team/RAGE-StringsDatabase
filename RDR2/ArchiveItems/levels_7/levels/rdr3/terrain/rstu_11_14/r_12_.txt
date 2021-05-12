@@ -2,8 +2,11 @@ _cache
 _manifest
 r_12_
 r_12__bkt_0
+r_12__bkt_0+hi
 r_12__bkt_2
+r_12__bkt_2+hi
 r_12__bkt_3
+r_12__bkt_3+hi
 r_12__hd_0_0_0
 r_12__hd_0_0_1
 r_12__hd_0_0_-1

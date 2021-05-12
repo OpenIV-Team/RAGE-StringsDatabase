@@ -42,4 +42,5 @@ six_cabin_int_walls
 six_cabin_int_walls+hidr
 six_cabin_int_windows
 six_cabin_int_windows+hidr
+six_cabin_int+hi
 six_cabin_lightbox

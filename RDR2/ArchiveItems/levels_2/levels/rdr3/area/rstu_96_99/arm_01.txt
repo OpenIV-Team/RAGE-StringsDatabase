@@ -31,6 +31,7 @@ arm_01_stationmain_scarletfvr+hidr
 arm_01_stationmain+hidr
 arm_01_stnmain_scarletfvr_lod
 arm_01_txd_01
+arm_01_txd_01+hi
 arm_01_vfx_bonefire_a
 arm_01_vfx_bonefire_ab
 arm_01_vfx_bonefire_abc

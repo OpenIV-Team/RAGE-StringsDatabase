@@ -3,6 +3,7 @@ _manifest
 hi@miy_01__0
 miy_01_
 miy_01__0
+miy_01_+hi
 miy_01_cloth_01
 miy_01_cloth_02
 miy_01_fort

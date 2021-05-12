@@ -27,5 +27,6 @@ arm_02_stable01x_scarletfvr
 arm_02_stable01x+hidr
 arm_02_stbl_scarletfvr_lod
 arm_02_txd_01
+arm_02_txd_01+hi
 hi@arm_02_0
 hi@arm_02_1

@@ -15,6 +15,7 @@ arm_04_bank_cholera_lod
 arm_04_bank_scarletfvr
 arm_04_bank_scarletfvr_lod
 arm_04_cholera_txd
+arm_04_cholera_txd+hi
 arm_04_em
 arm_04_em_slod
 arm_04_freightstation_em
@@ -66,4 +67,5 @@ arm_04_ruinedbank01x_signs
 arm_04_ruinedbank01x_signs+hidr
 arm_04_ruinedbank01x+hidr
 arm_04_txd_01
+arm_04_txd_01+hi
 hi@arm_04_0

@@ -18,6 +18,7 @@ new_gunshop_int_ref_proxy
 new_gunshop_int_ref_proxy+hidr
 new_gunshop_int_shell
 new_gunshop_int_txd
+new_gunshop_int_txd+hi
 sdn_gun_pistol_sign
 sdn_gun_psttray
 sdn_gun_psttray001

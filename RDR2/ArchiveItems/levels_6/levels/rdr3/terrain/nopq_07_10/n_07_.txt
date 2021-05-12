@@ -7,6 +7,7 @@ n_07___decal004
 n_07___decals001
 n_07__bkt_2
 n_07__bkt_3
+n_07__bkt_3+hi
 n_07__grv_d
 n_07__hd_0_0_0
 n_07__hd_0_0_1

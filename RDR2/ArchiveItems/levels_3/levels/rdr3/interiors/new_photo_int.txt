@@ -12,6 +12,7 @@ new_photo_int_shell_tnt
 new_photo_int_shell_tnt+hidr
 new_photo_int_spotlights
 new_photo_int_spotlights+hidr
+new_photo_int+hi
 new_photo_lightbox
 new_photo_shadow_proxy
 new_photo_tablecloth

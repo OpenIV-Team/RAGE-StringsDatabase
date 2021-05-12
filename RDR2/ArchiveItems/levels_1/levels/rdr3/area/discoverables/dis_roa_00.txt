@@ -22,6 +22,7 @@ dis_roa_00_molly_grave
 dis_roa_00_molly_grave+hidr
 dis_roa_00_strm
 dis_roa_00_strm_0
+dis_roa_00_strm_1
 dis_roa_00_wagon1_lod
 dis_roa_00_wreck
 dis_roa_00_wreck_lod

@@ -72,6 +72,7 @@ script@mp@freemode_events@supply_train@heartland_overflow
 script@mp@freemode_events@supply_train@mercer_station
 script@mp@freemode_events@supply_train@rio_bravo
 script@mp@freemode_events@supply_train@van_horn
+script@mp@freemode_events@supply_train@van_horn_2
 script@mp@introflow@predator
 script@mp@introflow@soloonfoot
 script@mp@introflow@soloonhorse

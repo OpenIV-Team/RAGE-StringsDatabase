@@ -2,9 +2,13 @@ _cache
 _manifest
 m_09_
 m_09__bkt_0
+m_09__bkt_0+hi
 m_09__bkt_1
+m_09__bkt_1+hi
 m_09__bkt_2
+m_09__bkt_2+hi
 m_09__bkt_3
+m_09__bkt_3+hi
 m_09__burnt_de01
 m_09__burnt_de01+hidr
 m_09__cliff_decalseam

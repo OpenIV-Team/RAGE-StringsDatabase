@@ -12,6 +12,7 @@ new_barber_int_shadowproxy
 new_barber_int_shell
 new_barber_int_shell+hidr
 new_barber_int_txd
+new_barber_int_txd+hi
 new_int_barber_counter
 new_int_barber_counter+hidr
 new_int_barber_details

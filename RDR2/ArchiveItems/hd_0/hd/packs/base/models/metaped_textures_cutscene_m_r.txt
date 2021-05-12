@@ -1,1 +1,11 @@
 _manifest
+cs_micahbell_ms1_head_000_c0_000_ab
+cs_micahbell_ms1_head_000_c0_000_ab+hi
+cs_micahbell_ms1_head_001_c0_000_ab
+cs_micahbell_ms1_head_001_c0_000_ab+hi
+cs_micahbell_ms1_merge_2
+cs_micahbell_ms1_merge_2+hi
+cs_micahbell_ms1_merge_6
+cs_micahbell_ms1_merge_6+hi
+cs_mrsadler_fs1_merge_5
+cs_mrsadler_fs1_merge_5+hi

@@ -21,6 +21,7 @@ van_exoticgoods_int_ref
 van_exoticgoods_int_ref+hi
 van_exoticgoods_int_shell
 van_exoticgoods_int_txd
+van_exoticgoods_int_txd+hi
 van_exoticgoods_int_upper_ref
 van_exoticgoods_shadow_proxy
 van_ext_doorcatjak_01x

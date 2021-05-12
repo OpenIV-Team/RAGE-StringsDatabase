@@ -3,7 +3,9 @@ _manifest
 n_06_
 n_06__bkt_1
 n_06__bkt_2
+n_06__bkt_2+hi
 n_06__bkt_3
+n_06__bkt_3+hi
 n_06__decals_00
 n_06__decals_04
 n_06__hd_0_0_0

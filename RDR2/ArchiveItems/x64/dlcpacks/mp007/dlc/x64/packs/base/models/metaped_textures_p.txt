@@ -1,2 +1,9 @@
 _manifest
+p_c_horse_01_hair_000_c0_000_merge
+p_c_horse_01_hair_000_c0_000_merge+hi
+p_c_horse_01_merge
+p_c_horse_01_merge_3
+p_c_horse_01_merge_3+hi
+p_c_horse_01_merge+hi
 p_c_horse_01_teef_000_c0_000_ab
+p_c_horse_01_teef_000_c0_000_ab+hi

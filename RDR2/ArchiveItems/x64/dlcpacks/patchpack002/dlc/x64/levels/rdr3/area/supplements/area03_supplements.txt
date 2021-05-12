@@ -1,7 +1,12 @@
 _cache
 _manifest
 area03_supplements
+area03_supplements_0
+area03_supplements_1
+area03_supplements_2
+area03_supplements_3
 area03_supplements_strm
+area03_supplements_strm_0
 sup_new_pie_train_ivyfix_01
 sup_new_pie_train_ivyfix_02
 sup_sca_mea_sgnfix_01

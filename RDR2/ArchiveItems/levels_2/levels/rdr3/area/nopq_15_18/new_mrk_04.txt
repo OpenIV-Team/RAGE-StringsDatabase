@@ -37,9 +37,13 @@ new_mrk_04_fence02+hidr
 new_mrk_04_grcy_detail
 new_mrk_04_proxy_slod
 new_mrk_04_txd1
+new_mrk_04_txd1+hi
 new_mrk_04_txd2
+new_mrk_04_txd2+hi
 new_mrk_04_txd3
+new_mrk_04_txd3+hi
 new_mrk_04_txd4
+new_mrk_04_txd4+hi
 new_mrk_04_whbuild01_dec_det
 new_mrk_04_whbuild1
 new_mrk_04_whbuild1+hidr

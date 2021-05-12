@@ -2,9 +2,13 @@ _cache
 _manifest
 s_99_
 s_99__bkt_0
+s_99__bkt_0+hi
 s_99__bkt_1
+s_99__bkt_1+hi
 s_99__bkt_2
+s_99__bkt_2+hi
 s_99__bkt_3
+s_99__bkt_3+hi
 s_99__hd_0_0_0
 s_99__hd_0_0_1
 s_99__hd_0_0_-1

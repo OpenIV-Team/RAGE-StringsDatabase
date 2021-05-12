@@ -11,3 +11,5 @@ eme_station_decals+hidr
 eme_station_platform
 eme_station_platform+hidr
 eme_station+hi
+eme_trainstation_0
+eme_trainstation_1

@@ -26,4 +26,5 @@ swc_shack_int_sink+hidr
 swc_shack_int_stovepipe
 swc_shack_int_stovepipe+hidr
 swc_shack01_int
+swc_shack01_int+hi
 swc_shack01_lightbox

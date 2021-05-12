@@ -2,6 +2,8 @@ _cache
 _manifest
 cro_01
 cro_01_
+cro_01__0
+cro_01__1
 cro_01_+hi
 cro_01_farm_barn
 cro_01_farm_barn+hidr

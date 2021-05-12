@@ -1,6 +1,10 @@
 _cache
 _manifest
 j_09_ftr
+j_09_ftr_0
+j_09_ftr_1
+j_09_ftr_2
 j_09_ftr_winrock
 j_09_ftr_winrock_dec
 j_09_ftr_winrock+hidr
+j_09_ftr+hi

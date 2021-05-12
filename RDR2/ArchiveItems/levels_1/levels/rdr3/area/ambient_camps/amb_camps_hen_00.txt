@@ -21,3 +21,4 @@ amb_hen_pg_savagehideout02x
 amb_hen_pg_savagehideout02x+hi
 hen_4_rope_ends
 min_hid_mantecafalls
+min_hid_mantecafalls_1

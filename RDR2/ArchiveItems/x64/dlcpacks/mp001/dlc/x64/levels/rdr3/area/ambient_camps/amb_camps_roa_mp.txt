@@ -4,6 +4,8 @@ mp001_mp_hid_beaverhollow
 mp001_mp_hid_mossyflats
 mp001_mp_hid_rocky_seven
 mp001_mp_jessicacamp_rhodes
+mp001_mp_jessicacamp_rhodes_1
+mp001_mp_jessicacamp_rhodes_2
 mp001_mp_roa_ambcaroa+hi
 mp001_mp_roa_arthur_cover003
 mp001_mp_roa_arthur_cover003+hidr

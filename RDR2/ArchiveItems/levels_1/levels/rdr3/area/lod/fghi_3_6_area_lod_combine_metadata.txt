@@ -1,6 +1,8 @@
 _cache
 _manifest
 fghi_3_6_area_lod
+fghi_3_6_area_lod_combine_metadata_001
+fghi_3_6_area_lod_combine_metadata_001_strm
 grishkg2_01_
 grishkg2_01__interior_gri_g2_shack_int_milo_
 grishkg2_01__long_0

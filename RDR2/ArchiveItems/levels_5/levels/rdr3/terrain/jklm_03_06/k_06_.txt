@@ -10,8 +10,11 @@ k_06___decal008
 k_06___decal009
 k_06___decal013
 k_06__bkt_0
+k_06__bkt_0+hi
 k_06__bkt_1
+k_06__bkt_1+hi
 k_06__bkt_2
+k_06__bkt_2+hi
 k_06__decal014
 k_06__decal015
 k_06__hd_0_0_0

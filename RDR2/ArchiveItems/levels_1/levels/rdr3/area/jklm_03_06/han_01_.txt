@@ -1,6 +1,8 @@
 _cache
 _manifest
 han_01_
+han_01__0
+han_01__1
 han_01_+hi
 han_01_fence_part_1
 han_01_props_debris_00

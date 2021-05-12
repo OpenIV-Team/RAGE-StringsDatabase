@@ -22,7 +22,9 @@ new_magic_es_int_ref_prox+hidr
 new_magic_es_int_shadowproxy
 new_magic_es_int_shell
 new_magic_es_int_shell_txd
+new_magic_es_int_shell_txd+hi
 new_magic_es_int_shell+hidr
+new_magic_es_int+hi
 new_magic_es_lob_bulb_holder
 new_magic_es_lowerrailing
 new_magic_es_projectors

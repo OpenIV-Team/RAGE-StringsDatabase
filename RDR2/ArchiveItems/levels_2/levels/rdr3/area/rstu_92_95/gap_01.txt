@@ -49,6 +49,7 @@ gap_01_gap_s_007_vfx
 gap_01_gap_s_007b_vfx
 gap_01_gap_s_008_vfx
 gap_01_hd
+gap_01_hd+hi
 gap_01_mine_ent_w_vfx
 gap_01_minetrks_01
 gap_01_minetrks_02

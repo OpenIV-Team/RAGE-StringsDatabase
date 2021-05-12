@@ -3,6 +3,7 @@ _manifest
 o_11_
 o_11__bkt_1
 o_11__bkt_2
+o_11__bkt_2+hi
 o_11__cross_d
 o_11__cross_d+hidr
 o_11__hd_0_0_0
@@ -89,6 +90,7 @@ o_11_08_rail_decal_02
 o_11_09_rail_decal_01
 o_11_bed_decal001
 o_11_decal
+o_11_decal+hi
 o_11_decal00
 o_11_decal01
 o_11_decal02

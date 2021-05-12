@@ -13,6 +13,7 @@ sol_basement_int
 sol_basement_int_ref
 sol_basement_int_ref_a
 sol_basement_int_ref_b
+sol_basement_int_ref+hi
 sol_basement_int_shadow
 sol_basement_lightbox
 sol_basement_lightbox001

@@ -83,6 +83,8 @@ new_frn_01_tailorsign
 new_frn_01_tailorsign_lod
 new_frn_01_tailorsign+hidr
 new_frn_01_txd1
+new_frn_01_txd1+hi
 new_frn_01_txd2
+new_frn_01_txd2+hi
 new_tailor01_int_lod
 new_temp_cable_lights

@@ -87,6 +87,8 @@ sha_man_int_ref_proxy_i
 sha_man_int_ref_proxy_j
 sha_man_int_shadowproxy
 sha_man_int_shell
+sha_man_int_shell+hi
+sha_man_int+hi
 sha_man_kitch_decals004
 sha_man_kitch_decals01
 sha_man_kitch_decals02

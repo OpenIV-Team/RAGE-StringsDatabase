@@ -10,7 +10,9 @@ i_06___decal007
 i_06___decal010
 i_06___decal011
 i_06__bkt_1
+i_06__bkt_1+hi
 i_06__bkt_3
+i_06__bkt_3+hi
 i_06__hd_0_0_0
 i_06__hd_0_0_1
 i_06__hd_0_0_-1

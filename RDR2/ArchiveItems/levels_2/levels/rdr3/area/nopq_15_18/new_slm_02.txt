@@ -8,6 +8,7 @@ new_slm_02_debris_02
 new_slm_02_debris_02+hidr
 new_slm_02_debris_03
 new_slm_02_debris_txd
+new_slm_02_debris_txd+hi
 new_slm_02_fence01
 new_slm_02_fence01+hidr
 new_slm_02_frag01_frag_lod
@@ -27,6 +28,7 @@ new_slm_02_shotgunhouh
 new_slm_02_shotgunhouse01
 new_slm_02_shotgunhouse01+hidr
 new_slm_02_txd1
+new_slm_02_txd1+hi
 new_slm02_cloth01
 new_slm02_cloth01+hifr
 new_slm02_cloth02

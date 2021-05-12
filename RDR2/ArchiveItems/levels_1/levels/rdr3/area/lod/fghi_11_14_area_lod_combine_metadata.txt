@@ -6,6 +6,8 @@ aba_01_strm_0
 dov_lab
 dov_lab_interior_dov_lab_int_milo_
 fghi_11_14_area_lod
+fghi_11_14_area_lod_combine_metadata_001
+fghi_11_14_area_lod_combine_metadata_001_strm
 lof_01_
 lof_01__interior_lof_outpost_int_milo_
 lof_01__long_0

@@ -1,6 +1,9 @@
 _cache
 _manifest
 reg_roa_00
+reg_roa_00_0
+reg_roa_00_1
+reg_roa_00_2
 reg_roa_00_balloon_crash
 reg_roa_00_balloon_crash+hidr
 reg_roa_00_balloon_debris
@@ -11,6 +14,8 @@ reg_roa_00_booby_trap_dec+hidr
 reg_roa_00_mine_lod
 reg_roa_00_mine_slod
 reg_roa_00_strm
+reg_roa_00_strm_0
+reg_roa_00_strm_1
 reg_roa_00+hi
 reg_roa_14p_14_balloon
 reg_roa_14p_14_balloon+hi

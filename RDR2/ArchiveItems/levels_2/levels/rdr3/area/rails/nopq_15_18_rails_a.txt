@@ -23,6 +23,7 @@ hi@nopq_15_18_rails_a_8
 hi@nopq_15_18_rails_a_9
 j_1518_r_a_rails_112
 n_1518_r_a_decal
+n_1518_r_a_decal+hi
 n_1518_r_a_rails
 n_1518_r_a_rails_lod01
 n_1518_r_a_rails_lod02
@@ -65,6 +66,7 @@ n_1518_r_a_rails_lod65
 n_1518_r_a_rails_lod66
 n_1518_r_a_rails_lod67
 n_1518_r_a_rails_wrh01
+n_1518_r_a_rails+hi
 n_1518_r_a_rails01
 n_1518_r_a_rails03
 n_1518_r_a_rails04
@@ -163,6 +165,7 @@ n_1518_r_a_sle17
 n_1518_r_a_sle17_dec
 n_1518_r_a_sle17_lod
 n_1518_r_a_tres
+n_1518_r_a_tres+hi
 n_1518_r_a_tres03
 n_1518_r_a_tres03_lod
 n_1518_r_a_tres04

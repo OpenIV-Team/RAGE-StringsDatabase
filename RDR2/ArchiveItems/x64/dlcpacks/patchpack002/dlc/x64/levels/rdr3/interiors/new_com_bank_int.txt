@@ -29,6 +29,7 @@ new_bank_wait02_detail02
 new_com_bank_int
 new_com_bank_int_shadowproxy
 new_com_bank_int_shell
+new_com_bank_int+hi
 new_com_bank_vaultdetails
 new_com_bank_vaultdetails+hidr
 new_com_nbd1_bankwall_int_end

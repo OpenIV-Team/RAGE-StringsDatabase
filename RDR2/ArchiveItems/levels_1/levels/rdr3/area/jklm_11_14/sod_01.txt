@@ -1,5 +1,6 @@
 _cache
 _manifest
+sod_01_0
 sod_01_vfx_001
 sod_02
 sod_02_house

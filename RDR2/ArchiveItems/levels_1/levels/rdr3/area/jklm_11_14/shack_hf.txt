@@ -1,5 +1,6 @@
 _cache
 _manifest
+shack_hf_0
 shf_hf_detail
 shf_hf_detail+hidr
 shf_hf_moss

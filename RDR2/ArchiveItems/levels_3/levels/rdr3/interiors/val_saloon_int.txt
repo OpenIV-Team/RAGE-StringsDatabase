@@ -41,6 +41,7 @@ val_saloon_int_ref_c
 val_saloon_int_shadowproxy
 val_saloon_int_shell
 val_saloon_int_txd
+val_saloon_int_txd+hi
 val_saloon_paint1f_01
 val_saloon_paint1f_02
 val_saloon_paint1f_02+hidr

@@ -3,8 +3,11 @@ _manifest
 m_15_
 m_15___decal001
 m_15__bkt_1
+m_15__bkt_1+hi
 m_15__bkt_2
+m_15__bkt_2+hi
 m_15__bkt_3
+m_15__bkt_3+hi
 m_15__cover_1
 m_15__hd_0_0_0
 m_15__hd_0_0_1

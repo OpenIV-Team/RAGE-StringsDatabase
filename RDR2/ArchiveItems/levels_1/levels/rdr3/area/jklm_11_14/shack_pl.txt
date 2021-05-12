@@ -1,5 +1,6 @@
 _cache
 _manifest
+shack_pl_0
 spl_shack_pl
 spl_shack_pl_dcl
 spl_shack_pl_dcl+hidr

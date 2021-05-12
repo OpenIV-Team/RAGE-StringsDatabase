@@ -8,7 +8,9 @@ new_rur_02_shotgun+hidr
 new_rur_02_syrup
 new_rur_02_syrup+hidr
 new_rur_02_txd1
+new_rur_02_txd1+hi
 new_rur_02_txd2
+new_rur_02_txd2+hi
 new_rur_vfx_helper_001
 new_rur02_debris_00
 new_rur02_debris_01

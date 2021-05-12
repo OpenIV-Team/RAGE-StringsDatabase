@@ -1,4 +1,8 @@
 eye_cap_gen_0000_c0_000_ab
+eye_cap_gen_0000_c0_000_m
 eye_cap_gen_0000_c0_000_nm
+eyes_gen_0000_c0_000_m
+eyes_gen_0000_c0_000_m+hi
 eyes_gen_0000_c0_000_nm
 eyes_gen_0000_c0_998_ab
+eyes_gen_0000_c0_998_ab+hi

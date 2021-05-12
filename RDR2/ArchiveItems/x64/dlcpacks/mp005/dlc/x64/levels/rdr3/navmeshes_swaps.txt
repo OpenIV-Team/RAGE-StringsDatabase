@@ -1,0 +1,8 @@
+nav_lakay_mp_navmesh[360][300]
+nav_lakay_mp_navmesh[360][303]
+nav_lakay_mp_navmesh[363][300]
+nav_lakay_mp_navmesh[363][303]
+nav_mp005_adler_ranch_gate_navmesh[306][369]
+nav_mp005_adler_ranch_gate_navmesh[306][372]
+nav_mp005_armadillo_alley_debris_navmesh[243][264]
+tlhideoutmp_navmesh[288][270]

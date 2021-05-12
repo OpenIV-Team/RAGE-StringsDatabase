@@ -1,0 +1,8 @@
+col_nav_adler_house_navmesh[306][369]
+col_nav_adler_house_navmesh[306][372]
+ms_mp001_reg_hen_mp_gfh_henband_navmesh[264][270]
+ms_mp001_reg_hen_mp_gfh_henband_navmesh[264][273]
+pro_empty_nav_tu003_navmesh[264][324]
+pro_empty_nav_tu003_navmesh[264][327]
+pro_empty_nav_tu003_navmesh[267][324]
+pro_empty_nav_tu003_navmesh[267][327]

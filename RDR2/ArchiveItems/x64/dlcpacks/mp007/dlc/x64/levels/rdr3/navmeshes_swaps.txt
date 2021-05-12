@@ -1,0 +1,4 @@
+ws_mp_camp_defend_little_creek_and_pronghorn_navmesh[264][324]
+ws_mp_camp_defend_little_creek_and_pronghorn_navmesh[264][327]
+ws_mp_camp_defend_little_creek_and_pronghorn_navmesh[267][324]
+ws_mp_camp_defend_little_creek_and_pronghorn_navmesh[267][327]

@@ -1,0 +1,3 @@
+cutscene@gry2_ext
+cutscene@gry2_int
+cutscene@gry2_mcs2

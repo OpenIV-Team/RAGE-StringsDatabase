@@ -1,0 +1,7 @@
+cutscene@nts2_ext
+cutscene@nts2_ext_p1a2_t01
+cutscene@nts2_int
+cutscene@nts2_mcs1
+cutscene@nts2_mcs2
+cutscene@nts2_mcs3
+cutscene@nts2_mcs4

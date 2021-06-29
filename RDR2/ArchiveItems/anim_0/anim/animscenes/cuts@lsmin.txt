@@ -1,0 +1,3 @@
+cutscene@lsmin_ext
+cutscene@lsmin_int
+cutscene@lsmin_mcs1

@@ -1,0 +1,5 @@
+cutscene@rbwcg_rc1
+cutscene@rbwcg_rc2
+cutscene@rbwcg_rc3
+cutscene@rbwcg_rc4
+cutscene@rbwcg_rc5

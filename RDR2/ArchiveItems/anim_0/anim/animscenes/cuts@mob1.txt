@@ -1,1 +1,6 @@
 cutscene@mob1_mcs3
+cutscene@mob1_int
+cutscene@mob1_ext
+cutscene@mob1_mcs2
+cutscene@mob1_mcs3a
+cutscene@mob1_mcs_1

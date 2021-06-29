@@ -1,0 +1,4 @@
+cutscene@mry3_int
+cutscene@mry3_ext
+cutscene@mry3_mcs1
+cutscene@mry3_mcs2

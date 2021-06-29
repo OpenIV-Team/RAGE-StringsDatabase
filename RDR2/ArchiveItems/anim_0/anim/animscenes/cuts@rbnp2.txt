@@ -1,0 +1,4 @@
+cutscene@rbnp2_s1_ext
+cutscene@rbnp2_s1_int
+cutscene@rbnp2_s1_mcs1
+cutscene@rbnp2_s1_mcs2

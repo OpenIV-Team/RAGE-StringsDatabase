@@ -1,0 +1,4 @@
+cutscene@nts1_int
+cutscene@nts1_ext
+cutscene@nts1_mcs1
+cutscene@nts1_mcs4

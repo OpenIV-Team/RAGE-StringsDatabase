@@ -1,0 +1,7 @@
+cutscene@gng3_ext
+cutscene@gng3_ext2
+cutscene@gng3_int
+cutscene@gng3_mcs1
+cutscene@gng3_mcs2
+cutscene@gng3_mcs3
+cutscene@gng3_mcs4

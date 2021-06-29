@@ -1,1 +1,9 @@
 cutscene@ind3_mcs8
+cutscene@ind3_int
+cutscene@ind3_ext
+cutscene@ind3_mcs1
+cutscene@ind3_mcs2
+cutscene@ind3_mcs3
+cutscene@ind3_mcs4
+cutscene@ind3_mcs5
+cutscene@ind3_mcs7

@@ -1,0 +1,4 @@
+cutscene@mob3_ext
+cutscene@mob3_int
+cutscene@mob3_mcs1
+cutscene@mob3_mcs2

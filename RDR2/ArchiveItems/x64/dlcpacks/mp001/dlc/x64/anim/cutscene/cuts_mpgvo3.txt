@@ -8,6 +8,7 @@ mpgvo3_ext1-5
 mpgvo3_ext1-6
 mpgvo3_ext1-7
 mpgvo3_ext2
+mpgvo3_ext2_p1a1_t04
 mpgvo3_ext2_p1a1_t04-0
 mpgvo3_ext2_p1a1_t04-1
 mpgvo3_ext2_p1a1_t04-2

@@ -734,3 +734,11 @@ bridle_hr1_004_c1_000_m
 bridle_hr1_004_c1_000_nm
 bustlecoat_fr1_000_c1_merge
 bustlecoat_fr1_000_c1_merge+hi
+blouse_fr1_000_c_merge
+blouse_fr1_000_c_merge+hi
+boot_mr1_065_c_merge
+boot_mr1_065_c_merge+hi
+bustle_merge
+bustle_merge+hi
+bustleskirt_fr1_000_c_merge
+bustleskirt_fr1_000_c_merge+hi

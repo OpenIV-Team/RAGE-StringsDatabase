@@ -30,3 +30,5 @@ pai_hse_int_shell
 pai_hse_int_shell+hidr
 room_pai_house_ref_01
 room_pai_house_ref_03
+pai_hse_int
+pai_hse_int+hi

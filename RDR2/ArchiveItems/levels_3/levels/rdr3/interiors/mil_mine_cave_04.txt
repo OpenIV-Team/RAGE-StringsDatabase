@@ -9,3 +9,4 @@ mil_mine_refle_proxy_d
 mil_mine_room04
 mil_mine_tracks_int04
 mil03_03_dec
+hi@mil_mine_cave_int4

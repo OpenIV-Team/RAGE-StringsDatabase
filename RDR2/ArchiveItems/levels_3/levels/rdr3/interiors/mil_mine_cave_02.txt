@@ -12,3 +12,4 @@ mil_mine_refle_proxy_b
 mil_mine_room2
 mil_mine_snowblocker
 mil_mine_tracks_int02
+hi@mil_mine_cave_int2

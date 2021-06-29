@@ -48,3 +48,5 @@ new_tailor_shop_walls+hidr
 new_tailor01_int
 new_tailor01_int_main
 new_tailor01_shadowproxy
+new_tailor_int_ref
+new_tailor_int_ref+hi

@@ -33,3 +33,5 @@ new_magic_main_stage
 new_magic_main_stage+hidr
 new_magic_main_walls
 new_magic_theater_details
+new_magic_int_ref_proxy
+new_magic_int_ref_proxy+hi

@@ -34,3 +34,5 @@ new_res_doctor_int_ref_c
 new_res_doctor_int_shadowproxy
 new_res_dr_int_txd
 new_res_dr_int_txd+hi
+new_res_dr_int_ref
+new_res_dr_int_ref+hi

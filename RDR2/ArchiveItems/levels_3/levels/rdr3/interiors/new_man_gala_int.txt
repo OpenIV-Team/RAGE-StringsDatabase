@@ -169,3 +169,5 @@ new_man_gala_sunporchfloor
 new_man_gala_sunporchwalls
 new_man_gala_sunporchwalls+hidr
 new_mangal_win_geo1164
+new_man_gala_int_ref
+new_man_gala_int_ref+hi

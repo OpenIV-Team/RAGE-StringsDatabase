@@ -14,3 +14,5 @@ rdl_house01_int_misc
 rdl_house01_int_misc+hidr
 rdl_house01_int_shell
 rdl_house01_int_shell+hidr
+rdl_house01_txd
+rdl_house01_txd+hi

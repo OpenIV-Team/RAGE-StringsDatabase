@@ -151,3 +151,5 @@ new_man_bronte_mrr_rfln_f
 new_man_bronte_wine
 p_stove01x_b
 p_stove01x_b+hidr
+new_man_bronte_int_ref_txd
+new_man_bronte_int_ref_txd+hi

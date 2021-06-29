@@ -37,3 +37,5 @@ pro_wrkr_floor01
 pro_wrkr_floor01+hidr
 pro_wrkr_shell01
 pro_wrkr_shell01+hidr
+pro_workhouseint
+pro_workhouseint+hi

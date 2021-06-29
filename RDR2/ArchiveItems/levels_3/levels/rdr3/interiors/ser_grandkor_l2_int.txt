@@ -33,3 +33,5 @@ ser_observation_decor01
 ser_observation_floor
 ser_observation_shell
 ser_observation_shell+hidr
+ser_grandkor_l2_ref
+ser_grandkor_l2_ref+hi

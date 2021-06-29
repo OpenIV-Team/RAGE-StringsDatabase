@@ -14,3 +14,4 @@ rig_station_int_shadow_proxy
 rig_station_lightbox
 rig_station_shell
 rig_station_shell+hidr
+rig_station_int_txd

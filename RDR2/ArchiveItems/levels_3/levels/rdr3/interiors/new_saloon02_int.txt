@@ -21,3 +21,5 @@ salslum_bar_detail2
 salslum_bar_detail2+hidr
 salslum_hall_decal02
 salslum_lightholder_01
+new_saloon02_int_ref
+new_saloon02_int_ref+hi

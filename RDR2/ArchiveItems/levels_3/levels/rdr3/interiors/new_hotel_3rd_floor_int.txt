@@ -37,3 +37,5 @@ new_pieces05
 new_pieces05+hidr
 new_wood005
 new_wood005+hidr
+new_hotel_3rd_floor_int_ref+hi
+new_hotel_3rd_floor_int_ref

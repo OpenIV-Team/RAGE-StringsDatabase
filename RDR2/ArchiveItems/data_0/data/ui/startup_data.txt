@@ -267,3 +267,4 @@ store/widgets/store_panel_small
 store/widgets/store_panel_small_inner
 store/widgets/store_panel_vert
 store/widgets/title
+store/flow/store_launcher_flow

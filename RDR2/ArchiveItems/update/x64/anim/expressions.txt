@@ -65,6 +65,7 @@ component_arig_bearddeformation
 component_arthur_winter
 component_bandolier
 component_bandolier_javier
+component_basiccollar
 component_belt
 component_blanket
 component_boottassles
@@ -107,6 +108,7 @@ component_highcollar_grapple
 component_holsters
 component_javier_winter_collar
 component_largeponcho
+component_longclosedcoat
 component_longclosedcoat_calfs
 component_longclosedcoat_springs
 component_longcoatflaps
@@ -150,6 +152,7 @@ cs_adamgray
 cs_agnesdowd_face
 cs_albertcakeesquire
 cs_albertmason
+cs_andershelgerson_face
 cs_angel
 cs_angel_face
 cs_angelholstersprings
@@ -380,6 +383,8 @@ prop_barberchair
 prop_books
 prop_bucket
 prop_can
+prop_jugs
+prop_tarp
 propbowl_stew
 propgamblingchips
 propgroup_moneybags

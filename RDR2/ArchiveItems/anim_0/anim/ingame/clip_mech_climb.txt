@@ -8,6 +8,7 @@ mech_climb@base@vertical@step_over@exits@crouch@run
 mech_climb@base@vertical@step_over@exits@crouch@walk
 mech_climb@base@vertical@step_ups@entry@crouch@idle
 mech_climb@base@vertical@step_ups@entry@crouch@run
+mech_climb@base@vertical@step_ups@entry@crouch@walk
 mech_climb@base@vertical@step_ups@entry@injured@idle
 mech_climb@base@vertical@step_ups@entry@injured@run
 mech_climb@base@vertical@step_ups@entry@injured@walk

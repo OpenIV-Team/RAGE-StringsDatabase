@@ -104,6 +104,7 @@ face_human@hosea@variations@aiming
 face_human@hosea@variations@injured
 face_human@hosea@variations@normal
 face_human@javier@base
+face_human@john_marston@base
 face_human@john_marston@variations@angry
 face_human@john_marston@variations@injured
 face_human@john_marston@variations@normal

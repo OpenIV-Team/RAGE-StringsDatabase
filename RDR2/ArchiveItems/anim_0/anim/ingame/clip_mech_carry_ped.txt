@@ -17,6 +17,7 @@ mech_carry_ped@injured@carried@human
 mech_carry_ped@injured@carried@mount
 mech_carry_ped@injured@idle
 mech_carry_ped@injured@mount@remove@lt
+mech_carry_ped@injured@mount@remove@rt
 mech_carry_ped@injured@mount@stow@lt
 mech_carry_ped@injured@mount@stow@rt
 mech_carry_ped@injured@pickup_body

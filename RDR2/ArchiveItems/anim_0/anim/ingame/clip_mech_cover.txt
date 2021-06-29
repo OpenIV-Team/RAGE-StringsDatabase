@@ -53,6 +53,7 @@ mech_cover@enter@cowboy@low_intensity@unarmed@hard_cover@low@on_right
 mech_cover@enter@cowboy@low_intensity@unarmed@soft_cover@110_height@1halfm@fwd@idle_aim
 mech_cover@enter@cowboy@low_intensity@unarmed@soft_cover@110_height@1halfm@fwd@run
 mech_cover@enter@cowboy@low_intensity@unarmed@soft_cover@110_height@1m@fwd@idle_aim
+mech_cover@enter@cowboy@low_intensity@unarmed@soft_cover@110_height@1m@fwd@run
 mech_cover@enter@cowboy@low_intensity@unarmed@soft_cover@110_height@halfm@fwd@idle_aim
 mech_cover@enter@cowboy@low_intensity@unarmed@soft_cover@110_height@halfm@fwd@run
 mech_cover@enter@cowboy@low_intensity@unarmed@soft_cover@110_height@onspot@fwd@idle
@@ -63,6 +64,7 @@ mech_cover@env@windows@base@shortarms
 mech_cover@env@windows@base@unarmed
 mech_cover@exit@arthur@bow@base@low@left@lefthand@extra_close@slow@crouch@normal
 mech_cover@exit@arthur@bow@base@low@right@lefthand@extra_close@slow@crouch@normal
+mech_cover@fidgets@civ@female@scared@a@unarmed@high@a
 mech_cover@flinch@dual@peek@high@a
 mech_cover@flinch@dual@peek@high@b
 mech_cover@flinch@dual@peek@high@c
@@ -127,6 +129,7 @@ mech_cover@loco@arthur@thrown@dynamite@base@high@left@righthand@no_lean@idle
 mech_cover@loco@arthur@thrown@dynamite@base@high@right@righthand@no_lean@idle
 mech_cover@loco@arthur@thrown@dynamite@base@low@left@righthand@no_lean@idle
 mech_cover@loco@arthur@thrown@dynamite@base@low@right@righthand@no_lean@idle
+mech_cover@loco@extra@core
 mech_cover@loco@extra@dual
 mech_cover@loco@extra@longarms
 mech_cover@pinned@ai@fallback@dual@high@a

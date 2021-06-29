@@ -5,6 +5,7 @@ amb_generic@generic_seat_chair@ft_together@arthur@idle_d
 amb_generic@generic_seat_chair@ft_together@arthur@react_look@active_look@bbs
 amb_generic@generic_seat_chair@ft_together@arthur@react_look@exit@dismissive
 amb_generic@generic_seat_chair@ft_together@arthur@react_look@exit@relieved
+amb_generic@generic_seat_chair@ft_together@arthur@stand_enter@b_hands
 amb_generic@generic_seat_chair@ft_together@arthur@stand_exit
 amb_generic@generic_seat_chair@ft_together@arthur@stand_exit@b_hands
 amb_generic@generic_seat_chair@ft_together@arthur@trans
@@ -90,6 +91,7 @@ amb_generic@world_human_generic_prop_table_pickup@female_a@react_look@enter@low
 amb_generic@world_human_generic_prop_table_pickup@female_a@react_look@enter@med
 amb_generic@world_human_generic_prop_table_pickup@female_a@react_look@exit@dismissive
 amb_generic@world_human_generic_prop_table_pickup@female_a@react_look@exit@generic
+amb_generic@world_human_generic_prop_table_pickup@female_a@react_look@exit@relieved
 amb_generic@world_human_generic_prop_table_pickup@female_a@react_look@loop@generic
 amb_generic@world_human_generic_prop_table_pickup@female_a@stand_enter
 amb_generic@world_human_generic_prop_table_pickup@female_a@stand_exit
@@ -100,6 +102,7 @@ amb_generic@world_human_generic_prop_table_pickup@male_a@react_look@enter@high
 amb_generic@world_human_generic_prop_table_pickup@male_a@react_look@enter@low
 amb_generic@world_human_generic_prop_table_pickup@male_a@react_look@enter@med
 amb_generic@world_human_generic_prop_table_pickup@male_a@react_look@exit@dismissive
+amb_generic@world_human_generic_prop_table_pickup@male_a@react_look@exit@generic
 amb_generic@world_human_generic_prop_table_pickup@male_a@react_look@exit@relieved
 amb_generic@world_human_generic_prop_table_pickup@male_a@react_look@loop@generic
 amb_generic@world_human_generic_prop_table_pickup@male_a@stand_enter

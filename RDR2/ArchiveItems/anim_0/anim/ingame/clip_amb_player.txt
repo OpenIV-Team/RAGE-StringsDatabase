@@ -1,4 +1,5 @@
 amb_player@player_bed@player_sleep_cutaway@bed
+amb_player@player_bed@player_sleep_cutaway@kneeling
 amb_player@player_bed@player_sleep_cutaway@upperbody
 amb_player@prop_player_shave@idle_a
 amb_player@prop_player_shave@stand_exit

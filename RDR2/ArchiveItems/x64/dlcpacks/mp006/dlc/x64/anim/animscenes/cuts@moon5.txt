@@ -1,2 +1,4 @@
 cutscene@moon5_ext
 cutscene@moon5_int
+cutscene@moon5_mcs1
+cutscene@moon5_mcs2

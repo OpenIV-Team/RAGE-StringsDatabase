@@ -34,3 +34,4 @@ mp_mech_inventory@drinking@moonshine@wasted@female_a
 mp_mech_inventory@drinking@moonshine@wasted@male_a
 mp_mech_inventory@drinking@moonshine@wasted_table@female_a
 mp_mech_inventory@drinking@moonshine@wasted_table@male_a
+mp_mech_inventory@drinking@moonshine@gestural_grab@sober@male_a

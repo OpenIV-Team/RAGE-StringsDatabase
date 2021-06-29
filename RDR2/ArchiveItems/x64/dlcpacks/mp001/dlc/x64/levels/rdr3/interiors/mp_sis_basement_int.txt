@@ -14,3 +14,5 @@ mp001_mp_sis_bsmnt_stairs_01
 mp001_mp_sis_bsmnt_stairs_01+hidr
 mp001_mp_sis_bsmnt_tower_decal
 mp001_mp_sis_bsmnt_tower_decal+hidr
+mp001_mp_sis_basement_int
+hi@mp001_mp_sis_basement_int

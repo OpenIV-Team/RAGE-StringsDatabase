@@ -97,3 +97,16 @@ sidemenu/shops/wilderness_supplies_subheader_conversion
 sidemenu/title_conversion
 sidemenu/total_take_entry_conversion
 simple_menu_list_item_conversion
+pause/settings/scale_mode
+pause/settings/game_version
+pause/settings/enable_med_to_ultra_quality
+pause/settings/toggle_aim_mode
+pause/settings/prefer_performance
+pause/settings/targeting_mode_vehicle
+pause/settings/mouse_mode
+pause/settings/hud_mode_child
+pause/settings/advanced_settings_lock
+pause/settings/prompt_display
+pause/settings/blip_scale
+pause/settings/overheads
+pause/settings/API

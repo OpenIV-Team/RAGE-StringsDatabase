@@ -81,3 +81,5 @@ translate/flow_minigame_translate
 translate/flow_newspaper_translate
 translate_launcher_flow
 weapon_locker_launcher_flow
+naturalist/naturalist_menu_flow
+mp_hud/mp_death_screen_flow

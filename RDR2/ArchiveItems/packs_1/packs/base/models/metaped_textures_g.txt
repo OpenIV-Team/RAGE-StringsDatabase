@@ -274,3 +274,5 @@ gorel_fr1_005_c0_000_nm
 gorel_fr1_005_c0_000_nm+hi
 gorel_mr1_000_c0_000_merge
 gorel_mr1_000_c0_000_merge+hi
+glov_mr1_020_c_merge
+glov_mr1_020_c_merge+hi

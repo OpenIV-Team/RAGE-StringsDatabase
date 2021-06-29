@@ -258,3 +258,5 @@ tuxupper_mr1_000_c0_merge
 tuxupper_mr1_000_c0_merge+hi
 tuxupper_mr1_000_c1_merge
 tuxupper_mr1_000_c1_merge+hi
+tattered_merge
+tattered_merge+hi

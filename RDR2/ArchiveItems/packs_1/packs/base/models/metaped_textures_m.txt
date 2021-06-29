@@ -350,3 +350,9 @@ mscl_mr1_008_c0_001_ab
 mscl_mr1_008_c0_001_ab+hi
 mscl_mr1_008_c0_001_nm
 mscl_mr1_008_c0_001_nm+hi
+modgown_merge
+modgown_merge+hi
+mangledshirt_mr1_000_c_merge
+mangledshirt_mr1_000_c_merge+hi
+modshirt_mr1_000_cllr_00_merge
+modshirt_mr1_000_tors_0_merge

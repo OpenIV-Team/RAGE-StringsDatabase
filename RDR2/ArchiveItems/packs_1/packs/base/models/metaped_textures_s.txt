@@ -533,3 +533,9 @@ suspender_mr1_027_c3_merge
 suspender_mr1_027_c3_merge+hi
 swimsuit_fr1_000_c3_merge
 swimsuit_fr1_000_c3_merge+hi
+skelupper_mr1_000_c2_000_m_merge
+skelupper_mr1_000_c2_000_m_merge+hi
+shirt_tr1_00_merge
+shirt_tr1_00_merge+hi
+shirt_tr1_00_merge_2
+shirt_tr1_00_merge_2+hi

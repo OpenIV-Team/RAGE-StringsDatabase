@@ -431,3 +431,17 @@ cs_wintonholmes_ms1_merge_2+hi
 cs_wintonholmes_ms1_merge+hi
 cs_wrobel_ms1_merge
 cs_wrobel_ms1_merge+hi
+cs_swamp_merge
+cs_swamp_merge+hi
+cs_susangrimshaw_fs1_sh_merge
+cs_susangrimshaw_fs1_sh_merge+hi
+cs_twinbrother_0_merge
+cs_twinbrother_0_merge+hi
+cs_susangrimshaw_fs1_c_merge
+cs_susangrimshaw_fs1_c_merge+hi
+cs_sean_ms1_s_merge
+cs_sean_ms1_s_merge+hi
+cs_susangrimshaw_fs1_s_merge
+cs_susangrimshaw_fs1_s_merge+hi
+cs_susangrimshaw_fs1_n_merge
+cs_susangrimshaw_fs1_n_merge+hi

@@ -2872,3 +2872,11 @@ x64/textures/weapon_atlas
 x64/textures/world_snow_coverage_xmas
 x64/textures/world_snow_coverage_xmas_secondary
 x64/textures/worldheight
+x64/pack_patch/mp006/data/ai/weapons_mp006_moonshiner
+x64/pack_patch/dlc_content_extra/data/ai/weapon_revolver_lemat
+x64/pack_patch/dlc_content_extra/data/ai/weapon_revolver_doubleaction_gambler
+x64/pack_patch/mp007/data/ai/weapon_rifle_elephant
+x64/pack_patch/mp005/data/ai/weapons_mp005_trader
+x64/pack_patch/mp005/data/ai/weapons_mp005_collector
+x64/pack_patch/dlc_content_extra/data/ai/weapon_pistol_m1899
+x64/pack_patch/mp006/data/ai/weapon_revolver_navy

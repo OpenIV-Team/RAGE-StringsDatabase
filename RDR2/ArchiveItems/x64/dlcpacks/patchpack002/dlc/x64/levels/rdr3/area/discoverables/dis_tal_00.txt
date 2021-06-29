@@ -7,3 +7,5 @@ dis_tal_pit_cover_lod
 dis_tal_pit_discoverablecover
 dis_tal_pit_discoverablecover+hidr
 dis_tal_pit_discoveralbe_lod
+re_sp_savagewarning_01
+re_sp_savagewarning_02

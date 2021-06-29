@@ -79,3 +79,4 @@ hi@dis_scm_00_1
 hi@dis_scm_00_2
 hi@dis_scm_00_3
 hi@dis_scm_00_4
+dis_scm_deadsnake

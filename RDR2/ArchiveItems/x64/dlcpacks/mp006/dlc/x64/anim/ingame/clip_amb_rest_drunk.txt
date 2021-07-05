@@ -475,3 +475,5 @@ amb_rest_drunk@world_human_sit_ground@drinking_drunk@passed_out@moonshine@male_b
 amb_rest_drunk@world_human_sit_ground@drinking_drunk@passed_out@moonshine@male_b@react_look@loop@generic
 amb_rest_drunk@world_human_sit_ground@drinking_drunk@passed_out@moonshine@male_b@stand_enter_withprop
 amb_rest_drunk@world_human_sit_ground@drinking_drunk@passed_out@moonshine@male_b@stand_exit_withprop
+amb_rest_drunk@prop_human_seat_bench@porch@drinking@moonshine@male_b@react_look@enter@med
+amb_misc@world_human_doublebass_handoff@sober@performer@male_a@trans

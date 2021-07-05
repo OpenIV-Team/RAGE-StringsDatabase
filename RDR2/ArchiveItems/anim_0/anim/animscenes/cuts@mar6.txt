@@ -1,0 +1,3 @@
+cutscene@mar6_rsc2
+cutscene@mar6_rsc3
+cutscene@mar6_train_bink

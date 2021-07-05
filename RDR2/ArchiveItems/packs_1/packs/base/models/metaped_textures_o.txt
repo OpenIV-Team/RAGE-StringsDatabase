@@ -40,3 +40,7 @@ overalls_mr1_013_c3_000_merge
 overalls_mr1_014_c0_merge
 overalls_mr1_014_c0_merge+hi
 overalls_mr1_014_c3_merge
+outfit_mr1_000_c_merge
+outfit_mr1_000_c_merge+hi
+overalls_mr1_011_c_merge
+overalls_mr1_011_c_merge+hi

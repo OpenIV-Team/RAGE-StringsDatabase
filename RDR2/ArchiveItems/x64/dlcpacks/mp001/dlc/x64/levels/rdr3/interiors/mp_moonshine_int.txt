@@ -12,3 +12,5 @@ mp001_mp_moonshine_int_rack
 mp001_mp_moonshine_int_rack+hidr
 mp001_mp_moonshine_int_shell
 mp001_mp_moonshine_int_shell+hidr
+mp001_mp_moonshine_int
+hi@mp001_mp_moonshine_int

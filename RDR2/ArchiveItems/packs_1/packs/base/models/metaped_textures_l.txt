@@ -207,3 +207,7 @@ lowr_mr1_039_c1_999_ab
 lowr_mr1_039_c1_999_ab+hi
 lowr_mr1_627_c0_000_merge
 lowr_mr1_627_c0_000_merge+hi
+lowr_fr1_036_c_merge
+lowr_fr1_036_c_merge+hi
+linenshirt_mr1_001_c_merge
+linenshirt_mr1_001_c_merge+hi

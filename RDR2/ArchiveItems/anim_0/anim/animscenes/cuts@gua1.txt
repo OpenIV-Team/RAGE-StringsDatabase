@@ -1,0 +1,2 @@
+cutscene@gua1_ext
+cutscene@gua1_int

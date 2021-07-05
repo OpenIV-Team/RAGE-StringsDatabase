@@ -10,6 +10,7 @@ mech_doors@locked@generic@barge@action
 mech_doors@locked@generic@barge_fail
 mech_doors@locked@generic@door_knock
 mech_doors@locked@generic@kick
+mech_doors@locked@generic@kick@fail
 mech_doors@locked@generic@kick@success
 mech_doors@locked@generic@shoulder_push@crouch@handle_left
 mech_doors@locked@generic@shoulder_push@crouch@handle_right

@@ -8,3 +8,13 @@ pokerarthur
 pokerarthurcamp
 pokerjohn
 pokerjohncamp
+poker_responses
+blackjack_responses
+dominoes_responses
+fivefingerfillet_responses
+blackjackarthur_responses
+blackjackjohn_responses
+pokerarthur_responses
+pokerjohn_responses
+pokerarthurcamp_responses
+pokerjohncamp_responses

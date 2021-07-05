@@ -1,0 +1,4 @@
+cutscene@gua2_int
+cutscene@gua2_ext
+cutscene@gua2_ext_p7a2_t04
+cutscene@gua2_mcs2

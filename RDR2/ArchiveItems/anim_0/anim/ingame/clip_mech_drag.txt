@@ -1,1 +1,2 @@
 mech_drag
+mech_drag@core

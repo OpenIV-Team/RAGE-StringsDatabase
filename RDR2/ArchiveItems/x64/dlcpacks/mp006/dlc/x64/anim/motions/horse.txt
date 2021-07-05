@@ -1,1 +1,3 @@
 _manifest
+@horse@normal@skid
+@horse@normal

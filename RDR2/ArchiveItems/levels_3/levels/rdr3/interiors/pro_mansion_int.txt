@@ -10,3 +10,5 @@ pro_mansion_reflblocker
 pro_mansion_shell
 pro_mansion_shell+hidr
 pro_mansion_stairs
+pro_house_int
+pro_house_int+hi

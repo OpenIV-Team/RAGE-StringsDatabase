@@ -1,1 +1,5 @@
 cutscene@mpgvo1_int
+cutscene@mpgvo1_mcs1
+cutscene@mpgvo1_mcs2
+cutscene@mpgvo1_ext1
+cutscene@mpgvo1_ext2

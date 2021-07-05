@@ -1,0 +1,5 @@
+cutscene@nbd1_int
+cutscene@nbd1_ext
+cutscene@nbd1_mcs2
+cutscene@nbd1_mcs3
+cutscene@nbd1_mcs5

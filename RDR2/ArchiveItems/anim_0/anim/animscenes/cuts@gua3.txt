@@ -1,0 +1,6 @@
+cutscene@gua3_ext
+cutscene@gua3_int
+cutscene@gua3_mcs1
+cutscene@gua3_mcs2
+cutscene@gua3_mcs3
+cutscene@gua3_mcs5

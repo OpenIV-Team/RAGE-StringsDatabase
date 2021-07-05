@@ -77,6 +77,7 @@ creatures_mammal@bear@action_standing@transition@standing_to_action@slope@up
 creatures_mammal@bear@action_standing@transition@standing_to_idle
 creatures_mammal@bear@action_standing@transition@standing_to_idle@slope@down
 creatures_mammal@bear@action_standing@transition@standing_to_idle@slope@up
+creatures_mammal@bear@grapple@anim_scene
 creatures_mammal@bear@grapple@streamed_core
 creatures_mammal@bear@grapple@streamed_core@face
 creatures_mammal@bear@injured_critical@idle
@@ -336,6 +337,7 @@ creatures_mammal@buffalo@normal@idle@variation@shake
 creatures_mammal@buffalo@normal@idle@variation@shake@slope@down
 creatures_mammal@buffalo@normal@idle@variation@shake@slope@up
 creatures_mammal@buffalo@normal@transition@agitated_to_normal
+creatures_mammal@buffalo@reaction@getup@directional@walk
 creatures_mammal@buffalo@reaction@getup@idle
 creatures_mammal@buffalo@swimming@surface
 creatures_mammal@buffalo@swimming@surface@base
@@ -464,6 +466,7 @@ creatures_mammal@cougar@reaction@getup@directional@walk
 creatures_mammal@cougar@reaction@getup@idle
 creatures_mammal@cougar@stalking@idle@idle_variation@idle_a
 creatures_mammal@cougar@stalking@transition@stalking_to_normal
+creatures_mammal@cougar@stalking@walk_fast@slope@down
 creatures_mammal@cougar@stalking@walk_fast@slope@up
 creatures_mammal@cougar@swimming@surface
 creatures_mammal@cougar@swimming@surface@base
@@ -550,6 +553,7 @@ creatures_mammal@deer@alerts@idle_left
 creatures_mammal@deer@alerts@idle_right
 creatures_mammal@deer@injured@getup
 creatures_mammal@deer@injured@getup@directional@lying@left
+creatures_mammal@deer@injured@getup@directional@lying@right
 creatures_mammal@deer@injured_critical@idle
 creatures_mammal@deer@injured_critical@idle@slope@left
 creatures_mammal@deer@injured_critical@idle@slope@right
@@ -704,6 +708,7 @@ creatures_mammal@elk@charging@idle@slope@up
 creatures_mammal@elk@charging@idle@variation@var_a
 creatures_mammal@elk@charging@idle@variation@var_a@slope@down
 creatures_mammal@elk@charging@idle@variation@var_a@slope@up
+creatures_mammal@elk@injured@getup@directional@lying@left
 creatures_mammal@elk@injured@getup@directional@lying@right
 creatures_mammal@elk@injured@idle
 creatures_mammal@elk@injured_critical@idle
@@ -744,6 +749,7 @@ creatures_mammal@fox@normal@getup@transition
 creatures_mammal@fox@normal@idle@variation@idle_a
 creatures_mammal@fox@normal@idle@variation@idle_b
 creatures_mammal@fox@normal@idle@variation@idle_c
+creatures_mammal@fox@reaction@getup@directional@walk
 creatures_mammal@fox@reaction@getup@idle
 creatures_mammal@fox@swimming@surface
 creatures_mammal@fox@swimming@surface@base
@@ -892,6 +898,7 @@ creatures_mammal@horse@normal@transition@normal_to_low_core
 creatures_mammal@horse@normal@transition@normal_to_low_core@slope@down
 creatures_mammal@horse@normal@transition@normal_to_low_core@slope@up
 creatures_mammal@horse@normal@trot@shunt@large@0
+creatures_mammal@horse@normal@trot@shunt@large@-0
 creatures_mammal@horse@normal@trot@shunt@large@0@piaffe@slope@down
 creatures_mammal@horse@normal@trot@shunt@large@-0@piaffe@slope@down
 creatures_mammal@horse@normal@trot@shunt@large@0@piaffe@slope@up

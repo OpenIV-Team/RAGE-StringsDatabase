@@ -130,3 +130,15 @@ simple_enter
 simple_exit
 simple_fade_in
 simple_fade_out
+feed_toast/dual_layer_toast_enter
+feed_toast/dual_layer_toast_exit
+hud/passive_alpha_pulse
+feed_shards/shard_four_text_enter
+feed_shards/shard_four_text_exit
+feed_toast/rank_complete_enter
+feed_toast/rank_unlocked_enter
+feed_toast/two_text_rank_enter
+feed_toast/toast_icon_enter
+feed_toast/toast_icon_exit
+feed_toast/toast_icon_transition
+feed_toast/toast_mp_promotional_enter

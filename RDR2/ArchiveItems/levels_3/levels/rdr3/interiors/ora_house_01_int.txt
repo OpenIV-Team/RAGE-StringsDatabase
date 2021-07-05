@@ -20,3 +20,5 @@ ora_house_paintings03_002+hidr
 ora_int_details01
 ora_int_details01+hidr
 ora_lightholder
+ora_house_01_txd
+ora_house_01_txd+hi

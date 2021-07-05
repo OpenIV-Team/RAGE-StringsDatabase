@@ -60,3 +60,5 @@ new_art_ref_d
 new_art_ref_e
 new_art_ref_f
 new_art_ref_g
+new_art_refproxy
+new_art_refproxy+hi

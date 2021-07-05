@@ -1,0 +1,5 @@
+cutscene@rbch1_rsc1
+cutscene@rbch1_rsc2
+cutscene@rbch1_rsc4
+cutscene@rbch1_rsc6
+cutscene@rbch1_rsc6_ptl

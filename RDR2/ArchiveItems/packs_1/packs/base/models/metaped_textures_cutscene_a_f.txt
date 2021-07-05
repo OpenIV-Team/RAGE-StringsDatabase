@@ -1,4 +1,5 @@
-_manifest
+cs_abe_ms1_h_merge
+cs_abe_ms1_h_merge+hi
 cs_abe_ms1_head_000_c0_000_merge
 cs_abe_ms1_head_000_c0_000_merge+hi
 cs_abe_ms1_merge
@@ -77,11 +78,17 @@ cs_abigailroberts_fs1_merge_6+hi
 cs_abigailroberts_fs1_merge_7
 cs_abigailroberts_fs1_merge_7+hi
 cs_abigailroberts_fs1_merge+hi
+cs_abigailroberts_fs1_n_merge
+cs_abigailroberts_fs1_n_merge+hi
 cs_abigailroberts_fs1_nude_lower_000_c0_000_ab
 cs_abigailroberts_fs1_nude_lower_000_c0_000_ab+hi
 cs_abigailroberts_fs1_nude_lower_000_c0_000_m
 cs_abigailroberts_fs1_nude_lower_000_c0_000_m+hi
 cs_abigailroberts_fs1_ring_000_c0_000_merge
+cs_abigailroberts_fs1_s_merge
+cs_abigailroberts_fs1_s_merge_2
+cs_abigailroberts_fs1_s_merge_2+hi
+cs_abigailroberts_fs1_s_merge+hi
 cs_abigailroberts_fs1_shawl_000_c0_000_merge
 cs_abigailroberts_fs1_shawl_000_c0_000_merge+hi
 cs_acrobat_fs1_merge
@@ -124,6 +131,8 @@ cs_andershelgerson_ms1_merge_5+hi
 cs_andershelgerson_ms1_merge_6
 cs_andershelgerson_ms1_merge_6+hi
 cs_andershelgerson_ms1_merge+hi
+cs_ang_merge
+cs_ang_merge+hi
 cs_angel_ms1_merge
 cs_angel_ms1_merge+hi
 cs_angryhusband_ms1_merge
@@ -313,6 +322,8 @@ cs_billwilliamson_ms1_pants_006_c0_000_m
 cs_billwilliamson_ms1_pants_006_c0_000_m+hi
 cs_billwilliamson_ms1_pants_006_c0_000_nm
 cs_billwilliamson_ms1_pants_006_c0_000_nm+hi
+cs_billwilliamson_ms1_s_merge
+cs_billwilliamson_ms1_s_merge+hi
 cs_billwilliamson_ms1_shawl_001_c0_000_ab
 cs_billwilliamson_ms1_shawl_001_c0_000_m
 cs_billwilliamson_ms1_shawl_001_c0_000_m+hi
@@ -402,6 +413,8 @@ cs_cabaretmc_ms1_vest_000_c0_000_nm_merge
 cs_cabaretmc_ms1_vest_000_c0_000_nm_merge+hi
 cs_cajun_ms1_merge
 cs_cajun_ms1_merge+hi
+cs_cancan_0_merge
+cs_cancan_0_merge+hi
 cs_cancan_01_fs1_merge
 cs_cancan_01_fs1_merge+hi
 cs_cancan_02_fs1_merge
@@ -518,6 +531,8 @@ cs_charlessmith_ms1_merge+hi
 cs_charlessmith_ms1_quiver_000_c0_000_merge
 cs_charlessmith_ms1_quiver_000_c0_000_merge+hi
 cs_charlessmith_ms1_rope_000_c0_000_merge
+cs_charlessmith_ms1_s_merge
+cs_charlessmith_ms1_s_merge+hi
 cs_charlessmith_ms1_shirt_000_c0_000_anm
 cs_charlessmith_ms1_shirt_000_c0_000_wrinklemask
 cs_charlessmith_ms1_shirt_003_c0_000_merge
@@ -828,8 +843,10 @@ cs_escapeartist_ms1_merge
 cs_escapeartist_ms1_merge_2
 cs_escapeartist_ms1_merge_2+hi
 cs_escapeartist_ms1_merge+hi
+cs_escapeartist_ms1_s_merge
 cs_escapeartist_ms1_s_merge_2
 cs_escapeartist_ms1_s_merge_2+hi
+cs_escapeartist_ms1_s_merge+hi
 cs_escapeartistassistant_fs1_merge
 cs_escapeartistassistant_fs1_merge+hi
 cs_evelynmiller_ms1_merge
@@ -874,6 +891,8 @@ cs_exvictim_01_ms1_head_000_c0_000_m
 cs_exvictim_01_ms1_head_000_c0_000_m+hi
 cs_exvictim_01_ms1_head_000_c0_000_nm
 cs_exvictim_01_ms1_head_000_c0_000_nm+hi
+cs_famousgunslinger_01_ms1_k_merge
+cs_famousgunslinger_01_ms1_k_merge+hi
 cs_famousgunslinger_01_ms1_merge
 cs_famousgunslinger_01_ms1_merge+hi
 cs_famousgunslinger_02_ms1_merge
@@ -896,6 +915,8 @@ cs_famousgunslinger_06_ms1_merge
 cs_famousgunslinger_06_ms1_merge_2
 cs_famousgunslinger_06_ms1_merge_2+hi
 cs_famousgunslinger_06_ms1_merge+hi
+cs_famousgunslinger_06_ms1_s_merge
+cs_famousgunslinger_06_ms1_s_merge+hi
 cs_featherstonchambers_ms1_merge
 cs_featherstonchambers_ms1_merge+hi
 cs_featsofstrength_fs1_merge
@@ -996,3 +1017,5 @@ cs_fussar_ms1_merge_2+hi
 cs_fussar_ms1_merge_3
 cs_fussar_ms1_merge_3+hi
 cs_fussar_ms1_merge+hi
+cs_archerfordham_ms1_head_000_c0_000_m_merge
+cs_archerfordham_ms1_head_000_c0_000_m_merge+hi

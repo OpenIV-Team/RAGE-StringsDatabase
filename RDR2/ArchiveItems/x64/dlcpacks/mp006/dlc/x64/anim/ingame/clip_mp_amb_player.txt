@@ -207,3 +207,4 @@ mp_amb_player@world_human_eat_almonds_bar@drunk@female_a
 mp_amb_player@world_human_eat_almonds_bar@drunk@male_a
 mp_amb_player@world_human_eat_almonds_bar@wasted@female_a
 mp_amb_player@world_human_eat_almonds_bar@wasted@male_a
+mp_amb_player@player_moonshine_customer@sober@male_b@idle_b

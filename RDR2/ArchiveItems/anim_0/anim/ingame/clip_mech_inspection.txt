@@ -66,6 +66,7 @@ mech_inspection@newspaper@satchel
 mech_inspection@newspaper@table
 mech_inspection@pamphlet
 mech_inspection@pamphlet@base
+mech_inspection@pamphlet@satchel
 mech_inspection@picture_frame@base
 mech_inspection@picture_frame@counter
 mech_inspection@picture_frame@counter@upright
@@ -110,6 +111,7 @@ mech_inspection@two_fold_map@satchel
 mech_inspection@weapons@longarms@carbine@base
 mech_inspection@weapons@longarms@carbine@counter_shop
 mech_inspection@weapons@longarms@repeater_litchfield@base
+mech_inspection@weapons@longarms@repeater_winchester@base
 mech_inspection@weapons@longarms@rifle_bolt_action@base
 mech_inspection@weapons@longarms@rifle_springfield@base
 mech_inspection@weapons@longarms@rifle_varmint@base

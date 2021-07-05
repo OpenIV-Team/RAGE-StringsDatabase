@@ -174,3 +174,6 @@ cs_wintonholmes_01_ms1_holster_belt_000
 cs_wintonholmes_ms1_coat_000
 cs_wintonholmes_ms1_merge_3
 cs_wrobel_ms1_merge_2
+cs_sean_ms1_hair_000
+cs_warvet_ms1_hair_000
+cs_sean_ms1_hair_003

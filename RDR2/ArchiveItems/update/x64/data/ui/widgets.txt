@@ -411,3 +411,16 @@ sidemenu/shops/shop_footer_price
 sidemenu/trader/trader_item
 sidemenu/weapon_locker/dynamic_text_and_end_image
 sidemenu/weapon_locker/weapon_stats
+pause/settings/controls_selection_item
+persistent_resources/value_conversion/pause/map/mp_freeroam_conversion
+persistent_resources/value_conversion/pause/map/sp_conversion
+persistent_resources/value_conversion/pause/map/mp_mission_conversion
+hud/mp/gamertags/revive_circular_meter
+hud/mp/gamertags/revive_meter_with_icon
+pause/ability_loadout_card
+hud/feeds/toast/dual_layer_texture_toast_template
+hud/leaderboard_mini_content
+hud/leaderboard_mini_list_item
+hud/leaderboard_mini_divider
+leaderboard_and_post_match/leaderboard_list_item_blank
+hud/passive_icon

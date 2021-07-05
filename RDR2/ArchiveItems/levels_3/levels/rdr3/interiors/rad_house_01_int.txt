@@ -64,3 +64,5 @@ rad_int_shell+hidr
 rad_room_02_detail01_tnt
 rad_room_02_detail01_tnt+hidr
 rad_room_02_flr_decals01
+rad_house_int
+rad_house_int+hi

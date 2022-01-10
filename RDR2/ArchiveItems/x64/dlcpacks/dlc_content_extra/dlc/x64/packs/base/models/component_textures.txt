@@ -12,11 +12,11 @@ a_c_wolf_merge_5+hi
 a_c_wolf_merge+hi
 cs_herbalist_ms1_merge
 cs_herbalist_ms1_merge+hi
+p_c_horse_01_h_merge_46
+p_c_horse_01_h_merge_46+hi
 p_c_horse_01_hand_000_c0_000_anm
 p_c_horse_01_hand_000_c0_000_wrinklemask
 p_c_horse_01_head_000_c0_000_anm
 p_c_horse_01_head_000_c0_000_wrinklemask
 p_c_horse_01_merge
 p_c_horse_01_merge+hi
-p_c_horse_01_h_merge_46
-p_c_horse_01_h_merge_46+hi

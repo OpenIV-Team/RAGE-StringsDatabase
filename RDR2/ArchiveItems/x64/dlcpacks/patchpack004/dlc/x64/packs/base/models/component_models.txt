@@ -19,9 +19,11 @@ cs_famousgunslinger_02_ms1_coat_fur_001
 cs_famousgunslinger_02_ms1_hat_000
 cs_famousgunslinger_02_ms1_merge_2
 cs_famousgunslinger_05_fs1_merge_2
+cs_mrsadler_fs1_hair_000
 cs_mrsadler_fs1_merge_26
 cs_mrsadler_fs1_shawl_003
 cs_valsheriff_ms1_merge_2
+cs_warvet_ms1_hair_000
 cs_warvet_ms1_merge_2
 hair_fr1_058
 hair_mr1_090
@@ -36,5 +38,3 @@ player_zero_shirt_010_o_b_full
 tatteredoveralls_mr1_001
 tatteredshirt_mr1_002_bigguy
 vest_mr1_026_undercoat
-cs_mrsadler_fs1_hair_000
-cs_warvet_ms1_hair_000

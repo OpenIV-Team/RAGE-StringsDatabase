@@ -1,4 +1,5 @@
 mpintro_int
+mpintro_int_p4_t06_merge
 mpintro_int_p4_t06_merge-0
 mpintro_int_p4_t06_merge-1
 mpintro_int_p4_t06_merge-2
@@ -95,6 +96,7 @@ mpintro_int2-64
 mpintro_int2-65
 mpintro_int2-66
 mpintro_int2-67
+mpintro_int2-68
 mpintro_int2-69
 mpintro_int2-7
 mpintro_int-27
@@ -266,5 +268,3 @@ mpintro_mcs4-6
 mpintro_mcs4-7
 mpintro_mcs4-8
 mpintro_mcs4-9
-mpintro_int_p4_t06_merge
-mpintro_int2-68

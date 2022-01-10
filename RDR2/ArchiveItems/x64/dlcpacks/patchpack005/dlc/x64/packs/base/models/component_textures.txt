@@ -54,6 +54,8 @@ mp_spurs_mr1_012_c1_999_m
 mp_spurs_mr1_012_c1_999_m+hi
 mp_spurs_mr1_012_c1_999_nm
 mp_spurs_mr1_012_c1_999_nm+hi
+p_c_horse_01_h_merge_46
+p_c_horse_01_h_merge_46+hi
 p_c_horse_01_hand_000_c0_000_anm
 p_c_horse_01_hand_000_c0_000_wrinklemask
 p_c_horse_01_head_000_c0_000_anm
@@ -90,5 +92,3 @@ tie_mr1_034_c0_merge
 tie_mr1_034_c0_merge+hi
 tie_mr1_034_c1_merge
 tie_mr1_034_c1_merge+hi
-p_c_horse_01_h_merge_46
-p_c_horse_01_h_merge_46+hi

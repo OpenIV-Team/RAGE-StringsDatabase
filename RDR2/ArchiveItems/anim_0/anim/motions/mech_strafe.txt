@@ -1,2 +1,2 @@
-_manifest
 @mech_strafe@character@arthur@crouch@unarmed@stop
+_manifest

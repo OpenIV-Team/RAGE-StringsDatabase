@@ -1,0 +1,4 @@
+x64/levels/rdr3/script/parseddata
+x64/levels/rdr3/script/parseddata_mp
+x64/levels/rdr3/script/script_mp_rel
+x64/levels/rdr3/script/script_rel

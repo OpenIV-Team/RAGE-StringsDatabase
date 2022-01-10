@@ -2,4 +2,3 @@ _cache
 _manifest
 l_14_placement
 l_14_placement_strm_0
-comboshirt_mr1_035_c3_000_nm+hi

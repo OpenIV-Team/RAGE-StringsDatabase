@@ -1,0 +1,14 @@
+x64/data/lang/american_rel
+x64/data/lang/brazilian_rel
+x64/data/lang/chinesesimp_rel
+x64/data/lang/chinesetrad_rel
+x64/data/lang/french_rel
+x64/data/lang/german_rel
+x64/data/lang/italian_rel
+x64/data/lang/japanese_rel
+x64/data/lang/korean_rel
+x64/data/lang/mexican_rel
+x64/data/lang/polish_rel
+x64/data/lang/russian_rel
+x64/data/lang/spanish_rel
+x64/data/lang/substitutions.meta

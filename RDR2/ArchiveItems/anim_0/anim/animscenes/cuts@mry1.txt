@@ -1,6 +1,6 @@
-cutscene@mry1_mcs2
 cutscene@mry1_ext
 cutscene@mry1_int
 cutscene@mry1_mcs1
+cutscene@mry1_mcs2
 cutscene@mry1_mcs3
 cutscene@mry1_mcs4

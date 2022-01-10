@@ -86,6 +86,7 @@ hud/feeds/ticker/ticker_feed
 hud/feeds/ticker/ticker_template
 hud/feeds/ticker/ticker_with_icon_template
 hud/feeds/toast/attach_toast_feed
+hud/feeds/toast/dual_layer_texture_toast_template
 hud/feeds/toast/lhm_toast_feed
 hud/feeds/toast/rankup_template
 hud/feeds/toast/sticky_toast_feed
@@ -101,6 +102,9 @@ hud/feeds/voice_chat/voice_chat_template
 hud/fishing_bait_counter
 hud/helper_text
 hud/honor_display
+hud/leaderboard_mini_content
+hud/leaderboard_mini_divider
+hud/leaderboard_mini_list_item
 hud/menu_item_effects_container
 hud/menu_item_effects_core
 hud/menu_item_effects_duration
@@ -112,6 +116,8 @@ hud/money_ammo
 hud/money_value
 hud/mp/gamertags/gamer_tag_host
 hud/mp/gamertags/gamer_tag_template
+hud/mp/gamertags/revive_circular_meter
+hud/mp/gamertags/revive_meter_with_icon
 hud/mp/generic/3_2_1_countdown
 hud/mp/generic/item_text_with_meter
 hud/mp/generic/item_text_with_time
@@ -128,6 +134,7 @@ hud/mp/generic/scoretimer_components/right_score_with_background
 hud/mp/generic/scoretimer_components/score_with_background
 hud/mp/generic/text_and_score_item
 hud/mp/generic/top_right_score_stack
+hud/passive_icon
 hud/quick_select/equipped_brush
 hud/quick_select/horse_info/horse_info
 hud/quick_select/item_counters/ammo_counter
@@ -210,6 +217,7 @@ introcredits/name_template
 introcredits/title_template
 leaderboard_and_post_match/leaderboard_header
 leaderboard_and_post_match/leaderboard_list_item
+leaderboard_and_post_match/leaderboard_list_item_blank
 leaderboard_and_post_match/vote_button_item
 lobby/game_start_timer
 lobby/lobby_ammo_capacity
@@ -218,6 +226,7 @@ lobby/lobby_purchases_list_item
 minigames/fff_input_icon
 pause/ability_card
 pause/ability_focus_card
+pause/ability_loadout_card
 pause/ability_loadout_card_focusable_large
 pause/ability_loadout_card_focusable_small
 pause/ability_loadout_filter_slot
@@ -270,6 +279,7 @@ pause/settings/controller_config/controller_input_label
 pause/settings/controller_config/controller_input_left
 pause/settings/controller_config/controller_input_right
 pause/settings/controller_config/controller_input_top
+pause/settings/controls_selection_item
 pause/settings/info_boxes/info_box_audio_config
 pause/settings/info_boxes/info_box_colorblind
 pause/settings/info_boxes/info_box_controller
@@ -296,6 +306,9 @@ pause/settings/list_items/settings_list_item_raw
 pause/settings/settings_list_inner
 pause/story_checklist_item
 pause/title
+persistent_resources/value_conversion/pause/map/mp_freeroam_conversion
+persistent_resources/value_conversion/pause/map/mp_mission_conversion
+persistent_resources/value_conversion/pause/map/sp_conversion
 radial_menus/slot_item_entry_counter
 rank_points
 rewards/rewards_rank_item
@@ -411,16 +424,3 @@ sidemenu/shops/shop_footer_price
 sidemenu/trader/trader_item
 sidemenu/weapon_locker/dynamic_text_and_end_image
 sidemenu/weapon_locker/weapon_stats
-pause/settings/controls_selection_item
-persistent_resources/value_conversion/pause/map/mp_freeroam_conversion
-persistent_resources/value_conversion/pause/map/sp_conversion
-persistent_resources/value_conversion/pause/map/mp_mission_conversion
-hud/mp/gamertags/revive_circular_meter
-hud/mp/gamertags/revive_meter_with_icon
-pause/ability_loadout_card
-hud/feeds/toast/dual_layer_texture_toast_template
-hud/leaderboard_mini_content
-hud/leaderboard_mini_list_item
-hud/leaderboard_mini_divider
-leaderboard_and_post_match/leaderboard_list_item_blank
-hud/passive_icon

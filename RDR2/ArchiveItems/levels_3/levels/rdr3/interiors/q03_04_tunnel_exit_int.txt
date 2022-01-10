@@ -3,6 +3,7 @@ _manifest
 cablemesh341035_tstd001
 cave_enterance_exit_decal001
 cave_enterance_exit_decal001+hidr
+hi@q0304_tunnel_exit
 q03_04_tunnel_exit_int
 q0304_tunnel_exit
 q0304_tunnel_exit_low
@@ -18,4 +19,3 @@ rdrail_tunnel_exit
 rdrail_tunnel_exit+hi
 tunel_q3_q4_decal_01
 tunel_q3_q4_decal_01+hidr
-hi@q0304_tunnel_exit

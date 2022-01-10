@@ -47,6 +47,7 @@ dis_scm_boatintreecrate_lod
 dis_scm_boatintreecrate+hidr
 dis_scm_boatintreewire
 dis_scm_cc_graffiti
+dis_scm_deadsnake
 dis_scm_deadsnake_lod
 dis_scm_deadsnake_tree
 dis_scm_deadsnake_tree+hidr
@@ -79,4 +80,3 @@ hi@dis_scm_00_1
 hi@dis_scm_00_2
 hi@dis_scm_00_3
 hi@dis_scm_00_4
-dis_scm_deadsnake

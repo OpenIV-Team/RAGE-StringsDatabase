@@ -3,6 +3,8 @@ mangledhead_mr1_000_c0_000_merge
 mangledhead_mr1_000_c0_000_merge+hi
 mangledhead_mr1_001_c0_000_merge
 mangledhead_mr1_001_c0_000_merge+hi
+mangledshirt_mr1_000_c_merge
+mangledshirt_mr1_000_c_merge+hi
 mannequinhead_mr1_000_c0_000_ab
 mannequinhead_mr1_000_c0_000_m
 mannequinhead_mr1_000_c0_000_m+hi
@@ -62,6 +64,7 @@ meathead_mr1_c0_000_m
 meathead_mr1_c0_000_m+hi
 meathead_mr1_c0_000_nm
 meathead_mr1_c0_000_nm+hi
+modgown_merge
 modgown_merge_2
 modgown_merge_2+hi
 modgown_merge_3
@@ -72,6 +75,7 @@ modgown_merge_5
 modgown_merge_5+hi
 modgown_merge_6
 modgown_merge_6+hi
+modgown_merge+hi
 modgownattachment_fr1_000_c0_000_merge
 modgownattachment_fr1_000_c0_000_merge+hi
 modgownattachment_fr1_002_c0_000_merge
@@ -212,6 +216,7 @@ modshirt_mr1_000_bib_024_c0_999_ab
 modshirt_mr1_000_bib_024_c1_999_ab
 modshirt_mr1_000_bib_024_c2_999_ab
 modshirt_mr1_000_bib_024_c3_999_ab
+modshirt_mr1_000_cllr_00_merge
 modshirt_mr1_000_cllr_000_c0_000_m
 modshirt_mr1_000_cllr_000_c0_000_nm
 modshirt_mr1_000_cllr_000_c0_999_ab
@@ -267,6 +272,7 @@ modshirt_mr1_000_slvs_002_c2_999_ab
 modshirt_mr1_000_slvs_002_c2_999_ab+hi
 modshirt_mr1_000_slvs_002_c3_999_ab
 modshirt_mr1_000_slvs_002_c3_999_ab+hi
+modshirt_mr1_000_tors_0_merge
 modshirt_mr1_000_tors_004_c0_000_m
 modshirt_mr1_000_tors_004_c0_999_ab
 modshirt_mr1_000_tors_004_c0_999_ab+hi
@@ -350,9 +356,3 @@ mscl_mr1_008_c0_001_ab
 mscl_mr1_008_c0_001_ab+hi
 mscl_mr1_008_c0_001_nm
 mscl_mr1_008_c0_001_nm+hi
-modgown_merge
-modgown_merge+hi
-mangledshirt_mr1_000_c_merge
-mangledshirt_mr1_000_c_merge+hi
-modshirt_mr1_000_cllr_00_merge
-modshirt_mr1_000_tors_0_merge

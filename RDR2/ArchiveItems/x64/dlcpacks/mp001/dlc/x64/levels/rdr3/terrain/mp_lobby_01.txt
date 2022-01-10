@@ -117,7 +117,7 @@ mp001_mp_winlose_swamp_kudzu
 mp001_mp_winlose_swamp_platform
 mp001_mp_winlose_swamp_structures
 mp001_mp_winlose_swamp_terrain
-mp001_u_07p_winlose
-mp001_u_07p_winlose_1
 mp001_mp_winlose_swamp_txd
 mp001_mp_winlose_swamp_txd+hi
+mp001_u_07p_winlose
+mp001_u_07p_winlose_1

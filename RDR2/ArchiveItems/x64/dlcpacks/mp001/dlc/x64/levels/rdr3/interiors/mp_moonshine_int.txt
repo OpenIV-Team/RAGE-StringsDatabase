@@ -1,5 +1,7 @@
 _cache
 _manifest
+hi@mp001_mp_moonshine_int
+mp001_mp_moonshine_int
 mp001_mp_moonshine_int_beam
 mp001_mp_moonshine_int_beam+hidr
 mp001_mp_moonshine_int_dec
@@ -12,5 +14,3 @@ mp001_mp_moonshine_int_rack
 mp001_mp_moonshine_int_rack+hidr
 mp001_mp_moonshine_int_shell
 mp001_mp_moonshine_int_shell+hidr
-mp001_mp_moonshine_int
-hi@mp001_mp_moonshine_int

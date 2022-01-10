@@ -151,6 +151,7 @@ new_man_candelabra06_01
 new_man_candelabra06_02
 new_man_candelabra06_03
 new_man_gala_int
+new_man_gala_int_ref
 new_man_gala_int_ref_a
 new_man_gala_int_ref_b
 new_man_gala_int_ref_c
@@ -164,10 +165,9 @@ new_man_gala_int_ref_l
 new_man_gala_int_ref_m
 new_man_gala_int_ref_n
 new_man_gala_int_ref_o
+new_man_gala_int_ref+hi
 new_man_gala_int_shadowproxy
 new_man_gala_sunporchfloor
 new_man_gala_sunporchwalls
 new_man_gala_sunporchwalls+hidr
 new_mangal_win_geo1164
-new_man_gala_int_ref
-new_man_gala_int_ref+hi

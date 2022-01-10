@@ -1,3 +1,7 @@
+common/data/ai/weapon_bow_improved_mp.meta
+common/data/ai/weapon_kit_camera_advanced_mp.meta
+common/data/ai/weapon_melee_machete_horror_mp.meta
+common/data/ai/weapon_rifle_elephant_mp.meta
 common/data/ai/weaponcomponents.meta
 common/data/anim/dictionary_meta/clip_dictionary_budget_flags.meta
 common/data/anim/dictionary_meta/motion_dictionary_budget_flags.meta
@@ -124,7 +128,3 @@ x64/packs/base/models/metapeds_m
 x64/packs/base/models/metapeds_t
 x64/packs/base/models/mp_overlays
 x64/packs/base/models/weapons
-common/data/ai/weapon_bow_improved_mp.meta
-common/data/ai/weapon_kit_camera_advanced_mp.meta
-common/data/ai/weapon_melee_machete_horror_mp.meta
-common/data/ai/weapon_rifle_elephant_mp.meta

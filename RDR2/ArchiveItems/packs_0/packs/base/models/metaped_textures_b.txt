@@ -223,6 +223,8 @@ beltchain_mr1_000_c0_000_merge+hi
 bindings_mr1_000_c0_000_merge
 bindings_mr1_000_c1_999_ab
 bindings_mr1_000_c3_merge
+blouse_fr1_000_c_merge
+blouse_fr1_000_c_merge+hi
 blouse_fr1_001_c1_000_ab
 blouse_fr1_001_c1_000_ab+hi
 blouse_fr1_001_c1_000_m
@@ -662,6 +664,8 @@ boot_mr1_063_c0_00_merge+hi
 boot_mr1_063_c0_002_ab
 boot_mr1_063_c3_merge
 boot_mr1_064_c0_merge
+boot_mr1_065_c_merge
+boot_mr1_065_c_merge+hi
 boot_mr1_070_c1_000_m
 boot_mr1_070_c1_000_nm
 boot_mr1_070_c1_000_nm+hi
@@ -732,13 +736,9 @@ bracelets_mr1_003_c0_999_ab
 bridle_hr1_004_c1_000_ab
 bridle_hr1_004_c1_000_m
 bridle_hr1_004_c1_000_nm
-bustlecoat_fr1_000_c1_merge
-bustlecoat_fr1_000_c1_merge+hi
-blouse_fr1_000_c_merge
-blouse_fr1_000_c_merge+hi
-boot_mr1_065_c_merge
-boot_mr1_065_c_merge+hi
 bustle_merge
 bustle_merge+hi
+bustlecoat_fr1_000_c1_merge
+bustlecoat_fr1_000_c1_merge+hi
 bustleskirt_fr1_000_c_merge
 bustleskirt_fr1_000_c_merge+hi

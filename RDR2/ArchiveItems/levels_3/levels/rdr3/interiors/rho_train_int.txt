@@ -19,6 +19,6 @@ rho_train_room2_decals
 rho_train_room2_decals+hidr
 rho_train_shell_main
 rho_train_shell_main+hidr
-rho_train_shell_shadow_proxy
 rho_train_shell_ref_proxy
 rho_train_shell_ref_proxy+hi
+rho_train_shell_shadow_proxy

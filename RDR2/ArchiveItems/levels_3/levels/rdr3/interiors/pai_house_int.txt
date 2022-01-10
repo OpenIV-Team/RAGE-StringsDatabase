@@ -6,6 +6,7 @@ pai_house_int
 pai_house_lightbox
 pai_house_lightbox001
 pai_house_lightbox002
+pai_hse_int
 pai_hse_int_01
 pai_hse_int_01+hidr
 pai_hse_int_02
@@ -28,7 +29,6 @@ pai_hse_int_roomq02_mirror+hidr
 pai_hse_int_shadowproxy
 pai_hse_int_shell
 pai_hse_int_shell+hidr
+pai_hse_int+hi
 room_pai_house_ref_01
 room_pai_house_ref_03
-pai_hse_int
-pai_hse_int+hi

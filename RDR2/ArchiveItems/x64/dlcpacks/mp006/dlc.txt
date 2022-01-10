@@ -1,5 +1,7 @@
 common/data/ai/aimupperbodydata.meta
+common/data/ai/weapon_revolver_navy_mp.meta
 common/data/ai/weaponcomponents.meta
+common/data/ai/weapons_mp006_moonshiner_mp.meta
 common/data/anim/dictionary_meta/clip_dictionary_budget_flags.meta
 common/data/anim/dictionary_meta/motion_dictionary_budget_flags.meta
 common/data/handling.meta
@@ -161,5 +163,3 @@ x64/packs/base/models/metapeds_m
 x64/packs/base/models/metapeds_o
 x64/packs/base/models/weapons
 x64/textures/mp006_palettes
-common/data/ai/weapon_revolver_navy_mp.meta
-common/data/ai/weapons_mp006_moonshiner_mp.meta

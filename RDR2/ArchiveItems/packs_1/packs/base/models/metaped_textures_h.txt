@@ -115,6 +115,8 @@ hand_mr1_000_c0_020_ab
 hand_mr1_000_c0_020_ab+hi
 hand_mr1_000_c0_020_nm
 hand_mr1_000_c0_020_nm+hi
+hand_mr1_000_c0_021_m_merge
+hand_mr1_000_c0_021_m_merge+hi
 hand_mr1_000_c0_022_ab
 hand_mr1_000_c0_022_ab+hi
 hand_mr1_000_c0_025_ab
@@ -147,6 +149,8 @@ hand_mr1_001_c0_010_m
 hand_mr1_001_c0_010_m+hi
 hand_mr1_001_c0_013_ab_merge
 hand_mr1_001_c0_013_ab_merge+hi
+hand_mr1_001_c0_013_m_merge
+hand_mr1_001_c0_013_m_merge+hi
 hand_mr1_001_c0_013_nm
 hand_mr1_001_c0_013_nm+hi
 hand_mr1_001_c0_015_m
@@ -1241,6 +1245,8 @@ head_fr1_weathered_009_nm
 head_fr1_weathered_009_nm+hi
 head_fr1_weathered_010_nm
 head_fr1_weathered_010_nm+hi
+head_gr1_9000_c0_000_m_merge
+head_gr1_9000_c0_000_m_merge+hi
 head_mr1_0026_c0_000_ab
 head_mr1_0026_c0_000_ab+hi
 head_mr1_0026_c0_000_m
@@ -1468,6 +1474,10 @@ head_mr1_rough_032_nm
 head_mr1_rough_032_nm+hi
 head_mr1_rough_033_nm
 head_mr1_rough_033_nm+hi
+head_mr1_sc0_merge
+head_mr1_sc0_merge_2
+head_mr1_sc0_merge_2+hi
+head_mr1_sc0_merge+hi
 head_mr1_sc00_mp_c0_000_ab
 head_mr1_sc00_mp_c0_000_m
 head_mr1_sc01_c0_000_m
@@ -2016,6 +2026,8 @@ head_mu1_sc08_rough_c0_014_ab
 head_mu1_sc08_rough_c0_014_ab+hi
 head_mu1_sc08_rough_c0_015_ab
 head_mu1_sc08_rough_c0_015_ab+hi
+head_tr1_00_merge
+head_tr1_00_merge+hi
 head_Tr1_0001_c0_000_nm
 head_tr1_0001_c0_000_nm+hi
 head_tr1_0002_c0_000_nm
@@ -2155,6 +2167,8 @@ horn_hr1_012_c1_merge
 horn_hr1_012_c3_000_m
 horn_hr1_012_c3_000_nm
 horn_hr1_012_c3_999_ab
+horn_hr1_013_c_merge
+horn_hr1_013_c_merge+hi
 horn_hr3_000_c0_000_ab
 horn_hr3_000_c0_000_merge
 horn_hr3_000_c1_merge
@@ -2177,17 +2191,3 @@ horseloadout_hr1_004_c0_000_merge
 horseloadout_hr1_004_c0_000_merge+hi
 horseloadout_hr1_005_c0_000_merge
 horseloadout_hr1_005_c0_000_merge+hi
-head_mr1_sc0_merge
-head_mr1_sc0_merge+hi
-head_tr1_00_merge
-head_tr1_00_merge+hi
-horn_hr1_013_c_merge
-horn_hr1_013_c_merge+hi
-hand_mr1_000_c0_021_m_merge
-hand_mr1_000_c0_021_m_merge+hi
-head_mr1_sc0_merge_2
-head_mr1_sc0_merge_2+hi
-hand_mr1_001_c0_013_m_merge
-hand_mr1_001_c0_013_m_merge+hi
-head_gr1_9000_c0_000_m_merge
-head_gr1_9000_c0_000_m_merge+hi

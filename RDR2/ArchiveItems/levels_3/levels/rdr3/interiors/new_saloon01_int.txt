@@ -48,10 +48,12 @@ new_saloon01_int_plyrrm
 new_saloon01_int_plyrrm_curt
 new_saloon01_int_plyrrm_curt+hidr
 new_saloon01_int_plyrrm+hidr
+new_saloon01_int_ref
 new_saloon01_int_ref_a
 new_saloon01_int_ref_c
 new_saloon01_int_ref_d
 new_saloon01_int_ref_d+hidr
+new_saloon01_int_ref+hi
 new_saloon01_int_shadowproxy
 new_saloon01_int_shell
 new_saloon01_int_shell+hi
@@ -67,5 +69,3 @@ new_saloon01_up_foyercurt
 new_saloon01_up_foyercurt+hidr
 new_saloon01_up+hidr
 new_shadow_only
-new_saloon01_int_ref
-new_saloon01_int_ref+hi

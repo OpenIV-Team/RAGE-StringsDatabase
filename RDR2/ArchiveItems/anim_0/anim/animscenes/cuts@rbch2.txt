@@ -1,5 +1,5 @@
 cutscene@rbch2_rsc1
+cutscene@rbch2_rsc11
 cutscene@rbch2_rsc2
 cutscene@rbch2_rsc3
 cutscene@rbch2_rsc5
-cutscene@rbch2_rsc11

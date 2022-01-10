@@ -17,6 +17,8 @@ cs_sean_ms1_bindings_000
 cs_sean_ms1_coat_00_merge
 cs_sean_ms1_coat_000
 cs_sean_ms1_coat_002
+cs_sean_ms1_hair_000
+cs_sean_ms1_hair_003
 cs_sean_ms1_hat_000
 cs_sean_ms1_head_001
 cs_sean_ms1_mask_001
@@ -161,6 +163,7 @@ cs_vampire_ms1_hair_000_012
 cs_vampire_ms1_merge_2
 cs_vht_bathgirl_fs1_merge_2
 cs_wapitiboy_ms1_merge_2
+cs_warvet_ms1_hair_000
 cs_warvet_ms1_merge_2
 cs_warvet_ms1_vest_000
 cs_warvetwife_fs1_boot_000
@@ -174,6 +177,3 @@ cs_wintonholmes_01_ms1_holster_belt_000
 cs_wintonholmes_ms1_coat_000
 cs_wintonholmes_ms1_merge_3
 cs_wrobel_ms1_merge_2
-cs_sean_ms1_hair_000
-cs_warvet_ms1_hair_000
-cs_sean_ms1_hair_003

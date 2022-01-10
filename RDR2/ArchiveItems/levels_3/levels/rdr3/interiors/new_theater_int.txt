@@ -49,6 +49,8 @@ new_theater_fireplace01
 new_theater_fireplace02
 new_theater_int
 new_theater_int_chandalier
+new_theater_int_ref_proxy
+new_theater_int_ref_proxy+hi
 new_theater_int_ref_pxy_a
 new_theater_int_ref_pxy_b
 new_theater_int_ref_pxy_c
@@ -76,5 +78,3 @@ new_theater_poster_swoman
 new_theater_refl_only
 new_theater_stage_blocker
 new_theater_wd_partitions
-new_theater_int_ref_proxy
-new_theater_int_ref_proxy+hi

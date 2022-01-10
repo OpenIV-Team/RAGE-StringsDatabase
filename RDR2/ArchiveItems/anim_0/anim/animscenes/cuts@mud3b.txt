@@ -1,4 +1,4 @@
-cutscene@mud3b_int
 cutscene@mud3b_ext
+cutscene@mud3b_int
 cutscene@mud3b_mcs1
 cutscene@mud3b_mcs2

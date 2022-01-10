@@ -1,9 +1,9 @@
 cutscene@mpintro_bink
+cutscene@mpintro_bink_source
 cutscene@mpintro_int
+cutscene@mpintro_int_p4_t06_merge
 cutscene@mpintro_int2
 cutscene@mpintro_mcs1
 cutscene@mpintro_mcs2
 cutscene@mpintro_mcs3
 cutscene@mpintro_mcs4
-cutscene@mpintro_bink_source
-cutscene@mpintro_int_p4_t06_merge

@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@mp006_luc_house_int
 mp006_luc_house_int
 mp006_luc_hse_accentrocks
 mp006_luc_hse_beams
@@ -23,4 +24,3 @@ mp006_luc_hse_shell_ent+hidr
 mp006_luc_hse_stairs
 mp006_luc_hse_stairs+hidr
 mp006_luc_opti_shell
-hi@mp006_luc_house_int

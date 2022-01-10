@@ -251,6 +251,7 @@ social_club/widgets/settings/button_profile
 social_club/widgets/settings/button_with_icon
 social_club/widgets/social_club_feed_rectangle_highlight
 store/flow/store_gold_flow
+store/flow/store_launcher_flow
 store/flow/store_main_flow
 store/flow/store_offers_flow
 store/screens/store_app_host
@@ -267,4 +268,3 @@ store/widgets/store_panel_small
 store/widgets/store_panel_small_inner
 store/widgets/store_panel_vert
 store/widgets/title
-store/flow/store_launcher_flow

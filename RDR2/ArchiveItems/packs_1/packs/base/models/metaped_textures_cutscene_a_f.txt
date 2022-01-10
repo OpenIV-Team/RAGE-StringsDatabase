@@ -151,6 +151,8 @@ cs_antonyforemen_ms1_merge_3+hi
 cs_antonyforemen_ms1_merge+hi
 cs_antonyforemen_ms1_vest_000_c0_000_nm_merge
 cs_antonyforemen_ms1_vest_000_c0_000_nm_merge+hi
+cs_archerfordham_ms1_head_000_c0_000_m_merge
+cs_archerfordham_ms1_head_000_c0_000_m_merge+hi
 cs_archerfordham_ms1_merge
 cs_archerfordham_ms1_merge+hi
 cs_archibaldjameson_ms1_head_000_c0_000_merge
@@ -1017,5 +1019,3 @@ cs_fussar_ms1_merge_2+hi
 cs_fussar_ms1_merge_3
 cs_fussar_ms1_merge_3+hi
 cs_fussar_ms1_merge+hi
-cs_archerfordham_ms1_head_000_c0_000_m_merge
-cs_archerfordham_ms1_head_000_c0_000_m_merge+hi

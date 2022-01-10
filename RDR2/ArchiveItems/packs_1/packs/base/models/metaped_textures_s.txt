@@ -359,6 +359,10 @@ Shawl_FR1_006_c3_999_ab
 shawl_fr1_006_c3_999_ab+hi
 shawl_fr1_009_c3_merge
 shawl_fr1_009_c3_merge+hi
+shirt_tr1_00_merge
+shirt_tr1_00_merge_2
+shirt_tr1_00_merge_2+hi
+shirt_tr1_00_merge+hi
 shirt_tr1_003_c0_000_merge
 shirt_tr1_003_c0_000_merge+hi
 shirt_tr1_007_c3_merge
@@ -374,6 +378,8 @@ shirtsleeves_mr1_000_c1_999_ab
 shirtsleeves_mr1_000_c1_999_ab+hi
 skelupper_mr1_000_c1_000_nm_merge
 skelupper_mr1_000_c1_000_nm_merge+hi
+skelupper_mr1_000_c2_000_m_merge
+skelupper_mr1_000_c2_000_m_merge+hi
 skelupper_mr1_000_c3_000_m
 skelupper_mr1_000_c3_000_m+hi
 skirt_fr1_000_c0_000_m
@@ -533,9 +539,3 @@ suspender_mr1_027_c3_merge
 suspender_mr1_027_c3_merge+hi
 swimsuit_fr1_000_c3_merge
 swimsuit_fr1_000_c3_merge+hi
-skelupper_mr1_000_c2_000_m_merge
-skelupper_mr1_000_c2_000_m_merge+hi
-shirt_tr1_00_merge
-shirt_tr1_00_merge+hi
-shirt_tr1_00_merge_2
-shirt_tr1_00_merge_2+hi

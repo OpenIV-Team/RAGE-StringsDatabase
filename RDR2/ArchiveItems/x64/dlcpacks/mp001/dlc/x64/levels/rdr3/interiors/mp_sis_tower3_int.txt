@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@mp001_mp_sis_tower3_int
 mp001_mp_sis_tower03_bars
 mp001_mp_sis_tower03_bars+hidr
 mp001_mp_sis_tower03_int_decals
@@ -8,7 +9,6 @@ mp001_mp_sis_tower03_railing
 mp001_mp_sis_tower03_stairs
 mp001_mp_sis_tower03_stairs+hidr
 mp001_mp_sis_tower3_int
-hi@mp001_mp_sis_tower3_int
 mp001_mp_sis_tower3_int_txd
 mp001_mp_sis_tower3_int_txd+hi
 mp001_mp_sis_tower3_shell

@@ -125,6 +125,6 @@ help/sp/crime/articles
 help/sp/general/articles
 help/sp/horse/articles
 templates/satchel/category_item
+templates/satchel/folder_item
 templates/satchel/list_item
 templates/satchel/menu_item
-templates/satchel/folder_item

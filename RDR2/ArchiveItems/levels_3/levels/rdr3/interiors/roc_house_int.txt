@@ -10,6 +10,8 @@ roc_house_int
 roc_house_lightbox002
 roc_house_lightbox003
 roc_house_lightbox01
+roc_house_txd
+roc_house_txd+hi
 roc_hse_bed01_details01
 roc_hse_bed01_details01+hidr
 roc_hse_bed01_logs
@@ -45,5 +47,3 @@ roc_sev_cupboard_messed
 roc_sev_cupboard_messed001
 roc_sev_int_mirror01
 roc_sev_int_mirror01+hidr
-roc_house_txd
-roc_house_txd+hi

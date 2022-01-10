@@ -5,6 +5,8 @@ outfit_fr1_000_c4_000_m
 outfit_fr1_000_c4_000_m+hi
 outfit_fr1_000_c4_000_nm
 outfit_fr1_000_c4_000_nm+hi
+outfit_mr1_000_c_merge
+outfit_mr1_000_c_merge+hi
 outfit_mr1_001_c3_merge
 outfit_mr1_001_c3_merge+hi
 outfit_mr1_002_c4_000_merge
@@ -35,12 +37,10 @@ outfit_tr1_001_c3_merge
 outfit_tr1_001_c3_merge+hi
 overalls_mr1_008_c3_merge
 overalls_mr1_009_c3_merge
+overalls_mr1_011_c_merge
+overalls_mr1_011_c_merge+hi
 overalls_mr1_012_c3_merge
 overalls_mr1_013_c3_000_merge
 overalls_mr1_014_c0_merge
 overalls_mr1_014_c0_merge+hi
 overalls_mr1_014_c3_merge
-outfit_mr1_000_c_merge
-outfit_mr1_000_c_merge+hi
-overalls_mr1_011_c_merge
-overalls_mr1_011_c_merge+hi

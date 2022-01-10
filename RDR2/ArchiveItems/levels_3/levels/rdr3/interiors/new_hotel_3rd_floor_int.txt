@@ -2,8 +2,10 @@ _cache
 _manifest
 hi@new_hotel_3rd_floor_int
 new_hotel_3rd_floor_int
+new_hotel_3rd_floor_int_ref
 new_hotel_3rd_floor_int_ref_a
 new_hotel_3rd_floor_int_ref_b
+new_hotel_3rd_floor_int_ref+hi
 new_hotel_3rdfl_int_shell_txd
 new_hotel_3rdfl_int_shell_txd+hi
 new_hotel_3rdfl_int_txd
@@ -37,5 +39,3 @@ new_pieces05
 new_pieces05+hidr
 new_wood005
 new_wood005+hidr
-new_hotel_3rd_floor_int_ref+hi
-new_hotel_3rd_floor_int_ref

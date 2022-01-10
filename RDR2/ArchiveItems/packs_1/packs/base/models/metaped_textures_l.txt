@@ -11,6 +11,8 @@ linenshirt_mr1_000_c1_merge
 linenshirt_mr1_000_c1_merge+hi
 linenshirt_mr1_000_c3_merge
 linenshirt_mr1_000_c3_merge+hi
+linenshirt_mr1_001_c_merge
+linenshirt_mr1_001_c_merge+hi
 linenshirt_mr1_002_c1_merge
 linenshirt_mr1_002_c1_merge+hi
 linenshirt_mr1_002_c3_merge
@@ -181,6 +183,8 @@ lowr_fr1_029_c3_999_ab
 lowr_fr1_029_c3_999_ab+hi
 lowr_fr1_033_c4_001_merge
 lowr_fr1_033_c4_001_merge+hi
+lowr_fr1_036_c_merge
+lowr_fr1_036_c_merge+hi
 lowr_fr1_039_c1_merge
 lowr_fr1_039_c1_merge+hi
 lowr_fr1_039_c3_998_ab
@@ -207,7 +211,3 @@ lowr_mr1_039_c1_999_ab
 lowr_mr1_039_c1_999_ab+hi
 lowr_mr1_627_c0_000_merge
 lowr_mr1_627_c0_000_merge+hi
-lowr_fr1_036_c_merge
-lowr_fr1_036_c_merge+hi
-linenshirt_mr1_001_c_merge
-linenshirt_mr1_001_c_merge+hi

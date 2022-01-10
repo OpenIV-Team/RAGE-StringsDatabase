@@ -5,6 +5,8 @@ task_mr1_025_c_merge
 task_mr1_025_c_merge+hi
 task_mr1_025_c0_000_ab
 task_mr1_025_c0_000_ab+hi
+tattered_merge
+tattered_merge+hi
 tatteredoveralls_mr1_000_c1_000_m
 tatteredoveralls_mr1_000_c1_000_m+hi
 tatteredoveralls_mr1_000_c3_000_ab
@@ -258,5 +260,3 @@ tuxupper_mr1_000_c0_merge
 tuxupper_mr1_000_c0_merge+hi
 tuxupper_mr1_000_c1_merge
 tuxupper_mr1_000_c1_merge+hi
-tattered_merge
-tattered_merge+hi

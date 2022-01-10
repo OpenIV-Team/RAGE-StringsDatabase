@@ -28,7 +28,9 @@ lobby/pm_flow_lobby_player_options
 map_launcher_flow
 map_main_flow
 minigames/minigames_ui_flow
+mp_hud/mp_death_screen_flow
 mp_mission_info
+naturalist/naturalist_menu_flow
 naturalist_launcher_flow
 opening_credits_flow
 pause/abilities_menu_flow
@@ -81,5 +83,3 @@ translate/flow_minigame_translate
 translate/flow_newspaper_translate
 translate_launcher_flow
 weapon_locker_launcher_flow
-naturalist/naturalist_menu_flow
-mp_hud/mp_death_screen_flow

@@ -4,6 +4,8 @@ a_mil_ent_dec
 a_mil_ent_dec+hidr
 a_mil_ent_snw_dec
 a_mil_ent_snw_dec+hidr
+hi@mil_mine_cave_int1
+mil_cave_int_01_txd_shell
 mil_mine_cave_01
 mil_mine_cave_dummy
 mil_mine_cave_int1
@@ -15,5 +17,3 @@ mil_mine_int_beam_entrance+hidr
 mil_mine_refle_proxy_a
 mil_mine_tracks_int01
 mil01mine_light_blocker01
-hi@mil_mine_cave_int1
-mil_cave_int_01_txd_shell

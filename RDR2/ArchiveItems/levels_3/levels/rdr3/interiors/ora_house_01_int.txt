@@ -15,10 +15,10 @@ ora_house_01_int
 ora_house_01_int_ref
 ora_house_01_int_ref+hidr
 ora_house_01_int_shadow_proxy
+ora_house_01_txd
+ora_house_01_txd+hi
 ora_house_paintings03_002
 ora_house_paintings03_002+hidr
 ora_int_details01
 ora_int_details01+hidr
 ora_lightholder
-ora_house_01_txd
-ora_house_01_txd+hi

@@ -4,9 +4,11 @@ hi@new_saloon02_int
 new_res_02_salslum01_shell
 new_res_02_salslum01_shell+hidr
 new_saloon02_int
+new_saloon02_int_ref
 new_saloon02_int_ref_a
 new_saloon02_int_ref_b
 new_saloon02_int_ref_c
+new_saloon02_int_ref+hi
 new_saloon02_int_shadowproxy
 new_saloon02_int_shell
 new_saloon02_int_txd
@@ -21,5 +23,3 @@ salslum_bar_detail2
 salslum_bar_detail2+hidr
 salslum_hall_decal02
 salslum_lightholder_01
-new_saloon02_int_ref
-new_saloon02_int_ref+hi

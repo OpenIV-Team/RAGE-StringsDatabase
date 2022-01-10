@@ -40,6 +40,7 @@ ser_grandkor_l1_int
 ser_grandkor_l1_int_shell
 ser_grandkor_l1_int_txd1
 ser_grandkor_l1_int_txd1+hi
+ser_grandkor_l1_ref
 ser_grandkor_l1_ref_a
 ser_grandkor_l1_ref_b
 ser_grandkor_l1_ref_c
@@ -53,6 +54,7 @@ ser_grandkor_l1_ref_j
 ser_grandkor_l1_ref_k
 ser_grandkor_l1_ref_l
 ser_grandkor_l1_ref_m
+ser_grandkor_l1_ref+hi
 ser_grandkor_l1_sp
 ser_hall01_decals
 ser_hall01_details
@@ -99,5 +101,3 @@ ser_staff_stuff01+hidr
 ser_staff_stuff02
 ser_staff_stuff02+hidr
 ser_stage_details01
-ser_grandkor_l1_ref
-ser_grandkor_l1_ref+hi

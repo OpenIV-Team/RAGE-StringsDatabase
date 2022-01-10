@@ -1,4 +1,4 @@
-cutscene@mpgun1_int
 cutscene@mpgun1_ext
+cutscene@mpgun1_int
 cutscene@mpgun1_mcs1
 cutscene@mpgun1_mcs2

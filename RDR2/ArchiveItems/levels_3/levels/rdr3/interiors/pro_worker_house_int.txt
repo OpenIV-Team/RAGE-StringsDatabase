@@ -29,6 +29,8 @@ pro_worker_hse_int_mirror
 pro_worker_hse_int_mirror+hidr
 pro_worker_lightbox
 pro_worker_p_bedbunk03x
+pro_workhouseint
+pro_workhouseint+hi
 pro_wrk_jack_bed_ambient
 pro_wrk_jack_bed_cs
 pro_wrkhse_int_cloth
@@ -37,5 +39,3 @@ pro_wrkr_floor01
 pro_wrkr_floor01+hidr
 pro_wrkr_shell01
 pro_wrkr_shell01+hidr
-pro_workhouseint
-pro_workhouseint+hi

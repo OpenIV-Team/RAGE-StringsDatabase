@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@mil_mine_cave_int3
 mil_03_decal
 mil_cave_int_03_txd
 mil_cave_int_03_txd+hi
@@ -15,4 +16,3 @@ mil_mine_cave03_room3
 mil_mine_cave03_room3+hidr
 mil_mine_refle_proxy_c
 mil_mine_tracks_int03
-hi@mil_mine_cave_int3

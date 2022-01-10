@@ -1,5 +1,6 @@
 _cache
 _manifest
+hi@old_tower1_int
 old_tower01_int
 old_tower01_int_txd
 old_tower01_lightbox
@@ -8,4 +9,3 @@ old_tower1_int_d
 old_tower1_int_lladder
 old_tower1_int_shell
 old_tower1_int_shell+hidr
-hi@old_tower1_int

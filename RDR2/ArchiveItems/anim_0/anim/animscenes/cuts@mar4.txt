@@ -1,5 +1,5 @@
-cutscene@mar4_int
 cutscene@mar4_ext
+cutscene@mar4_int
 cutscene@mar4_mcs1
 cutscene@mar4_mcs2
 cutscene@mar4_mcs4

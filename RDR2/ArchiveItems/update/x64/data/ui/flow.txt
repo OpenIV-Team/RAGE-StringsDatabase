@@ -83,3 +83,15 @@ translate/flow_minigame_translate
 translate/flow_newspaper_translate
 translate_launcher_flow
 weapon_locker_launcher_flow
+catalog/catalog_preloader_flow
+corona/corona_title_flow
+journal/flow_journal_content
+ledger/ledger_flow
+lobby/transitions/lobby_transitions_flow
+lobby/transitions/match_completion_flow
+minigames/fivefingerfillet_rt_flow
+minigames/minigames_menu_flow
+minigames/minigames_preloader_flow
+pause/progress/progress_launcher_flow
+savegame/savegame_launcher_flow
+shops/shop_launcher_flow

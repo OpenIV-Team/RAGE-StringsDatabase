@@ -2,3 +2,5 @@ _cache
 _manifest
 mp001_mp_sis_basement_int_
 mp001_mp_sis_basement_lightbox
+hi@mp001_mp_sis_basement_int
+mp001_mp_sis_basement_int

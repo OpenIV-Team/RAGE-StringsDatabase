@@ -13,3 +13,4 @@ old_cptqutarter_int
 old_cptqutarter_int_ref
 old_cptqutarter_int_ref+hidr
 old_cptqutarter_shadowproxy
+hi@old_cptqutarter_int

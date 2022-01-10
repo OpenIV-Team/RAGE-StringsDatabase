@@ -10,3 +10,4 @@ q0304_tunnel_shell
 q0304_tunnel_shell+hidr
 q0304_tunnel_supports
 q0304_tunnel_supports+hidr
+hi@q0304_tunnel_int

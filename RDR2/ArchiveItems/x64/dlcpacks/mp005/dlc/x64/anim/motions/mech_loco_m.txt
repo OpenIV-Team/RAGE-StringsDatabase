@@ -1,1 +1,5 @@
 _manifest
+@mech_loco_m@generic@climb_exit@concave
+@mech_loco_m@generic@climb_exit@stepup
+@mech_loco_m@generic@climb_exit@vertical@high
+@mech_loco_m@generic@normal@unarmed@stairs_simple

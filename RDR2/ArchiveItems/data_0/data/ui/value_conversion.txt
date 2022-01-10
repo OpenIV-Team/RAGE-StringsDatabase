@@ -96,3 +96,4 @@ sidemenu/shops/wilderness_supplies_subheader_conversion
 sidemenu/title_conversion
 sidemenu/total_take_entry_conversion
 simple_menu_list_item_conversion
+pause/settings/game_version

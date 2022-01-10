@@ -37,3 +37,4 @@ mech_hogtie@human_dead@pickup_body
 mech_hogtie@human_dead@putdown_body
 mech_hogtie@human_dead@throw_body
 mech_hogtie@human_dead@throw_body@into_wagon
+mech_hogtie@human@escape@shoulder

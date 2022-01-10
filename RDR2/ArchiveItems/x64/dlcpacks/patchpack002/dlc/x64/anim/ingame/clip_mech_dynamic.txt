@@ -10,3 +10,4 @@ mech_dynamic@world_player_dynamic_kneel_ground@trans@kneel1@male_a
 mech_dynamic@world_player_dynamic_kneel_ground@trans@kneel2@male_a
 mech_dynamic@world_player_dynamic_kneel_ground@trans@kneel4@male_a
 mech_dynamic@world_player_dynamic_kneel_ground@trans@kneelpostfirecraft@male_a
+mech_dynamic@world_player_dynamic_kneel_ground@trans@kneel3@male_a

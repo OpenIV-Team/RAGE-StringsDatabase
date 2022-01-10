@@ -348,3 +348,7 @@ store/widgets/store_panel_small
 store/widgets/store_panel_small_inner
 store/widgets/store_panel_vert
 store/widgets/title
+persistent_resources/value_conversion/pause/map/mp_freeroam_conversion
+persistent_resources/value_conversion/pause/map/mp_mission_conversion
+persistent_resources/value_conversion/pause/map/sp_conversion
+store/flow/store_launcher_flow

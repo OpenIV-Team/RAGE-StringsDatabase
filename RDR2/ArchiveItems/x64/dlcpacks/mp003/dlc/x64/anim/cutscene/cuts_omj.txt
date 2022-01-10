@@ -22,3 +22,5 @@ omj_hdec2-6
 omj_hdec2-7
 omj_hdec2-8
 omj_hdec2-9
+omj_hdec1
+omj_hdec2

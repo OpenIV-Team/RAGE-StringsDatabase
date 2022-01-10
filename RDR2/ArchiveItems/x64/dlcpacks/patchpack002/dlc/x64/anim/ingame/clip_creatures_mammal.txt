@@ -10,3 +10,4 @@ creatures_mammal@horse@normal@swimming@surface@base
 creatures_mammal@moose@agitated@dead
 creatures_mammal@pig@agitated@dead
 creatures_mammal@sheep@agitated@dead
+creatures_mammal@bear@grapple@anim_scene

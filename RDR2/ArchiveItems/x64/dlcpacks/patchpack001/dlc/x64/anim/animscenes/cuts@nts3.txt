@@ -1,0 +1,3 @@
+cutscene@nts3_ext
+cutscene@nts3_mcs0
+cutscene@nts3_mcs2

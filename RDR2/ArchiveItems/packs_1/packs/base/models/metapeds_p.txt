@@ -297,3 +297,6 @@ pelvis_mr1_000_knees
 policecombo_fr1_001
 policecombo_mr1_001
 pouch_mr1_000_merge
+p_c_horse_01_peltlarge_000
+p_c_horse_01_peltlarge_001
+p_c_horse_01_peltlarge_002

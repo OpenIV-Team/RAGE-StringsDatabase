@@ -386,3 +386,4 @@ amb_misc@world_human_piano_handoff@sober@performer_right@male_a@base
 amb_misc@world_human_piano_handoff@sober@performer_right@male_a@trans
 amb_misc@world_human_piano_resting@female_a@trans
 amb_misc@world_human_piano_resting@male_a@trans
+amb_misc@world_human_doublebass_handoff@sober@performer@male_a@trans

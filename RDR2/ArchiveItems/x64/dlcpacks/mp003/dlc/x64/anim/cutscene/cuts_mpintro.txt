@@ -266,3 +266,5 @@ mpintro_mcs4-6
 mpintro_mcs4-7
 mpintro_mcs4-8
 mpintro_mcs4-9
+mpintro_int_p4_t06_merge
+mpintro_int2-68

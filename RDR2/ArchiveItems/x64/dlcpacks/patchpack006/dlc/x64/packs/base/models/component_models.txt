@@ -36,3 +36,4 @@ tie_mr1_031
 tie_mr1_031_alt01
 tie_mr1_031_vest
 tie_mr1_031_vest_alt
+player_zero_coat_037_open_full

@@ -40,10 +40,6 @@ j_710_r_a_btres05
 j_710_r_a_btres05+hidr
 j_710_r_a_btres06
 j_710_r_a_btres06_dec
-j_710_r_a_csle01
-j_710_r_a_csle02
-j_710_r_a_csle03
-j_710_r_a_csle04
 j_710_r_a_ctres01
 j_710_r_a_ctres02
 j_710_r_a_ctres02_dec
@@ -52,6 +48,10 @@ j_710_r_a_ctres04
 j_710_r_a_ctres04_dec
 j_710_r_a_ctres05
 j_710_r_a_ctres05_det
+j_710_r_a_csle01
+j_710_r_a_csle02
+j_710_r_a_csle03
+j_710_r_a_csle04
 j_710_r_a_dsle01
 j_710_r_a_dtres01_dec
 j_710_r_a_dtres01a

@@ -425,14 +425,14 @@ data/ai/speechcontextrulesets/vignettes/ccmarybeth.meta
 data/ai/speechcontextrulesets/vignettes/ccmicah.meta
 data/ai/speechcontextrulesets/vignettes/ccmolly.meta
 data/ai/speechcontextrulesets/vignettes/ccpearson.meta
+data/ai/speechcontextrulesets/vignettes/cctilly.meta
+data/ai/speechcontextrulesets/vignettes/cctrelawny.meta
+data/ai/speechcontextrulesets/vignettes/ccuncle.meta
 data/ai/speechcontextrulesets/vignettes/ccsadie.meta
 data/ai/speechcontextrulesets/vignettes/ccsean.meta
 data/ai/speechcontextrulesets/vignettes/ccstrauss.meta
 data/ai/speechcontextrulesets/vignettes/ccsusan.meta
 data/ai/speechcontextrulesets/vignettes/ccswanson.meta
-data/ai/speechcontextrulesets/vignettes/cctilly.meta
-data/ai/speechcontextrulesets/vignettes/cctrelawny.meta
-data/ai/speechcontextrulesets/vignettes/ccuncle.meta
 data/ai/speechcontextrulesets/vignettes/player_vig_closers.meta
 data/ai/speed_volumes.meta
 data/ai/strafeanimations.meta

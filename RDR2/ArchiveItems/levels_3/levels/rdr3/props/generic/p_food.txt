@@ -156,8 +156,6 @@ p_crateapple01b+hifr
 p_crateapple01x
 p_crateapple01x+hidr
 p_crayfish01x
-p_cs_supplies02x
-p_cs_supplies02x+hi
 p_cutsack_sugar01x
 p_cutsack_sugar01x_cut
 p_cutsack_sugar01x_cut+hidr
@@ -165,6 +163,8 @@ p_cutsack_sugar02x
 p_cutsack_sugar02x_cut
 p_cutsack_sugar02x_cut+hidr
 p_cutsack_sugar02x+hifr
+p_cs_supplies02x
+p_cs_supplies02x+hi
 p_dinnerfork01x
 p_dinnerknife01x
 p_dinnerplate01x

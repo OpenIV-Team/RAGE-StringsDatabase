@@ -133,14 +133,14 @@ SAL1.awc
 SARRD.awc
 SBHC.awc
 SCAR.awc
-SCSC.awc
-SCSF.awc
 SCTD.awc
 SCVB.awc
 SCVH.awc
 SCVR.awc
 SCVT.awc
 SCVTF.awc
+SCSC.awc
+SCSF.awc
 SEN1.awc
 SFIRE.awc
 SHBC.awc

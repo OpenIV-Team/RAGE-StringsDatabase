@@ -7,11 +7,11 @@ cle_car_01_
 cle_car_01_+hi
 cle_car_01_collisiond
 cle_car_01_dummy
-cle_car_01_strausscs02
-cle_car_01_strausscs02+hidr
 cle_car_01_strausscustom01
 cle_car_01_strausscustom01+hidr
 cle_car_01_strausscustom03
+cle_car_01_strausscs02
+cle_car_01_strausscs02+hidr
 cle_car_01_strscus09
 cle_car_ambfloorrug07x
 cle_car_ambfloorrug07x+hidr

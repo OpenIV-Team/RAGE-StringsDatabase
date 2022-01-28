@@ -305,10 +305,10 @@ CPGEN.awc
 CPNS1.awc
 CRN1.awc
 CRRHO.awc
-CSSN1.awc
-CSSN2.awc
 CUNS4.awc
 CWJAS.awc
+CSSN1.awc
+CSSN2.awc
 DCH1_SETTLER.awc
 DMINO.awc
 DR_MACINTOSH.awc

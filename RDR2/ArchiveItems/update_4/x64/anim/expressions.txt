@@ -80,12 +80,12 @@ component_coatstrap
 component_collar
 component_compressionbones
 component_crinoline
-component_cs_duster
-component_cs_satchel
 component_cuff
 component_custjacket_female_springs
 component_custjacket_male_springs
 component_custjacket_springs
+component_cs_duster
+component_cs_satchel
 component_dress
 component_elbow
 component_female_baggysleeves

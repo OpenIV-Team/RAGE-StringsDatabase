@@ -75,10 +75,10 @@ mp005_s_cardt_acc
 mp005_s_cardt_acc+hifr
 mp005_s_cardt_acp
 mp005_s_cardt_acp+hifr
-mp005_s_cardt_acs
-mp005_s_cardt_acs+hifr
 mp005_s_cardt_acw
 mp005_s_cardt_acw+hifr
+mp005_s_cardt_acs
+mp005_s_cardt_acs+hifr
 mp005_s_cardt_kic
 mp005_s_cardt_kic+hifr
 mp005_s_cardt_kip

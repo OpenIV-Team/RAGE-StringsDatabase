@@ -51,13 +51,13 @@ hor_01_pearsonmisc03
 hor_01_pearsonmisc04
 hor_01_pearsonsup_low
 hor_01_pearsonsup_mid01
-hor_01_strausscs06
-hor_01_strausscs06+hidr
 hor_01_strausscustom004
 hor_01_strausscustom005
 hor_01_strausscustom005+hidr
 hor_01_strausscustom007
 hor_01_strausscustom008
+hor_01_strausscs06
+hor_01_strausscs06+hidr
 hor_01_tithcloth004
 hor_01_tithcloth004+hidr
 hor_01_tithcloth01

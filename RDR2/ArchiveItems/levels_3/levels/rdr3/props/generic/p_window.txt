@@ -164,8 +164,8 @@ p_win_brostained01x+hifr
 p_win_coloured01x
 p_win_coloured01x+hi
 p_win_coloured02x
-p_win_cs_genstore
 p_win_curtain01b
+p_win_cs_genstore
 p_win_dov_lab01x
 p_win_exitdepot02x
 p_win_gala_01x

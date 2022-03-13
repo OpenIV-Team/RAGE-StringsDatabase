@@ -34,3 +34,4 @@ swa_vfx_dep_shack01
 swa_vfx_dep_warehouse
 swa_vfx_dep_windmill
 swade_combo_slod
+swa_dep_lod

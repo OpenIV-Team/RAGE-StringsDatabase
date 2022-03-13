@@ -9,3 +9,4 @@ shk_shack_it_01
 shk_shack_it_01_int_lod
 shk_shack_it_01_int_occ
 shk_shack_it_01+hi
+shk_shack_it_01_lod

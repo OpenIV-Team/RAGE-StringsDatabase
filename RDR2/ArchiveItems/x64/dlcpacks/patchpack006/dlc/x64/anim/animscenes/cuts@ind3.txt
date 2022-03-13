@@ -1,5 +1,1 @@
-cutscene@ind3_mcs2
-cutscene@ind3_mcs3
-cutscene@ind3_mcs5
-cutscene@ind3_mcs7
 cutscene@ind3_mcs8

@@ -1,4 +1,14 @@
+mp_mech_inventory@document@female@paper_w11-5_h20-5
 mp_mech_inventory@document@female@paper_w48-2_h32-2_foldverticalhorizontal
+mp_mech_inventory@document@paper_d2_h32_rolled
+mp_mech_inventory@document@paper_w10-16_h15-24
+mp_mech_inventory@document@paper_w11-5_h20-5
+mp_mech_inventory@document@paper_w12-7_h17-78
 mp_mech_inventory@document@paper_w15-1_h24_foldvertical
+mp_mech_inventory@document@paper_w15-24_h10-16
+mp_mech_inventory@document@paper_w17-78_h12-7
+mp_mech_inventory@document@paper_w18-9_h28-2_foldverticalx2
+mp_mech_inventory@document@paper_w24_h15-1_foldhorizontal
+mp_mech_inventory@document@paper_w32-2_h48-2_foldverticalhorizontal
 mp_mech_inventory@document@paper_w48-2_h32-2_foldverticalhorizontal
 mp_mech_inventory@smoking@cigarette@female

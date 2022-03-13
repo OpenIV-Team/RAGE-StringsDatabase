@@ -44,6 +44,10 @@ luc_01__strm_0
 m_08_odr3_camp
 m_09_p_campfiremurder
 mil_01_
+mil_01__interior_mil_mine_cave_int1_milo_
+mil_01__interior_mil_mine_cave_int2_milo_
+mil_01__interior_mil_mine_cave_int3_milo_
+mil_01__interior_mil_mine_cave_int4_milo_
 mil_01__interior_mil_shed_int_milo_
 mil_01__long_0
 mil_01__strm_0
@@ -51,6 +55,7 @@ mp_moo_02
 mp_moo_02_strm_0
 n_11p_blackwhite_setupcamp
 old_01_
+old_01__interior_old_cptqutarter_int_milo_
 old_01__interior_old_jailsmth_int_milo_
 old_01__interior_old_stable_int_milo_
 old_01__interior_old_storage_int_milo_
@@ -91,8 +96,10 @@ val_02__interior_val_hotel_int_main_milo_
 val_02__long_0
 val_02__strm_0
 val_02_lockdown_bank
+val_02_lockdown_bank_lod
 val_02_lockdown_gun
 val_02_lockdown_hotel
+val_02_lockdown_hotel_lod
 val_02_lockdown_law
 val_03_
 val_03__interior_val_doctor_int_milo_

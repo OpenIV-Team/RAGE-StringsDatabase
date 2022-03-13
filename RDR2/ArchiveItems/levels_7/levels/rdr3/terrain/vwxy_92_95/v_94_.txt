@@ -70,3 +70,8 @@ v_94__hd_0_-4_3
 v_94__hd_0_-4_-3
 v_94__hd_0_-4_-4
 v_94_+hi
+v_94__collision_0
+v_94__collision_1
+v_94__collision_2
+v_94__collision_3
+hi@v_94__collision_0

@@ -1,2 +1,9 @@
+@creatures_reptile@alligator@normal
+@creatures_reptile@alligator@panic
+@creatures_reptile@alligator@wading
+@creatures_reptile@alligator_03@normal
+@creatures_reptile@alligator_03@panic
+@creatures_reptile@iguana@normal
 @creatures_reptile@snake@normal
+@creatures_reptile@turtlesnapping@normal
 _manifest

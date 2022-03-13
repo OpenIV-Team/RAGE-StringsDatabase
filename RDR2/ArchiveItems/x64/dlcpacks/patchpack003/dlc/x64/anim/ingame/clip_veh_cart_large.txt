@@ -1,0 +1,2 @@
+veh_cart_large@standard@front@fr@in_seat@male@flinch@unarmed@large
+veh_cart_large@standard@front@fr@in_seat@male@flinch@unarmed@small

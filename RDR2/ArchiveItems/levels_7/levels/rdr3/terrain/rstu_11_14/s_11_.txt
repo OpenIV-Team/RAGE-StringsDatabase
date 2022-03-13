@@ -68,3 +68,10 @@ s_11__hd_0_-4_3
 s_11__hd_0_-4_-3
 s_11__hd_0_-4_-4
 s_11_+hi
+s_11__collision_0
+s_11__collision_1
+s_11__collision_2
+s_11__collision_3
+s_11__collision_4
+hi@s_11__collision_0
+hi@s_11__collision_1

@@ -1,2 +1,1 @@
 cutscene@rbnp1_rc1
-cutscene@rbnp1_s2_mcs1

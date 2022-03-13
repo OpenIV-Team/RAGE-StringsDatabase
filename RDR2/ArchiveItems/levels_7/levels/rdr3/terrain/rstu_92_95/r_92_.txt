@@ -64,3 +64,8 @@ r_92__hd_0_-4_-2
 r_92__hd_0_-4_3
 r_92__hd_0_-4_-3
 r_92__hd_0_-4_-4
+r_92__collision_0
+r_92__collision_1
+r_92__collision_2
+r_92__collision_3
+hi@r_92__collision_0

@@ -2,6 +2,16 @@ cutscene@mud1_ext
 cutscene@mud1_int
 cutscene@mud1_int_p5_t00
 cutscene@mud1_int_p5_t00_merge
+cutscene@mud1_int_p5m1_t00
+cutscene@mud1_int_p5m2_t00
+cutscene@mud1_int_p5m3_t00
+cutscene@mud1_int_p5m4_t00
+cutscene@mud1_int_p5m5_t00
 cutscene@mud1_mcs_2a
 cutscene@mud1_mcs_2b
 cutscene@mud1_mcs5
+cutscene@mud1_p5m1_t00
+cutscene@mud1_p5m2_t00
+cutscene@mud1_p5m3_t00
+cutscene@mud1_p5m4_t00
+cutscene@mud1_p5m5_t00

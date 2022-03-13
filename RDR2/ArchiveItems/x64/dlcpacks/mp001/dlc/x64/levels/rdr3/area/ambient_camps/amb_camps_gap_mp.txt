@@ -1,3 +1,4 @@
 _cache
 _manifest
+mp001_amb_camps_gap_mp
 mp001_min_hid_gaptooth

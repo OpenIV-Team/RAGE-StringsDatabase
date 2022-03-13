@@ -19,11 +19,9 @@ cs_famousgunslinger_02_ms1_coat_fur_001
 cs_famousgunslinger_02_ms1_hat_000
 cs_famousgunslinger_02_ms1_merge_2
 cs_famousgunslinger_05_fs1_merge_2
-cs_mrsadler_fs1_hair_000
 cs_mrsadler_fs1_merge_26
 cs_mrsadler_fs1_shawl_003
 cs_valsheriff_ms1_merge_2
-cs_warvet_ms1_hair_000
 cs_warvet_ms1_merge_2
 hair_fr1_058
 hair_mr1_090

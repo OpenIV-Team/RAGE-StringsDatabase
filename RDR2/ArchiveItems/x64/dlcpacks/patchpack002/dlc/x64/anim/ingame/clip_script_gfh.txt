@@ -84,3 +84,7 @@ script_gfh@shk@ig2_jobbriefs
 script_gfh@tre@ig2_jobbriefs
 script_gfh@watson@ig@ig1
 script_gfh@watson@ig@ig2
+script_gfh@shk@ig1_transitions
+script_gfh@tre@ig1_idle
+script_gfh@lan@ig1_idle
+script_gfh@scenarios@prop_human_seat_bench@tired@shaky@trans

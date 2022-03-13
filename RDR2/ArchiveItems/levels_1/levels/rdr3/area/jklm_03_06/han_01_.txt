@@ -63,3 +63,5 @@ han01pr_combo11_slod
 han01pr_combo12_slod
 han01pr_combo13_slod
 han01pr_combo14_slod
+han_01__lod
+han_01__slod

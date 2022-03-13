@@ -1,0 +1,1 @@
+mech_weapons_thrown@ready_low@base@weapon_f@firebottle@ignite

@@ -1,0 +1,3 @@
+cutscene@rmnr1_rsc1
+cutscene@rmnr1_rsc2
+cutscene@rmnr1_rsc4

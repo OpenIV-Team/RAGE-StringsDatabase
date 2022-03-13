@@ -1,3 +1,4 @@
+ai_combat@aim_intro@ambient@generic@holstered@base@1h
 ai_combat@aim_intro@ambient@generic@unholstered@base@1h
 ai_combat@aim_intro@ambient@generic@unholstered@base@2h
 ai_combat@aim_intro@ambient@sniper@holstered@base@1h
@@ -35,6 +36,7 @@ ai_combat@aim_intro@cowboy@sniper@unholstered@base@1h
 ai_combat@aim_intro@cowboy@sniper@unholstered@base@2h
 ai_combat@aim_intro@cowboy@sniper@unholstered@base@2h_alt
 ai_combat@aim_intro@cowboy@sniper@unholstered@base@dual
+ai_combat@aim_intro@cowboy@stance_b@generic@unholstered@base@2h_alt
 ai_combat@aim_intro@cowboy@stance_b@sniper@unholstered@base@2h_alt
 ai_combat@aim_intro@cowboy@stance_b@surprised@unholstered@base@2h_alt
 ai_combat@aim_intro@cowboy@surprised@unholstered@base@2h_alt
@@ -45,6 +47,7 @@ ai_combat@aim_intro@dutch@sniper@unholstered@base@1h
 ai_combat@aim_intro@horseback@cowboy@sniper@holstered@base@1h@90_heading@blend@fwd_to_90
 ai_combat@aim_intro@horseback@cowboy@sniper@holstered@base@1h@-90_heading@blend@fwd_to_-90
 ai_combat@aim_intro@horseback@cowboy@sniper@holstered@base@2h@90_heading@blend@fwd_to_90
+ai_combat@aim_intro@horseback@cowboy@sniper@holstered@base@2h@-90_heading@blend@fwd_to_-90
 ai_combat@aim_intro@horseback@cowboy@sniper@unholstered@base@1h@90_heading@blend@fwd_to_90
 ai_combat@aim_intro@horseback@cowboy@sniper@unholstered@base@1h@-90_heading@blend@fwd_to_-90
 ai_combat@aim_intro@horseback@cowboy@sniper@unholstered@base@2h@90_heading@blend@fwd_to_90
@@ -65,6 +68,7 @@ ai_combat@aim_intro@hosea@sniper@unholstered@base@1h
 ai_combat@aim_intro@javier@generic@unholstered@base@1h
 ai_combat@aim_intro@javier@surprised@unholstered@base@1h
 ai_combat@aim_intro@john_marston@generic@holstered@base@1h
+ai_combat@aim_intro@john_marston@generic@unholstered@base@1h
 ai_combat@aim_intro@john_marston@generic@unholstered@base@2h
 ai_combat@aim_intro@john_marston@sniper@holstered@base@1h
 ai_combat@aim_intro@john_marston@sniper@unholstered@base@1h
@@ -179,6 +183,8 @@ ai_combat@aim_intro_action@cowboy@generic@unholstered@base@dual
 ai_combat@aim_intro_action@cowboy@sniper@holstered@base@1h
 ai_combat@aim_intro_action@cowboy@sniper@holstered@base@dual
 ai_combat@aim_intro_action@cowboy@sniper@unholstered@base@1h
+ai_combat@aim_intro_action@cowboy@sniper@unholstered@base@2h
+ai_combat@aim_intro_action@cowboy@sniper@unholstered@base@dual
 ai_combat@aim_intro_action@cowboy@surprised@holstered@base@dual
 ai_combat@aim_intro_action@cowboy@surprised@unholstered@base@dual
 ai_combat@aim_intro_action@dutch@flinch@holstered@base@1h
@@ -246,9 +252,11 @@ ai_combat@aim_sweeps@cowboy@injured_torso@base@dual
 ai_combat@aim_sweeps@cowboy@injured_torso@common@base@1h
 ai_combat@aim_sweeps@cowboy@injured_torso@common@upperbody@1h
 ai_combat@aim_sweeps@cowboy@injured_torso@upperbody@dual
+ai_combat@aim_sweeps@cowboy@near@base@1h
 ai_combat@aim_sweeps@cowboy@near@base@1h@aim_var_1
 ai_combat@aim_sweeps@cowboy@near@base@2h
 ai_combat@aim_sweeps@cowboy@near@base@dual
+ai_combat@aim_sweeps@cowboy@near@upperbody@1h
 ai_combat@aim_sweeps@cowboy@near@upperbody@1h@aim_var_1
 ai_combat@aim_sweeps@cowboy@near@upperbody@2h
 ai_combat@aim_sweeps@cowboy@near@upperbody@dual
@@ -310,6 +318,8 @@ ai_combat@aim_sweeps@sadie@generic@base@1h
 ai_combat@aim_sweeps@sadie@generic@common@base@1h
 ai_combat@aim_sweeps@sadie@generic@common@weapon@cattleman_fallback
 ai_combat@aim_sweeps@sadie@generic@low_intensity@base@1h
+ai_combat@aim_sweeps@sadie@generic@medium_intensity@base@1h
+ai_combat@aim_sweeps@sadie@generic@medium_intensity@upperbody@1h
 ai_combat@aim_sweeps@sadie@generic@upperbody@1h
 ai_combat@aim_sweeps@sadie@generic@weapon@doubleaction_fallback
 ai_combat@aim_sweeps_under_fire@ambient@generic@base@1h
@@ -343,8 +353,10 @@ ai_combat@aim_sweeps_under_fire@cowboy@injured_l_leg@weapon@cattleman_fallback
 ai_combat@aim_sweeps_under_fire@cowboy@injured_l_leg@weapon@winchester_fallback
 ai_combat@aim_sweeps_under_fire@cowboy@injured_r_leg@base@1h
 ai_combat@aim_sweeps_under_fire@cowboy@injured_r_leg@base@2h
+ai_combat@aim_sweeps_under_fire@cowboy@injured_r_leg@base@dual
 ai_combat@aim_sweeps_under_fire@cowboy@injured_r_leg@upperbody@1h
 ai_combat@aim_sweeps_under_fire@cowboy@injured_r_leg@upperbody@2h
+ai_combat@aim_sweeps_under_fire@cowboy@injured_r_leg@upperbody@dual
 ai_combat@aim_sweeps_under_fire@cowboy@injured_r_leg@weapon@cattleman_dual_fallback
 ai_combat@aim_sweeps_under_fire@cowboy@injured_r_leg@weapon@cattleman_fallback
 ai_combat@aim_sweeps_under_fire@cowboy@injured_r_leg@weapon@winchester_fallback
@@ -374,6 +386,7 @@ ai_combat@aim_turns@injured_r_leg@1h
 ai_combat@aim_turns@stance_a
 ai_combat@aim_turns@stance_b
 ai_combat@aim_turns@stance_d
+ai_combat@buddy_shot@1h
 ai_combat@buddy_shot@2h
 ai_combat@buddy_shot@ambient@action@base@1h
 ai_combat@buddy_shot@ambient@action@base@2h
@@ -436,6 +449,7 @@ ai_combat@bullet_flinches@military@generic@unholstered@base@2h
 ai_combat@bullet_flinches@military_crouched@under_fire@2h
 ai_combat@bullet_flinches@military_crouched@under_fire@base@2h
 ai_combat@bullet_flinches@ride_fire@horseback@cowboy@gallop@1h
+ai_combat@bullet_flinches@ride_fire@horseback@cowboy@gallop@2h
 ai_combat@bullet_flinches@ride_fire@horseback@cowboy@trot@1h
 ai_combat@bullet_flinches@ride_fire@horseback@cowboy@trot@2h
 ai_combat@bullet_flinches@sadie@generic@base@1h
@@ -453,6 +467,7 @@ ai_combat@fire_variations@ambient@under_fire@base@2h
 ai_combat@fire_variations@bill@generic@base@2h
 ai_combat@fire_variations@bill@generic@high_intensity@base@2h
 ai_combat@fire_variations@bill@generic@medium_intensity@base@2h
+ai_combat@fire_variations@bill@under_fire@base@2h
 ai_combat@fire_variations@cowboy@generic@base@1h
 ai_combat@fire_variations@cowboy@generic@base@2h
 ai_combat@fire_variations@cowboy@generic@base@dual
@@ -460,7 +475,9 @@ ai_combat@fire_variations@cowboy@generic@high_intensity@base@1h
 ai_combat@fire_variations@cowboy@generic@high_intensity@base@2h
 ai_combat@fire_variations@cowboy@generic@low_intensity@base@1h
 ai_combat@fire_variations@cowboy@generic@low_intensity@base@2h
+ai_combat@fire_variations@cowboy@generic@med_intensity@base@1h
 ai_combat@fire_variations@cowboy@generic@med_intensity@base@2h
+ai_combat@fire_variations@cowboy@generic@medium_intensity@base@1h
 ai_combat@fire_variations@cowboy@generic@medium_intensity@base@2h
 ai_combat@fire_variations@cowboy@hip_fire@high_intensity@1h
 ai_combat@fire_variations@cowboy@hip_fire@low_intensity@1h
@@ -481,6 +498,7 @@ ai_combat@fire_variations@cowboy@injured_torso@generic@base@2h
 ai_combat@fire_variations@cowboy@near@base@1h
 ai_combat@fire_variations@cowboy@near@base@2h
 ai_combat@fire_variations@cowboy@near@base@dual
+ai_combat@fire_variations@cowboy@stance_b@low_intensity@base@1h
 ai_combat@fire_variations@cowboy@stance_b@low_intensity@base@2h
 ai_combat@fire_variations@cowboy@stance_b@medium_intensity@base@1h
 ai_combat@fire_variations@cowboy@stance_b@medium_intensity@base@2h
@@ -489,6 +507,7 @@ ai_combat@fire_variations@cowboy@under_fire@base@2h
 ai_combat@fire_variations@cowboy@under_fire@base@dual
 ai_combat@fire_variations@dutch@generic@base@1h
 ai_combat@fire_variations@dutch@generic@medium_intensity@base@1h
+ai_combat@fire_variations@dutch@generic@medium_intensity@base@dual
 ai_combat@fire_variations@dutch@under_fire@base@1h
 ai_combat@fire_variations@horseback@cowboy@generic@base@1h
 ai_combat@fire_variations@horseback@cowboy@generic@base@1h@90_heading
@@ -525,6 +544,7 @@ ai_combat@fire_variations@ride_fire@horseback@cowboy@generic@high_intensity@gall
 ai_combat@fire_variations@ride_fire@horseback@cowboy@generic@high_intensity@gallop@2h@var_b
 ai_combat@fire_variations@ride_fire@horseback@cowboy@generic@high_intensity@gallop@2h@var_c
 ai_combat@fire_variations@ride_fire@horseback@cowboy@generic@high_intensity@trot@1h
+ai_combat@fire_variations@ride_fire@horseback@cowboy@generic@high_intensity@trot@1h@90_heading
 ai_combat@fire_variations@ride_fire@horseback@cowboy@generic@high_intensity@trot@1h@-90_heading
 ai_combat@fire_variations@ride_fire@horseback@cowboy@generic@high_intensity@trot@1h@var_a
 ai_combat@fire_variations@ride_fire@horseback@cowboy@generic@high_intensity@trot@1h@var_b
@@ -541,6 +561,7 @@ ai_combat@fire_variations@ride_fire@horseback@cowboy@generic@high_intensity@trot
 ai_combat@fire_variations@ride_fire@horseback@cowboy@generic@medium_intensity@gallop@1h
 ai_combat@fire_variations@ride_fire@horseback@cowboy@generic@medium_intensity@gallop@1h@90_heading
 ai_combat@fire_variations@ride_fire@horseback@cowboy@generic@medium_intensity@gallop@1h@-90_heading
+ai_combat@fire_variations@ride_fire@horseback@cowboy@generic@medium_intensity@gallop@2h
 ai_combat@fire_variations@ride_fire@horseback@cowboy@generic@medium_intensity@gallop@2h@90_heading
 ai_combat@fire_variations@ride_fire@horseback@cowboy@generic@medium_intensity@gallop@2h@-90_heading
 ai_combat@fire_variations@ride_fire@horseback@cowboy@generic@medium_intensity@trot@1h
@@ -552,6 +573,7 @@ ai_combat@fire_variations@ride_fire@horseback@cowboy@generic@medium_intensity@tr
 ai_combat@fire_variations@ride_fire@horseback@cowboy@generic@medium_intensity@trot@2h@225_heading
 ai_combat@fire_variations@ride_fire@horseback@cowboy@generic@medium_intensity@trot@2h@-225_heading
 ai_combat@fire_variations@ride_fire@horseback@cowboy@generic@medium_intensity@trot@2h@90_heading
+ai_combat@fire_variations@ride_fire@horseback@cowboy@generic@medium_intensity@trot@2h@-90_heading
 ai_combat@fire_variations@ride_fire@horseback@female@seat_rear@generic@medium_intensity@trot@1h
 ai_combat@fire_variations@ride_fire@horseback@female@seat_rear@generic@medium_intensity@trot@1h@90_heading
 ai_combat@fire_variations@ride_fire@horseback@female@seat_rear@generic@medium_intensity@trot@1h@-90_heading
@@ -695,6 +717,7 @@ ai_combat@gestures@ride_fire@horseback@cowboy@glances@high_intensity@gallop@1h
 ai_combat@gestures@ride_fire@horseback@cowboy@glances@high_intensity@gallop@2h
 ai_combat@gestures@ride_fire@horseback@cowboy@glances@high_intensity@trot@1h
 ai_combat@gestures@ride_fire@horseback@cowboy@glances@high_intensity@trot@2h
+ai_combat@gestures@sadie@beckon@1h
 ai_combat@gestures@sadie@glances@1h
 ai_combat@gestures@sadie@halt@1h
 ai_combat@gestures@sadie@overthere@1h
@@ -765,6 +788,7 @@ ai_combat@reactions@injured_l_leg@surprised@base@dual
 ai_combat@reactions@injured_r_leg@generic@base@1h
 ai_combat@reactions@injured_r_leg@generic@base@2h
 ai_combat@reactions@injured_r_leg@generic@base@dual
+ai_combat@reactions@injured_r_leg@sniper@base@1h
 ai_combat@reactions@injured_r_leg@sniper@base@2h
 ai_combat@reactions@injured_r_leg@sniper@base@dual
 ai_combat@reactions@injured_r_leg@surprised@base@1h
@@ -793,6 +817,7 @@ ai_combat@reactions@military_crouched@surprise@unholstered@base@2h
 ai_combat@reactions@military_crouched@surprised@base@2h
 ai_combat@reactions@sadie@generic@base@1h
 ai_combat@reactions@stance_a
+ai_combat@reactions@stance_b
 ai_combat@reactions@stance_d
 ai_combat@reload_sweeps@cowboy@generic@common@base@1h
 ai_combat@reload_sweeps@cowboy@generic@common@base@2h
@@ -816,6 +841,7 @@ ai_combat@reposition@ambient@generic@base@right@2h
 ai_combat@reposition@ambient@generic@base@stance_idle@1h
 ai_combat@reposition@ambient@generic@base@stance_idle@2h
 ai_combat@reposition@ambient@under_fire@base@bwd@1h
+ai_combat@reposition@ambient@under_fire@base@bwd@2h
 ai_combat@reposition@ambient@under_fire@base@fwd@1h
 ai_combat@reposition@ambient@under_fire@base@fwd@2h
 ai_combat@reposition@ambient@under_fire@base@left@1h
@@ -861,6 +887,7 @@ ai_combat@reposition@cowboy@crouch@low_intensity@reload@fwd@1h
 ai_combat@reposition@cowboy@crouch@low_intensity@reload@fwd@2h
 ai_combat@reposition@cowboy@crouch@low_intensity@reload@left@1h
 ai_combat@reposition@cowboy@crouch@low_intensity@reload@left@2h
+ai_combat@reposition@cowboy@crouch@low_intensity@reload@right@1h
 ai_combat@reposition@cowboy@crouch@low_intensity@reload@right@2h
 ai_combat@reposition@cowboy@crouch@low_intensity@reload@static@1h
 ai_combat@reposition@cowboy@crouch@low_intensity@reload@static@2h
@@ -951,6 +978,7 @@ ai_combat@reposition@cowboy@generic@low_intensity@base@fwd@1h
 ai_combat@reposition@cowboy@generic@low_intensity@base@fwd@2h
 ai_combat@reposition@cowboy@generic@low_intensity@base@left@1h
 ai_combat@reposition@cowboy@generic@low_intensity@base@left@2h
+ai_combat@reposition@cowboy@generic@low_intensity@base@right@1h
 ai_combat@reposition@cowboy@generic@low_intensity@base@right@2h
 ai_combat@reposition@cowboy@generic@low_intensity@reload@bwd@1h
 ai_combat@reposition@cowboy@generic@low_intensity@reload@bwd@2h
@@ -978,9 +1006,11 @@ ai_combat@reposition@cowboy@generic@reload@high_intensity@left@1h
 ai_combat@reposition@cowboy@generic@reload@high_intensity@left@2h
 ai_combat@reposition@cowboy@generic@reload@high_intensity@right@1h
 ai_combat@reposition@cowboy@generic@reload@high_intensity@right@2h
+ai_combat@reposition@cowboy@generic@reload@left@1h
 ai_combat@reposition@cowboy@generic@reload@left@2h
 ai_combat@reposition@cowboy@generic@reload@low_intensity@bwd@1h
 ai_combat@reposition@cowboy@generic@reload@low_intensity@bwd@2h
+ai_combat@reposition@cowboy@generic@reload@low_intensity@left@1h
 ai_combat@reposition@cowboy@generic@reload@low_intensity@left@2h
 ai_combat@reposition@cowboy@generic@reload@low_intensity@right@1h
 ai_combat@reposition@cowboy@generic@reload@low_intensity@right@2h
@@ -1010,6 +1040,7 @@ ai_combat@reposition@cowboy@injured_l_leg@under_fire@base@bwd@1h
 ai_combat@reposition@cowboy@injured_l_leg@under_fire@base@bwd@2h
 ai_combat@reposition@cowboy@injured_l_leg@under_fire@base@bwd@dual
 ai_combat@reposition@cowboy@injured_l_leg@under_fire@base@fwd@1h
+ai_combat@reposition@cowboy@injured_l_leg@under_fire@base@fwd@2h
 ai_combat@reposition@cowboy@injured_l_leg@under_fire@base@fwd@dual
 ai_combat@reposition@cowboy@injured_l_leg@under_fire@base@left@1h
 ai_combat@reposition@cowboy@injured_l_leg@under_fire@base@left@2h
@@ -1103,6 +1134,7 @@ ai_combat@reposition@cowboy@stance_b@bwd
 ai_combat@reposition@cowboy@stance_b@fwd
 ai_combat@reposition@cowboy@stance_b@left
 ai_combat@reposition@cowboy@stance_b@right
+ai_combat@reposition@cowboy@stance_b@stance_idle
 ai_combat@reposition@cowboy@stance_d@bwd
 ai_combat@reposition@cowboy@stance_d@fwd
 ai_combat@reposition@cowboy@stance_d@left
@@ -1215,6 +1247,7 @@ ai_combat@reposition@hosea@generic@base@stance_idle@1h
 ai_combat@reposition@hosea@generic@medium_intensity@aimedat@bwd@1h
 ai_combat@reposition@hosea@generic@medium_intensity@aimedat@left@1h
 ai_combat@reposition@hosea@generic@medium_intensity@aimedat@right@1h
+ai_combat@reposition@hosea@generic@medium_intensity@base@bwd@1h
 ai_combat@reposition@hosea@generic@medium_intensity@base@fwd@1h
 ai_combat@reposition@hosea@generic@medium_intensity@base@left@1h
 ai_combat@reposition@hosea@generic@medium_intensity@base@right@1h
@@ -1264,6 +1297,7 @@ ai_combat@reposition@micah@generic@medium_intensity@base@fwd@dual
 ai_combat@reposition@micah@generic@medium_intensity@base@left@dual
 ai_combat@reposition@micah@generic@medium_intensity@base@right@dual
 ai_combat@reposition@micah@generic@medium_intensity@reload@bwd@dual
+ai_combat@reposition@micah@generic@medium_intensity@reload@left@dual
 ai_combat@reposition@micah@generic@medium_intensity@reload@right@dual
 ai_combat@reposition@micah@generic@medium_intensity@reload@static@dual
 ai_combat@reposition@micah@under_fire@base@bwd@dual
@@ -1315,6 +1349,7 @@ ai_combat@reposition@sadie@generic@base@right@1h
 ai_combat@reposition@sadie@generic@medium_intensity@base@bwd@1h
 ai_combat@reposition@sadie@generic@medium_intensity@base@fwd@1h
 ai_combat@reposition@sadie@generic@medium_intensity@base@left@1h
+ai_combat@reposition@sadie@generic@medium_intensity@base@right@1h
 ai_combat@reposition@sadie@generic@medium_intensity@reload@bwd@1h
 ai_combat@reposition@sadie@generic@medium_intensity@reload@left@1h
 ai_combat@reposition@sadie@generic@medium_intensity@reload@right@1h

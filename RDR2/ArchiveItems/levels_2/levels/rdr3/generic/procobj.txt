@@ -138,3 +138,6 @@ prop_starfish_03
 test_proc_01
 test_proc_02
 test_proc_03
+proc_veg
+proc_veg+hi
+proc_litter

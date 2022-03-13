@@ -8,6 +8,7 @@ veh_coach@standard@exterior@fr@in_seat@male@shuffle
 veh_coach@standard@exterior@fr@in_seat@male@shunt
 veh_coach@standard@exterior@ml@in_seat@male@shuffle
 veh_coach@standard@exterior@ml@in_seat@male@shunt
+veh_coach@standard@exterior@mounted_weapons@gatling@base
 veh_coach@standard@exterior@mounted_weapons@gatling@enter_exit
 veh_coach@standard@exterior@mounted_weapons@gatling@enter_exit@enter@land@jack@alive
 veh_coach@standard@exterior@mounted_weapons@gatling@enter_exit@exit@land@jack@alive

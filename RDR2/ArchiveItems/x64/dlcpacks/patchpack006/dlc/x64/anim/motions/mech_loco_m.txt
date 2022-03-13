@@ -1,4 +1,1 @@
-@mech_loco_m@generic@climb_exit@concave
-@mech_loco_m@generic@climb_exit@injured@vertical@high
-@mech_loco_m@generic@climb_exit@vertical@high
 _manifest

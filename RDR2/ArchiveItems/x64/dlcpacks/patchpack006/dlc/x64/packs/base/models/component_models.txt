@@ -27,7 +27,6 @@ player_zero_coat_035_open_full
 player_zero_coat_035_open_full_fp
 player_zero_coat_037_open
 player_zero_coat_037_open_fp
-player_zero_coat_037_open_full
 player_zero_coat_037_open_full_fp
 player_zero_merge_159
 player_zero_merge_168

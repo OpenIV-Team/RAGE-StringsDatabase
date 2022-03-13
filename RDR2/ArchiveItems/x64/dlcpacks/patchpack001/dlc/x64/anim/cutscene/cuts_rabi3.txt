@@ -25,3 +25,10 @@ rabi3_s1_mcs1-2
 rabi3_s1_mcs1-3
 rabi3_s1_mcs1-4
 rabi3_s1_mcs1-5
+rabi3_s1_ext-8
+rabi3_s1_ext-9
+rabi3_s1_ext-10
+rabi3_s1_ext-11
+rabi3_s1_ext-12
+rabi3_s1_ext-13
+rabi3_s1_ext-14

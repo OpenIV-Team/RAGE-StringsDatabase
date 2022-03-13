@@ -73,3 +73,10 @@ r_95__hd_0_-4_-4
 r_95_+hi
 r_95_07_rail_decal_01
 r_95_07rail_decal_02
+r_95__collision_0
+r_95__collision_1
+r_95__collision_2
+r_95__collision_3
+r_95__collision_4
+hi@r_95__collision_0
+hi@r_95__collision_1

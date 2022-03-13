@@ -1,1 +1,3 @@
 _manifest
+@mech_loco_m@type@mp@drunk@unarmed
+@mech_loco_m@type@mp@inquisitive@unarmed

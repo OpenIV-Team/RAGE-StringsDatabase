@@ -32,3 +32,4 @@ amb_camp@world_camp_dutch_smoke_cigar@gus@react_look@exit@relieved
 amb_camp@world_camp_dutch_smoke_cigar@gus@react_look@loop@generic
 amb_camp@world_camp_dutch_smoke_cigar@gus@stand_enter_withprop
 amb_camp@world_camp_dutch_smoke_cigar@gus@stand_exit_withprop
+amb_camp@world_camp_dutch_smoke_cigar@gus@idle_b

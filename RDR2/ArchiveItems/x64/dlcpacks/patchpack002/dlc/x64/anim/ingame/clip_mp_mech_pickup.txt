@@ -1,0 +1,3 @@
+mp_mech_pickup@female@money_bag@lt@pickup_handheld
+mp_mech_pickup@female@money_bag@lt@drop_shoulder
+mp_mech_pickup@female@money_bag@lt@carried@human

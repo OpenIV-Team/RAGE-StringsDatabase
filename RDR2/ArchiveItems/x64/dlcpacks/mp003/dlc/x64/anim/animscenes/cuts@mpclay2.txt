@@ -1,2 +1,0 @@
-cutscene@mpclay2_ext
-cutscene@mpclay2_int

@@ -1,0 +1,1 @@
+mech_inventory@equip@fallback@crouch@unarmed@shoulder_left@bow_arrow_gesture

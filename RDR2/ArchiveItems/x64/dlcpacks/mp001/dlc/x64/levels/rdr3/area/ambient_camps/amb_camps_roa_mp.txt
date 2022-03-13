@@ -1,5 +1,6 @@
 _cache
 _manifest
+mp001_amb_camps_roa_mp
 mp001_mp_hid_beaverhollow
 mp001_mp_hid_mossyflats
 mp001_mp_hid_rocky_seven

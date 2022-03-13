@@ -1,0 +1,11 @@
+script@tripskip@beavers_hollow
+script@tripskip@brt2
+script@tripskip@clemens_cove
+script@tripskip@Fishing1_Shot1
+script@tripskip@Fishing1_Shot2
+script@tripskip@hntn_1
+script@tripskip@hntn_2
+script@tripskip@hntn_3
+script@tripskip@horseshoe_overlook
+script@tripskip@rhmr0
+script@tripskip@shady_bell

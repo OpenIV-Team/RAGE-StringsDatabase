@@ -69,3 +69,16 @@ r_11__hd_0_-4_3
 r_11__hd_0_-4_-3
 r_11__hd_0_-4_-4
 r_11_+hi
+r_11__collision_0
+r_11__collision_1
+r_11__collision_2
+r_11__collision_3
+r_11__collision_4
+r_11__collision_5
+r_11__collision_6
+r_11__collision_7
+r_11__collision_8
+r_11__collision_9
+r_11__collision_10
+r_11__collision_11
+hi@r_11__collision_0

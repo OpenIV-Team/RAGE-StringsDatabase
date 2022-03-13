@@ -7,3 +7,13 @@ lbwin_int-4
 lbwin_int-5
 lbwin_int-6
 lbwin_int-7
+lbwin_int_p0a1_t01
+lbwin_int_p0_t01
+lbwin_int_p0_t01-0
+lbwin_int_p0_t01-1
+lbwin_int_p0_t01-2
+lbwin_int_p0_t01-3
+lbwin_int_p0a1_t01-0
+lbwin_int_p0a1_t01-1
+lbwin_int_p0a1_t01-2
+lbwin_int_p0a1_t01-3

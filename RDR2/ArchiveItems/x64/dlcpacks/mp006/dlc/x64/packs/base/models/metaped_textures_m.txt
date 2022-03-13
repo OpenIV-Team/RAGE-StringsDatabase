@@ -1,3 +1,4 @@
+mp_uppr_fr1_022_c1_000_nm+hi
 mp_a_c_bear_01_head_000_c0_000_ab
 mp_a_c_bear_01_head_000_c0_000_ab+hi
 mp_a_c_bear_01_head_000_c0_000_m
@@ -1065,3 +1066,5 @@ mp_vipseason2_buckle_mr1_002_c1_999_nm
 mp_vipseason2_buckle_mr1_002_c1_999_nm+hi
 mp_vipseason2_buckle_mr1_003_c1_999_ab
 mp_vipseason2_buckle_mr1_003_c1_999_ab+hi
+mp_horse_01_head_000+hidd
+mp_horse_01_hand_000+hidd

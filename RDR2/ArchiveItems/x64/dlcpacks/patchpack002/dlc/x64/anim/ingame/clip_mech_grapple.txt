@@ -24,3 +24,6 @@ mech_grapple@unarmed@_male@_ambient@_healthy@mounted@intimidation@_streamed
 mech_grapple@unarmed@_male@_ambient@_healthy@trough@intimidation@_streamed
 mech_grapple@unarmed@_male@_ambient@_healthy@wall@intimidation@_streamed
 mech_grapple@unarmed@bruiser@_ambient@_healthy@front@_base
+mech_grapple@unarmed@bruiser@_ambient@_healthy@mounted_@streamed
+mech_grapple@rifle@player_vs_player@_ambient@_healthy@front@_base
+mech_grapple@pistol@player_vs_player@_ambient@_healthy@front@_base

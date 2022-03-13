@@ -1,5 +1,4 @@
 cutscene@mpintro_bink
-cutscene@mpintro_bink_source
 cutscene@mpintro_int
 cutscene@mpintro_int2
 cutscene@mpintro_mcs1

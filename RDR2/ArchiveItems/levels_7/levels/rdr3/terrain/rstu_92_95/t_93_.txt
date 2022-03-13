@@ -68,3 +68,13 @@ t_93__hd_0_-4_3
 t_93__hd_0_-4_-3
 t_93__hd_0_-4_-4
 t_93_+hi
+t_93__collision_0
+t_93__collision_1
+t_93__collision_2
+t_93__collision_3
+t_93__collision_4
+hi@t_93__collision_0
+hi@t_93__collision_1
+hi@t_93__collision_2
+hi@t_93__collision_3
+hi@t_93__collision_4

@@ -1,2 +1,9 @@
 mech_weapons_longarms@base@weapon@boltaction_str@high
 mech_weapons_longarms@base@weapon@boltaction_str@low
+mech_weapons_longarms@loco@mp@female@crouch@walk
+mech_weapons_longarms@loco@mp@female@crouch@run
+mech_weapons_longarms@base@weapon_f@semiauto_str
+mech_weapons_longarms@loco@mp@female@crouch@idle
+mech_weapons_longarms@base@weapon_f@rollingblock_str
+mech_weapons_longarms@loco@first_person@doublebarrel@idle
+mech_weapons_longarms@loco@first_person@rifle@idle

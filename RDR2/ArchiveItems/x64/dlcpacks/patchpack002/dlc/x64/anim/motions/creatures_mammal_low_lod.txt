@@ -1,1 +1,2 @@
 _manifest
+@creatures_mammal_low_lod@deer@injured

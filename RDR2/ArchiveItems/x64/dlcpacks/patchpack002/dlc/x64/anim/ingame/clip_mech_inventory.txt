@@ -7,3 +7,7 @@ mech_inventory@equip@fallback@base@unarmed@shoulder_left@bow_arrow_gesture
 mech_inventory@equip@fallback@base@unarmed@shoulder_left@bow_offhand_left_gesture
 mech_inventory@equip@fallback@base@unarmed@shoulder_left@longarms_offhand_left_gesture
 mech_inventory@horse@fallback@base@longarms_fl
+mech_inventory@equip@vehicle@shared@stand_rh_hold@base@unarmed@rhip_gesture
+mech_inventory@equip@fallback@crouch@unarmed@shoulder_left@bow_offhand_left_gesture
+mech_inventory@equip@fallback@crouch@unarmed@back@longarms_offhand_left_gesture
+mp_mech_inventory@item@_templates@bottle@oval@l5-5_w9-5_h10_neck_a5_b2-5@female@unarmed@grip_transitions

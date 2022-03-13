@@ -1,3 +1,10 @@
 _manifest
 mega_mech_weapons_dual@sawedoff
 mega_mech_weapons_dual@stand
+mega_mech_weapons_dual@schofield_female
+mega_mech_weapons_dual@semiauto_female
+mega_mech_weapons_dual@volcanic_female
+mega_mech_weapons_dual@mauser_female
+mega_mech_weapons_dual@doubleaction_female
+mega_mech_weapons_dual@sawedoff_female
+mega_mech_weapons_dual@cattleman_female

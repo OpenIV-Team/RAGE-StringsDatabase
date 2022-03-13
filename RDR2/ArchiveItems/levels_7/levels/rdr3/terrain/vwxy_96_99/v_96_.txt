@@ -69,3 +69,12 @@ v_96__hd_0_-4_3
 v_96__hd_0_-4_-3
 v_96__hd_0_-4_-4
 v_96_+hi
+v_96__collision_0
+v_96__collision_1
+v_96__collision_2
+v_96__collision_3
+v_96__collision_4
+v_96__collision_5
+v_96__collision_6
+v_96__collision_7
+hi@v_96__collision_0

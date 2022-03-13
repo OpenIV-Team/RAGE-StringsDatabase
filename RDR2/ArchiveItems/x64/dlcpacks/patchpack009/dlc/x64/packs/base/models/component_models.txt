@@ -1,13 +1,4 @@
-coat_mr1_015_westernright
-coat_mr1_082
-combocoat_mr1_002
-combocoat_mr1_014_westernright
-combocoat_mr1_023
-combocoat_mr1_057
-combovest_004
-head_mr1_9008
-neckerchief_mr1_003_suvb_center
-pantcombo_mr1_000
-pantcombo_mr1_016
-pantcombo_mr1_051
-tie_mr1_031
+mp_combocoat_mr1_002
+mp_combocoat_mr1_015
+mp_pantcombo_mr1_016
+mp_tie_mr1_031

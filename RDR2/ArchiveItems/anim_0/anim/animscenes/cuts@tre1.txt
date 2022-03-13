@@ -1,0 +1,4 @@
+cutscene@tre1_ext
+cutscene@tre1_mcs0
+cutscene@tre1_mcs1
+cutscene@tre1_mcs2

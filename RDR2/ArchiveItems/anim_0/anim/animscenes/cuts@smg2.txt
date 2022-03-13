@@ -1,0 +1,5 @@
+cutscene@smg2_ext
+cutscene@smg2_int
+cutscene@smg2_mcs2
+cutscene@smg2_mcs3
+cutscene@smg2_mcs4

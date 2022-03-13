@@ -22,6 +22,7 @@ new_aus_bridge_1
 new_aus_bridge_2
 new_aus_bridge_3
 new_aus_bridge_4
+new_aus_bridge_lod
 new_aus_bridge+hi
 new_aus_bridge2
 new_aus_bridge2_decal

@@ -1,4 +1,1 @@
-cutscene@mpgvo1_ext1
-cutscene@mpgvo1_ext2
 cutscene@mpgvo1_int
-cutscene@mpgvo1_mcs2

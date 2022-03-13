@@ -1,4 +1,0 @@
-cutscene@mar1_int
-cutscene@mar1_int_p1a2_t05
-cutscene@mar1_mcs2
-cutscene@mar1_mcs4

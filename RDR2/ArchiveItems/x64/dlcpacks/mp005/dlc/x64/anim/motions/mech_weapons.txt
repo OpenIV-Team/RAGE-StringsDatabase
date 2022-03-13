@@ -1,2 +1,3 @@
-@mech_weapons@special@loco@metal_detector
 _manifest
+@mech_weapons@special@loco@bolas
+@mech_weapons@dual@loco@metal_detector

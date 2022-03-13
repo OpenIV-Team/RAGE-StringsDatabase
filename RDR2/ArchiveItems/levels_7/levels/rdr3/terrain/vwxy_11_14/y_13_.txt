@@ -70,3 +70,10 @@ y_13__hd_0_-4_3
 y_13__hd_0_-4_-3
 y_13__hd_0_-4_-4
 y_13_+hi
+y_13__collision_0
+y_13__collision_1
+y_13__collision_2
+y_13__collision_3
+y_13__collision_4
+y_13__collision_5
+hi@y_13__collision_0

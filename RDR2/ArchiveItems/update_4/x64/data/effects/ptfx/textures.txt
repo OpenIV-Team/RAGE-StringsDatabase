@@ -15,7 +15,6 @@ scr_beat_treasure_hunter
 scr_deadeye
 scr_generic
 scr_ind1
-scr_lom_train
 scr_net_adversary_team_border
 scr_net_camp
 scr_net_player_signal

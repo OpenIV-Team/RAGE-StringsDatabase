@@ -22,3 +22,7 @@ scs_shack_cs_rope2
 scs_shack_cs_rope3
 scs_shack_cs_ropeagnes
 scs_shack_cs_shadowproxy
+scs_shack_cs_debris_txd
+scs_shack_cs_debris_txd+hi
+scs_shack_cs
+scs_shack_cs+hi

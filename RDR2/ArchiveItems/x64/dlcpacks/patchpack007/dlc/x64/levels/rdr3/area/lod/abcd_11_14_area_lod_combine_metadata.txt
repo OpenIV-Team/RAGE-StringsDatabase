@@ -7,15 +7,19 @@ abcd_11_14_area_lod_combine_metadata_002_strm
 abcd_11_14_area_lod_combine_metadata_003_strm
 abcd_11_14_area_lod_combine_metadata_004_strm
 agu_01_
+agu_01__interior_agu_boiler_int_milo_
+agu_01__interior_agu_guardhouse_int_milo_
 agu_01__long_0
 agu_01__strm_0
 agu_02_
 agu_02__long_0
 agu_02__strm_0
 agu_03_
+agu_03__interior_agu_hut01_int_milo_
 agu_03__long_0
 agu_03__strm_0
 agu_04_
+agu_04__interior_agu_tower_int_milo_
 agu_04__strm_0
 agu_05_
 agu_05__long_0
@@ -24,6 +28,7 @@ c_11_boobytrap_01
 c_11_notrap_01
 c_13_notrap_01
 cin_01_
+cin_01__interior_cin_tor_int_milo_
 cin_01__long_0
 cin_01__strm_0
 gua_cmp_01

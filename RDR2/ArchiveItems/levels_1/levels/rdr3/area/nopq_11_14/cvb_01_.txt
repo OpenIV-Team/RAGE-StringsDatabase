@@ -81,3 +81,4 @@ cvb_rockwall_mid_short
 cvb_rockwall_midx2
 cvb_rockwall_midx3
 cvb_rockwall_rocks
+cvb_01_lod

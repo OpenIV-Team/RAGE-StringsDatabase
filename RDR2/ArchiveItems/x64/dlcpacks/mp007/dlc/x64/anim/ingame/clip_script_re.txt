@@ -33,3 +33,4 @@ script_re@unpaid_debt@let_him_go
 script_re@unpaid_debt@paid
 script_re@unpaid_debt@reudp_pu
 script_re@wagon_lift
+script_re@legendary_animal_encounter

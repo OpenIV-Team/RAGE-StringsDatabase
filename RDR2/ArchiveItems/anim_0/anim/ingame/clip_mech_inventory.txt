@@ -2,9 +2,11 @@ mech_inventory@apply_lotion
 mech_inventory@apply_pomade
 mech_inventory@binoculars
 mech_inventory@book@drug_bible
+mech_inventory@book@w13-9_h18-4
 mech_inventory@book@w13-9_h18-4@section1
 mech_inventory@book@w13-9_h18-4@section2
 mech_inventory@book@w15-8_h20-6_comic_book
+mech_inventory@book@w15-8_h20-6
 mech_inventory@chores@feed_chickens
 mech_inventory@cigarette_card@inspect_single@w10-7_h6-5
 mech_inventory@cigarette_card@inspect_single@w6-5_h10-7
@@ -125,7 +127,9 @@ mech_inventory@equip@fallback@base@offhand_forend_left@back@unarmed_gesture
 mech_inventory@equip@fallback@base@offhand_forend_left@left_shoulder@back
 mech_inventory@equip@fallback@base@offhand_forend_left@left_shoulder@back_bow
 mech_inventory@equip@fallback@base@offhand_forend_left_armpit
+mech_inventory@equip@fallback@base@satchel_item@rh@cylinder@d6-5_h1-5_inspectz@offhand
 mech_inventory@equip@fallback@base@satchel_item@rh@cylinder@d6-5_h1-5_inspectz@unarmed
+mech_inventory@equip@fallback@base@satchel_item@rh@cylinder@d8-2_h10-5_inspecty@offhand
 mech_inventory@equip@fallback@base@satchel_item@rh@cylinder@d8-2_h10-5_inspecty@unarmed
 mech_inventory@equip@fallback@base@satchel_item@rh@generic
 mech_inventory@equip@fallback@base@throw_knife
@@ -280,6 +284,7 @@ mech_inventory@horse@left@weapon@dual@saddle_bag@d20cm
 mech_inventory@horse@left@weapon@longarms@saddle@bow@d20cm
 mech_inventory@horse@left@weapon@longarms@saddle@d20cm
 mech_inventory@horse@left@weapon@longarms@saddle@longarms@d20cm
+mech_inventory@horse@left@weapon@longarms@saddle@saddle@d20cm
 mech_inventory@horse@left@weapon@longarms@saddle@scabbard@d20cm
 mech_inventory@horse@left@weapon@longarms@saddle@unarmed@d20cm
 mech_inventory@horse@left@weapon@longarms@scabbard@longarms@d20cm
@@ -337,6 +342,7 @@ mech_inventory@item@_templates@bottle@rectangle@l2-8_w5_h7_a4-5_b2@unarmed@base@
 mech_inventory@item@_templates@bottle@rectangle@l2-8_w5-5_h7_a4-5_b2@unarmed@base
 mech_inventory@item@_templates@bottle@rectangle@l2-8_w5-5_h7_a4-5_b2@unarmed@grip_transitions
 mech_inventory@item@_templates@bottle@rectangle@l4-5_w7-5_h11-5_neck_a6-5_b2-1@unarmed@base
+mech_inventory@item@_templates@bottle@rectangle@l4-5_w7-5_h11-5_neck_a6-5_b2-1@unarmed@grip_transitions
 mech_inventory@item@_templates@bottle@rectangle@l4-5_w7-5_h11-5_neck_l1_6-5_l2_2-1@unarmed@base
 mech_inventory@item@_templates@bottle@rectangle@l4-5_w7-5_h11-5_neck_l1_6-5_l2_2-1@unarmed@grip_transitions
 mech_inventory@item@_templates@bottle@rectangle@l4-8_w9-5_h13_neck_a12-5_b2-8@unarmed@base
@@ -361,6 +367,7 @@ mech_inventory@item@_templates@cylinder@d8-2_h10-5_inspecty@unarmed@base
 mech_inventory@item@_templates@cylinder@d8-2_h10-5_inspecty@unarmed@grip_transitions
 mech_inventory@item@_templates@cylinder@d8-8_h2-9_inspectz@unarmed@base
 mech_inventory@item@_templates@cylinder@d8-8_h2-9_inspectz@unarmed@grip_transitions
+mech_inventory@item@_templates@envelope@w18-2_h9-5@unarmed@base
 mech_inventory@item@_templates@envelope@w18-2_h9-5@unarmed@grip_transitions
 mech_inventory@item@_templates@frame@oval@l1-5_w11_h14-5_a2@unarmed@base
 mech_inventory@item@_templates@frame@oval@l1-5_w11_h14-5_a2@unarmed@grip_transitions
@@ -469,6 +476,7 @@ mech_inventory@item@fallbacks@journaljournal_w15_8h20_6@base
 mech_inventory@item@fallbacks@large_drink@combat@bottle_oval_l5-5w9-5h10_neck_a6_b2-5@left_handed
 mech_inventory@item@fallbacks@large_drink@combat@bottle_oval_l5-5w9-5h10_neck_a6_b2-5@rifle
 mech_inventory@item@fallbacks@large_drink@combat@bottle_oval_l5-5w9-5h10_neck_a6_b2-5@unarmed
+mech_inventory@item@fallbacks@large_drink@combat@bottle_oval_l6-5w12h9-5_neck_a12-5_b4@left_handed
 mech_inventory@item@fallbacks@large_drink@combat@bottle_oval_l6-5w12h9-5_neck_a12-5_b4@rifle
 mech_inventory@item@fallbacks@large_drink@combat@bottle_oval_l6-5w12h9-5_neck_a12-5_b4@unarmed
 mech_inventory@item@fallbacks@large_drink@combat@gin@left_handed

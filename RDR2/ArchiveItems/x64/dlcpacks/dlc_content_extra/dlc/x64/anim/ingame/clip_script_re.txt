@@ -6,6 +6,7 @@ script_re@herbalistcamp@hbsage_intro
 script_re@herbalistcamp@hbsasge_return
 script_re@herbalistcamp@leadin@rc1
 script_re@herbalistcamp@pamphlet_handover
+script_re@herbalistcamp@pamphlet_handover@enter
 script_re@herbalistcamp@player
 script_re@herbalistcamp@serum_handover
 script_re@herbalistcamp@serum_handover@enter

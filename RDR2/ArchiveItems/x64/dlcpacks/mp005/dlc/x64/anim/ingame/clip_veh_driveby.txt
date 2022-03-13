@@ -289,3 +289,8 @@ veh_driveby@aim@wagon@rear_bench@shared@shortarms@base@forward@transitions@carry
 veh_driveby@aim@wagon@rear_bench@shared@shortarms@base@forward@transitions@idle_to_ready
 veh_driveby@aim@wagon@rear_bench@shared@shortarms@base@forward@transitions@ready_to_aim
 veh_driveby@wagon@fl@longarms
+veh_driveby@aim@rowboat@rear@rl@passenger@longarms@base@backward@outro
+veh_driveby@aim@rowboat@front@shared@shortarms@base@forward@sweep
+veh_driveby@aim@rowboat@rear@rl@shared@shortarms@base@forward@sweep
+veh_driveby@aim@rowboat@rear@r@shared@shortarms@base@forward@sweep
+veh_driveby@aim@rowboat@rear@rr@shared@shortarms@base@forward@sweep

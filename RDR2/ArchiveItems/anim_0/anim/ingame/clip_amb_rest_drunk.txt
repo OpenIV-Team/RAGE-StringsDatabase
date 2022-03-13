@@ -23,6 +23,7 @@ amb_rest_drunk@prop_human_passed_out_table@male_a@react_look@exit@dismissive
 amb_rest_drunk@prop_human_passed_out_table@male_a@react_look@exit@generic
 amb_rest_drunk@prop_human_passed_out_table@male_a@react_look@exit@relieved
 amb_rest_drunk@prop_human_passed_out_table@male_a@react_look@loop@generic
+amb_rest_drunk@prop_human_passed_out_table@male_a@stand_enter
 amb_rest_drunk@prop_human_passed_out_table@male_a@stand_exit
 amb_rest_drunk@prop_human_passed_out_table@male_a@walk_exit
 amb_rest_drunk@prop_human_passed_out_table@male_b@idle_a
@@ -64,6 +65,7 @@ amb_rest_drunk@prop_human_seat_chair@drinking@female_a@react_look@exit@relieved
 amb_rest_drunk@prop_human_seat_chair@drinking@female_a@stand_exit_withprop
 amb_rest_drunk@prop_human_seat_chair@drinking@female_a@walk_exit_withprop
 amb_rest_drunk@prop_human_seat_chair@drinking@male_a@idle_a
+amb_rest_drunk@prop_human_seat_chair@drinking@male_a@idle_b
 amb_rest_drunk@prop_human_seat_chair@drinking@male_a@react_look@exit@dismissive
 amb_rest_drunk@prop_human_seat_chair@drinking@male_a@react_look@exit@relieved
 amb_rest_drunk@prop_human_seat_chair@drinking@male_a@stand_exit_withprop
@@ -157,6 +159,7 @@ amb_rest_drunk@prop_human_seat_chair_table_drink_smoke@male_a@base
 amb_rest_drunk@prop_human_seat_crate_table_drink_drunk@male_a@base
 amb_rest_drunk@prop_human_seat_crate_table_drink_drunk@male_a@idle_a
 amb_rest_drunk@prop_human_seat_crate_table_drink_drunk@male_a@idle_b
+amb_rest_drunk@prop_human_seat_crate_table_drink_drunk@male_a@idle_c
 amb_rest_drunk@prop_human_seat_crate_table_drink_drunk@male_a@idle_d
 amb_rest_drunk@prop_human_seat_crate_table_drink_drunk@male_a@stand_enter_withprop
 amb_rest_drunk@world_human_bar_drink@bartender@male_a@idle_a
@@ -210,6 +213,7 @@ amb_rest_drunk@world_human_barcustomer@sober@has_beer@male_a@react_look@exit@dis
 amb_rest_drunk@world_human_barcustomer@sober@has_beer@male_a@react_look@exit@relieved
 amb_rest_drunk@world_human_barcustomer@sober@has_beer@male_a@stand_exit
 amb_rest_drunk@world_human_barcustomer@sober@has_beer@male_a@stand_exit_withprop
+amb_rest_drunk@world_human_barcustomer@sober@has_beer@male_a@trans
 amb_rest_drunk@world_human_barcustomer@sober@has_beer@male_a@walk_exit_withprop
 amb_rest_drunk@world_human_barcustomer@sober@has_whiskey_glass@male_a@base
 amb_rest_drunk@world_human_barcustomer@sober@has_whiskey_glass@male_a@idle_a
@@ -526,6 +530,7 @@ amb_rest_drunk@world_human_lean@railing@drinking@female_b@react_look@exit@dismis
 amb_rest_drunk@world_human_lean@railing@drinking@female_b@react_look@exit@generic
 amb_rest_drunk@world_human_lean@railing@drinking@female_b@react_look@exit@relieved
 amb_rest_drunk@world_human_lean@railing@drinking@female_b@react_look@loop@generic
+amb_rest_drunk@world_human_lean@railing@drinking@female_b@stand_enter_withprop
 amb_rest_drunk@world_human_lean@railing@drinking@female_b@stand_exit_withprop
 amb_rest_drunk@world_human_lean@railing@drinking@female_b@walk_exit_withprop
 amb_rest_drunk@world_human_lean@railing@drinking@male_b@idle_a
@@ -581,12 +586,15 @@ amb_rest_drunk@world_human_lean@railing@left@drinking@male_c@react_look@exit@rel
 amb_rest_drunk@world_human_lean@railing@left@drinking@male_c@stand_exit_withprop
 amb_rest_drunk@world_human_lean@railing@left@drinking@male_c@walk_exit_withprop
 amb_rest_drunk@world_human_lean@wall@drinking@female_a@base
+amb_rest_drunk@world_human_lean@wall@drinking@female_a@idle_a
 amb_rest_drunk@world_human_lean@wall@drinking@female_a@idle_b
 amb_rest_drunk@world_human_lean@wall@drinking@female_a@react_look@active_look
 amb_rest_drunk@world_human_lean@wall@drinking@female_a@react_look@enter@high
+amb_rest_drunk@world_human_lean@wall@drinking@female_a@react_look@enter@low
 amb_rest_drunk@world_human_lean@wall@drinking@female_a@react_look@enter@med
 amb_rest_drunk@world_human_lean@wall@drinking@female_a@react_look@exit@dismissive
 amb_rest_drunk@world_human_lean@wall@drinking@female_a@react_look@exit@generic
+amb_rest_drunk@world_human_lean@wall@drinking@female_a@react_look@exit@relieved
 amb_rest_drunk@world_human_lean@wall@drinking@female_a@react_look@loop@generic
 amb_rest_drunk@world_human_lean@wall@drinking@female_a@stand_enter_withprop
 amb_rest_drunk@world_human_lean@wall@drinking@female_a@stand_exit_withprop

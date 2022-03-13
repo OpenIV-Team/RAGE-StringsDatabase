@@ -28,3 +28,4 @@ roc_shed_01+hidr
 roc01_combo_slod
 rock_entrance01
 rock_entrance01+hidr
+roc_01_lod

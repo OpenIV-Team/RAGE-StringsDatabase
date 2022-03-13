@@ -1,0 +1,2 @@
+cutscene@rstr3_rsc1
+cutscene@rstr3_rsc2

@@ -4,6 +4,7 @@ mech_inventory@equip@fallback@base@unarmed@lhip
 mech_inventory@equip@fallback@base@unarmed@rhip
 mech_inventory@equip@fallback@base@unarmed@satchel@firebottle
 mech_inventory@equip@fallback@base@unarmed@shoulder_left@bow_offhand_left
+mech_inventory@equip@fallback@crouch@unarmed@belt_melee@blade_gesture
 mech_inventory@equip@fallback@crouch@unarmed@satchel@firebottle
 mech_inventory@equip@fallback@crouch@unarmed@shoulder_left@bow_offhand_left
 mech_inventory@equip@fallback@relaxed@pistol_rhip

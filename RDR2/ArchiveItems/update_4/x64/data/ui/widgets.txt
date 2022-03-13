@@ -306,6 +306,9 @@ pause/settings/list_items/settings_list_item_raw
 pause/settings/settings_list_inner
 pause/story_checklist_item
 pause/title
+persistent_resources/value_conversion/pause/map/mp_freeroam_conversion
+persistent_resources/value_conversion/pause/map/mp_mission_conversion
+persistent_resources/value_conversion/pause/map/sp_conversion
 radial_menus/slot_item_entry_counter
 rank_points
 rewards/rewards_rank_item
@@ -421,3 +424,5 @@ sidemenu/shops/shop_footer_price
 sidemenu/trader/trader_item
 sidemenu/weapon_locker/dynamic_text_and_end_image
 sidemenu/weapon_locker/weapon_stats
+input3/sidemenu/pm/dynamic_text_header_multiline
+input3/sidemenu/pm/dynamic_large_image_and_stacked_text_with_hold

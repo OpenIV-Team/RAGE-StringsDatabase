@@ -1,5 +1,7 @@
 mech_swim@backstroke
 mech_swim@base
 mech_swim@streamed_core
+mech_swim@streamed_drowning
 mech_swim@streamed_panic
 mech_swim@streamed_rapids
+mech_swim@streamed_tired

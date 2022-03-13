@@ -374,3 +374,4 @@ mech_skin@wolf_s@horse_satchel@body@remove@rt
 mech_skin@wolf_s@horse_satchel@body@stow@lt
 mech_skin@wolf_s@horse_satchel@body@stow@rt
 mech_skin@wolf_s@mercy_kill
+mech_skin@sample@base

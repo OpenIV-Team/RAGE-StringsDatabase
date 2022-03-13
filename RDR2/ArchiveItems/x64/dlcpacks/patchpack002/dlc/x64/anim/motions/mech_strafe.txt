@@ -1,1 +1,5 @@
 _manifest
+@mech_strafe@mp@generic@first_person@unarmed@moving
+@mech_strafe@mp@generic@first_person@crouch@unarmed@moving
+@mech_strafe@mp@generic@first_person@crouch@unarmed@start
+@mech_strafe@mp@generic@first_person@unarmed@start

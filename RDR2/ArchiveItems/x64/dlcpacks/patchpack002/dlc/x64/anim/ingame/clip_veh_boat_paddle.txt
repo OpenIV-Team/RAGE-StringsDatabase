@@ -85,3 +85,7 @@ veh_boat_paddle@rowboat@rear@rr@exit@to@water@left@normal@get_out_start@male
 veh_boat_paddle@rowboat@rear@rr@exit@to@water@right@normal@get_out_start@male
 veh_boat_paddle@rowboat@rear@rr@in_seat@male@base
 veh_boat_paddle@rowboat@rear@rr@in_seat@male@shunt
+veh_boat_paddle@rowboat@rear@rl@in_seat@male@flinch@unarmed@large
+veh_boat_paddle@rowboat@rear@rl@in_seat@male@flinch@unarmed@small
+veh_boat_paddle@rowboat@rear@rr@in_seat@male@flinch@unarmed@large
+veh_boat_paddle@rowboat@rear@rr@in_seat@male@flinch@unarmed@small

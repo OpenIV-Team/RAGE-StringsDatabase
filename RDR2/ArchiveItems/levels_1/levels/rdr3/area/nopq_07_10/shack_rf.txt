@@ -13,3 +13,4 @@ spl_shack_rarefish_ext+hidr
 spl_shack_rf
 spl_shack_rf+hi
 spl_shackrf_combo_slod
+spl_shack_rf_lod

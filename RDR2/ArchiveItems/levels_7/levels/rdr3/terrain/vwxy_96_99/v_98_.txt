@@ -70,3 +70,15 @@ v_98__hd_0_-4_3
 v_98__hd_0_-4_-3
 v_98__hd_0_-4_-4
 v_98_+hi
+v_98__collision_0
+v_98__collision_1
+v_98__collision_2
+v_98__collision_3
+v_98__collision_4
+v_98__collision_5
+v_98__collision_6
+v_98__collision_7
+v_98__collision_8
+hi@v_98__collision_0
+hi@v_98__collision_1
+hi@v_98__collision_2

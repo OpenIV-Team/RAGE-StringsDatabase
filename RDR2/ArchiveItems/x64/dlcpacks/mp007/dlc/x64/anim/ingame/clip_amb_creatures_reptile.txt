@@ -1,0 +1,2 @@
+amb_creatures_reptile@alligator@injured_critical@transition
+amb_creatures_reptile@world_alligator_stunned_on_ground@base

@@ -78,3 +78,12 @@ r_99_07_rail_decal_01
 r_99_08_rail_decal_01
 r_99_decal
 r_99_decal003
+r_99__collision_0
+r_99__collision_1
+r_99__collision_2
+r_99__collision_3
+r_99__collision_4
+r_99__collision_5
+r_99__collision_6
+r_99__collision_7
+hi@r_99__collision_0

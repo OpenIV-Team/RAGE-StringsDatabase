@@ -28,3 +28,4 @@ mech_skin@quick@medium@base@xl
 mech_skin@quick@medium@crouch
 mech_skin@quick@medium@crouch@knife
 mech_skin@roseate_spoonbill@field_dress
+mech_skin@rabbit@carried@female

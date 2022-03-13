@@ -18,6 +18,7 @@ mech_weapons_special@bow@crouch@base@loco@w
 mech_weapons_special@bow@crouch@base@sweep_additives@block@aim@sweep_lf
 mech_weapons_special@bow@crouch@base@sweep_additives@block@aim@sweep_lf@w
 mech_weapons_special@camera@crouch@base@sweep
+mech_weapons_special@camera@crouch@base@sweep@intro@sweep
 mech_weapons_special@lantern
 mech_weapons_special@lantern@base@sweep
 mech_weapons_special@lantern@base@sweep@intro@sweep

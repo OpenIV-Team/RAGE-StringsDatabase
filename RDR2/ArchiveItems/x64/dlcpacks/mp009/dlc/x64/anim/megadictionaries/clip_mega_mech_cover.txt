@@ -1,0 +1,3 @@
+_manifest
+mega_mech_cover@reloads@dual
+mega_mech_cover@reloads@shortarms

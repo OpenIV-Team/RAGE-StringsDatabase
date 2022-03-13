@@ -1,4 +1,0 @@
-cutscene@gng2_int
-cutscene@gng2_mcs1
-cutscene@gng2_mcs2
-cutscene@gng2_mcs3

@@ -4,6 +4,8 @@ veh_horseback@aim@front@dual@base@sweep_loco_ready@high@outro@sweep
 veh_horseback@aim@front@longarms@base@carbine
 veh_horseback@aim@front@longarms@base@carbine_lefthand
 veh_horseback@aim@front@longarms@base@sweep_carry
+veh_horseback@aim@front@longarms@base@transitions@air_lefthand_to_carry
+veh_horseback@aim@front@longarms@base@transitions@air_righthand_to_carry
 veh_horseback@aim@front@thrown@ready_high@base@transitions@aim_rear_turn
 veh_horseback@aim@front@thrown@ready_high@base@transitions@drawn_rear_turn
 veh_horseback@aim@front@thrown@ready_high@base@weapon@knife@transitions@aim_rear_turn

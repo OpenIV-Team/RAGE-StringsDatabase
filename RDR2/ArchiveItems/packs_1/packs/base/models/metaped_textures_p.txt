@@ -98,6 +98,8 @@ p_c_horse_01_explorer_items_000_c0_000_merge
 p_c_horse_01_explorer_items_000_c0_000_merge+hi
 p_c_horse_01_feet_001_c0_000_merge
 p_c_horse_01_h_merge
+p_c_horse_01_h_merge_1
+p_c_horse_01_h_merge_1+hi
 p_c_horse_01_h_merge_10
 p_c_horse_01_h_merge_10+hi
 p_c_horse_01_h_merge_11
@@ -248,6 +250,9 @@ p_c_horse_01_merge_4+hi
 p_c_horse_01_merge_5
 p_c_horse_01_merge_5+hi
 p_c_horse_01_merge+hi
+p_c_horse_01_peltlarge_000
+p_c_horse_01_peltlarge_001
+p_c_horse_01_peltlarge_002
 p_c_horse_01_prospectorsgear_000_c0_000_merge
 p_c_horse_01_prospectorsgear_000_c0_000_merge+hi
 p_c_horse_01_shortscabbardr_001_c3_merge
@@ -316,6 +321,8 @@ pant_gr1_000_c3_000_merge+hi
 pant_mf1_061_c3_000_merge
 pant_mf1_061_c3_000_merge+hi
 pant_mr1_00_merge
+pant_mr1_00_merge_1
+pant_mr1_00_merge_1+hi
 pant_mr1_00_merge_2
 pant_mr1_00_merge_2+hi
 pant_mr1_00_merge_3
@@ -831,6 +838,8 @@ pantcombo_mr1_007_c1_merge
 pantcombo_mr1_007_c3_998_ab
 pantcombo_mr1_007_c3_merge
 pantcombo_mr1_008_c1_99_merge
+pantcombo_mr1_008_c1_99_merge_1
+pantcombo_mr1_008_c1_99_merge_1+hi
 pantcombo_mr1_008_c1_99_merge_2
 pantcombo_mr1_008_c1_99_merge_2+hi
 pantcombo_mr1_008_c1_99_merge+hi

@@ -1,3 +1,5 @@
 _manifest
+mech_weapons_shortarms@base@weapon@m1899
 mega_mech_weapons_shortarms@lemat
 mega_mech_weapons_shortarms@lemat_female
+mega_mech_weapons_shortarms@m1899

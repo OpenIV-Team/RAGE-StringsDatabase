@@ -1,7 +1,6 @@
 mech_hogtie@human@carried@human
 mech_hogtie@human@carried@mount
 mech_hogtie@human@escape@mount
-mech_hogtie@human@escape@shoulder
 mech_hogtie@human@mount@stow@lt
 mech_hogtie@human@mount@stow@rt
 mech_hogtie@human_dead@mount@remove@lt

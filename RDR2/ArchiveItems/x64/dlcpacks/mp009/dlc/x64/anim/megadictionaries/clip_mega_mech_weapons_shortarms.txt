@@ -1,0 +1,3 @@
+_manifest
+mega_mech_weapons_shortarms@navy
+mega_mech_weapons_shortarms@navy_female

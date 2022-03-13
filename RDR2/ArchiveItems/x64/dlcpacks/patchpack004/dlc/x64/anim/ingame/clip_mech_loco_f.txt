@@ -1,0 +1,2 @@
+mech_loco_f@character@jessica@carry@purse@idle
+mech_loco_f@character@jessica@carry@purse@walk

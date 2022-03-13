@@ -269,3 +269,7 @@ mp_jessicacamp_val_1
 mp_jessicacamp_val_2
 n_06p_loanshark_hunter2
 p_05p_rcevellynmiller_camp01
+n_06p_loanshark_hunter2_1
+p_05p_rcevellynmiller_camp01_1
+p_05p_rcevellynmiller_camp01_2
+amb_camp_bgv_skinners_23

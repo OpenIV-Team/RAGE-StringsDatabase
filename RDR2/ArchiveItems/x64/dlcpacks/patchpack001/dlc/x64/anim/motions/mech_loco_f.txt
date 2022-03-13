@@ -1,2 +1,1 @@
-@mech_loco_f@generic@normal@unarmed@stairs_simple
 _manifest

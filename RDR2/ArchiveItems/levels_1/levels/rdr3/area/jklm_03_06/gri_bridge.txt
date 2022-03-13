@@ -26,3 +26,9 @@ gri_ropebridge_02
 gri_ropebridge_03
 gri_ropebridge_03_lod
 gri_ropebridge_slod
+hi@gri_bridge_0
+hi@gri_bridge_1
+hi@gri_bridge_2
+hi@gri_bridge_3
+gri_bridge_lod
+gri_bridge_slod

@@ -13,3 +13,7 @@ mech_weapons_dual@loco@mp@female@crouch@lantern@walk
 mech_weapons_dual@loco@mp@female@normal@lantern@idle
 mech_weapons_dual@loco@mp@female@normal@lantern@run
 mech_weapons_dual@metaldetector@operate
+mech_weapons_dual@lantern@base@trans@sweep_to_ready_f@high
+mech_weapons_dual@lantern@base@trans@sweep_to_ready_f@low
+mech_weapons_dual@loco@mp@female@normal@lantern@walk
+mech_weapons_dual@lantern@base@trans@ready_to_sweep_f@high

@@ -37,3 +37,17 @@ veh_coach@standard@rear@rl@in_seat@male@shunt
 veh_coach@standard@rear@rr@in_seat@male@robbery
 veh_coach@standard@rear@rr@in_seat@male@shuffle
 veh_coach@standard@rear@rr@in_seat@male@shunt
+veh_coach@stagecoach006@rear@fr@exit@to@land@jack@from@land@get_out@alive@male
+veh_coach@standard@rear@rr@exit@to@land@window
+veh_coach@stagecoach006@rear@fr@exit@to@land@jack@from@land@get_out@dead@male
+veh_coach@standard@rear@common@leftside@exit@to@land@normal@get_out_start@male
+veh_coach@standard@rear@fr@exit@to@land@window
+veh_coach@standard@rear@common@rightside@exit@to@land@normal@get_out_start@male
+veh_coach@stagecoach006@rear@fl@exit@to@land@jack@from@land@get_out@dead@male
+veh_coach@stagecoach006@rear@rr@exit@to@land@jack@from@land@get_out@alive@male
+veh_coach@standard@rear@fl@exit@to@land@window
+veh_coach@stagecoach006@rear@rr@exit@to@land@jack@from@land@get_out@dead@male
+veh_coach@stagecoach006@rear@fl@exit@to@land@jack@from@land@get_out@alive@male
+veh_coach@stagecoach006@rear@rl@exit@to@land@jack@from@land@get_out@alive@male
+veh_coach@stagecoach006@rear@rl@exit@to@land@jack@from@land@get_out@dead@male
+veh_coach@standard@rear@rl@exit@to@land@window

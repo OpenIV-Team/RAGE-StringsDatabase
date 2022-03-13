@@ -1,0 +1,4 @@
+veh_cart@buggy@front@fl@in_seat@male@flinch@unarmed@large
+veh_cart@buggy@front@fl@in_seat@male@flinch@unarmed@small
+veh_cart@standard@front@fl@in_seat@male@flinch@unarmed@large
+veh_cart@standard@front@fl@in_seat@male@flinch@unarmed@small

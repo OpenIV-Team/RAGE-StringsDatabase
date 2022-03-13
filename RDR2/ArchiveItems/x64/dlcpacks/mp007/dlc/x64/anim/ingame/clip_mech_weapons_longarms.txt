@@ -1,0 +1,2 @@
+mech_weapons_longarms@loco@mp@obese@normal@rifle@idle
+mech_weapons_longarms@loco@mp@obese@normal@rifle@walk

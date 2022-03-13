@@ -1,5 +1,6 @@
 _cache
 _manifest
+mp001_amb_camps_hrt_mp
 mp001_clay2_valentine01
 mp001_clay2_valentine02
 mp001_clay2_valentine02_1

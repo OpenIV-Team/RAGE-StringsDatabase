@@ -272,3 +272,5 @@ swa_rd_sgn__strm_0
 wild_02
 wild_02_interior_dis_stonehenge_int_milo_
 wild_02_strm_0
+cle_clive_wagon_lod
+rho_04__interior_rho_slum_player_int_milo_

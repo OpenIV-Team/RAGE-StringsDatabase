@@ -1,0 +1,6 @@
+cutscene@rrtl_rc_1
+cutscene@rrtl_rc_4
+cutscene@rrtl_rc_5
+cutscene@rrtl_rc_6
+cutscene@rrtl_rc_6_p3a1_t01
+cutscene@rrtl_s3_ext

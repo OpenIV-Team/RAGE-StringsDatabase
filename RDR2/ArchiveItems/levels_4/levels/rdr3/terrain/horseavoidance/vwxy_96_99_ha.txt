@@ -1,2 +1,13 @@
 _cache
 vwxy_96_99_ha
+vwxy_96_99_ha_collision_0
+vwxy_96_99_ha_collision_1
+vwxy_96_99_ha_collision_2
+vwxy_96_99_ha_collision_3
+vwxy_96_99_ha_collision_4
+vwxy_96_99_ha_collision_5
+vwxy_96_99_ha_collision_6
+vwxy_96_99_ha_collision_7
+vwxy_96_99_ha_collision_8
+vwxy_96_99_ha_collision_9
+vwxy_96_99_ha_collision_10

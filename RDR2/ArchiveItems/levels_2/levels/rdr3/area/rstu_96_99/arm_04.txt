@@ -69,3 +69,7 @@ arm_04_ruinedbank01x+hidr
 arm_04_txd_01
 arm_04_txd_01+hi
 hi@arm_04_0
+arm_04_scarletfever_1
+arm_04_cholera_1
+arm_04_scarletfever_txd
+arm_04_scarletfever_txd+hi

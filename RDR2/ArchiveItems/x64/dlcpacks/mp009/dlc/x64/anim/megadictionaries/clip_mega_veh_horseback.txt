@@ -1,0 +1,7 @@
+_manifest
+mega_veh_horseback@standard@left@enter@air@long
+mega_veh_horseback@standard@left@enter@air@mid
+mega_veh_horseback@standard@left@enter@air@short
+mega_veh_horseback@standard@right@enter@air@long
+mega_veh_horseback@standard@right@enter@air@mid
+mega_veh_horseback@standard@right@enter@air@short

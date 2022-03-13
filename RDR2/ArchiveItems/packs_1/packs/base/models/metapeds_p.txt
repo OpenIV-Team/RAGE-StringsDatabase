@@ -44,9 +44,6 @@ p_c_horse_01_merge_8
 p_c_horse_01_merge_9
 p_c_horse_01_moneybags
 p_c_horse_01_moustache_000
-p_c_horse_01_peltlarge_000
-p_c_horse_01_peltlarge_001
-p_c_horse_01_peltlarge_002
 p_c_horse_01_peltmedium_001
 p_c_horse_01_peltmedium_002
 p_c_horse_01_peltmediumsmall_000

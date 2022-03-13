@@ -74,3 +74,15 @@ p_04__hd_0_-4_-4
 p_04_+hi
 p_04_terraindecal_01
 p_04_terraindecal_02
+p_04__collision_0
+p_04__collision_1
+p_04__collision_2
+p_04__collision_3
+p_04__collision_4
+p_04__collision_5
+p_04__collision_6
+p_04__collision_7
+hi@p_04__collision_0
+hi@p_04__collision_1
+hi@p_04__collision_2
+hi@p_04__collision_3

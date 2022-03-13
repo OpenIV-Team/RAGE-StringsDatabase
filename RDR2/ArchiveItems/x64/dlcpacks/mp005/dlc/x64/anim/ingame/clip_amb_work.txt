@@ -131,3 +131,5 @@ amb_work@world_human_gravedig@working@male_b@react_look@exit@relieved
 amb_work@world_human_gravedig@working@male_b@react_look@loop@generic
 amb_work@world_human_gravedig@working@male_b@stand_enter
 amb_work@world_human_gravedig@working@male_b@stand_exit
+amb_work@world_human_gravedig@working@female_b@stand_exit
+amb_work@world_human_gravedig@working@female_b@base

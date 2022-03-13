@@ -1,0 +1,6 @@
+_manifest
+mega_gen@mech_loco_m@generic@climbing@climb_exits@injured@unarmed@vertical@125_275
+mega_gen@mech_loco_m@generic@climbing@climb_exits@normal@unarmed@concave@125_275
+mega_gen@mech_loco_m@generic@climbing@climb_exits@normal@unarmed@vertical@125_275
+mega_gen@mech_loco_m@generic@climbing@step_up_exits@normal@unarmed
+mega_gen@mech_loco_m@generic@normal@unarmed@stairs@2

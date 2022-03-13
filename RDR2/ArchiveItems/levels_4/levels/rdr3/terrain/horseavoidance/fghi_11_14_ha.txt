@@ -1,2 +1,5 @@
 _cache
 fghi_11_14_ha
+fghi_11_14_ha_collision_0
+fghi_11_14_ha_collision_1
+fghi_11_14_ha_collision_2

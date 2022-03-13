@@ -1,4 +1,0 @@
-cutscene@omj_hdec1
-cutscene@omj_hdec2
-cutscene@omj_hinc1
-cutscene@omj_hinc2

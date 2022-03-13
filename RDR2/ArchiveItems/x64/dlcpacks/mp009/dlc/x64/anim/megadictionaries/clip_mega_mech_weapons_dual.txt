@@ -1,0 +1,5 @@
+_manifest
+mega_mech_weapons_dual@lantern
+mega_mech_weapons_dual@navy
+mega_mech_weapons_dual@navy_female
+mega_mega_mech_weapons_dual@crouch

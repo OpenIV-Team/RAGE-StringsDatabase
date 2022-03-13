@@ -71,3 +71,10 @@ v_14__hd_0_-4_-4
 v_14_+hi
 v_14_01_decal
 v_14_01_decal+hidr
+v_14__collision_0
+v_14__collision_1
+v_14__collision_2
+v_14__collision_3
+v_14__collision_4
+hi@v_14__collision_0
+hi@v_14__collision_1

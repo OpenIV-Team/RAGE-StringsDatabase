@@ -1,0 +1,7 @@
+_manifest
+mega_mech_coach@standard@exterior@fl@enter@land@get_in
+mega_mech_coach@standard@exterior@fr@enter@land@get_in
+mega_mech_coach@standard@exterior@ml@enter@land@get_in
+mega_mech_coach@standard@exterior@mr@enter@land@get_in
+mega_mech_coach@standard@exterior@rl@enter@land@get_in
+mega_mech_coach@standard@exterior@rr@enter@land@get_in

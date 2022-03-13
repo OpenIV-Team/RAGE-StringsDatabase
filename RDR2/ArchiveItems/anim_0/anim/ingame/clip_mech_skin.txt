@@ -64,6 +64,7 @@ mech_skin@bighornram@horse_satchel@body@stow@rt
 mech_skin@bighornram@mercy_kill
 mech_skin@bighornram@pickup_body@lt
 mech_skin@bighornram@pickup_body@rt
+mech_skin@bighornram@putdown_body
 mech_skin@boar@field_dress
 mech_skin@boar@mercy_kill
 mech_skin@boar_legendary@field_dress
@@ -187,6 +188,7 @@ mech_skin@crane_whooping@horse_satchel@stow@lt
 mech_skin@crane_whooping@horse_satchel@stow@rt
 mech_skin@crane_whooping@pickup_fallback
 mech_skin@crane_whooping@pickup_handheld
+mech_skin@deer
 mech_skin@deer@butcher
 mech_skin@deer@carried@human
 mech_skin@deer@carried@mount

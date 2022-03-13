@@ -1,0 +1,2 @@
+_manifest
+mega_gen@mech_loco_f@generic@normal@unarmed@stairs

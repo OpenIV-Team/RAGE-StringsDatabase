@@ -30,6 +30,7 @@ pause/settings/cheats_levels
 pause/settings/clock
 pause/settings/colorblind_mode
 pause/settings/control_type
+pause/settings/dlss_perf_quality
 pause/settings/dynamic_range
 pause/settings/enable_med_to_ultra_quality
 pause/settings/enabled_disabled

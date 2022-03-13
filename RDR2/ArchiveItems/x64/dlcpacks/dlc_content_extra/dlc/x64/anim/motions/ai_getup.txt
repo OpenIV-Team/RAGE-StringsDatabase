@@ -1,2 +1,1 @@
-@ai_getup@exit@from_seated@urgent
 _manifest

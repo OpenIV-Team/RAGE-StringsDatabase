@@ -64,3 +64,10 @@ dis_tall_savage02+hi
 dis_tall_savagewarning01
 re_sp_savagewarning_01
 re_sp_savagewarning_02
+re_sp_savagewarning_02_6
+re_sp_savagewarning_02_7
+re_sp_savagewarning_02_8
+dis_tal_circus_ipl_lod
+dis_tal_circus_ipl
+dis_tal_circus_ipl_1
+dis_tal_circus_ipl_2

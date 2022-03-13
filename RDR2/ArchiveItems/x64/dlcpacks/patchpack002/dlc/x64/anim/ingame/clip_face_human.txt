@@ -1,1 +1,3 @@
 face_human@gen_male@base
+face_human@gen_male@mp
+face_human@gen_male@variations@normaleyeswide

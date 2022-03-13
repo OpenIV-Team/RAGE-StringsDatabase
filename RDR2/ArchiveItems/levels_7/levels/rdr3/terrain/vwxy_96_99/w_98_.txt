@@ -68,3 +68,11 @@ w_98__hd_0_-4_3
 w_98__hd_0_-4_-3
 w_98__hd_0_-4_-4
 w_98_+hi
+w_98__collision_0
+w_98__collision_1
+w_98__collision_2
+w_98__collision_3
+w_98__collision_4
+w_98__collision_5
+hi@w_98__collision_0
+hi@w_98__collision_1

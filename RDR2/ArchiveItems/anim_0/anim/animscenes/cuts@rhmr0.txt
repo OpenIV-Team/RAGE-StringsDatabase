@@ -1,0 +1,3 @@
+cutscene@rhmr0_int1
+cutscene@rhmr0_mcs1
+cutscene@rhmr0_mcs2

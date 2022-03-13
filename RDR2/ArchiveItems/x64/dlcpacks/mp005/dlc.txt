@@ -243,3 +243,4 @@ x64/packs/base/models/metapeds_h
 x64/packs/base/models/metapeds_m
 x64/packs/base/models/weapons
 x64/textures/mp005_palettes
+x64/cloth/ropesdefinitions

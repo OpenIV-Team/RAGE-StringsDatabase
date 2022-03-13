@@ -90,3 +90,17 @@ r_96_junc_decal03
 r_96_junc_decal04
 r_96_junc_decal04+hidr
 r_96_wgn_crv_dcl02
+r_96__collision_0
+r_96__collision_1
+r_96__collision_2
+r_96__collision_3
+r_96__collision_4
+r_96__collision_5
+r_96__collision_6
+r_96__collision_7
+hi@r_96__collision_0
+hi@r_96__collision_1
+hi@r_96__collision_2
+hi@r_96__collision_3
+hi@r_96__collision_4
+hi@r_96__collision_5

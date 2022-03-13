@@ -1,1 +1,4 @@
 cutscene@har_mcs1
+cutscene@har_mcs1_p1_t07
+cutscene@har_mcs1_p1_t08
+cutscene@har_mcs1_p2_t00

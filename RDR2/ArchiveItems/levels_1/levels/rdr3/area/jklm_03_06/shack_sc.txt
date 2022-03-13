@@ -8,3 +8,6 @@ ssc_cabin_02
 ssc_cabin_02+hidr
 ssc_shack_sc_txd
 ssc_shack_sc_txd+hi
+hi@shack_sc_0
+hi@shack_sc_1
+ssc_shack_sc_lod

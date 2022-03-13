@@ -1,5 +1,0 @@
-cutscene@rabi3_rsc1
-cutscene@rabi3_s1_ext
-cutscene@rabi3_s1_extb
-cutscene@rabi3_s1_mcs2
-cutscene@rabi3_s1_mcs4

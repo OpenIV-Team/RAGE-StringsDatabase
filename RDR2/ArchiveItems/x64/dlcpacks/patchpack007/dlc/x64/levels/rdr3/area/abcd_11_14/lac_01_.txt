@@ -17,3 +17,6 @@ lac_01_fort2
 lac_01_fort2_e
 lac_01_fort2_e+hidr
 lac_01_fort2+hidr
+lac_01_looters_1_1
+lac_01_looters_2_1
+lac_01_looters_2_2

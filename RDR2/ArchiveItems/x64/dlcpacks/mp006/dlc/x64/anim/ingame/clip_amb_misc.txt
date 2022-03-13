@@ -181,7 +181,6 @@ amb_misc@world_human_doublebass_handoff@sober@future_performer@male_a@stand_exit
 amb_misc@world_human_doublebass_handoff@sober@performer@female_a@base
 amb_misc@world_human_doublebass_handoff@sober@performer@female_a@trans
 amb_misc@world_human_doublebass_handoff@sober@performer@male_a@base
-amb_misc@world_human_doublebass_handoff@sober@performer@male_a@trans
 amb_misc@world_human_doublebass_resting@female_a@trans
 amb_misc@world_human_doublebass_resting@male_a@trans
 amb_misc@world_human_fiddle@drunk@notplaying@female_a@base

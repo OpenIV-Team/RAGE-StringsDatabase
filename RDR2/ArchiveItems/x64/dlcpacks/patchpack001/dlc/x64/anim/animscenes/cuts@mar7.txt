@@ -1,4 +1,0 @@
-cutscene@mar7_ext
-cutscene@mar7_int
-cutscene@mar7_mcs2
-cutscene@mar7_mcs3

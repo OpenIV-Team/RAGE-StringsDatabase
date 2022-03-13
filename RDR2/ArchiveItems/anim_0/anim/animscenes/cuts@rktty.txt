@@ -1,0 +1,7 @@
+cutscene@rktty_s1_int
+cutscene@rktty_s2_ext
+cutscene@rktty_s3_ext
+cutscene@rktty_s3_int
+cutscene@rktty_s3_mcs1
+cutscene@rktty_s4_mcs1
+cutscene@rktty_s5_int

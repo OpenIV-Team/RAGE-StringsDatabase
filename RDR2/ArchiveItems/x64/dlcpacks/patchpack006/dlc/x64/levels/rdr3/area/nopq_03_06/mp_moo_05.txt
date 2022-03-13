@@ -5,6 +5,7 @@ mp_moo_05_hd
 mp_moo_05_hd+hidr
 mp_moo_05_loc
 mp_moo_05_loc_slod
+mp_moo_05_lod
 mp_moo_05_slod
 mp_moo_05_txd
 mp_moo_05_txd+hi

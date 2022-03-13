@@ -66,3 +66,12 @@ s_13__hd_0_-4_3
 s_13__hd_0_-4_-3
 s_13__hd_0_-4_-4
 s_13_+hi
+s_13__collision_0
+s_13__collision_1
+s_13__collision_2
+s_13__collision_3
+s_13__collision_4
+hi@s_13__collision_0
+hi@s_13__collision_1
+hi@s_13__collision_2
+hi@s_13__collision_3

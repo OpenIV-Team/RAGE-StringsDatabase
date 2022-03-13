@@ -1,0 +1,7 @@
+_manifest
+mega_mech_grapple@bow@male@mounted
+mega_mech_grapple@hatchet@male@mounted
+mega_mech_grapple@pistol@male@mounted
+mega_mech_grapple@rifle@male@mounted
+mega_mech_grapple@unarmed@male@front
+mega_mech_grapple@unarmed@male@mounted

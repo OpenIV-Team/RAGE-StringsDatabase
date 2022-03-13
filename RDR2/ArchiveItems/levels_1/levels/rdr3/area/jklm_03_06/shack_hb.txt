@@ -10,3 +10,5 @@ shb_shack_frame_sp
 shb_shack_hb
 shb_shack_hb+hi
 shb_shack_int_lod
+hi@shack_hb_0
+shb_shack_hb_lod

@@ -102,7 +102,6 @@ cs_dutch_ms1_coat_001
 cs_dutch_ms1_merge_17
 cs_javierescuella_ms1_merge_34
 cs_javierescuella_ms1_wrap_000
-cs_warvet_ms1_hair_000
 cs_warvet_ms1_merge_2
 hair_fr1_024
 hair_fr1_024_alt01

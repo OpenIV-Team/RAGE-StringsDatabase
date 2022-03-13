@@ -1,0 +1,3 @@
+cutscene@rgun1_s1_int
+cutscene@rgun1_s2_mcs1
+cutscene@rgun1_s2_mcs2

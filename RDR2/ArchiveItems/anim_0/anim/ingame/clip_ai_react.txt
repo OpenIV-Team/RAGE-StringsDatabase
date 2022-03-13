@@ -151,6 +151,7 @@ ai_react@breakouts@gen_female@stand@feet_together@withprop_rhand@slow@stow_prop
 ai_react@breakouts@gen_female@stand@l_foot_fwd@generic@aggro
 ai_react@breakouts@gen_female@stand@l_foot_fwd@generic@angry
 ai_react@breakouts@gen_female@stand@l_foot_fwd@generic@coward
+ai_react@breakouts@gen_female@stand@l_foot_fwd@generic@flee
 ai_react@breakouts@gen_female@stand@l_foot_fwd@generic@quick_exit
 ai_react@breakouts@gen_female@stand@l_foot_fwd@generic@scared
 ai_react@breakouts@gen_female@stand@l_foot_fwd@withprop_rhand@aggro
@@ -235,6 +236,7 @@ ai_react@breakouts@gen_male@chair@feet_together@withprop_mandolin@quick@keep_pro
 ai_react@breakouts@gen_male@chair@feet_together@withprop_mandolin@slow@keep_prop
 ai_react@breakouts@gen_male@chair@feet_together@withprop_newspaper@quick
 ai_react@breakouts@gen_male@chair@feet_together@withprop_newspaper@slow
+ai_react@breakouts@gen_male@chair@feet_together@withprop_rhand@brave
 ai_react@breakouts@gen_male@chair@feet_together@withprop_rhand@bump
 ai_react@breakouts@gen_male@chair@feet_together@withprop_rhand@defuse
 ai_react@breakouts@gen_male@chair@feet_together@withprop_rhand@nervous
@@ -300,6 +302,7 @@ ai_react@breakouts@gen_male@ground@laying@on_back@withprop_rhand@quick
 ai_react@breakouts@gen_male@ground@laying@on_back@withprop_rhand@slow
 ai_react@breakouts@gen_male@ground@laying@on_front@generic@aggro
 ai_react@breakouts@gen_male@ground@laying@on_front@generic@angry
+ai_react@breakouts@gen_male@ground@laying@on_front@generic@combat_pistol
 ai_react@breakouts@gen_male@ground@laying@on_front@generic@combat_unarmed
 ai_react@breakouts@gen_male@ground@laying@on_front@generic@coward
 ai_react@breakouts@gen_male@ground@laying@on_front@generic@flee
@@ -424,6 +427,7 @@ ai_react@breakouts@gen_male@stand@feet_together@withprop_rhand@angry
 ai_react@breakouts@gen_male@stand@feet_together@withprop_rhand@brave
 ai_react@breakouts@gen_male@stand@feet_together@withprop_rhand@brave_pistol
 ai_react@breakouts@gen_male@stand@feet_together@withprop_rhand@bump
+ai_react@breakouts@gen_male@stand@feet_together@withprop_rhand@casual
 ai_react@breakouts@gen_male@stand@feet_together@withprop_rhand@combat_pistol
 ai_react@breakouts@gen_male@stand@feet_together@withprop_rhand@combat_unarmed
 ai_react@breakouts@gen_male@stand@feet_together@withprop_rhand@coward
@@ -439,6 +443,7 @@ ai_react@breakouts@gen_male@stand@feet_together@withprop_rhand@slow@drop_prop
 ai_react@breakouts@gen_male@stand@feet_together@withprop_rhand@slow@keep_prop@bucket
 ai_react@breakouts@gen_male@stand@feet_together@withprop_rhand@slow@keep_prop@newspaper
 ai_react@breakouts@gen_male@stand@feet_together@withprop_rhand@slow@stow_prop
+ai_react@breakouts@gen_male@stand@feet_together@withprop_shovel@quick@dropshovel
 ai_react@breakouts@gen_male@stand@feet_together@withprop_shovel@slow@keepshovel
 ai_react@breakouts@gen_male@stand@feet_together@withprop_sling@quick
 ai_react@breakouts@gen_male@stand@feet_together@withprop_sling@slow
@@ -514,6 +519,7 @@ ai_react@flee@walk@m@intro
 ai_react@flee@walk@m@walk
 ai_react@gunfire@intro
 ai_react@gunfire@runs
+ai_react@male_stand@big_intro@backward
 ai_react@male_stand@big_intro@forward
 ai_react@male_stand@big_intro@left
 ai_react@male_stand@big_intro@right

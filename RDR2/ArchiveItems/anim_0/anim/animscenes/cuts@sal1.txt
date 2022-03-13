@@ -1,0 +1,6 @@
+cutscene@sal1_ext
+cutscene@sal1_int
+cutscene@sal1_mcs1
+cutscene@sal1_mcs2
+cutscene@sal1_mcs3
+cutscene@sal1_mcs4

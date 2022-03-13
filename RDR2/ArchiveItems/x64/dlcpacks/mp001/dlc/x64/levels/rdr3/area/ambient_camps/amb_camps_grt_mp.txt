@@ -1,5 +1,6 @@
 _cache
 _manifest
+mp001_amb_camps_grt_mp
 mp001_mp_grt_ambtentrope01
 mp001_mp_grt_arthur_cover002
 mp001_mp_grt_arthur_cover002+hidr

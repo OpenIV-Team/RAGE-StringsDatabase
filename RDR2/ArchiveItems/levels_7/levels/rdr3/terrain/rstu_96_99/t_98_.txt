@@ -99,3 +99,10 @@ t_98_09_rail_decal_001
 t_98_09_rail_decal_002
 t_98_09_rrcross_decal01
 t_98_09_rrcross_decal02
+t_98__collision_0
+t_98__collision_1
+t_98__collision_2
+t_98__collision_3
+hi@t_98__collision_0
+t_98_decal
+t_98_decal+hi

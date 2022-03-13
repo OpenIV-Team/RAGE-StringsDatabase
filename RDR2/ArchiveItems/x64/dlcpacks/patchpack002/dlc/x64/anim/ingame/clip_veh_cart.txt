@@ -20,3 +20,5 @@ veh_cart@standard@front@fl@in_seat@male@emotions@nervous@direct@offering@normal_
 veh_cart@standard@front@fl@in_seat@male@shuffle
 veh_cart@standard@front@fl@in_seat@male@shunt
 veh_cart@standard@front@fr@enter@from@land@normal@abort@male
+veh_cart@standard@front@fl@in_seat@male@driveby
+veh_cart@buggy@front@fl@in_seat@male@shuffle

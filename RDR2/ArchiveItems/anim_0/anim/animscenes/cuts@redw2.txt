@@ -1,0 +1,6 @@
+cutscene@redw2_rsc_1
+cutscene@redw2_s1_ext
+cutscene@redw2_s1_mcs1
+cutscene@redw2_s2_ext
+cutscene@redw2_s2_int
+cutscene@redw2_s2_mcs1

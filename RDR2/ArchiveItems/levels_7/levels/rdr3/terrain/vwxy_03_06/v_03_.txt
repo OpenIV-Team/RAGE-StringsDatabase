@@ -66,3 +66,8 @@ v_03__hd_0_-4_3
 v_03__hd_0_-4_-3
 v_03__hd_0_-4_-4
 v_03_+hi
+v_03__collision_0
+v_03__collision_1
+v_03__collision_2
+v_03__collision_3
+hi@v_03__collision_0

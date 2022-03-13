@@ -18,6 +18,7 @@ mfr_03_0
 mfr_03_1
 mfr_03_ground_02_d
 mfr_03_ground_02_d+hidr
+mfr_03_lod
 mfr_03_shack01
 mfr_03_shack01+hidr
 mfr_03_shack01d

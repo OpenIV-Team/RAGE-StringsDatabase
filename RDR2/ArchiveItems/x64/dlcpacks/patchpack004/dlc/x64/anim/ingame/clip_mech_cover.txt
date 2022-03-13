@@ -1,0 +1,9 @@
+mech_cover@reloads@shortarms@base@low@fwd_left@righthand@no_lean_doubleaction
+mech_cover@loco@female@unarmed@base@low@fwd@no_lean
+mech_cover@loco@female@unarmed@base@low@left@no_lean
+mech_cover@loco@female@unarmed@base@high@left@no_lean
+mech_cover@loco@female@unarmed@base@low@right@no_lean
+mech_cover@loco@female@unarmed@base@low@fwd_left@no_lean
+mech_cover@loco@female@unarmed@base@high@right@no_lean
+mech_cover@loco@female@unarmed@base@low@fwd_right@no_lean
+mech_cover@reloads@shortarms@base@low@left@righthand@no_lean_doubleaction

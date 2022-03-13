@@ -1,2 +1,3 @@
 plant_picking@berries
 plant_picking@golden_currant
+plant_picking@tobacco

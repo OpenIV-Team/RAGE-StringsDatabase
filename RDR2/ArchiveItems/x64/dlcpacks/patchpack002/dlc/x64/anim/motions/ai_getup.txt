@@ -1,5 +1,1 @@
-@ai_getup@exit@from_knees@action
-@ai_getup@exit@from_knees@urgent
-@ai_getup@exit@from_seated@action
-@ai_getup@exit@from_seated@urgent
 _manifest

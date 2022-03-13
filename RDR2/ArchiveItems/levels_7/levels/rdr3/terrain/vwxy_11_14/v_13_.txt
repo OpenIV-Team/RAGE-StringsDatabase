@@ -78,3 +78,15 @@ v_13_decal004+hidr
 v_13_decal005
 v_13_decal006
 v_13_decal007
+v_13__collision_0
+v_13__collision_1
+v_13__collision_2
+v_13__collision_3
+v_13__collision_4
+v_13__collision_5
+v_13__collision_6
+v_13__collision_7
+v_13__collision_8
+v_13__collision_9
+hi@v_13__collision_0
+hi@v_13__collision_1

@@ -69,3 +69,9 @@ u_93__hd_0_-4_3
 u_93__hd_0_-4_-3
 u_93__hd_0_-4_-4
 u_93_+hi
+u_93__collision_0
+u_93__collision_1
+u_93__collision_2
+u_93__collision_3
+u_93__collision_4
+hi@u_93__collision_0

@@ -10,6 +10,8 @@ mp007_str_04_whore_frames1
 mp007_str_04_whr_shell
 mp007_str_04_whr_shell+hidr
 mp007_str_whore_cs_int
+mp007_str_whore_cs_int_txd
+mp007_str_whore_cs_int_txd+hi
 mp007_str_whore_int_refp_b
 mp007_str_whr_int_decals1
 mp007_str_whr_int_decals1+hidr

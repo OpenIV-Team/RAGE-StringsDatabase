@@ -1,5 +1,6 @@
 _cache
 _manifest
+mp001_amb_camps_bgv_mp
 mp001_mp_bgv_arthur_cover01
 mp001_mp_bgv_arthur_cover01+hidr
 mp001_mp_bgv_arthur_tablecloth

@@ -1,6 +1,7 @@
 _cache
 _manifest
 bac_01_
+bac_01__interior_bac_tunnel_int_milo_
 bac_01__interior_bac_tunnelcurve_int_milo_
 bac_01__interior_bac_tunnelent_int_milo_
 bac_01__interior_bac_tunnelexit_int_milo_
@@ -113,3 +114,4 @@ vet_01_
 vet_01__interior_vet_house_int_milo_
 vet_01__long_0
 vet_01__strm_0
+roa_bridge_interior_hea_tunnel_01_milo_

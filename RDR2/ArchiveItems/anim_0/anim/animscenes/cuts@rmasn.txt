@@ -1,0 +1,10 @@
+cutscene@rmasn_rc1
+cutscene@rmasn_rc2
+cutscene@rmasn_rc3
+cutscene@rmasn_rc4
+cutscene@rmasn_rc4_p1a1_t05
+cutscene@rmasn_rc5
+cutscene@rmasn_rc6
+cutscene@rmasn_rc7
+cutscene@rmasn_rc8
+cutscene@rmasn_rc9

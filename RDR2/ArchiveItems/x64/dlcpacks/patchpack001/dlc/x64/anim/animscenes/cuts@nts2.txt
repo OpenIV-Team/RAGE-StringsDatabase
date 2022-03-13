@@ -1,5 +1,0 @@
-cutscene@nts2_int
-cutscene@nts2_mcs1
-cutscene@nts2_mcs2
-cutscene@nts2_mcs3
-cutscene@nts2_mcs4

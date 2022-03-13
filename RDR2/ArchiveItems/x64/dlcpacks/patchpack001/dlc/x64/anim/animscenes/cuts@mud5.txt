@@ -1,2 +1,0 @@
-cutscene@mud5_mcs1
-cutscene@mud5_mcs2

@@ -18,3 +18,4 @@ slo_shack_lon_txd
 slo_shack_lon_txd+hi
 slo_shack_lon_walls
 slo_shacklo_combo_slod
+slo_shack_lon_txd_lod

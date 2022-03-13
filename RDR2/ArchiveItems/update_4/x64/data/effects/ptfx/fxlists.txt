@@ -133,7 +133,6 @@ scr_impromptu_race
 scr_ind1
 scr_jack2
 scr_loanshark_hunter2
-scr_lom_train
 scr_marston
 scr_mason
 scr_metal_detector

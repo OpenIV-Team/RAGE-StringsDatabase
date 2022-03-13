@@ -41,6 +41,8 @@ mp001_mp_grave_014
 mp001_mp_grave_016
 mp001_mp_hrt_church_windows
 mp001_mp_hrt_church_windows+hidr
+mp001_mp_lobby_01
+mp001_mp_lobby_01_strm
 mp001_mp_lobby_02_swamp_txd
 mp001_mp_lobby_02_swamp_txd+hi
 mp001_mp_lobby_base_terrain
@@ -84,3 +86,5 @@ mp001_mp_winlose_swamp_1
 mp001_mp_winlose_swamp_platform
 mp001_u_07p_winlose
 mp001_u_07p_winlose_1
+mp001_celeb_screen_swamp
+mp001_celeb_screen_forest

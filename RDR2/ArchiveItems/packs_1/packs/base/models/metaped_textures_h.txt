@@ -2191,3 +2191,5 @@ horseloadout_hr1_004_c0_000_merge
 horseloadout_hr1_004_c0_000_merge+hi
 horseloadout_hr1_005_c0_000_merge
 horseloadout_hr1_005_c0_000_merge+hi
+head_m_merge
+head_m_merge+hi

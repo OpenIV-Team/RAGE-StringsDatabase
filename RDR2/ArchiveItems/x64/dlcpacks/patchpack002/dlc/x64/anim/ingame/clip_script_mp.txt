@@ -105,3 +105,6 @@ script_mp@script_re@traffic_pisser@unapproved
 script_mp@script_re@venom_suck@unapproved
 script_mp@script_re@wagon_lift@unapproved
 script_mp@script_re@wild_man@unapproved
+script_mp@temp_introflow@teamonhorse
+script_mp@temp_introflow@teamonfoot
+script_mp@endflow@endcelebration@team_grouping@horse_races@win_v5

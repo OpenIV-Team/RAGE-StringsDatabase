@@ -16,6 +16,7 @@ arm_02_chkcoop
 arm_02_chkcoop_int
 arm_02_chkcoop_int+hidr
 arm_02_chkcoop+hidr
+arm_02_cholera_1
 arm_02_coralentry01
 arm_02_coralentry02
 arm_02_coralentry03
@@ -30,3 +31,4 @@ arm_02_txd_01
 arm_02_txd_01+hi
 hi@arm_02_0
 hi@arm_02_1
+arm_02_scarletfever_1

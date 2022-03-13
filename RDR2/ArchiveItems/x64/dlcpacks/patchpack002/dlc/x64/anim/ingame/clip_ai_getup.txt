@@ -7,5 +7,4 @@ ai_getup@exit@from_seated@combat@injured_pistol_aim@idle
 ai_getup@exit@from_seated@combat@injured_rifle_aim@idle
 ai_getup@exit@from_seated@combat@pistol_aim@idle
 ai_getup@exit@from_seated@combat@rifle_aim@idle
-ai_getup@exit@from_seated@crouch@idle
 ai_getup@exit@from_seated@normal@walk

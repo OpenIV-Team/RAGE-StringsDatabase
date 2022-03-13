@@ -125,6 +125,7 @@ amb_rest_sit@prop_human_seat_chair@generic@female_a@idle_d
 amb_rest_sit@prop_human_seat_chair@generic@female_a@react_look@exit@dismissive
 amb_rest_sit@prop_human_seat_chair@generic@female_a@react_look@exit@relieved
 amb_rest_sit@prop_human_seat_chair@generic@female_a@stand_exit
+amb_rest_sit@prop_human_seat_chair@generic@female_a@trans
 amb_rest_sit@prop_human_seat_chair@generic@female_a@walk_enter
 amb_rest_sit@prop_human_seat_chair@generic@female_a@walk_exit
 amb_rest_sit@prop_human_seat_chair@generic@female_b@idle_a
@@ -174,6 +175,7 @@ amb_rest_sit@prop_human_seat_chair@generic@male_b@idle_d
 amb_rest_sit@prop_human_seat_chair@generic@male_b@react_look@exit@dismissive
 amb_rest_sit@prop_human_seat_chair@generic@male_b@react_look@exit@relieved
 amb_rest_sit@prop_human_seat_chair@generic@male_b@stand_exit
+amb_rest_sit@prop_human_seat_chair@generic@male_b@trans
 amb_rest_sit@prop_human_seat_chair@generic@male_b@walk_enter
 amb_rest_sit@prop_human_seat_chair@generic@male_b@walk_exit
 amb_rest_sit@prop_human_seat_chair@generic@male_c@idle_a
@@ -202,6 +204,7 @@ amb_rest_sit@prop_human_seat_chair@grooming@female_a@idle_b
 amb_rest_sit@prop_human_seat_chair@grooming@female_a@idle_c
 amb_rest_sit@prop_human_seat_chair@grooming@female_a@idle_d
 amb_rest_sit@prop_human_seat_chair@grooming@female_a@stand_enter
+amb_rest_sit@prop_human_seat_chair@grooming@female_a@stand_exit
 amb_rest_sit@prop_human_seat_chair@grooming@female_a@walk_enter
 amb_rest_sit@prop_human_seat_chair@grooming@female_a@walk_exit
 amb_rest_sit@prop_human_seat_chair@grooming@male_a@base
@@ -348,6 +351,7 @@ amb_rest_sit@prop_human_seat_chair@sharpen_knife@male_b@react_look@exit@dismissi
 amb_rest_sit@prop_human_seat_chair@sharpen_knife@male_b@react_look@exit@relieved
 amb_rest_sit@prop_human_seat_chair@sharpen_knife@male_b@stand_exit
 amb_rest_sit@prop_human_seat_chair@sharpen_knife@male_b@trans
+amb_rest_sit@prop_human_seat_chair@sharpen_knife@male_b@walk_enter
 amb_rest_sit@prop_human_seat_chair@sharpen_knife@male_b@walk_exit
 amb_rest_sit@prop_human_seat_chair@sketching@female_a@idle_a
 amb_rest_sit@prop_human_seat_chair@sketching@female_a@idle_b
@@ -434,6 +438,7 @@ amb_rest_sit@prop_human_seat_chair_table@eating@fork_knife@cutting@male_a@react_
 amb_rest_sit@prop_human_seat_chair_table@eating@fork_knife@cutting@male_a@react_look@enter@low
 amb_rest_sit@prop_human_seat_chair_table@eating@fork_knife@cutting@male_a@react_look@enter@med
 amb_rest_sit@prop_human_seat_chair_table@eating@fork_knife@cutting@male_a@react_look@exit@dismissive
+amb_rest_sit@prop_human_seat_chair_table@eating@fork_knife@cutting@male_a@react_look@exit@generic
 amb_rest_sit@prop_human_seat_chair_table@eating@fork_knife@cutting@male_a@react_look@exit@relieved
 amb_rest_sit@prop_human_seat_chair_table@eating@fork_knife@cutting@male_a@react_look@loop@generic
 amb_rest_sit@prop_human_seat_chair_table@eating@fork_knife@cutting@male_a@stand_exit
@@ -497,6 +502,7 @@ amb_rest_sit@prop_human_seat_chair_table@eating@fork_knife@grabdrink2@female_a@t
 amb_rest_sit@prop_human_seat_chair_table@eating@fork_knife@grabdrink2@male_a@base
 amb_rest_sit@prop_human_seat_chair_table@eating@fork_knife@grabdrink2@male_a@react_look@enter@high
 amb_rest_sit@prop_human_seat_chair_table@eating@fork_knife@grabdrink2@male_a@react_look@enter@low
+amb_rest_sit@prop_human_seat_chair_table@eating@fork_knife@grabdrink2@male_a@react_look@enter@med
 amb_rest_sit@prop_human_seat_chair_table@eating@fork_knife@grabdrink2@male_a@react_look@exit@dismissive
 amb_rest_sit@prop_human_seat_chair_table@eating@fork_knife@grabdrink2@male_a@react_look@exit@generic
 amb_rest_sit@prop_human_seat_chair_table@eating@fork_knife@grabdrink2@male_a@react_look@exit@relieved
@@ -542,6 +548,7 @@ amb_rest_sit@prop_human_seat_chair_table@eating@fork_knife@rest_front@male_a@idl
 amb_rest_sit@prop_human_seat_chair_table@eating@fork_knife@rest_front@male_a@react_look@enter@high
 amb_rest_sit@prop_human_seat_chair_table@eating@fork_knife@rest_front@male_a@react_look@enter@low
 amb_rest_sit@prop_human_seat_chair_table@eating@fork_knife@rest_front@male_a@react_look@enter@med
+amb_rest_sit@prop_human_seat_chair_table@eating@fork_knife@rest_front@male_a@react_look@exit@dismissive
 amb_rest_sit@prop_human_seat_chair_table@eating@fork_knife@rest_front@male_a@react_look@exit@generic
 amb_rest_sit@prop_human_seat_chair_table@eating@fork_knife@rest_front@male_a@react_look@exit@relieved
 amb_rest_sit@prop_human_seat_chair_table@eating@fork_knife@rest_front@male_a@react_look@loop@generic
@@ -619,6 +626,7 @@ amb_rest_sit@prop_human_seat_stool@male@smoke@idle_a
 amb_rest_sit@world_human_depressed_sit_ground@male_a@base
 amb_rest_sit@world_human_depressed_sit_ground@male_a@enter
 amb_rest_sit@world_human_depressed_sit_ground@male_a@exit
+amb_rest_sit@world_human_depressed_sit_ground@male_a@idle_a
 amb_rest_sit@world_human_depressed_sit_ground@male_a@idle_b
 amb_rest_sit@world_human_depressed_sit_ground@male_b@base
 amb_rest_sit@world_human_depressed_sit_ground@male_b@enter

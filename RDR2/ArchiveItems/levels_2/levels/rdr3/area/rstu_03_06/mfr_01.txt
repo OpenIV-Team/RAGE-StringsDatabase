@@ -9,6 +9,7 @@ mfr_01_bunkhouse01_vfx
 mfr_01_cottage02_vfx
 mfr_01_cottage03_vfx
 mfr_01_hen_bridge_01_vfx
+mfr_01_lod
 mfr_01_mainhouse_vfx
 mfr_01_shack01_vfx
 mfr_01_stable01_vfx

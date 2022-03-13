@@ -1,8 +1,6 @@
 cutscene@fin1_ext2
 cutscene@fin1_int
-cutscene@fin1_int_p2a1_t02
 cutscene@fin1_mcs11
 cutscene@fin1_mcs6
-cutscene@fin1_mcs6_p1a1_t04
 cutscene@fin1_mcs7
 cutscene@fin1_mcs9

@@ -2,3 +2,4 @@ armoredcar01x
 armoredcar03x
 boatsteam02x
 caboose01x
+coverregion[273][324]

@@ -68,3 +68,12 @@ r_98__hd_0_-4_-4
 r_98_+hi
 r_98_dec
 r_98_decb
+r_98__collision_0
+r_98__collision_1
+r_98__collision_2
+r_98__collision_3
+r_98__collision_4
+r_98__collision_5
+r_98__collision_6
+r_98__collision_7
+hi@r_98__collision_0

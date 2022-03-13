@@ -75,3 +75,13 @@ r_97_01_decal+hidr
 r_97_01_rail_decal_01
 r_97_01_rail_decal_02
 r_97_01_rail_decal_03
+r_97__collision_0
+r_97__collision_1
+r_97__collision_2
+r_97__collision_3
+r_97__collision_4
+r_97__collision_5
+r_97__collision_6
+r_97__collision_7
+hi@r_97__collision_0
+hi@r_97__collision_1

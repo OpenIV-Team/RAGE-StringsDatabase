@@ -18,13 +18,16 @@ mech_grapple@lasso@_male@_ambient@_healthy@mounted@_streamed
 mech_grapple@lasso@_male@_ambient@_healthy@mounted@intimidation@on_ass@_base
 mech_grapple@lasso@_male@_ambient@_healthy@mounted@intimidation@on_knees@_base
 mech_grapple@pistol@_male@_ambient@_healthy@back@_streamed
+mech_grapple@pistol@_male@_ambient@_healthy@front@_streamed
 mech_grapple@pistol@_male@_ambient@_healthy@front@intimidation@_streamed
 mech_grapple@pistol@_male@_ambient@_healthy@mounted@_streamed
 mech_grapple@pistol@_male@_ambient@_healthy@wall@_base
 mech_grapple@pistol@_male@_ambient@_healthy@wall@intimidation@on_ass@_base
 mech_grapple@pistol@_male@_ambient@_healthy@wall@intimidation@on_knee@_base
 mech_grapple@pistol@_male@_gang3@_healthy@back@loco@attacker
+mech_grapple@pistol@_male@_gang3@_healthy@back@loco@victim
 mech_grapple@rifle@_male@_ambient@_healthy@back@_streamed
+mech_grapple@rifle@_male@_ambient@_healthy@front@_streamed
 mech_grapple@rifle@_male@_ambient@_healthy@front@intimidation@on_ass@_base
 mech_grapple@rifle@_male@_ambient@_healthy@front@intimidation@on_knees@_base
 mech_grapple@rifle@_male@_ambient@_healthy@mounted@_streamed
@@ -60,8 +63,10 @@ mech_grapple@unarmed@_male@_ambient@_healthy@mounted@_streamed
 mech_grapple@unarmed@_male@_ambient@_healthy@mounted@_variations
 mech_grapple@unarmed@_male@_ambient@_healthy@mounted@intimidation@_streamed
 mech_grapple@unarmed@_male@_ambient@_healthy@trough@intimidation@_streamed
+mech_grapple@unarmed@_male@_ambient@_healthy@wall@_streamed
 mech_grapple@unarmed@_male@_ambient@_healthy@wall@_variations
 mech_grapple@unarmed@_male@_ambient@_healthy@wall@intimidation@_streamed
+mech_grapple@unarmed@_male@ind1@_healthy@drag@_streamed
 mech_grapple@unarmed@_male@ind1@_healthy@drag@loco@attacker
 mech_grapple@unarmed@_male@ind1@_healthy@drag@loco@victim
 mech_grapple@unarmed@_male@mud2@_healthy@back@_streamed
@@ -71,6 +76,7 @@ mech_grapple@unarmed@bruiser@_ambient@_healthy@back@_base
 mech_grapple@unarmed@bruiser@_ambient@_healthy@back@_streamed
 mech_grapple@unarmed@bruiser@_ambient@_healthy@front@_base
 mech_grapple@unarmed@bruiser@_ambient@_healthy@front@_streamed
+mech_grapple@unarmed@bruiser@_ambient@_healthy@mounted@_streamed
 mech_grapple@unarmed@bruiser@_ambient@_healthy@mounted@_variations
 mech_grapple@unarmed@bruiser@_ambient@_healthy@mounted@loco@attacker
 mech_grapple@unarmed@bruiser@_ambient@_healthy@mounted@loco@victim

@@ -54,12 +54,14 @@ mech_pickup@loot@ammo_case
 mech_pickup@loot@armoire
 mech_pickup@loot@armoire_sml
 mech_pickup@loot@body@long
+mech_pickup@loot@cash_register@clerk
 mech_pickup@loot@cash_register@grab
 mech_pickup@loot@cash_register@open
 mech_pickup@loot@cash_register@open_grab
 mech_pickup@loot@cash_register@shoot_open
 mech_pickup@loot@cash_register_clerk_opened
 mech_pickup@loot@cash_register_silent@1h
+mech_pickup@loot@cash_register_silent@unarmed
 mech_pickup@loot@chimney
 mech_pickup@loot@desk
 mech_pickup@loot@desks@drawer_c
@@ -74,7 +76,9 @@ mech_pickup@loot@horse_saddlebags@live@lt
 mech_pickup@loot@horse_saddlebags@live@rt
 mech_pickup@loot@med_case
 mech_pickup@loot@medicine_crate@counter
+mech_pickup@loot@medicine_crate@ground
 mech_pickup@loot@money_box@counter
+mech_pickup@loot@money_box@ground
 mech_pickup@loot@money_box@table
 mech_pickup@loot@pistol_chest@table@pistol
 mech_pickup@loot@pistol_chest@table@revolver

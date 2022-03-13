@@ -1,5 +1,6 @@
 _cache
 _manifest
+mp001_amb_camps_tal_mp
 mp001_mp_hid_talltrees
 mp001_mp_tal_gun1_rag
 mp001_mp_tal_gun1_rag+hidr

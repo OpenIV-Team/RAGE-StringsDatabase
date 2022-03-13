@@ -68,3 +68,7 @@ w_95__hd_0_-4_3
 w_95__hd_0_-4_-3
 w_95__hd_0_-4_-4
 w_95_+hi
+w_95__collision_0
+w_95__collision_1
+w_95__collision_2
+hi@w_95__collision_0

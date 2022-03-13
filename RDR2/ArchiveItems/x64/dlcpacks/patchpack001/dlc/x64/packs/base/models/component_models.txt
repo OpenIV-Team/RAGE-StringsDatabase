@@ -166,11 +166,6 @@ cs_brynntildon_ms1_merge_6
 cs_charlessmith_ms1_coat_002
 cs_charlessmith_ms1_coat_005
 cs_charlessmith_ms1_coat_006
-cs_charlessmith_ms1_coat_008
-cs_charlessmith_ms1_hair_002
-cs_charlessmith_ms1_hair_005
-cs_charlessmith_ms1_hair_006
-cs_charlessmith_ms1_hair_007
 cs_charlessmith_ms1_mask_002
 cs_charlessmith_ms1_mask_005
 cs_charlessmith_ms1_mask_007
@@ -193,7 +188,6 @@ cs_dutch_ms1_coat_005
 cs_dutch_ms1_holster_belt_002
 cs_dutch_ms1_mask_001
 cs_dutch_ms1_mask_003
-cs_dutch_ms1_mask_004
 cs_dutch_ms1_mask_005
 cs_dutch_ms1_merge_17
 cs_dutch_ms1_merge_19
@@ -238,7 +232,6 @@ cs_johnmarston_ms1_coat_000
 cs_johnmarston_ms1_coat_001
 cs_johnmarston_ms1_coat_002
 cs_johnmarston_ms1_coat_003
-cs_johnmarston_ms1_coat_005
 cs_johnmarston_ms1_coat_007
 cs_johnmarston_ms1_mask_002
 cs_johnmarston_ms1_merge_16
@@ -274,7 +267,6 @@ cs_leostrauss_ms1_merge_15
 cs_marshall_thurwell_ms1_coat_000
 cs_marshall_thurwell_ms1_merge_2
 cs_marybeth_fs1_gloves_000_merge
-cs_marybeth_fs1_hair_000
 cs_marybeth_fs1_merge_10
 cs_marybeth_fs1_merge_11
 cs_marybeth_fs1_merge_12
@@ -289,12 +281,9 @@ cs_micahbell_ms1_coat_000
 cs_micahbell_ms1_coat_001
 cs_micahbell_ms1_coat_002
 cs_micahbell_ms1_coat_003
-cs_micahbell_ms1_coat_004
 cs_micahbell_ms1_eyepatch_000
 cs_micahbell_ms1_hair_000
 cs_micahbell_ms1_hair_001
-cs_micahbell_ms1_hair_002
-cs_micahbell_ms1_hair_003
 cs_micahbell_ms1_mask_001_alt
 cs_micahbell_ms1_mask_002
 cs_micahbell_ms1_mask_005
@@ -308,11 +297,7 @@ cs_micahbell_ms1_merge_20
 cs_micahbell_ms1_merge_24
 cs_micahbell_ms1_shirt_003
 cs_micahbell_ms1_shirt_007
-cs_micahbell_ms1_shirt_008
-cs_mollyoshea_fs1_hair_005
 cs_mollyoshea_fs1_merge_11
-cs_mrpearson_ms1_apron_002
-cs_mrpearson_ms1_hair_000
 cs_mrpearson_ms1_merge_10
 cs_mrpearson_ms1_merge_11
 cs_mrpearson_ms1_merge_12
@@ -321,8 +306,6 @@ cs_mrpearson_ms1_merge_14
 cs_mrpearson_ms1_merge_9
 cs_mrsadler_fs1_blanket_001
 cs_mrsadler_fs1_coat_002
-cs_mrsadler_fs1_hair_000
-cs_mrsadler_fs1_hair_005
 cs_mrsadler_fs1_merge_21
 cs_mrsadler_fs1_merge_22
 cs_mrsadler_fs1_merge_24
@@ -341,7 +324,6 @@ cs_mrsadler_fs1_shawl_001
 cs_penelopebraithwaite_fs1_merge_4
 cs_penelopebraithwaite_fs1_merge_6
 cs_penelopebraithwaite_fs1_shirt_000
-cs_poisonwellshaman_ms1_hair_000
 cs_poisonwellshaman_ms1_merge_2
 cs_revswanson_ms1_coat_000
 cs_revswanson_ms1_coat_002
@@ -358,8 +340,6 @@ cs_rockyseven_widow_fs1_merge_8
 cs_sean_ms1_coat_00_merge
 cs_sean_ms1_coat_000
 cs_sean_ms1_coat_002
-cs_sean_ms1_hair_000
-cs_sean_ms1_hair_003
 cs_sean_ms1_merge_7
 cs_sean_ms1_merge_9
 cs_slavecatcher_ms1_merge_2
@@ -770,9 +750,7 @@ player_zero_chaps_005
 player_zero_chaps_007
 player_zero_coat_000_open
 player_zero_coat_000_open_custom
-player_zero_coat_000_open_full
 player_zero_coat_001_open
-player_zero_coat_001_open_custom
 player_zero_coat_001_open_full
 player_zero_coat_004_open
 player_zero_coat_004_open_full
@@ -827,7 +805,6 @@ player_zero_coat_036_open
 player_zero_coat_036_open_fp
 player_zero_coat_036_open_full
 player_zero_coat_036_open_full_fp
-player_zero_coat_037_open_full
 player_zero_hair_s01_l01_p0
 player_zero_hair_s01_l02_p1
 player_zero_hair_s01_l03_p1
@@ -1099,7 +1076,6 @@ player_zero_ust_000_o_u_full
 player_zero_vest_000_co_short_chap
 player_zero_vest_000_full_chap
 player_zero_vest_003_co_short_chap
-player_zero_Vest_003_Full_Chap
 player_zero_vest_004_co_short_chap
 player_zero_vest_004_full_chap
 player_zero_vest_005_co_short_chap

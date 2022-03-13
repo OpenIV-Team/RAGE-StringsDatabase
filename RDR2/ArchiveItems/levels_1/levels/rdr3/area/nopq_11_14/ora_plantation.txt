@@ -43,3 +43,4 @@ ora_plantation+hi
 oraplpr_combo08_slod
 oraplpr_combo09_slod
 oraplpr_combo10_slod
+ora_plantation_lod

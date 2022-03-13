@@ -1,4 +1,3 @@
-creatures_mammal@bear@grapple@anim_scene
 creatures_mammal@bear@grapple@streamed_core
 creatures_mammal@bear@grapple@streamed_core@face
 creatures_mammal@boar@agitated@dead

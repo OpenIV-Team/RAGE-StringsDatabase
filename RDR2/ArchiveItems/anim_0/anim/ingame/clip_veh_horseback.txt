@@ -15,12 +15,14 @@ veh_horseback@aim@front@dual@base@transitions@ready_to_carry@high
 veh_horseback@aim@front@dual@base@transitions@ready_to_sweep@high
 veh_horseback@aim@front@dual@base@transitions@sweep_to_carry
 veh_horseback@aim@front@dual@base@transitions@sweep_to_ready@high
+veh_horseback@aim@front@dual@cattleman
 veh_horseback@aim@front@dual_lantern@base@lantern
 veh_horseback@aim@front@dual_lantern@base@transitions@aim_rear_turn
 veh_horseback@aim@front@lantern@base@sweep_carry
 veh_horseback@aim@front@lantern@right_hand
 veh_horseback@aim@front@longarms@base@carbine
 veh_horseback@aim@front@longarms@base@carbine_lefthand
+veh_horseback@aim@front@longarms@base@sweep_additives@block
 veh_horseback@aim@front@longarms@base@sweep_additives_lefthand@block
 veh_horseback@aim@front@longarms@base@sweep_carry
 veh_horseback@aim@front@longarms@base@sweep_combat
@@ -58,11 +60,13 @@ veh_horseback@aim@front@special@bow@base@aim_righthand
 veh_horseback@aim@front@special@bow@base@aim_righthand@w
 veh_horseback@aim@front@special@bow@base@drawn
 veh_horseback@aim@front@special@bow@base@drawn@w
+veh_horseback@aim@front@special@bow@base@drawn_righthand
 veh_horseback@aim@front@special@bow@base@drawn_righthand@w
 veh_horseback@aim@front@special@bow@base@loco
 veh_horseback@aim@front@special@bow@base@loco@w
 veh_horseback@aim@front@special@bow@base@sweep_additives@block
 veh_horseback@aim@front@special@bow@base@sweep_additives@block@w
+veh_horseback@aim@front@special@bow@base@sweep_additives_righthand@block
 veh_horseback@aim@front@special@bow@base@sweep_additives_righthand@block@w
 veh_horseback@aim@front@special@bow@base@transitions@aim_hand_swap_to_lefthand
 veh_horseback@aim@front@special@bow@base@transitions@aim_hand_swap_to_lefthand@w
@@ -168,6 +172,7 @@ veh_horseback@horse@standard@seat_rider@left@exit@transition@ped@saddle@male
 veh_horseback@horse@standard@seat_rider@left@exit@transition@ped@saddle@male@jack@from_horse
 veh_horseback@horse@standard@seat_rider@rear@enter@land@ped@saddle@male@align@jack
 veh_horseback@horse@standard@seat_rider@rear@enter@land@ped@saddle@male@get_on@from_jack
+veh_horseback@horse@standard@seat_rider@rear@exit@land@ped@saddle@male@from_jack@get_off
 veh_horseback@horse@standard@seat_rider@right@enter@land@ped@saddle@common@weaponholding
 veh_horseback@horse@standard@seat_rider@right@enter@land@ped@saddle@male@align@horse_walk_slow
 veh_horseback@horse@standard@seat_rider@right@enter@land@ped@saddle@male@get_on@from_idle@bareback@occluded
@@ -197,6 +202,7 @@ veh_horseback@seat_rear@female@left@normal@gallop@slope_max@down
 veh_horseback@seat_rear@female@left@normal@gallop@slope_max@up
 veh_horseback@seat_rear@female@left@normal@idle
 veh_horseback@seat_rear@female@left@normal@idle@rearup
+veh_horseback@seat_rear@female@left@normal@idle@slope@down
 veh_horseback@seat_rear@female@left@normal@idle@slope@up
 veh_horseback@seat_rear@female@right@bucking_off@canter@backwards
 veh_horseback@seat_rear@female@right@bucking_off@canter@spooked
@@ -236,6 +242,7 @@ veh_horseback@seat_rear@male@normal@gallop@slope_max@up
 veh_horseback@seat_rear@male@normal@idle
 veh_horseback@seat_rear@male@normal@idle@slope@down
 veh_horseback@seat_rear@male@normal@idle@slope@up
+veh_horseback@seat_rear@male@normal@idle@variation
 veh_horseback@seat_rear@male@normal@jump
 veh_horseback@seat_rear@male@normal@rearing
 veh_horseback@seat_rear@male@normal@ref_frames
@@ -292,6 +299,7 @@ veh_horseback@seat_saddle@generic@terrain@unarmed@hot@idle@fidget
 veh_horseback@seat_saddle@generic@terrain@unarmed@rain@fidget
 veh_horseback@seat_saddle@generic@terrain@unarmed@rain@idle
 veh_horseback@seat_saddle@generic@terrain@unarmed@wind@idle
+veh_horseback@seat_saddle@generic@terrain@unarmed@wind@idle@fidget
 veh_horseback@seat_saddle@generic@terrain@unarmed@wind@idle@fidget@hat
 veh_horseback@seat_saddle@male@bareback@idle@1h
 veh_horseback@seat_saddle@male@bareback@idle@2h
@@ -314,6 +322,7 @@ veh_horseback@seat_saddle@male@injured_critical@walk
 veh_horseback@seat_saddle@male@jack@idle
 veh_horseback@seat_saddle@male@normal@climb@vertical
 veh_horseback@seat_saddle@male@normal@drop@vertical
+veh_horseback@seat_saddle@male@normal@jump
 veh_horseback@seat_saddle@male@normal@rearing
 veh_horseback@seat_saddle@male@normal@ref_frames
 veh_horseback@seat_saddle@male@normal@swimming

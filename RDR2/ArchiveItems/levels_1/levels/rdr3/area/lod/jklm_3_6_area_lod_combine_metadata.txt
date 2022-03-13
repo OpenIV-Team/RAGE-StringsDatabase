@@ -38,9 +38,12 @@ min_01__strm_0
 pro_01_
 pro_01__strm_0
 pro_barn_int_milo
+pro_barn_int_milo_lod
 pro_es_01_workerhouse
+pro_es_01_workerhouse_lod
 pro_mansion_int_milo
 pro_wrkshp_int_milo
+pro_wrkshp_int_milo_lod
 reg_bgv_00
 reg_bgv_00_interior_bgv_devilcave_int_milo_
 reg_bgv_00_interior_l_07_cave_int_milo_

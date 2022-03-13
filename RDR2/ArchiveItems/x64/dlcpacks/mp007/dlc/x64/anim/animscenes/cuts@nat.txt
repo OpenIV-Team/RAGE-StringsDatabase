@@ -1,1 +1,8 @@
 cutscene@nat_int
+cutscene@nat_int_p1_t13
+cutscene@nat_int_p1_t14
+cutscene@nat_int_p2_t05
+cutscene@nat_int_p2_t06
+cutscene@nat_int_p3a1_t02
+cutscene@nat_int_p3_t05
+cutscene@nat_int_p4_t02

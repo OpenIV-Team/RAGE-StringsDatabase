@@ -1,2 +1,3 @@
 mech_strafe@mp@generic@first_person@crouch@start
 mech_strafe@mp@generic@first_person@start
+mech_strafe@mp@generic@first_person@quickstop

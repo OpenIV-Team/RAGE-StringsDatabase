@@ -1,3 +1,4 @@
 _cache
 _manifest
+mp001_amb_camps_cml_mp
 mp001_mp_hid_farmhouse

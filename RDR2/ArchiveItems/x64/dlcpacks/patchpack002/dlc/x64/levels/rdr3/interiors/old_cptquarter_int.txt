@@ -1,6 +1,5 @@
 _cache
 _manifest
-hi@old_cptqutarter_int
 old_cpt_int_23
 old_cpt_int_25
 old_cpt_int_25+hidr

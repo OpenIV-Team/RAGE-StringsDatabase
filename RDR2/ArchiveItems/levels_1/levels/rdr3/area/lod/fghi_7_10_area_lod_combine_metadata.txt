@@ -13,11 +13,16 @@ col_01__long_0
 col_01__strm_0
 col_01_chimney_smoke_effect
 col_02_
+col_02__interior_col_barn_int_milo_
 col_02__interior_col_school_int_milo_
 col_02__long_0
 col_02__strm_0
 col_02_chimney_smoke_effect
 fghi_7_10_area_lod
+fghi_7_10_area_lod_combine_metadata_001
+fghi_7_10_area_lod_combine_metadata_001_strm
+fghi_7_10_area_lod_combine_metadata_002_strm
+fghi_7_10_area_lod_combine_metadata_003_strm
 grishkg3_01_
 grishkg3_01__long_0
 grishkg3_01__strm_0
@@ -25,3 +30,4 @@ wap_01_
 wap_01__strm_0
 wap_rainsfalls_base
 weathervol_chpt1_snowstorm
+wap_rainsfalls_base_lod

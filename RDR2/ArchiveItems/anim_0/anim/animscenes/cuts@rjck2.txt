@@ -1,0 +1,4 @@
+cutscene@rjck2_rsc1
+cutscene@rjck2_rsc2
+cutscene@rjck2_rsc3
+cutscene@rjck2_rsc5

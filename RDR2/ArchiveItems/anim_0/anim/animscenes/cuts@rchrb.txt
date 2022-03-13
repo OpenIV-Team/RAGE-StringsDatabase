@@ -1,0 +1,4 @@
+cutscene@rchrb_rc1
+cutscene@rchrb_rc2
+cutscene@rchrb_s1_ext
+cutscene@rchrb_s1_mcs1

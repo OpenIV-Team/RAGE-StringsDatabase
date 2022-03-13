@@ -52,6 +52,7 @@ mech_loco_m@character@arthur@crouch@unarmed@idle_inspection
 mech_loco_m@character@arthur@crouch@unarmed@idle_knee
 mech_loco_m@character@arthur@crouch@unarmed@idle_knee_inspection
 mech_loco_m@character@arthur@crouch@unarmed@run_slow@slope@shallow_down
+mech_loco_m@character@arthur@crouch@unarmed@single_step
 mech_loco_m@character@arthur@crouch@unarmed@transition@action_to_crouch
 mech_loco_m@character@arthur@crouch@unarmed@transition@crouch_to_action
 mech_loco_m@character@arthur@crouch@unarmed@transition@crouch_to_idle
@@ -106,6 +107,7 @@ mech_loco_m@character@arthur@fidgets@hat@normal@unarmed@rain@left_hand
 mech_loco_m@character@arthur@fidgets@hat@normal@unarmed@rain@right_hand
 mech_loco_m@character@arthur@fidgets@hat@normal@unarmed@wind@left_hand
 mech_loco_m@character@arthur@fidgets@hat@normal@unarmed@wind@right_hand
+mech_loco_m@character@arthur@fidgets@heavy_drop
 mech_loco_m@character@arthur@fidgets@injured@action@unarmed
 mech_loco_m@character@arthur@fidgets@injured@crouch@unarmed
 mech_loco_m@character@arthur@fidgets@injured@normal@longarms
@@ -137,6 +139,7 @@ mech_loco_m@character@arthur@fidgets@normal@unarmed@_variations@subtle
 mech_loco_m@character@arthur@fidgets@sick@action@unarmed
 mech_loco_m@character@arthur@fidgets@sick@normal@unarmed
 mech_loco_m@character@arthur@fidgets@sick@normal@unarmed@big_cough
+mech_loco_m@character@arthur@fidgets@skinning@small_animal
 mech_loco_m@character@arthur@fidgets@smoke@pistol
 mech_loco_m@character@arthur@fidgets@smoke@rifle
 mech_loco_m@character@arthur@fidgets@smoke@unarmed
@@ -190,6 +193,7 @@ mech_loco_m@character@arthur@horse_leading@unarmed@unhitch
 mech_loco_m@character@arthur@horse_leading@unarmed@walk_slow
 mech_loco_m@character@arthur@injured@action@unarmed@idle
 mech_loco_m@character@arthur@injured@action@unarmed@run
+mech_loco_m@character@arthur@injured@action@unarmed@walk
 mech_loco_m@character@arthur@injured@action@unarmed@walk_slow
 mech_loco_m@character@arthur@injured@crouch@left_shoulder@unarmed@_variations@fidgets
 mech_loco_m@character@arthur@injured@crouch@left_shoulder@unarmed@idle_outside
@@ -225,8 +229,11 @@ mech_loco_m@character@arthur@special@crafting@satchel
 mech_loco_m@character@arthur@terrain@pistol@cold@edge_left
 mech_loco_m@character@arthur@terrain@unarmed@cold@edge_left
 mech_loco_m@character@arthur@terrain@unarmed@cold@idle_collapse
+mech_loco_m@character@arthur@terrain@unarmed@ice@run@180
 mech_loco_m@character@arthur@terrain@unarmed@ice@walk@180
 mech_loco_m@character@arthur@terrain@unarmed@narrow_ledge@idle_left
+mech_loco_m@character@arthur@terrain@unarmed@narrow_ledge@idle_left@_variations@fidgets
+mech_loco_m@character@arthur@terrain@unarmed@narrow_ledge@walk_left
 mech_loco_m@character@arthur@terrain@unarmed@narrow_ledge_blizzard@idle_left
 mech_loco_m@character@arthur@terrain@unarmed@narrow_ledge_blizzard@walk_left
 mech_loco_m@character@arthur@terrain@unarmed@narrow_ledge_cliff@idle_left
@@ -240,6 +247,7 @@ mech_loco_m@character@arthur@tired@action@unarmed@breathing@idle
 mech_loco_m@character@arthur@tired@crouch@unarmed@breathing@idle
 mech_loco_m@character@arthur@tired@pistol@low_stamina@walk
 mech_loco_m@character@arthur@tired@unarmed@breathing@run
+mech_loco_m@character@arthur@tired@unarmed@low_stamina@run
 mech_loco_m@character@arthur@tired@unarmed@low_stamina@sprint
 mech_loco_m@character@arthur@tired@unarmed@low_stamina@walk
 mech_loco_m@character@arthur@weather@rain@normal@unarmed@idle
@@ -294,6 +302,7 @@ mech_loco_m@character@dutch@combat@dual@firing@_variation_a
 mech_loco_m@character@dutch@fancy@unarmed@idle@_variations
 mech_loco_m@character@dutch@normal@armed@idle
 mech_loco_m@character@dutch@normal@armed@idle@_variations@a
+mech_loco_m@character@dutch@normal@armed@idle@_variations@d
 mech_loco_m@character@dutch@normal@armed@run
 mech_loco_m@character@dutch@normal@armed@walk_fast
 mech_loco_m@character@dutch@normal@unarmed@idle@_variations@a
@@ -441,6 +450,7 @@ mech_loco_m@character@slim_grant@normal@unarmed@idle@variations@touchholster
 mech_loco_m@character@slim_grant@normal@unarmed@idle@variations@touchlips
 mech_loco_m@character@uncle@normal@unarmed@idle
 mech_loco_m@character@winton@normal@armed@idle
+mech_loco_m@generic@action@longarm@aiming@run
 mech_loco_m@generic@action@longarm@aiming@transition@run@change_target
 mech_loco_m@generic@action@longarm@aiming@transition@walk@change_target
 mech_loco_m@generic@action@shortarm@aiming@run
@@ -458,6 +468,21 @@ mech_loco_m@generic@action@unarmed@transition@strafe@to_idle
 mech_loco_m@generic@action@unarmed@transition@walk_to_run
 mech_loco_m@generic@bumping@run
 mech_loco_m@generic@bumping@walk
+mech_loco_m@generic@carry@animals@large@idle@fidget
+mech_loco_m@generic@carry@animals@medium@hand_idle
+mech_loco_m@generic@carry@animals@medium@idle
+mech_loco_m@generic@carry@animals@medium@idle_shoulder
+mech_loco_m@generic@carry@animals@medium@run
+mech_loco_m@generic@carry@animals@medium@run_fast_shoulder
+mech_loco_m@generic@carry@animals@medium@run_hand_fast
+mech_loco_m@generic@carry@animals@medium@transition@hand_to_shoulder
+mech_loco_m@generic@carry@animals@medium@transition@shoulder_to_hand
+mech_loco_m@generic@carry@animals@medium@walk
+mech_loco_m@generic@carry@animals@medium@walk_fast_shoulder
+mech_loco_m@generic@carry@animals@medium@walk_hand_fast
+mech_loco_m@generic@carry@animals@small@idle
+mech_loco_m@generic@carry@animals@small@run
+mech_loco_m@generic@carry@animals@small@walk
 mech_loco_m@generic@carry@bag@left_shoulder@transition@settle
 mech_loco_m@generic@carry@bag@right_shoulder@transition@settle
 mech_loco_m@generic@carry@bag_anders@left@idle
@@ -465,6 +490,7 @@ mech_loco_m@generic@carry@bag_anders@left@walk
 mech_loco_m@generic@carry@bag_anders@right@idle
 mech_loco_m@generic@carry@bag_anders@right@walk
 mech_loco_m@generic@carry@billy_club@idle
+mech_loco_m@generic@carry@box@front@idle
 mech_loco_m@generic@carry@box@front@idle@idle_variation
 mech_loco_m@generic@carry@ledger@fidget
 mech_loco_m@generic@carry@ledger@idle
@@ -496,8 +522,10 @@ mech_loco_m@generic@combat@injured@pistol@torso@firing@_variation_a
 mech_loco_m@generic@combat@injured@pistol@transition@strafe
 mech_loco_m@generic@combat@injured@rifle@transition@strafe
 mech_loco_m@generic@combat@injured@torso@pistol@aiming_idle
+mech_loco_m@generic@combat@injured@torso@pistol@aiming_run
 mech_loco_m@generic@combat@injured@torso@pistol@firing@_variation_a
 mech_loco_m@generic@combat@injured@torso@rifle@aiming_idle
+mech_loco_m@generic@combat@injured@torso@rifle@aiming_run
 mech_loco_m@generic@combat@injured@torso@rifle@firing@_variation_b
 mech_loco_m@generic@combat@low_intensity@pistol@_variations@upperbody
 mech_loco_m@generic@combat@low_intensity@pistol@firing@_variation_a
@@ -529,6 +557,7 @@ mech_loco_m@generic@combat@zero_intensity@pistol@aiming_idle
 mech_loco_m@generic@combat@zero_intensity@pistol@aiming_run
 mech_loco_m@generic@combat@zero_intensity@pistol@aiming_walk
 mech_loco_m@generic@combat@zero_intensity@pistol@idle
+mech_loco_m@generic@combat@zero_intensity@unarmed@walk
 mech_loco_m@generic@converse@unarmed@idle
 mech_loco_m@generic@converse@unarmed@jog@forward
 mech_loco_m@generic@converse@unarmed@walk_medium@forward
@@ -556,6 +585,8 @@ mech_loco_m@generic@discard@bucket_full@right
 mech_loco_m@generic@discard@cauldron@right
 mech_loco_m@generic@discard@cigar@left
 mech_loco_m@generic@discard@cigar@right
+mech_loco_m@generic@discard@clipboard@left
+mech_loco_m@generic@discard@clipboard@right
 mech_loco_m@generic@discard@coffee@left
 mech_loco_m@generic@discard@coffee@right
 mech_loco_m@generic@discard@feedbag@right
@@ -600,10 +631,12 @@ mech_loco_m@generic@drunk@unarmed@run_very_drunk
 mech_loco_m@generic@drunk@unarmed@sprint_moderate_drunk
 mech_loco_m@generic@drunk@unarmed@transitions@run_to_walk
 mech_loco_m@generic@drunk@unarmed@transitions@walk_to_run
+mech_loco_m@generic@drunk@unarmed@walk_moderate_drunk
 mech_loco_m@generic@drunk@unarmed@walk_very_drunk
 mech_loco_m@generic@emotion@unarmed@angry@idle_focussed
 mech_loco_m@generic@emotion@unarmed@angry@run_fast
 mech_loco_m@generic@emotion@unarmed@defuse@idle_focussed
+mech_loco_m@generic@emotion@unarmed@intimidated@on_ass@reaction@run
 mech_loco_m@generic@emotion@unarmed@sad@idle
 mech_loco_m@generic@event@stumble@transition@heavy_stumble_to_run_lf
 mech_loco_m@generic@event@stumble@transition@heavy_stumble_to_run_rf
@@ -699,14 +732,18 @@ mech_loco_m@generic@injured@unarmed@left_leg@transition@walk_to_idle
 mech_loco_m@generic@injured@unarmed@right_arm@idle
 mech_loco_m@generic@injured@unarmed@right_arm@transition@walk_to_idle
 mech_loco_m@generic@injured@unarmed@right_leg@idle
+mech_loco_m@generic@injured@unarmed@right_leg@run
 mech_loco_m@generic@injured@unarmed@right_leg@transition@idle_to_walk
 mech_loco_m@generic@injured@unarmed@right_leg@transition@walk_to_idle
 mech_loco_m@generic@injured@unarmed@right_leg@transition@walk_to_run
+mech_loco_m@generic@normal@unarmed@run_sharp
+mech_loco_m@generic@normal@unarmed@single_step@old
 mech_loco_m@generic@normal@unarmed@stairs@transitions@run@step_on_down
 mech_loco_m@generic@normal@unarmed@stairs@transitions@run@step_on_up
 mech_loco_m@generic@normal@unarmed@stairs@transitions@walk@step_on_down
 mech_loco_m@generic@normal@unarmed@stairs@transitions@walk@step_on_up
 mech_loco_m@generic@normal@unarmed@walk_slow
+mech_loco_m@generic@reaction@avoid@unarmed@soft@walk
 mech_loco_m@generic@reaction@avoid@unarmed@soft@walk_backwards
 mech_loco_m@generic@reaction@handsup@unarmed@normal
 mech_loco_m@generic@reaction@handsup@unarmed@tough
@@ -778,6 +815,7 @@ mech_loco_m@generic@terrain@rifle@water@waist_deep@sprint
 mech_loco_m@generic@terrain@shotgun@water@chest_deep@idle
 mech_loco_m@generic@terrain@shotgun@water@chest_deep@run
 mech_loco_m@generic@terrain@shotgun@water@chest_deep@walk
+mech_loco_m@generic@terrain@unarmed@mud_deep@knee_high@idle
 mech_loco_m@generic@terrain@unarmed@sliding@slide
 mech_loco_m@generic@terrain@unarmed@sliding@slide@run@slide_entry
 mech_loco_m@generic@terrain@unarmed@sliding@slide@run@slide_entry@down

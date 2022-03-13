@@ -79,3 +79,15 @@ u_99_01_decal001
 u_99_04_decal01
 u_99_05_d
 u_99_09_d
+u_99__collision_0
+u_99__collision_1
+u_99__collision_2
+u_99__collision_3
+u_99__collision_4
+u_99__collision_5
+u_99__collision_6
+u_99__collision_7
+hi@u_99__collision_0
+hi@u_99__collision_1
+hi@u_99__collision_2
+hi@u_99__collision_3

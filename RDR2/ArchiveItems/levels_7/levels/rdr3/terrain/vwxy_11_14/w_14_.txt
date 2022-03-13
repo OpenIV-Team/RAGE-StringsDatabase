@@ -74,3 +74,7 @@ w_14__hd_0_-4_-4
 w_14_+hi
 w_14_decal001
 w_14_decal002
+w_14__collision_0
+w_14__collision_1
+w_14__collision_2
+hi@w_14__collision_0

@@ -65,6 +65,7 @@ mech_ransack@cupboard@high@wide@double_hinge@open@b
 mech_ransack@cupboard@low@narrow@double_hinge@close@a
 mech_ransack@cupboard@low@narrow@double_hinge@close@b
 mech_ransack@cupboard@low@narrow@double_hinge@open@a
+mech_ransack@cupboard@low@narrow@double_hinge@open@b
 mech_ransack@cupboard@low@narrow@left_hinge@close@b
 mech_ransack@cupboard@low@narrow@left_hinge@open@b
 mech_ransack@cupboard@low@narrow@right_hinge@close@b
@@ -99,6 +100,7 @@ mech_ransack@drawer@pickup@vertical@60cm@right_25cm@a
 mech_ransack@drawer@pickup@vertical@80cm@left_25cm@a
 mech_ransack@drawer@pickup@vertical@80cm@middle@a
 mech_ransack@drawer@pickup@vertical@80cm@right_25cm@a
+mech_ransack@drawer@putdown@vertical@20cm@left_25cm@a
 mech_ransack@drawer@putdown@vertical@20cm@middle@a
 mech_ransack@drawer@putdown@vertical@20cm@right_25cm@a
 mech_ransack@drawer@putdown@vertical@40cm@left_25cm@a
@@ -118,6 +120,7 @@ mech_ransack@drawer@single@open@20cm@a
 mech_ransack@drawer@single@open@40cm@a
 mech_ransack@drawer@single@open@60cm@a
 mech_ransack@drawer@single@open@80cm@a
+mech_ransack@items@journal
 mech_ransack@lockbox@lrg@0cm@close@a
 mech_ransack@lockbox@lrg@0cm@close@b
 mech_ransack@lockbox@lrg@0cm@openlocked@a
@@ -244,6 +247,7 @@ mech_ransack@shelf@fallback@45cm@putdown
 mech_ransack@shelf@fallback@crouch@0cm@pickup
 mech_ransack@shelf@fallback@crouch@0cm@putdown
 mech_ransack@shelf@fallback@crouch@105cm@pickup
+mech_ransack@shelf@fallback@crouch@105cm@putdown
 mech_ransack@shelf@fallback@crouch@45cm@pickup
 mech_ransack@shelf@fallback@crouch@45cm@putdown
 mech_ransack@shelf@fallback@lh@0cm@pickup
@@ -388,11 +392,13 @@ mech_ransack@shelf@h45cm@d50cm@crouch@pickup@vertical@right_50cm@a
 mech_ransack@shelf@h45cm@d50cm@crouch@putdown@vertical@left_50cm@a
 mech_ransack@shelf@h45cm@d50cm@crouch@putdown@vertical@middle@a
 mech_ransack@shelf@h45cm@d50cm@crouch@putdown@vertical@right_50cm@a
+mech_ransack@shelf@h45cm@d50cm@reach_in@pickup@vertical@left_50cm@a
 mech_ransack@shelf@h45cm@d50cm@reach_in@pickup@vertical@middle@a
 mech_ransack@shelf@h45cm@d50cm@reach_in@pickup@vertical@right_50cm@a
 mech_ransack@shelf@h45cm@d50cm@reach_in@putdown@vertical@left_50cm@a
 mech_ransack@shelf@h45cm@d50cm@reach_in@putdown@vertical@middle@a
 mech_ransack@shelf@h45cm@d50cm@reach_in@putdown@vertical@right_50cm@a
+mech_ransack@shelf@h45cm@d50cm@reach_over@pickup@vertical@left_50cm@a
 mech_ransack@shelf@h45cm@d50cm@reach_over@pickup@vertical@left_50cm@lh
 mech_ransack@shelf@h45cm@d50cm@reach_over@pickup@vertical@middle@a
 mech_ransack@shelf@h45cm@d50cm@reach_over@pickup@vertical@middle@lh
@@ -487,5 +493,9 @@ mech_ransack@unique@floorboard@photo@l
 mech_ransack@unique@floorboard@photo@r
 mech_ransack@unique@hole_in_ground
 mech_ransack@unique@railhat@a
+mech_ransack@unique@tomahawk
+mech_ransack@unique@viking_axe
 mech_ransack@unique@wall_brick@a
 mech_ransack@unique@world_player_pickup_money_stack@105cm
+mech_ransack@unique@world_player_pickup_money_stack@45cm
+mech_ransack@unique@world_player_pickup_money_stack@80cm

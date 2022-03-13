@@ -5,3 +5,6 @@ mech_grapple@rifle@_male@_ambient@_healthy@mounted@_streamed
 mech_grapple@shotgun@_male@_ambient@_healthy@back@_streamed
 mech_grapple@shotgun@_male@_ambient@_healthy@front@_streamed
 mech_grapple@shotgun@_male@_ambient@_healthy@mounted@_streamed
+mech_grapple@machete@_male@_ambient@_healthy@front@intimidation@_streamed
+mech_grapple@machete@_male@_ambient@_healthy@back@intimidation@_streamed
+mech_grapple@machete@_male@_ambient@_healthy@mounted@intimidation@_streamed

@@ -4,3 +4,6 @@ mp_amb_player@player_moonshine_customer@drunk@male_c@stand_enter
 mp_amb_player@player_moonshine_customer@drunk@male_c@stand_exit
 mp_amb_player@player_moonshine_customer@drunk@male_c@trans
 mp_amb_player@player_moonshine_serving@drunk@female_a@trans
+mp_amb_player@prop_player_dynamic_seat_chair@male_a@trans
+mp_amb_player@world_player_camp_squat@mp_female_a@trans
+mp_amb_player@world_player_camp_sit@mp_female_a@trans

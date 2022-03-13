@@ -1,0 +1,6 @@
+cutscene@rfma_rc1
+cutscene@rfma_rc1_p1a1_t08
+cutscene@rfma_rc2
+cutscene@rfma_rc4
+cutscene@rfma_rc6
+cutscene@rfma_rc7

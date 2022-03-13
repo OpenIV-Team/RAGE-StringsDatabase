@@ -66,3 +66,6 @@ w_05__hd_0_-4_3
 w_05__hd_0_-4_-3
 w_05__hd_0_-4_-4
 w_05_+hi
+w_05__collision_0
+w_05__collision_1
+hi@w_05__collision_0

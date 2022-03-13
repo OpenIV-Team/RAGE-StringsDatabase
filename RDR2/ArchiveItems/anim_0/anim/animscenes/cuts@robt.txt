@@ -1,0 +1,9 @@
+cutscene@robt_s1_ext
+cutscene@robt_s1_int
+cutscene@robt_s1_mcs1
+cutscene@robt_s1_mcs2
+cutscene@robt_s2_ext
+cutscene@robt_s2_int
+cutscene@robt_s3_ext
+cutscene@robt_s3_int
+cutscene@robt_s3_mcs1

@@ -1,5 +1,0 @@
-cutscene@ntv3_ext
-cutscene@ntv3_int
-cutscene@ntv3_mcs1
-cutscene@ntv3_mcs3
-cutscene@ntv3_mcs7

@@ -1,2 +1,7 @@
 _cache
 rstu_92_95_ha
+rstu_92_95_ha_collision_0
+rstu_92_95_ha_collision_1
+rstu_92_95_ha_collision_2
+rstu_92_95_ha_collision_3
+rstu_92_95_ha_collision_4

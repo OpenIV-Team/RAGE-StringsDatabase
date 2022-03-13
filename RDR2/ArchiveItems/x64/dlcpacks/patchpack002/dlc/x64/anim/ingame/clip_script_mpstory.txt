@@ -15,3 +15,16 @@ script_mpstory@mpintro@ig2_gang_boss_a1
 script_mpstory@mpintro@ig2_gang_boss_a2
 script_mpstory@mpintro@ig2_gang_boss_a3
 script_mpstory@mpout1@ig1_holding_door
+script_mpstory@mpout2@int_leadin@int_loops
+script_mpstory@mpgvo1@int_loops
+script_mpstory@mpout1@int_leadin@int_loops
+script_mpstory@mpgvo2@ig@ig2_traindeath
+script_mpstory@mpout1@ig2_cornwall_end
+script_mpstory@mpgvo2@leadin@mcs1
+script_mpstory@mpgvo3@int_loops
+script_mpstory@mpintro@mcs1
+script_mpstory@mpintro@leadin@mcs4
+script_mpstory@mprev1@int_loops
+script_mpstory@mpclay2@leadin@ext
+script_mpstory@mpgvo3@ig@ig3_money_stash
+script_mpstory@mpclay2@int_loops

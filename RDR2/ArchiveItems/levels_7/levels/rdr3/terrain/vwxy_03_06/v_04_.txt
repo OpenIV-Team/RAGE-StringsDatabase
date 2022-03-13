@@ -75,3 +75,11 @@ v_04__hd_0_-4_-4
 v_04_+hi
 v_04_decals
 v_04_decals+hidr
+v_04__collision_0
+v_04__collision_1
+v_04__collision_2
+v_04__collision_3
+v_04__collision_4
+v_04__collision_5
+hi@v_04__collision_0
+hi@v_04__collision_1

@@ -111,3 +111,5 @@ cor_wor_outhouse001
 cor_wor_outhouse001+hidr
 corde_combo_slod
 corde_combo01_slod
+cor_derricks_lod
+cor_derricks_es_lod

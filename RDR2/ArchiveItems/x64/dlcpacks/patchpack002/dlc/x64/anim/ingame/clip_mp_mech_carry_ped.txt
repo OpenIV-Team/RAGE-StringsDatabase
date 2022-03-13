@@ -5,3 +5,5 @@ mp_mech_carry_ped@female@dead@transitions
 mp_mech_carry_ped@female@injured@mount@remove@lt
 mp_mech_carry_ped@female@injured@mount@remove@rt
 mp_mech_carry_ped@female@injured@pickup_body
+mp_mech_carry_ped@female@dead@carried@human
+mp_mech_carry_ped@female@injured@carried@human

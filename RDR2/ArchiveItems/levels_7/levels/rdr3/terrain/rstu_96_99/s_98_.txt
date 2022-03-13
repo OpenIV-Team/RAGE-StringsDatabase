@@ -71,3 +71,14 @@ s_98__hd_0_-4_-4+hidr
 s_98_+hi
 s_98_01_rail_decal_001
 s_98_01_rail_decal_002
+s_98__collision_0
+s_98__collision_1
+s_98__collision_2
+s_98__collision_3
+s_98__collision_4
+s_98__collision_5
+s_98__collision_6
+s_98__collision_7
+hi@s_98__collision_0
+s_98_decal
+s_98_decal+hi

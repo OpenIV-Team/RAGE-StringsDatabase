@@ -7,6 +7,7 @@ veh_cart@buggy@front@fr@enter@from@land@normal@abort@stand@male
 veh_cart@cart02@rear@enter@from@land@jack@dead@male
 veh_cart@cart02@rear@exit@to@land@jack@dead@male
 veh_cart@cart02@rear@exit@to@land@normal@get_out@male
+veh_cart@cart02@rear@in_seat@male@base@sitting@idle
 veh_cart@cart02@rear@in_seat@male@shuffle
 veh_cart@cart02@rear@in_seat@male@shunt
 veh_cart@standard@front@fl@enter@from@land@normal@abort@male

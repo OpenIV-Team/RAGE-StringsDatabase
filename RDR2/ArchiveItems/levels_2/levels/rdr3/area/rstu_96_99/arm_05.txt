@@ -41,6 +41,7 @@ arm_05_generalbuilding08x
 arm_05_generalbuilding08x_brd
 arm_05_generalbuilding08x+hidr
 arm_05_lamposts01
+arm_05_lod
 arm_05_row_em_slod
 arm_05_scarletfvr
 arm_05_scarletfvr_lod

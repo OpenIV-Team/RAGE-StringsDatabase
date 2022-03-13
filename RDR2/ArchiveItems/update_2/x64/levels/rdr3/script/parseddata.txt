@@ -213,7 +213,7 @@ prhmr_mcs1
 prhmr_mcs2
 prhmr_mcs5
 prhmr_mcs6
-PRONGHORN
+pronghorn
 pronghorn_ranch
 quartermaster_shop_authored_data_sp
 rabi1_rsc_1
@@ -433,7 +433,7 @@ valentine
 van_horn
 wapiti
 water_tower
-WATSONS_CABIN
+watsons_cabin
 weather_groups
 winter1
 winter2
@@ -445,3 +445,4 @@ wnt4_int
 wnt4_mcs_2a
 wnt4_mcs_2b
 wnt4_mcs_3
+army1

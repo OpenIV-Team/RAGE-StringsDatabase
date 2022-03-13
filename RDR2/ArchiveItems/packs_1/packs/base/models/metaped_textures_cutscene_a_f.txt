@@ -1,4 +1,3 @@
-_manifest
 cs_abe_ms1_h_merge
 cs_abe_ms1_h_merge+hi
 cs_abe_ms1_head_000_c0_000_merge

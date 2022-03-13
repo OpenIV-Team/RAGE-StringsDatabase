@@ -1,2 +1,3 @@
 script_proc@bounty@blackwater_hunt
 script_proc@bounty@odriscolls_sleeping
+script_proc@rock_stash

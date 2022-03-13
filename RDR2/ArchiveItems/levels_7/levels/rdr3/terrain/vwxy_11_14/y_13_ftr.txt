@@ -9,3 +9,5 @@ y_13_ftr_decal
 y_13_ftr_long_0
 y_13_ftr_strm
 y_13_ftr+hi
+y_13_ftr_lod
+y_13_ftr_slod

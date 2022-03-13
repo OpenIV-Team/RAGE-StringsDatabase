@@ -1,1 +1,6 @@
 mech_loco_m@character@arthur@drunk@unarmed@idle
+mech_loco_m@type@mp@inquisitive@walk_slow
+mech_loco_m@type@mp@inquisitive@walk
+mech_loco_m@type@mp@inquisitive@walk_fast
+mech_loco_m@type@mp@inquisitive@idle
+mech_loco_m@type@mp@drunk@walk_fast

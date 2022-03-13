@@ -7,3 +7,4 @@ mech_weapons_shortarms@loco@mp@female@normal@revolver@idle
 mech_weapons_shortarms@loco@mp@female@normal@revolver@run
 mech_weapons_shortarms@loco@mp@female@normal@revolver@sprint
 mech_weapons_shortarms@loco@mp@female@normal@revolver@walk
+mech_weapons_shortarms@loco@first_person@revolver@idle

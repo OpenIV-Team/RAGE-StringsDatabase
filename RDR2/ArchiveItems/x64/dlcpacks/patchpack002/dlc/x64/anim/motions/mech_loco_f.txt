@@ -1,1 +1,9 @@
 _manifest
+@mech_loco_f@type@mp@flamboyant@unarmed
+@mech_loco_f@type@mp@crazy@unarmed
+@mech_loco_f@type@mp@crouch@dress@normal
+@mech_loco_f@type@mp@gunslinger@unarmed
+@mech_loco_f@type@mp@casual@unarmed
+@mech_loco_f@type@mp@crouch@dress@knee
+@mech_loco_f@type@mp@lady@unarmed
+@mech_loco_f@type@mp@silent_type@unarmed

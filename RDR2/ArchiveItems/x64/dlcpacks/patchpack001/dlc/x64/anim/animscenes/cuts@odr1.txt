@@ -1,2 +1,0 @@
-cutscene@odr1_int
-cutscene@odr1_mcs1

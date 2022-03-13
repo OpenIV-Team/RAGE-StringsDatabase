@@ -1,0 +1,11 @@
+cutscene@rcexo_rsc1
+cutscene@rcexo_rsc1_p1a2_t06
+cutscene@rcexo_rsc2
+cutscene@rcexo_rsc3
+cutscene@rcexo_rsc4
+cutscene@rcexo_rsc5
+cutscene@rcexo_rsc5_p1a1_t05
+cutscene@rcexo_rsc5_p1a2_t06
+cutscene@rcexo_rsc6
+cutscene@rcexo_rsc6_p1a1_t06
+cutscene@rcexo_rsc6_p1a2_t06

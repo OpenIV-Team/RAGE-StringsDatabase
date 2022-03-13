@@ -117,3 +117,7 @@ reg_bgv_water_01_grz_lke+hidr
 reg_bgv_wrecked
 reg_bgv_wrecked+hidr
 reg_bgv+hi
+hi@reg_bgv_00_0
+hi@reg_bgv_00_1
+hi@reg_bgv_00_2
+hi@reg_bgv_00_3

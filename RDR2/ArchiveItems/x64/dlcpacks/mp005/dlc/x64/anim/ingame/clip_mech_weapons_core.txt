@@ -1,0 +1,1 @@
+mech_weapons_core@base@hit_reacts@high_bow@a

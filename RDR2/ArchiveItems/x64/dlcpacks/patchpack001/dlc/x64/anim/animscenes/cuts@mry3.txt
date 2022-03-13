@@ -1,2 +1,0 @@
-cutscene@mry3_ext
-cutscene@mry3_mcs2

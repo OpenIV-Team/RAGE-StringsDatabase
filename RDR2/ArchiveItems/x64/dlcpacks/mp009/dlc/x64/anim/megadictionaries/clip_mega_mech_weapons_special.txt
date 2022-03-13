@@ -1,0 +1,4 @@
+_manifest
+mega_mech_weapons_special@lantern
+mega_mech_weapons_special@moonshine_small
+mega_mech_weapons_special@moonshine_small_female

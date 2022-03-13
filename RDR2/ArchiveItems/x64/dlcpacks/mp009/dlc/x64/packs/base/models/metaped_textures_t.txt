@@ -1,2 +1,5 @@
-teeth_gen_0000_c0_000_m
-teeth_gen_0000_c0_000_nm
+teeth_gen_0000_c0_000_ab
+teeth_story_0000_c0_000_m
+teeth_story_0000_c0_000_m+hi
+teeth_story_0000_c0_000_nm
+teeth_story_0000_c0_000_nm+hi

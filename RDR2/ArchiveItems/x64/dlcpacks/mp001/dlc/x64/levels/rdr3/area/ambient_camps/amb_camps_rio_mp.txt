@@ -1,5 +1,6 @@
 _cache
 _manifest
+mp001_amb_camps_rio_mp
 mp001_min_hid_repentance
 mp001_mp_intro_gang_tumbleweed1
 mp001_mp_revenge1_mercer

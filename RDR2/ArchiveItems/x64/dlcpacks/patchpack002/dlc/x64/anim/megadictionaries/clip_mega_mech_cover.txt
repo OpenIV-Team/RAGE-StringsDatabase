@@ -13,3 +13,7 @@ mega_mech_cover@loco@arthur@bow@main
 mega_mech_cover@loco@arthur@core@main
 mega_mech_cover@loco@arthur@dual_shortarms@idle
 mega_mech_cover@loco@arthur@longarms@main
+mega_mech_cover@loco@female@bow
+mega_mech_cover@loco@female@dual
+mega_mech_cover@loco@female@shortarms
+mega_mech_cover@loco@female@longarms

@@ -1,0 +1,3 @@
+veh_common@wheeled@front@fr@in_seat@female@fidgets
+veh_common@wheeled@front@fl@in_seat@female@wagon
+veh_common@wheeled@front@fl@in_seat@female@fidgets

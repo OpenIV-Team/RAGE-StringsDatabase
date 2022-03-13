@@ -146,3 +146,11 @@ min_winter_mining+hi
 min_winter_mining2
 min_winter_mining2+hi
 min01pr_combo01_slod
+hi@min_01__0
+hi@min_01__1
+hi@min_01__2
+hi@min_01__3
+hi@min_01__4
+hi@min_01__5
+hi@min_01__6
+hi@min_01__7

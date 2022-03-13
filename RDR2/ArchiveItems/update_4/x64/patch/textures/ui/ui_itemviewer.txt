@@ -16,6 +16,7 @@ document_poster_legend_bounty_803
 ui_book_alt_jail_ledger
 ui_bounty_hunter_license
 ui_bounty_hunter_license_upgrade_01
+ui_document_capitale
 ui_document_letter_revenge_2
 ui_letter_charlotte
 ui_letter_cloud_intro
@@ -25,7 +26,9 @@ ui_letter_events_dynamic_bounty
 ui_letter_events_naturalist
 ui_letter_events_poacher_hideouts
 ui_letter_events_trader
+ui_letter_intro_martelli
 ui_letter_intro_moonshine
+ui_letter_intro_protect
 ui_letter_intro_trader
 ui_letter_lem1
 ui_letter_lem2

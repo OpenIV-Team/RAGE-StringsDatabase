@@ -1,2 +1,0 @@
-cutscene@gua2_int
-cutscene@gua2_mcs2

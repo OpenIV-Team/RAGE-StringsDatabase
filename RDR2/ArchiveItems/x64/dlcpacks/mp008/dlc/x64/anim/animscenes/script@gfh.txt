@@ -22,3 +22,4 @@ script@gfh@shk@ig@ig2_jobbriefs@ig2_jobbriefs
 script@gfh@tom@ig@ig2_jobbriefs@ig2_jobbriefs
 script@gfh@tre@ig2_jobbriefs@action
 script@gfh@watson@ig@ig1@watson_ig1
+script@gfh@post@ig2_jobbriefs@seated@ig2_jobbriefs

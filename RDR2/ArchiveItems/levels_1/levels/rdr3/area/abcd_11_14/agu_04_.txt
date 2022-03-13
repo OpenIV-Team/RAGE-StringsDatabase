@@ -21,3 +21,5 @@ agu_tower_int_lod
 agu_tower_stone_e_x
 agu_tower_stone_f_x
 agu_tower_stone_g_x
+agu_04_lod
+agu_04_slod

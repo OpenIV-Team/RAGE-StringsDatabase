@@ -75,3 +75,13 @@ r_12__hd_0_-4_-4+hidr
 r_12_+hi
 r_12_cat01_decal
 r_12_cat01_decal+hidr
+r_12__collision_0
+r_12__collision_1
+r_12__collision_2
+r_12__collision_3
+r_12__collision_4
+r_12__collision_5
+r_12__collision_6
+r_12__collision_7
+r_12__collision_8
+hi@r_12__collision_0

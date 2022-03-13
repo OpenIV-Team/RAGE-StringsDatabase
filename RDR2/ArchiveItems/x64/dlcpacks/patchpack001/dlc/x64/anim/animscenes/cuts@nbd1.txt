@@ -1,2 +1,0 @@
-cutscene@nbd1_ext
-cutscene@nbd1_mcs5

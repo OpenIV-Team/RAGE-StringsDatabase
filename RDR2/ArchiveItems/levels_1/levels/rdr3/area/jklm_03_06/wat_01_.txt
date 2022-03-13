@@ -18,3 +18,6 @@ wat_main_cabin+hidr
 wat_outhouse
 wat_outhouse_lod
 wat_outhouse+hidr
+wat_01_lod
+hi@wat_01__0
+hi@wat_01__1

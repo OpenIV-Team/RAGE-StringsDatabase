@@ -5,3 +5,16 @@ mech_loco_m@character@arthur@crouch@unarmed@idle_inspection
 mech_loco_m@character@arthur@crouch@unarmed@idle_knee_inspection
 mech_loco_m@character@arthur@normal@unarmed@idle_inspection
 mech_loco_m@generic@terrain@unarmed@swamp@chest_high@idle
+mech_loco_m@type@mp@spawn@mission@unarmed@idle
+mech_loco_m@type@mp@silent_type@walk
+mech_loco_m@type@mp@gunslinger@walk
+mech_loco_m@type@mp@spawn@freeroam@unarmed@idle
+mech_loco_m@type@mp@casual@walk
+mech_loco_m@type@mp@spawn@freeroam@rifle@idle
+mech_loco_m@type@mp@spawn@freeroam@pistol@idle
+mech_loco_m@type@mp@gentleman@walk
+mech_loco_m@type@mp@spawn@mission@offhand@idle
+mech_loco_m@type@mp@crazy@walk
+mech_loco_m@type@mp@flamboyant@walk
+mech_loco_m@type@mp@spawn@mission@longarm@idle
+mech_loco_m@type@mp@spawn@mission@shortarm@idle

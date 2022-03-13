@@ -1,0 +1,3 @@
+mech_grapple@machete@_male@_ambient@_healthy@back@_streamed
+mech_grapple@machete@_male@_ambient@_healthy@front@_streamed
+mech_grapple@machete@_male@_ambient@_healthy@mounted@_streamed

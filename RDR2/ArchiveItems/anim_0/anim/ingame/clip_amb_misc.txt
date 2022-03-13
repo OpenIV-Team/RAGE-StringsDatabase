@@ -85,6 +85,7 @@ amb_misc@prop_human_seat_pray@male_a@enter
 amb_misc@prop_human_seat_pray@male_a@exit
 amb_misc@prop_human_seat_pray@male_a@flee
 amb_misc@prop_human_seat_pray@male_a@idle_a
+amb_misc@prop_human_seat_pray@male_a@idle_b
 amb_misc@prop_human_seat_pray@male_b@base
 amb_misc@prop_human_seat_pray@male_b@enter
 amb_misc@prop_human_seat_pray@male_b@exit
@@ -117,6 +118,7 @@ amb_misc@world_human_begging_mother@female_a@walk_exit
 amb_misc@world_human_begging_mother@female_b@base
 amb_misc@world_human_begging_mother@female_b@idle_a
 amb_misc@world_human_begging_mother@female_b@idle_b
+amb_misc@world_human_begging_mother@female_b@react_begging
 amb_misc@world_human_begging_mother@female_b@react_coward
 amb_misc@world_human_begging_mother@female_b@react_flee
 amb_misc@world_human_begging_mother@female_b@react_look
@@ -166,8 +168,10 @@ amb_misc@world_human_chew_tobacco@male_a@react_look@exit@dismissive
 amb_misc@world_human_chew_tobacco@male_a@react_look@exit@generic
 amb_misc@world_human_chew_tobacco@male_a@react_look@exit@relieved
 amb_misc@world_human_chew_tobacco@male_a@react_look@loop@generic
+amb_misc@world_human_chew_tobacco@male_a@stand_enter
 amb_misc@world_human_chew_tobacco@male_a@stand_exit
 amb_misc@world_human_chew_tobacco@male_a@trans
+amb_misc@world_human_chew_tobacco@male_a@walk_exit
 amb_misc@world_human_chew_tobacco@male_b@base
 amb_misc@world_human_chew_tobacco@male_b@idle_a
 amb_misc@world_human_chew_tobacco@male_b@idle_b
@@ -467,6 +471,7 @@ amb_misc@world_human_waiting@1h_weapon@male_d@wip_base
 amb_misc@world_human_waiting@2h_weapon@male_a@wip_base
 amb_misc@world_human_waiting@2h_weapon@male_b@wip_base
 amb_misc@world_human_waiting@2h_weapon@male_c@wip_base
+amb_misc@world_human_waiting@2h_weapon@male_d@wip_base
 amb_misc@world_human_waiting_impatient@female_a@idle_a
 amb_misc@world_human_waiting_impatient@female_a@idle_b
 amb_misc@world_human_waiting_impatient@female_a@idle_c
@@ -535,6 +540,7 @@ amb_misc@world_human_wash_face_bucket@table@male_a@react_look@exit@relieved
 amb_misc@world_human_wash_face_bucket@table@male_a@react_look@loop@generic
 amb_misc@world_human_wash_face_bucket@table@male_a@stand_enter
 amb_misc@world_human_wash_face_bucket@table@male_a@stand_exit
+amb_misc@world_human_wash_face_bucket@table@male_a@walk_enter
 amb_misc@world_human_wash_face_bucket@table@male_a@walk_exit
 amb_misc@world_human_wash_kneel_river@female_a@base
 amb_misc@world_human_wash_kneel_river@female_a@idle_a
@@ -550,6 +556,7 @@ amb_misc@world_human_wash_kneel_river@female_b@base
 amb_misc@world_human_wash_kneel_river@female_b@idle_a
 amb_misc@world_human_wash_kneel_river@female_b@idle_b
 amb_misc@world_human_wash_kneel_river@female_b@idle_c
+amb_misc@world_human_wash_kneel_river@female_b@idle_d
 amb_misc@world_human_wash_kneel_river@female_b@react_look@active_look
 amb_misc@world_human_wash_kneel_river@female_b@react_look@enter@high
 amb_misc@world_human_wash_kneel_river@female_b@react_look@enter@low

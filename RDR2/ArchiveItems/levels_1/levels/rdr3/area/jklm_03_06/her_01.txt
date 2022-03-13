@@ -23,3 +23,6 @@ her_hermitlady_shack
 her_hermitlady_shack+hi
 her_shack_int_lod
 her01_combo_slod
+hi@her_01_0
+her_01_lod
+her_01_slod

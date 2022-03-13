@@ -7,3 +7,4 @@ mp_mech_pickup@female@sack@horse_satchel@sack@stow@rt
 mp_mech_pickup@female@sack@pickup@face_down
 mp_mech_pickup@female@sack@pickup@face_up
 mp_mech_pickup@female@sack@putdown
+mp_mech_pickup@female@sack@drop

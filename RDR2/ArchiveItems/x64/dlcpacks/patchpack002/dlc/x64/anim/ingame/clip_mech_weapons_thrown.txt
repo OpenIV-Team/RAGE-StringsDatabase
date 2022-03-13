@@ -1,0 +1,5 @@
+mech_weapons_thrown@loco@mp@female@normal@firebottle@run
+mech_weapons_thrown@loco@mp@female@normal@firebottle@walk
+mech_weapons_thrown@loco@mp@female@crouch@firebottle@idle
+mech_weapons_thrown@loco@mp@female@normal@firebottle@idle
+mech_weapons_thrown@ready_low@base@weapon_f@firebottle

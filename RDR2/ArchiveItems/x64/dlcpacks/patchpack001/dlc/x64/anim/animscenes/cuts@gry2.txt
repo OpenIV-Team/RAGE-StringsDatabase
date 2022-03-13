@@ -1,2 +1,0 @@
-cutscene@gry2_ext
-cutscene@gry2_int

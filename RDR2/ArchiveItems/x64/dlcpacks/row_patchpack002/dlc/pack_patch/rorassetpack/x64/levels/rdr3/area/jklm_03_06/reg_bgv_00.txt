@@ -117,3 +117,7 @@ reg_bgv_water_01_grz_lke+hidr
 reg_bgv_wrecked
 reg_bgv_wrecked+hidr
 reg_bgv+hi
+reg_bgv_spwagoncrashdrunk_1
+reg_bgv_spwagoncrashdrunk_2
+m_07_p_murderrock_1
+m_07_p_murderrock_2

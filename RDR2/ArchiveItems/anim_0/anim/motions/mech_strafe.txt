@@ -1,2 +1,11 @@
-@mech_strafe@character@arthur@crouch@unarmed@stop
+@mech_strafe@character@arthur@crouch@unarmed@moving
+@mech_strafe@character@arthur@crouch@unarmed@start
+@mech_strafe@character@arthur@crouch@unarmed@transitions
+@mech_strafe@character@arthur@unarmed@moving
+@mech_strafe@character@arthur@unarmed@start
+@mech_strafe@character@arthur@unarmed@stop
+@mech_strafe@character@arthur@unarmed@transitions
+@mech_strafe@generic@first_person@crouch@unarmed@moving
+@mech_strafe@generic@first_person@unarmed@moving
+@mech_strafe@generic@melee@unarmed@base
 _manifest

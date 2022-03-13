@@ -13,3 +13,4 @@ amb_misc@world_human_dancing@female_a@react_look@exit@relieved
 amb_misc@world_human_dancing@female_a@react_look@loop@generic
 amb_misc@world_human_dancing@female_aidle_a
 amb_misc@world_human_dancing@female_aidle_b
+amb_misc@world_human_dancing@female_aidle_c

@@ -121,3 +121,5 @@ veh_horseback@seat_saddle@male@injured_critical@canter
 veh_horseback@seat_saddle@male@injured_critical@trot
 veh_horseback@seat_saddle@male@injured_critical@walk
 veh_horseback@seat_saddle@male@normal@transitions@idle_to_injured_critical
+veh_horseback@aim@front@special@bolas@base@transitions@ready_rear_turn
+veh_horseback@seat_rear@female@right@injured_critical@canter

@@ -70,6 +70,7 @@ veh_boat_paddle@rowboat@rear@r@exit@to@water@right@normal@get_out_start@male
 veh_boat_paddle@rowboat@rear@r@in_seat@male@base
 veh_boat_paddle@rowboat@rear@r@in_seat@male@shuffle
 veh_boat_paddle@rowboat@rear@r@in_seat@male@shuffle@boat@shuffle
+veh_boat_paddle@rowboat@rear@r@in_seat@male@shunt
 veh_boat_paddle@rowboat@rear@rl@enter@from@back@normal@get_in@male
 veh_boat_paddle@rowboat@rear@rl@enter@from@left@normal@get_in@male
 veh_boat_paddle@rowboat@rear@rl@enter@from@right@normal@get_in@male

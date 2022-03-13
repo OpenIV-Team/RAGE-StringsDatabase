@@ -1,0 +1,12 @@
+cutscene@rmayr_s1_ext
+cutscene@rmayr_s1_int
+cutscene@rmayr_s1_int_p2a1_t06
+cutscene@rmayr_s1_int_p3a1_t07
+cutscene@rmayr_s1_mcs1
+cutscene@rmayr_s1_mcs2
+cutscene@rmayr_s2_int
+cutscene@rmayr_s3_ext
+cutscene@rmayr_s3_mcs1
+cutscene@rmayr_s4_int
+cutscene@rmayr_s4_mcs1
+cutscene@rmayr_s4_mcs2

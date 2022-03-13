@@ -68,3 +68,6 @@ y_12__hd_0_-4_3
 y_12__hd_0_-4_-3
 y_12__hd_0_-4_-4
 y_12_+hi
+y_12__collision_0
+hi@y_12__collision_0
+hi@y_12__collision_1

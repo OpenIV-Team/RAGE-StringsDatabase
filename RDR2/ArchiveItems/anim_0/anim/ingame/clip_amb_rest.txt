@@ -12,6 +12,7 @@ amb_rest@prop_camp_jack_es_sleep_bed@pillow@male_a@react_look@loop@generic
 amb_rest@prop_camp_jack_es_sleep_bed@pillow@male_a@stand_enter
 amb_rest@prop_camp_jack_es_sleep_bed@pillow@male_a@stand_exit
 amb_rest@prop_camp_jack_es_sleep_bed@pillow@male_a@trans
+amb_rest@prop_camp_jack_es_sleep_bed@pillow@male_a@walk_exit
 amb_rest@prop_camp_jack_es_sleep_bed@pillow@resting@left@male_a@base
 amb_rest@prop_camp_jack_es_sleep_bed@pillow@resting@left@male_a@idle_a
 amb_rest@prop_camp_jack_es_sleep_bed@pillow@resting@left@male_a@idle_b
@@ -31,13 +32,16 @@ amb_rest@prop_human_sleep_bed@pillow@female_a@idle_a
 amb_rest@prop_human_sleep_bed@pillow@female_a@idle_b
 amb_rest@prop_human_sleep_bed@pillow@female_a@idle_c
 amb_rest@prop_human_sleep_bed@pillow@female_a@react_look@enter@high
+amb_rest@prop_human_sleep_bed@pillow@female_a@react_look@enter@low
 amb_rest@prop_human_sleep_bed@pillow@female_a@react_look@enter@med
+amb_rest@prop_human_sleep_bed@pillow@female_a@react_look@exit@dismissive
 amb_rest@prop_human_sleep_bed@pillow@female_a@react_look@exit@generic
 amb_rest@prop_human_sleep_bed@pillow@female_a@react_look@exit@relieved
 amb_rest@prop_human_sleep_bed@pillow@female_a@react_look@loop@generic
 amb_rest@prop_human_sleep_bed@pillow@female_a@stand_enter
 amb_rest@prop_human_sleep_bed@pillow@female_a@stand_exit
 amb_rest@prop_human_sleep_bed@pillow@female_a@trans
+amb_rest@prop_human_sleep_bed@pillow@female_a@walk_exit
 amb_rest@prop_human_sleep_bed@pillow@male_a@base
 amb_rest@prop_human_sleep_bed@pillow@male_a@idle_a
 amb_rest@prop_human_sleep_bed@pillow@male_a@idle_b
@@ -49,7 +53,9 @@ amb_rest@prop_human_sleep_bed@pillow@male_a@react_look@exit@dismissive
 amb_rest@prop_human_sleep_bed@pillow@male_a@react_look@exit@generic
 amb_rest@prop_human_sleep_bed@pillow@male_a@react_look@exit@relieved
 amb_rest@prop_human_sleep_bed@pillow@male_a@react_look@loop@generic
+amb_rest@prop_human_sleep_bed@pillow@male_a@stand_enter
 amb_rest@prop_human_sleep_bed@pillow@male_a@stand_exit
+amb_rest@prop_human_sleep_bed@pillow@male_a@walk_exit
 amb_rest@prop_human_sleep_bed@pillow@male_b@base
 amb_rest@prop_human_sleep_bed@pillow@male_b@idle_a
 amb_rest@prop_human_sleep_bed@pillow@male_b@idle_b
@@ -75,6 +81,7 @@ amb_rest@prop_human_sleep_bed@pillow@resting@left@female_a@react_look@enter@low
 amb_rest@prop_human_sleep_bed@pillow@resting@left@female_a@react_look@enter@med
 amb_rest@prop_human_sleep_bed@pillow@resting@left@female_a@react_look@exit@dismissive
 amb_rest@prop_human_sleep_bed@pillow@resting@left@female_a@react_look@exit@generic
+amb_rest@prop_human_sleep_bed@pillow@resting@left@female_a@react_look@exit@relieved
 amb_rest@prop_human_sleep_bed@pillow@resting@left@female_a@react_look@loop@generic
 amb_rest@prop_human_sleep_bed@pillow@resting@left@female_a@stand_enter
 amb_rest@prop_human_sleep_bed@pillow@resting@left@female_a@stand_exit
@@ -121,6 +128,7 @@ amb_rest@prop_human_sleep_bed@pillow@resting@right@female_a@react_look@enter@low
 amb_rest@prop_human_sleep_bed@pillow@resting@right@female_a@react_look@enter@med
 amb_rest@prop_human_sleep_bed@pillow@resting@right@female_a@react_look@exit@dismissive
 amb_rest@prop_human_sleep_bed@pillow@resting@right@female_a@react_look@exit@generic
+amb_rest@prop_human_sleep_bed@pillow@resting@right@female_a@react_look@exit@relieved
 amb_rest@prop_human_sleep_bed@pillow@resting@right@female_a@react_look@loop@generic
 amb_rest@prop_human_sleep_bed@pillow@resting@right@female_a@stand_enter
 amb_rest@prop_human_sleep_bed@pillow@resting@right@female_a@stand_exit
@@ -133,6 +141,7 @@ amb_rest@prop_human_sleep_bed@pillow@resting@right@male_a@idle_c
 amb_rest@prop_human_sleep_bed@pillow@resting@right@male_a@react_look@active_look
 amb_rest@prop_human_sleep_bed@pillow@resting@right@male_a@react_look@enter@high
 amb_rest@prop_human_sleep_bed@pillow@resting@right@male_a@react_look@enter@low
+amb_rest@prop_human_sleep_bed@pillow@resting@right@male_a@react_look@enter@med
 amb_rest@prop_human_sleep_bed@pillow@resting@right@male_a@react_look@exit@dismissive
 amb_rest@prop_human_sleep_bed@pillow@resting@right@male_a@react_look@exit@generic
 amb_rest@prop_human_sleep_bed@pillow@resting@right@male_a@react_look@exit@relieved
@@ -141,6 +150,7 @@ amb_rest@prop_human_sleep_bed@pillow@resting@right@male_a@stand_enter
 amb_rest@prop_human_sleep_bed@pillow@resting@right@male_a@stand_exit
 amb_rest@prop_human_sleep_bed@pillow@resting@right@male_a@trans
 amb_rest@prop_human_sleep_bed@pillow@resting@right@male_a@walk_exit
+amb_rest@prop_human_sleep_bed@pillow@resting@right@male_b@base
 amb_rest@prop_human_sleep_bed@pillow@resting@right@male_b@idle_a
 amb_rest@prop_human_sleep_bed@pillow@resting@right@male_b@idle_b
 amb_rest@prop_human_sleep_bed@pillow@resting@right@male_b@idle_c

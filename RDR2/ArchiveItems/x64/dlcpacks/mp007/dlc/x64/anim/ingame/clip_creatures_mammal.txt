@@ -5,3 +5,11 @@ creatures_mammal@deer@swimming@surface@base
 creatures_mammal@possum@normal@getup
 creatures_mammal@possum@swimming@surface@base
 creatures_mammal@rabbit@swimming@surface@base
+creatures_mammal@possum@normal@fall
+creatures_mammal@boar@normal@fall
+creatures_mammal@rabbit@normal@fall
+creatures_mammal@deer@normal@fall
+creatures_mammal@deer@normal@emote
+creatures_mammal@boar@normal@emote
+creatures_mammal@rabbit@normal@emote
+creatures_mammal@possum@normal@emote

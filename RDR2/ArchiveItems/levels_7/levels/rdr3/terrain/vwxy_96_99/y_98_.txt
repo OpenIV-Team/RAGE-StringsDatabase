@@ -64,3 +64,12 @@ y_98__hd_0_-4_-2
 y_98__hd_0_-4_3
 y_98__hd_0_-4_-3
 y_98__hd_0_-4_-4
+y_98__collision_0
+hi@y_98__collision_0
+hi@y_98__collision_1
+hi@y_98__collision_2
+hi@y_98__collision_3
+hi@y_98__collision_4
+hi@y_98__collision_5
+hi@y_98__collision_6
+hi@y_98__collision_7

@@ -951,3 +951,15 @@ script@rcm@warv@leadin@s1@ext@leadin
 script@rcm@warv@leadin@s1@int@ilo
 script@rcm@warv@leadin@s4@mcs1@base
 script@rcm@xcf1@leadin@rsc1@leadin
+script@rcm@elz5@leadout@rsc_1@leadout
+script@rcm@elz1@leadin@rsc_1@leadin
+script@rcm@elz1@leadin@rsc_1@run
+script@rcm@elz1@leadin@rsc_1@wave_r
+script@rcm@elz1@leadin@rsc_1@wave_front
+script@rcm@elz1@leadin@rsc_1@base_fire
+script@rcm@elz1@leadin@rsc_1@wave_l
+script@rcm@elz1@leadin@rsc_1@base_door
+script@rcm@elz1@leadin@rsc_2@idle_a
+script@rcm@elz1@leadin@rsc_2@idle_b
+script@rcm@jck2@leadin@rsc1@leadin_right
+script@rcm@coln_s4@leadin@int@base

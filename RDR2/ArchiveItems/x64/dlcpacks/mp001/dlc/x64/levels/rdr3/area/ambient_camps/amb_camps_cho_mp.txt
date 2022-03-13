@@ -1,5 +1,6 @@
 _cache
 _manifest
+mp001_amb_camps_cho_mp
 mp001_clay2_tumbleweed01
 mp001_clay2_tumbleweed02
 mp001_clay2_tumbleweed02_1

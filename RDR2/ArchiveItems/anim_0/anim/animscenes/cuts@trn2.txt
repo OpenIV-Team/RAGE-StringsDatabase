@@ -1,0 +1,3 @@
+cutscene@trn2_ext
+cutscene@trn2_int
+cutscene@trn2_mcs1

@@ -1,4 +1,0 @@
-cutscene@rcal_rc1
-cutscene@rcal_rc2
-cutscene@rcal_rc3
-cutscene@rcal_s3_int

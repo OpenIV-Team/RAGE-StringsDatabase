@@ -1,0 +1,2 @@
+_manifest
+mega_mech_strafe@unarmed

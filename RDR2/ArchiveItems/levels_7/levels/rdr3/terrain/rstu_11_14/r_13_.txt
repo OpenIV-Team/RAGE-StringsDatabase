@@ -69,3 +69,14 @@ r_13__hd_0_-4_-3
 r_13__hd_0_-4_3+hidr
 r_13__hd_0_-4_-4
 r_13_+hi
+r_13__collision_0
+r_13__collision_1
+r_13__collision_2
+r_13__collision_3
+r_13__collision_4
+r_13__collision_5
+r_13__collision_6
+r_13__collision_7
+r_13__collision_8
+r_13__collision_9
+hi@r_13__collision_0

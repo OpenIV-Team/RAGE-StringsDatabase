@@ -1,5 +1,6 @@
 _cache
 _manifest
+mp001_amb_camps_bay_mp
 mp001_mp_bay_lecloth3_008
 mp001_mp_bay_lecloth3_008+hidr
 mp001_mp_hid_lakay

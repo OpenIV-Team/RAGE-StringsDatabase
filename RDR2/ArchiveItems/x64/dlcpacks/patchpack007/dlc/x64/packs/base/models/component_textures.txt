@@ -8,12 +8,16 @@ a_c_bearblack_01_merge_2+hi
 a_c_bearblack_01_teef_000_c0_000_merge
 a_c_cougar_01_merge
 a_c_cougar_01_merge+hi
+a_c_cougar_01_task_000_c0_001_ab
+a_c_cougar_01_task_000_c0_002_ab
 a_c_fox_01_merge
 a_c_fox_01_merge+hi
 a_c_panther_01_merge_2
 a_c_panther_01_merge_2+hi
 a_c_wolf_head_000_c0_000_anm
 a_c_wolf_head_000_c0_000_wrinklemask
+a_c_wolf_head_000_c0_004_ab
+a_c_wolf_head_000_c0_004_ab+hi
 a_c_wolf_merge
 a_c_wolf_merge_2
 a_c_wolf_merge_2+hi
@@ -33,3 +37,5 @@ p_c_horse_01_acc3_003_c3_000_ab
 p_c_horse_01_acc3_003_c3_000_ab+hi
 p_c_horse_01_acc3_003_c3_merge
 p_c_horse_01_acc3_003_c3_merge+hi
+a_c_owl_01_mergeman
+a_c_owl_01_mergeman+hi

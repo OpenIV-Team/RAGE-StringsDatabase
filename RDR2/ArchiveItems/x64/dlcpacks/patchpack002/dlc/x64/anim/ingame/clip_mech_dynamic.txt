@@ -8,6 +8,5 @@ mech_dynamic@world_player_dynamic_kneel_ground@generic@male_a@stand_enter@from_c
 mech_dynamic@world_player_dynamic_kneel_ground@generic@male_a@trans
 mech_dynamic@world_player_dynamic_kneel_ground@trans@kneel1@male_a
 mech_dynamic@world_player_dynamic_kneel_ground@trans@kneel2@male_a
-mech_dynamic@world_player_dynamic_kneel_ground@trans@kneel3@male_a
 mech_dynamic@world_player_dynamic_kneel_ground@trans@kneel4@male_a
 mech_dynamic@world_player_dynamic_kneel_ground@trans@kneelpostfirecraft@male_a

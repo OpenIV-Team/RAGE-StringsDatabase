@@ -20,3 +20,14 @@ mega_veh_horseback@standard@rear@left@enter@male@get_on
 mega_veh_horseback@standard@rear@left@exit@male@get_off
 mega_veh_horseback@standard@rear@right@enter@male@get_on
 mega_veh_horseback@standard@rear@right@exit@male@get_off
+mega_veh_horseback@standard@rear@right@enter@male@moving@get_on
+mega_veh_horseback@seat_rear@male@agitated@idle
+mega_gen@veh_horseback@seat_rear@male@normal@canter
+mega_gen@veh_horseback@seat_rear@male@normal@gallop
+mega_veh_horseback@seat_rear@male@agitated_high@idle
+mega_gen@veh_horseback@seat_rear@male@normal@walk
+mega_veh_horseback@standard@rear@left@enter@male@moving@get_on
+mega_veh_horseback@seat_rear@male@agitated_medium@idle
+mega_gen@veh_horseback@seat_rear@male@normal@trot
+mega_veh_horseback@seat_rear@female@right@generic@shunt@unarmed
+mega_veh_horseback@seat_rear@male@generic@shunt@unarmed

@@ -1,2 +1,10 @@
 _cache
 jklm_7_10_ha
+jklm_7_10_ha_collision_0
+jklm_7_10_ha_collision_1
+jklm_7_10_ha_collision_2
+jklm_7_10_ha_collision_3
+jklm_7_10_ha_collision_4
+jklm_7_10_ha_collision_5
+jklm_7_10_ha_collision_6
+jklm_7_10_ha_collision_7

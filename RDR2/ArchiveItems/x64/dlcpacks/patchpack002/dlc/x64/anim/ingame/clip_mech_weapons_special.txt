@@ -1,0 +1,3 @@
+mech_weapons_special@loco@mp@female@crouch@lasso@idle
+mech_weapons_special@loco@mp@female@crouch@lasso@run
+mech_weapons_special@loco@mp@female@crouch@lasso@walk

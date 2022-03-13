@@ -75,3 +75,12 @@ r_14__hd_0_-4_-4
 r_14_+hi
 r_14_01_decal
 r_14_02_decal
+r_14__collision_0
+r_14__collision_1
+r_14__collision_2
+r_14__collision_3
+r_14__collision_4
+r_14__collision_5
+r_14__collision_6
+r_14__collision_7
+hi@r_14__collision_0

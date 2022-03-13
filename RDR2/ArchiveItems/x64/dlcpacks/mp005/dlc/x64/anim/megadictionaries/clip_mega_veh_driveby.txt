@@ -17,3 +17,4 @@ mega_veh_driveby@aim@wagon@front_bench@passenger@shortarms@base
 mega_veh_driveby@aim@wagon@front_bench@shared@dual@base
 mega_veh_driveby@aim@wagon@front_bench@shared@longarms@base
 mega_veh_driveby@aim@wagon@front_bench@shared@shortarms@base
+mega_veh_driveby@aim@coach@interior@shortarms@base

@@ -1,0 +1,11 @@
+cutscene@rwarv_s1_ext
+cutscene@rwarv_s1_int
+cutscene@rwarv_s2_ext
+cutscene@rwarv_s2_int
+cutscene@rwarv_s3_ext
+cutscene@rwarv_s3_int
+cutscene@rwarv_s3_mcs1
+cutscene@rwarv_s4_int
+cutscene@rwarv_s4_int_jma3_p1_t06
+cutscene@rwarv_s4_int_p1a1_t06
+cutscene@rwarv_s4_mcs1

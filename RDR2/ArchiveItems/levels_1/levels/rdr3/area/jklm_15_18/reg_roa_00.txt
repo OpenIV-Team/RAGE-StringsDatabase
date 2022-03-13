@@ -51,3 +51,4 @@ reg_roa_penwalls_l_lod
 reg_roa_platform
 reg_roa_serp_scm_q_13_02
 reg_roa_serp_scm_q_13_02+hidr
+reg_roa_00_interior_ann_mine_int_main_milo_

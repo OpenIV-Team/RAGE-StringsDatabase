@@ -69,3 +69,14 @@ s_12__hd_0_-4_3
 s_12__hd_0_-4_-3
 s_12__hd_0_-4_-4
 s_12_+hi
+s_12__collision_0
+s_12__collision_1
+s_12__collision_2
+s_12__collision_3
+s_12__collision_4
+s_12__collision_5
+s_12__collision_6
+s_12__collision_7
+s_12__collision_8
+hi@s_12__collision_0
+hi@s_12__collision_1

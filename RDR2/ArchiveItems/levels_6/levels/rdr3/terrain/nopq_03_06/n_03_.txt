@@ -66,3 +66,8 @@ n_03__hd_0_-4_3
 n_03__hd_0_-4_-3
 n_03__hd_0_-4_-4
 n_03_+hi
+n_03__collision_0
+n_03__collision_1
+n_03__collision_2
+n_03__collision_3
+hi@n_03__collision_0

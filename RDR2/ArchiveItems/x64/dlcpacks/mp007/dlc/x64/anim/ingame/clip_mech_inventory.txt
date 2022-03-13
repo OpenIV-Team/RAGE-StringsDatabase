@@ -1,1 +1,2 @@
 mech_inventory@equip@fallback@crouch@unarmed@rhip_gestural
+mech_inventory@horse@fallback@base@improved_bow_fl

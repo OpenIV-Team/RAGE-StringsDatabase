@@ -1,0 +1,4 @@
+mech_weapons_dual@base@weapon@m1899_str@left
+mech_weapons_dual@base@weapon@m1899_str@right
+mech_weapons_dual@base@weapon_f@m1899_str@left
+mech_weapons_dual@base@weapon_f@m1899_str@right

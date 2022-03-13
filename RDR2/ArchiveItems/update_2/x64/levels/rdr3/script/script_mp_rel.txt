@@ -222,7 +222,6 @@ init_global_block_creator
 init_global_block_mc
 init_global_block_mc_deathmatch
 init_global_block_mc_race
-init_global_block_mc_subsys
 init_global_block_mm_grid
 init_global_block_mp
 init_global_block_profiler
@@ -378,7 +377,6 @@ net_player_wheel_item_use
 net_rolling_playlist
 net_scan_manager
 net_session_split
-net_stable_manager
 net_stable_mount
 net_tg_lobby
 net_train

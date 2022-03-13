@@ -67,3 +67,9 @@ t_09__hd_0_-4_3
 t_09__hd_0_-4_-3
 t_09__hd_0_-4_-4
 t_09_+hi
+t_09__collision_0
+t_09__collision_1
+t_09__collision_2
+t_09__collision_3
+hi@t_09__collision_0
+hi@t_09__collision_1

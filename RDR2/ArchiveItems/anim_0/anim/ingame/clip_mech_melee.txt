@@ -46,12 +46,14 @@ mech_melee@pistol@_male@_ambient@_healthy@intimidation@standing@_streamed
 mech_melee@pistol@_male@_ambient@_healthy@on_mount@_streamed
 mech_melee@pistol@_male@_ambient@_healthy@seated_takedown
 mech_melee@pistol@_male@_ambient@_healthy@vs_dog@_streamed
+mech_melee@pistol@_male@_ambient@_healthy@vs_wolf@_streamed
 mech_melee@pistol@dutch@_ambient@_healthy@_streamed
 mech_melee@pistol_dual@_male@_ambient@_healthy@_noncombat
 mech_melee@pistol_dual@micah@_ambient@_healthy@_streamed
 mech_melee@rifle@_male@_ambient@_healthy@_hit_reacts@knockback
 mech_melee@rifle@_male@_ambient@_healthy@_noncombat
 mech_melee@rifle@_male@_ambient@_healthy@_streamed
+mech_melee@rifle@_male@_ambient@_healthy@intimidation@_streamed
 mech_melee@rifle@_male@_ambient@_healthy@intimidation@on_ass@_streamed
 mech_melee@rifle@_male@_ambient@_healthy@intimidation@on_knees@_streamed
 mech_melee@rifle@_male@_ambient@_healthy@intimidation@standing@_streamed
@@ -95,6 +97,7 @@ mech_melee@unarmed@female@_ambient@_healthy@_noncombat
 mech_melee@unarmed@frantic@_ambient@_healthy@_hit_reacts@knockback
 mech_melee@unarmed@frantic@_ambient@_healthy@_streamed
 mech_melee@unarmed@frantic@_ambient@_healthy@_variations
+mech_melee@unarmed@micah@_ambient@_healthy@_streamed
 mech_melee@unarmed@micah@_ambient@_healthy@_variations
 mech_melee@unarmed@player@winter1@_healthy@_hit_reacts@block
 mech_melee@unarmed@player@winter1@_healthy@_hit_reacts@knockback

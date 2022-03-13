@@ -1,3 +1,1 @@
-cutscene@mry1_int
-cutscene@mry1_mcs1
 cutscene@mry1_mcs2

@@ -36,3 +36,6 @@ lev_01__strm_0
 reg_guar
 reg_guar_long_0
 reg_guar_strm_0
+c_13_notrap_01_lod
+lac_01_looters_2
+lac_01_looters_1

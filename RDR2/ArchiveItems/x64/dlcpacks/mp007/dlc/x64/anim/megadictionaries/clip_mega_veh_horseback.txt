@@ -1,1 +1,2 @@
 _manifest
+mega_veh_horseback@seat_rear@male@normal@idle

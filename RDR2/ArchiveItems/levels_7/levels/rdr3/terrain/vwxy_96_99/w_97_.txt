@@ -66,3 +66,9 @@ w_97__hd_0_-4_3
 w_97__hd_0_-4_-3
 w_97__hd_0_-4_-4
 w_97_+hi
+w_97__collision_0
+w_97__collision_1
+w_97__collision_2
+w_97__collision_3
+hi@w_97__collision_0
+hi@w_97__collision_1

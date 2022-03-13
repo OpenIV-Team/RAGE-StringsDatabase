@@ -11,6 +11,7 @@ mfr_02_blacksmith01_d
 mfr_02_blacksmith01+hidr
 mfr_02_ground01_d
 mfr_02_ground01_d+hidr
+mfr_02_lod
 mfr_02_road_details_01a
 mfr_02_road_details_01b
 mfr_02_road_details_01c

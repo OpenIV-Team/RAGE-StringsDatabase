@@ -66,3 +66,7 @@ s_15__hd_0_-4_3
 s_15__hd_0_-4_-3
 s_15__hd_0_-4_-4
 s_15_+hi
+s_15__collision_0
+s_15__collision_1
+s_15__collision_2
+s_15__collision_3

@@ -40,6 +40,7 @@ amb_wander@code_human_chamberpot_wander@female_c@enter
 amb_wander@code_human_chamberpot_wander@female_c@exit
 amb_wander@code_human_chamberpot_wander@female_c@walk
 amb_wander@code_human_clipboard@male_a@base
+amb_wander@code_human_clipboard@male_a@idle
 amb_wander@code_human_coal_carry@shovel@male_a@wip_walk_cart
 amb_wander@code_human_coal_carry@shovel@male_b@wip_walk_cart
 amb_wander@code_human_coal_carry@shovel@male_c@wip_walk_cart
@@ -50,6 +51,7 @@ amb_wander@code_human_coughing_hacking@male_a@wip_base
 amb_wander@code_human_coughing_hacking@male_a@wip_idle_b
 amb_wander@code_human_coughing_hacking@male_a@wip_idle_c
 amb_wander@code_human_coughing_hacking@male_b@wip_base
+amb_wander@code_human_drinking_wander@beer_bottle@generic@female_a@base
 amb_wander@code_human_drinking_wander@beer_bottle@generic@male_a@base
 amb_wander@code_human_drinking_wander@beer_bottle@generic@male_a@idle_a
 amb_wander@code_human_drinking_wander@beer_bottle@generic@male_a@trans

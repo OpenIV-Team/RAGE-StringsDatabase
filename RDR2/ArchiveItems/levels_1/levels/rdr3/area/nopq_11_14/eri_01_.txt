@@ -13,3 +13,4 @@ eri_quarry01_decals
 eri_quarry01_decals+hidr
 eri_quarry01+hidr
 eri_stonewall006
+eri_01_lod

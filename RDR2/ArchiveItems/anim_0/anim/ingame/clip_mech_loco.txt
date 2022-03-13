@@ -1,5 +1,6 @@
 mech_loco@generic@brave@base@a
 mech_loco@generic@brave@idle@a
+mech_loco@generic@brave@idle@b
 mech_loco@generic@butch@hurried@base@a
 mech_loco@generic@butch@hurried@base@b
 mech_loco@generic@butch@hurried@base@c
@@ -9,6 +10,7 @@ mech_loco@generic@drunk@stage1@b
 mech_loco@generic@drunk@stage1@c
 mech_loco@generic@drunk@stage1@streamed_idles@a
 mech_loco@generic@drunk@stage2@a
+mech_loco@generic@drunk@stage2@base@a
 mech_loco@generic@drunk@stage2@base_headup@a
 mech_loco@generic@drunk@stage3@base@a
 mech_loco@generic@emotions@crazy@a
@@ -33,5 +35,6 @@ mech_loco@player@one@generic@streamed_idles@b
 mech_loco@player@zero@generic@base
 mech_loco@player@zero@generic@streamed_idles@a
 mech_loco@player@zero@generic@streamed_idles@b
+mech_loco@proto@90degturn
 mech_loco@proto@folder_test@walk@180
 mech_loco@proto@obstruction@foliage@low

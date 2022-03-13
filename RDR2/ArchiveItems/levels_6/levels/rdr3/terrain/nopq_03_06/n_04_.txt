@@ -71,3 +71,15 @@ n_04__hd_0_-4_3+hidr
 n_04__hd_0_-4_-4
 n_04_+hi
 n_04_rock_decal_01
+n_04__collision_0
+n_04__collision_1
+n_04__collision_2
+n_04__collision_3
+n_04__collision_4
+n_04__collision_5
+n_04__collision_6
+n_04__collision_7
+n_04__collision_8
+n_04__collision_9
+n_04__collision_10
+hi@n_04__collision_0

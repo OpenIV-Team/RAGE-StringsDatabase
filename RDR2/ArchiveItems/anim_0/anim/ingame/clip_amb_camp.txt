@@ -15,16 +15,19 @@ amb_camp@prop_camp_bill_sleep@male_a@react_look@enter@low
 amb_camp@prop_camp_bill_sleep@male_a@react_look@enter@med
 amb_camp@prop_camp_bill_sleep@male_a@react_look@exit@dismissive
 amb_camp@prop_camp_bill_sleep@male_a@react_look@exit@generic
+amb_camp@prop_camp_bill_sleep@male_a@react_look@exit@relieved
 amb_camp@prop_camp_bill_sleep@male_a@react_look@loop@generic
 amb_camp@prop_camp_bill_sleep@male_a@stand_enter
 amb_camp@prop_camp_bill_sleep@male_a@stand_exit
 amb_camp@prop_camp_bill_sleep@male_a@walk_exit
 amb_camp@prop_camp_bill_sleep@stand_enter
+amb_camp@prop_camp_bill_sleep@stand_exit
 amb_camp@prop_camp_bill_sleep@walk_enter
 amb_camp@prop_camp_bill_sleep@walk_exit
 amb_camp@prop_camp_butcher@resting@deer@female_a@base
 amb_camp@prop_camp_butcher@resting@deer@female_a@idle_a
 amb_camp@prop_camp_butcher@resting@deer@female_a@idle_b
+amb_camp@prop_camp_butcher@resting@deer@female_a@idle_c
 amb_camp@prop_camp_butcher@resting@deer@female_a@react_look@active_look
 amb_camp@prop_camp_butcher@resting@deer@female_a@react_look@enter@high
 amb_camp@prop_camp_butcher@resting@deer@female_a@react_look@enter@low
@@ -38,6 +41,7 @@ amb_camp@prop_camp_butcher@resting@deer@female_a@stand_exit
 amb_camp@prop_camp_butcher@resting@deer@female_a@walk_exit
 amb_camp@prop_camp_butcher@resting@deer@male_a@base
 amb_camp@prop_camp_butcher@resting@deer@male_a@idle_a
+amb_camp@prop_camp_butcher@resting@deer@male_a@idle_b
 amb_camp@prop_camp_butcher@resting@deer@male_a@idle_c
 amb_camp@prop_camp_butcher@resting@deer@male_a@react_look@enter@high
 amb_camp@prop_camp_butcher@resting@deer@male_a@react_look@enter@low
@@ -116,6 +120,7 @@ amb_camp@prop_camp_butcher@working@deer@female_a@meat_drop@react_look@exit@relie
 amb_camp@prop_camp_butcher@working@deer@female_a@meat_drop@react_look@loop@generic
 amb_camp@prop_camp_butcher@working@deer@female_a@meat_drop@stand_exit
 amb_camp@prop_camp_butcher@working@deer@female_a@meat_drop@stand_exit_withprop
+amb_camp@prop_camp_butcher@working@deer@female_a@meat_drop@walk_exit
 amb_camp@prop_camp_butcher@working@deer@female_a@meat_drop@walk_exit_withprop
 amb_camp@prop_camp_butcher@working@deer@female_a@meat_scoop@base
 amb_camp@prop_camp_butcher@working@deer@female_a@meat_scoop@react_look@enter@high
@@ -124,6 +129,7 @@ amb_camp@prop_camp_butcher@working@deer@female_a@meat_scoop@react_look@enter@med
 amb_camp@prop_camp_butcher@working@deer@female_a@meat_scoop@react_look@exit@dismissive
 amb_camp@prop_camp_butcher@working@deer@female_a@meat_scoop@react_look@exit@generic
 amb_camp@prop_camp_butcher@working@deer@female_a@meat_scoop@react_look@exit@relieved
+amb_camp@prop_camp_butcher@working@deer@female_a@meat_scoop@react_look@loop@generic
 amb_camp@prop_camp_butcher@working@deer@male_a@leg_grab@base
 amb_camp@prop_camp_butcher@working@deer@male_a@leg_grab@react_look@enter@high
 amb_camp@prop_camp_butcher@working@deer@male_a@leg_grab@react_look@enter@low
@@ -179,6 +185,7 @@ amb_camp@prop_camp_butcher@working@rabbit@female_a@meat_drop@react_look@enter@me
 amb_camp@prop_camp_butcher@working@rabbit@female_a@meat_drop@react_look@exit@dismissive
 amb_camp@prop_camp_butcher@working@rabbit@female_a@meat_drop@react_look@exit@generic
 amb_camp@prop_camp_butcher@working@rabbit@female_a@meat_drop@react_look@exit@relieved
+amb_camp@prop_camp_butcher@working@rabbit@female_a@meat_drop@react_look@loop@generic
 amb_camp@prop_camp_butcher@working@rabbit@female_a@meat_drop@stand_exit
 amb_camp@prop_camp_butcher@working@rabbit@female_a@meat_drop@stand_exit_withprop
 amb_camp@prop_camp_butcher@working@rabbit@female_a@meat_drop@walk_exit
@@ -259,15 +266,18 @@ amb_camp@prop_camp_cauldron_serve_stew@female_a@react_look@enter@high
 amb_camp@prop_camp_cauldron_serve_stew@female_a@react_look@enter@low
 amb_camp@prop_camp_cauldron_serve_stew@female_a@react_look@enter@med
 amb_camp@prop_camp_cauldron_serve_stew@female_a@react_look@exit@dismissive
+amb_camp@prop_camp_cauldron_serve_stew@female_a@react_look@exit@generic
 amb_camp@prop_camp_cauldron_serve_stew@female_a@react_look@exit@relieved
 amb_camp@prop_camp_cauldron_serve_stew@female_a@react_look@loop@generic
 amb_camp@prop_camp_cauldron_serve_stew@female_a@stand_enter_withprop
+amb_camp@prop_camp_cauldron_serve_stew@female_a@stand_exit_withprop
 amb_camp@prop_camp_cauldron_serve_stew@female_a@walk_exit_withprop
 amb_camp@prop_camp_cauldron_serve_stew@male_b@base
 amb_camp@prop_camp_cauldron_serve_stew@male_b@react_look@active_look
 amb_camp@prop_camp_cauldron_serve_stew@male_b@react_look@enter@high
 amb_camp@prop_camp_cauldron_serve_stew@male_b@react_look@enter@low
 amb_camp@prop_camp_cauldron_serve_stew@male_b@react_look@enter@med
+amb_camp@prop_camp_cauldron_serve_stew@male_b@react_look@exit@dismissive
 amb_camp@prop_camp_cauldron_serve_stew@male_b@react_look@exit@generic
 amb_camp@prop_camp_cauldron_serve_stew@male_b@react_look@exit@relieved
 amb_camp@prop_camp_cauldron_serve_stew@male_b@react_look@loop@generic
@@ -502,6 +512,7 @@ amb_camp@prop_camp_fire_tend_seat_bench@add_logs@male_a@transition_poke_fire
 amb_camp@prop_camp_fire_tend_seat_bench@poke_fire@male_a@base
 amb_camp@prop_camp_fire_tend_seat_bench@poke_fire@male_a@exit
 amb_camp@prop_camp_fire_tend_seat_bench@poke_fire@male_a@idle_a
+amb_camp@prop_camp_fire_tend_seat_bench@poke_fire@male_a@idle_b
 amb_camp@prop_camp_fire_tend_seat_bench@poke_fire@male_a@transition_add_logs
 amb_camp@prop_camp_foodprep@cauldron_handle_down@base
 amb_camp@prop_camp_foodprep@resting@female_a@idle_a
@@ -651,6 +662,8 @@ amb_camp@prop_camp_javier_seat_crate@clean_boots@male_a@stand_exit
 amb_camp@prop_camp_john_clean_gun@male_a@wip_base
 amb_camp@prop_camp_karen_seat_chair_table@smoking@female_a@base
 amb_camp@prop_camp_karen_seat_chair_table@smoking@female_a@idle_a
+amb_camp@prop_camp_karen_seat_chair_table@smoking@female_a@idle_b
+amb_camp@prop_camp_karen_seat_chair_table@smoking@female_a@stand_enter
 amb_camp@prop_camp_karen_seat_chair_table@smoking@female_a@stand_exit
 amb_camp@prop_camp_kieran_seat_crate@clean_saddle@male_a@base
 amb_camp@prop_camp_kieran_seat_crate@clean_saddle@male_a@idle_a
@@ -703,6 +716,7 @@ amb_camp@prop_camp_player_serve_stew@ground@player@stand_exit_withprop
 amb_camp@prop_camp_player_serve_stew@ground@player@walk_exit_withprop
 amb_camp@prop_camp_sadie_adler@sit@stare@base
 amb_camp@prop_camp_sadie_adler@sit@stare@idle_a
+amb_camp@prop_camp_sadie_adler@sit@stare@idle_b
 amb_camp@prop_camp_sadie_adler@sit@stare@idle_c
 amb_camp@prop_camp_sadie_adler@sit@stare@idle_d
 amb_camp@prop_camp_sadie_adler@sit@stare@idle_e
@@ -882,6 +896,7 @@ amb_camp@prop_camp_seat_chair_table@drinking@cold@left@male_b@wip_base
 amb_camp@prop_camp_seat_chair_table@drinking@cold@left@male_c@wip_base
 amb_camp@prop_camp_seat_chair_table@drinking@cold@left@male_d@wip_base
 amb_camp@prop_camp_seat_chair_table@drinking@cold@left@male_e@wip_base
+amb_camp@prop_camp_seat_chair_table@drinking@cold@right@male_a@wip_base
 amb_camp@prop_camp_seat_chair_table@drinking@cold@right@male_b@wip_base
 amb_camp@prop_camp_seat_chair_table@drinking@cold@right@male_c@wip_base
 amb_camp@prop_camp_seat_chair_table@drinking@cold@right@male_d@wip_base
@@ -1050,6 +1065,7 @@ amb_camp@world_camp_dutch_smoke_cigar@male_b@stand_enter
 amb_camp@world_camp_dutch_smoke_cigar@male_b@stand_exit
 amb_camp@world_camp_dutch_smoke_cigar@male_b@stand_exit_withprop
 amb_camp@world_camp_dutch_smoke_cigar@male_b@trans
+amb_camp@world_camp_dutch_smoke_cigar@male_b@walk_enter
 amb_camp@world_camp_dutch_smoke_cigar@male_b@walk_exit
 amb_camp@world_camp_dutch_smoke_cigar@male_b@walk_exit_withprop
 amb_camp@world_camp_dynamic_fire@grablog@male_a@base
@@ -1075,6 +1091,7 @@ amb_camp@world_camp_dynamic_fire@logdrop@male_a@react_look@enter@high
 amb_camp@world_camp_dynamic_fire@logdrop@male_a@react_look@enter@low
 amb_camp@world_camp_dynamic_fire@logdrop@male_a@react_look@enter@med
 amb_camp@world_camp_dynamic_fire@logdrop@male_a@react_look@exit@dismissive
+amb_camp@world_camp_dynamic_fire@logdrop@male_a@react_look@exit@generic
 amb_camp@world_camp_dynamic_fire@logdrop@male_a@react_look@exit@relieved
 amb_camp@world_camp_dynamic_fire@logdrop@male_a@react_look@loop@generic
 amb_camp@world_camp_dynamic_fire@logdrop@male_a@trans
@@ -1084,6 +1101,7 @@ amb_camp@world_camp_dynamic_fire@logdroplarge@male_a@react_look@enter@low
 amb_camp@world_camp_dynamic_fire@logdroplarge@male_a@react_look@enter@med
 amb_camp@world_camp_dynamic_fire@logdroplarge@male_a@react_look@exit@dismissive
 amb_camp@world_camp_dynamic_fire@logdroplarge@male_a@react_look@exit@generic
+amb_camp@world_camp_dynamic_fire@logdroplarge@male_a@react_look@exit@relieved
 amb_camp@world_camp_dynamic_fire@logdroplarge@male_a@react_look@loop@generic
 amb_camp@world_camp_dynamic_fire@logdroplarge@male_a@trans
 amb_camp@world_camp_dynamic_fire@loghold@male_a@base
@@ -1100,6 +1118,7 @@ amb_camp@world_camp_dynamic_fire@logholdlarge@male_a@react_look@enter@high
 amb_camp@world_camp_dynamic_fire@logholdlarge@male_a@react_look@enter@low
 amb_camp@world_camp_dynamic_fire@logholdlarge@male_a@react_look@enter@med
 amb_camp@world_camp_dynamic_fire@logholdlarge@male_a@react_look@exit@dismissive
+amb_camp@world_camp_dynamic_fire@logholdlarge@male_a@react_look@exit@generic
 amb_camp@world_camp_dynamic_fire@logholdlarge@male_a@react_look@exit@relieved
 amb_camp@world_camp_dynamic_fire@logholdlarge@male_a@react_look@loop@generic
 amb_camp@world_camp_dynamic_fire@logholdlarge@male_a@trans
@@ -1110,6 +1129,7 @@ amb_camp@world_camp_dynamic_fire@tendfront@male_a@react_look@enter@high
 amb_camp@world_camp_dynamic_fire@tendfront@male_a@react_look@enter@low
 amb_camp@world_camp_dynamic_fire@tendfront@male_a@react_look@enter@med
 amb_camp@world_camp_dynamic_fire@tendfront@male_a@react_look@exit@dismissive
+amb_camp@world_camp_dynamic_fire@tendfront@male_a@react_look@exit@generic
 amb_camp@world_camp_dynamic_fire@tendfront@male_a@react_look@exit@relieved
 amb_camp@world_camp_dynamic_fire@tendfront@male_a@react_look@loop@generic
 amb_camp@world_camp_dynamic_fire@tendfront@male_a@stand_exit
@@ -1122,6 +1142,7 @@ amb_camp@world_camp_fire@stomp@male_a@wip_base
 amb_camp@world_camp_fire@stomp@male_b@wip_base
 amb_camp@world_camp_fire@stomp@male_c@wip_base
 amb_camp@world_camp_fire@stomp@male_d@wip_base
+amb_camp@world_camp_fire_cooking@eating@bite1@male_a@base
 amb_camp@world_camp_fire_cooking@eating@bite1@male_a@trans
 amb_camp@world_camp_fire_cooking@eating@bite2@male_a@base
 amb_camp@world_camp_fire_cooking@eating@bite2@male_a@trans
@@ -1136,6 +1157,7 @@ amb_camp@world_camp_fire_cooking@eating@male_a@idle_c
 amb_camp@world_camp_fire_cooking@eating@male_a@react_look@enter@high
 amb_camp@world_camp_fire_cooking@eating@male_a@react_look@enter@low
 amb_camp@world_camp_fire_cooking@eating@male_a@react_look@enter@med
+amb_camp@world_camp_fire_cooking@eating@male_a@react_look@exit@dismissive
 amb_camp@world_camp_fire_cooking@eating@male_a@react_look@exit@generic
 amb_camp@world_camp_fire_cooking@eating@male_a@react_look@exit@relieved
 amb_camp@world_camp_fire_cooking@eating@male_a@react_look@loop@generic
@@ -1151,6 +1173,7 @@ amb_camp@world_camp_fire_cooking@male_a@react_look@active_look
 amb_camp@world_camp_fire_cooking@male_a@react_look@enter@high
 amb_camp@world_camp_fire_cooking@male_a@react_look@enter@low
 amb_camp@world_camp_fire_cooking@male_a@react_look@enter@med
+amb_camp@world_camp_fire_cooking@male_a@react_look@exit@dismissive
 amb_camp@world_camp_fire_cooking@male_a@react_look@exit@generic
 amb_camp@world_camp_fire_cooking@male_a@react_look@exit@relieved
 amb_camp@world_camp_fire_cooking@male_a@react_look@loop@generic
@@ -1534,6 +1557,8 @@ amb_camp@world_camp_pearson_prep_deer@part1@idle_a
 amb_camp@world_camp_pearson_prep_deer@part1@idle_b
 amb_camp@world_camp_pearson_prep_deer@part1@idle_c
 amb_camp@world_camp_pearson_prep_deer@part2@base
+amb_camp@world_camp_pearson_prep_deer@part2@idle_a
+amb_camp@world_camp_pearson_prep_deer@part2@idle_b
 amb_camp@world_camp_pearson_prep_deer@part3@base
 amb_camp@world_camp_pearson_prep_deer@part3@exit
 amb_camp@world_camp_pearson_prep_deer@part3@idle_a
@@ -1550,6 +1575,7 @@ amb_camp@world_camp_sean_lean_barrel@read_paper@male_a@idle_b
 amb_camp@world_camp_sean_lean_barrel@read_paper@male_a@react_look@enter@high
 amb_camp@world_camp_sean_lean_barrel@read_paper@male_a@react_look@enter@low
 amb_camp@world_camp_sean_lean_barrel@read_paper@male_a@react_look@enter@med
+amb_camp@world_camp_sean_lean_barrel@read_paper@male_a@react_look@exit@dismissive
 amb_camp@world_camp_sean_lean_barrel@read_paper@male_a@react_look@exit@generic
 amb_camp@world_camp_sean_lean_barrel@read_paper@male_a@react_look@exit@relieved
 amb_camp@world_camp_sean_lean_barrel@read_paper@male_a@react_look@loop@generic
@@ -1712,6 +1738,7 @@ amb_camp@world_human_wash_dishes@table@right@female_b@grab_dish@idles
 amb_camp@world_human_wash_dishes@table@right@female_b@grab_dish@stand_enter
 amb_camp@world_human_wash_dishes@table@right@female_b@grab_dish@stand_exit
 amb_camp@world_human_wash_dishes@table@right@female_b@grab_dish@walk_exit
+amb_camp@world_human_wash_dishes@table@right@female_b@wash_bowl@base
 amb_camp@world_human_wash_dishes@table@right@female_b@wash_bowl@idles
 amb_camp@world_human_wash_dishes@table@right@female_b@wash_plate@base
 amb_camp@world_human_wash_dishes@table@right@female_b@wash_plate@idles

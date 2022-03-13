@@ -1,0 +1,4 @@
+cutscene@rhlp2_rsc1
+cutscene@rhlp2_rsc2
+cutscene@rhlp2_rsc3
+cutscene@rhlp2_rsc4

@@ -11,3 +11,6 @@ win_campfire_details+hidr
 win01_combo_01_lod
 win01_combo_slod
 win01_combo04_slod2
+win_01__lod
+win_01__slod
+win_01__slod2

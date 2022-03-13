@@ -1554,3 +1554,4 @@ packs/base/data/pedbrawlingstyle.meta
 packs/base/data/pickups.meta
 packs/base/data/weaponArchetypes.meta
 packs/base/setup2.xml
+data/companions/core/companionbehavioranalysis_saloon_traveling.meta

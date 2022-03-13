@@ -85,3 +85,9 @@ micah_corpse_body+hidr
 michi_camp_slod
 michi_camp_slod2
 michi_fence_slod
+hi@mic_hid_0
+hi@mic_hid_1
+hi@mic_hid_2
+mic_hid_lod
+mic_hid_slod2
+mic_hid_int_lod

@@ -68,3 +68,5 @@ u_08__hd_0_-4_3
 u_08__hd_0_-4_-3
 u_08__hd_0_-4_-4
 u_08_+hi
+u_08__collision_0
+hi@u_08__collision_0

@@ -18,3 +18,6 @@ amb_work@prop_human_soak_skins@gus@react_look@exit@relieved
 amb_work@prop_human_soak_skins@gus@react_look@loop@generic
 amb_work@prop_human_soak_skins@gus@stand_enter
 amb_work@prop_human_soak_skins@gus@stand_exit
+amb_work@prop_human_seat_chair@mortar_pestle@mortar@harriet@trans
+amb_work@prop_human_seat_chair@mortar_pestle@pouch@harriet@trans
+amb_work@prop_human_seat_chair@mortar_pestle@medicine@harriet@trans

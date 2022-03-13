@@ -1,1 +1,2 @@
 mech_inspection@weapons@longarms@repeater_evans@base
+mech_inspection@weapons@shortarms@m1899@base

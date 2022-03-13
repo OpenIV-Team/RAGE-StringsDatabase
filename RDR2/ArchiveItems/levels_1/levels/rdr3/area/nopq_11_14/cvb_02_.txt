@@ -122,3 +122,4 @@ cvb_kudzu_wagon_lod_002
 cvb_rubble_01
 cvb_ruin_rubble
 cvb_ruin_rubble+hidr
+cvb_02_lod

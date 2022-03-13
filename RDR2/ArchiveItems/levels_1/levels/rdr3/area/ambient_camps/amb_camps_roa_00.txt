@@ -7,6 +7,7 @@ amb_camp_roa_story_pigfarm_2
 amb_camp_roa_story_pigfarm_3
 amb_camp_roa_story_pigfarm_4
 amb_camp_roa_story_pigfarm_5
+amb_camp_roa_story_pigfarm_6
 amb_camp_roa_story_princess
 amb_camp_roa_story_rhodes
 amb_camp_roa_story_rhodes_1

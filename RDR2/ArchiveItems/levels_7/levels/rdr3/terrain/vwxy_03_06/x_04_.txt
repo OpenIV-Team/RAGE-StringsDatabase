@@ -68,3 +68,6 @@ x_04__hd_0_-4_3
 x_04__hd_0_-4_-3
 x_04__hd_0_-4_-4
 x_04_+hi
+x_04__collision_0
+hi@x_04__collision_0
+hi@x_04__collision_1

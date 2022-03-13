@@ -1,3 +1,0 @@
-cutscene@lssol_int
-cutscene@lssol_int_p1a1_t06
-cutscene@lssol_int_p2a1_t01

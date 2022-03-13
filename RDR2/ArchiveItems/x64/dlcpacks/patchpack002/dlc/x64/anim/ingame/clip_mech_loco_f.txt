@@ -1,0 +1,13 @@
+mech_loco_f@type@mp@fidgets@weather@snow_cold@pistol@low_stamina
+mech_loco_f@type@mp@lady@walk
+mech_loco_f@type@mp@gunslinger@walk
+mech_loco_f@type@mp@crazy@walk
+mech_loco_f@type@mp@fidgets@weather@snow_cold@pistol@low_stamina@empty_stamina
+mech_loco_f@type@mp@crouch@unarmed@dress@idle
+mech_loco_f@type@mp@flamboyant@walk
+mech_loco_f@type@mp@fidgets@weather@snow_cold@unarmed@low_stamina
+mech_loco_f@type@mp@fidgets@weather@snow_cold@unarmed@low_stamina@empty_stamina
+mech_loco_f@type@mp@normal@unarmed@idle_rightholster
+mech_loco_f@type@mp@silent_type@walk
+mech_loco_f@type@mp@casual@walk
+mech_loco_f@type@mp@crouch@unarmed@dress@idle_knee

@@ -1,1 +1,16 @@
 mp_mech_inspection@female@catalog
+mp_mech_inspection@female@weapons@longarms@sniper_carcano@base
+mp_mech_inspection@female@weapons@longarms@rifle_bolt_action@base
+mp_mech_inspection@female@weapons@longarms@shotgun_pump_action@base
+mp_mech_inspection@female@weapons@longarms@shotgun_double_barrel@base
+mp_mech_inspection@female@weapons@longarms@shotgun_semi_auto@base
+mp_mech_inspection@female@weapons@shortarms@cattleman@base
+mp_mech_inspection@female@weapons@shortarms@volcanic@base
+mp_mech_inspection@female@weapons@longarms@shotgun_repeating@base
+mp_mech_inspection@female@weapons@longarms@repeater_litchfield@base
+mp_mech_inspection@female@weapons@longarms@repeater_winchester@base
+mp_mech_inspection@female@weapons@longarms@sniper_rolling_block@base
+mp_mech_inspection@female@weapons@longarms@rifle_springfield@base
+mp_mech_inspection@female@weapons@shortarms@semi_auto@base
+mp_mech_inspection@female@weapons@longarms@rifle_varmint@base
+mp_mech_inspection@female@weapons@longarms@carbine@base

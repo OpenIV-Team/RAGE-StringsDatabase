@@ -1,0 +1,7 @@
+_manifest
+mega_mech_cart_large@cart05@front@fl@enter@get_in
+mega_mech_cart_large@cart05@front@fl@enter@jack
+mega_mech_cart_large@cart05@front@fr@enter@get_in
+mega_mech_cart_large@cart05@front@fr@enter@jack
+mega_mech_cart_large@standard@front@fl@enter@get_in
+mega_mech_cart_large@standard@front@fr@enter@get_in

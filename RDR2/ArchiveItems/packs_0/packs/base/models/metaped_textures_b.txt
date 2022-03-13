@@ -665,6 +665,7 @@ boot_mr1_063_c0_002_ab
 boot_mr1_063_c3_merge
 boot_mr1_064_c0_merge
 boot_mr1_065_c_merge
+boot_mr1_065_c_merge+hi
 boot_mr1_070_c1_000_m
 boot_mr1_070_c1_000_nm
 boot_mr1_070_c1_000_nm+hi
@@ -740,3 +741,4 @@ bustle_merge+hi
 bustlecoat_fr1_000_c1_merge
 bustlecoat_fr1_000_c1_merge+hi
 bustleskirt_fr1_000_c_merge
+bustleskirt_fr1_000_c_merge+hi

@@ -1,0 +1,7 @@
+cutscene@sad3_ext
+cutscene@sad3_int
+cutscene@sad3_mcs1
+cutscene@sad3_mcs2
+cutscene@sad3_mcs3
+cutscene@sad3_mcs4
+cutscene@sad3_mcs5

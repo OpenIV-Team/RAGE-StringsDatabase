@@ -1,2 +1,2 @@
 _manifest
-mega_gen@creatures_mammal@horse@agitated
+mega_creatures_mammal@horse@cycles_accel

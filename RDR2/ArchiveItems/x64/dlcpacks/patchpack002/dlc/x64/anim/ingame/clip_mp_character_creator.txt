@@ -1,2 +1,5 @@
 mp_character_creator@female@fidgets
 mp_character_creator@male@fidgets
+mp_character_creator@male
+mp_character_creator@female
+mp_character_creator@transitions

@@ -1,5 +1,10 @@
 creatures_mammal@bighornram@charging@idle@idle_additive@head@head_nod_long
 creatures_mammal@boar@charging@idle@idle_additive@head@head_nod
+creatures_mammal@cougar@agitated@idle@variation@fidget_01
+creatures_mammal@cougar@agitated@idle@variation@fidget_02
+creatures_mammal@cougar@agitated@idle@variation@fidget_03
+creatures_mammal@cougar@agitated@idle@variation@fidget_04
 creatures_mammal@deer@normal@idle@variation@shake
 creatures_mammal@deer@normal@idle@variation@shake@slope@down
 creatures_mammal@deer@normal@idle@variation@shake@slope@up
+creatures_mammalratnormalwalk

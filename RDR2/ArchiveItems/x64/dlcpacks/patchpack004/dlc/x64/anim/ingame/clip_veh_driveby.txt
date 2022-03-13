@@ -47,3 +47,15 @@ veh_driveby@aim@buggy@front_bench@shared@shortarms@base@forward@transitions@read
 veh_driveby@aim@buggy@front_bench@shared@shortarms@base@forward@transitions@sweep_to_carry
 veh_driveby@aim@buggy@front_bench@shared@shortarms@base@forward@transitions@to_backward_carry
 veh_driveby@aim@cart@exterior@shortarms@base@rear@transitions@carry_to_ready
+veh_driveby@aim@coach@exterior@shortarms@base@front_right@idle@female
+veh_driveby@aim@coach@exterior@shortarms@base@mid_right@idle@female
+veh_driveby@wagon@fl@shortarms@female
+veh_driveby@aim@coach@exterior@shortarms@base@rear_left@idle@female
+veh_driveby@coach@rear@left@1h@base@female
+veh_driveby@aim@coach@exterior@shortarms@base@rear_right@idle@female
+veh_driveby@aim@coach@exterior@shortarms@base@front_left@idle@female
+veh_driveby@wagon@fr@longarms@female
+veh_driveby@wagon@fr@shortarms@female
+veh_driveby@coach@rear@right@1h@base@female
+veh_driveby@aim@coach@exterior@shortarms@base@mid_left@idle@female
+veh_driveby@wagon@fl@longarms@female

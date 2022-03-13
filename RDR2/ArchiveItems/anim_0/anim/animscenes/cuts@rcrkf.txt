@@ -1,0 +1,2 @@
+cutscene@rcrkf_rsc1
+cutscene@rcrkf_rsc2

@@ -1,0 +1,3 @@
+cutscene@lbvin_int
+cutscene@lbvin_int_p0a1_t01
+cutscene@lbvin_int_p1_t03

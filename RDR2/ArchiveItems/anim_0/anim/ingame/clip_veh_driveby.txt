@@ -56,6 +56,7 @@ veh_driveby@aim@coach@exterior@shortarms@base@mid_left@transitions@idle_to_ready
 veh_driveby@aim@coach@exterior@shortarms@base@mid_left@transitions@ready_to_idle
 veh_driveby@aim@prison@rear@passenger@shortarms@base@forward@intro
 veh_driveby@aim@prison@rear@passenger@shortarms@base@forward@outro
+veh_driveby@aim@prison@rear@shared@shortarms@base@forward@sit
 veh_driveby@aim@prison@rear@shared@shortarms@base@forward@sweep
 veh_driveby@aim@prison@rear@shared@shortarms@base@forward@sweep_carry
 veh_driveby@aim@prison@rear@shared@shortarms@base@forward@sweep_ready
@@ -103,8 +104,10 @@ veh_driveby@boat_paddle@driver@shortarms
 veh_driveby@boat_paddle@seat1@longarms
 veh_driveby@boat_paddle@seat1@shortarms
 veh_driveby@boat_paddle@seat2@longarms
+veh_driveby@boat_paddle@seat2@shortarms
 veh_driveby@cart@fc@1h
 veh_driveby@cart@fc@2h
+veh_driveby@cart@fc@throw
 veh_driveby@coach@rear@rear_left@shortarms@base@aim@idle
 veh_driveby@coach@rear@rear_left@shortarms@base@trans@in_to_out@righthand
 veh_driveby@coach@rear@rear_left@shortarms@base@trans@out_to_in@lefthand
@@ -123,6 +126,7 @@ veh_driveby@wagon@fl@2h
 veh_driveby@wagon@fl@longarms
 veh_driveby@wagon@fl@throw
 veh_driveby@wagon@fr@1h
+veh_driveby@wagon@fr@2h
 veh_driveby@wagon@rl@1h
 veh_driveby@wagon@rr@1h
 veh_driveby@wagon@seat4@1h

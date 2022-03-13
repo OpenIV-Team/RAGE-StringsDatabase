@@ -1,3 +1,1 @@
-cutscene@mob1_int
 cutscene@mob1_mcs3
-cutscene@mob1_mcs3a

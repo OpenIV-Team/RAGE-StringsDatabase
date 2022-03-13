@@ -8,7 +8,6 @@ mech_hogtie@human@carried@mount
 mech_hogtie@human@deepwater
 mech_hogtie@human@drop_body
 mech_hogtie@human@escape@mount
-mech_hogtie@human@escape@shoulder
 mech_hogtie@human@idle@ground@burning
 mech_hogtie@human@idle@ground@calm
 mech_hogtie@human@idle@ground@passive

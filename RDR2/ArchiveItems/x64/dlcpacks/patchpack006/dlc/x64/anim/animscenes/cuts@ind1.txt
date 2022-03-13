@@ -1,3 +1,0 @@
-cutscene@ind1_int
-cutscene@ind1_mcs2
-cutscene@ind1_mcs3

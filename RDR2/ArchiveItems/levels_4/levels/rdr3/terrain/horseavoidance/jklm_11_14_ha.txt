@@ -1,2 +1,11 @@
 _cache
 jklm_11_14_ha
+jklm_11_14_ha_collision_0
+jklm_11_14_ha_collision_1
+jklm_11_14_ha_collision_2
+jklm_11_14_ha_collision_3
+jklm_11_14_ha_collision_4
+jklm_11_14_ha_collision_5
+jklm_11_14_ha_collision_6
+jklm_11_14_ha_collision_7
+jklm_11_14_ha_collision_8

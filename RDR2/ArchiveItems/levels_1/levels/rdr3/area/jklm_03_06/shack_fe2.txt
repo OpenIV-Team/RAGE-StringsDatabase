@@ -12,3 +12,6 @@ sfe2_shack_fe2_dis_01
 sfe2_shack_fe2_dis_01+hi
 shack_fe2_0
 shack_fe2_1
+hi@shack_fe2_0
+sfe2_shack_fe2_lod
+sfe2_shack_fe2_slod

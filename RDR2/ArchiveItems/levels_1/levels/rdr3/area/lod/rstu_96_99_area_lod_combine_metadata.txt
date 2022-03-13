@@ -140,3 +140,11 @@ ven_01_long_0
 ven_01_strm_0
 wild_04
 wild_04_strm_0
+arm_01_scarletfever
+arm_01_scarletfever_lod
+arm_02_scarletfever
+arm_02_scarletfever_lod
+arm_03_scarletfever
+arm_03_scarletfever_lod
+arm_04_scarletfever
+arm_04_scarletfever_lod

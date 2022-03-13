@@ -46,6 +46,7 @@ amb_work@prop_human_seat_chair@clean_saddle@male_a@idle_c
 amb_work@prop_human_seat_chair@clean_saddle@male_a@react_look@active_look
 amb_work@prop_human_seat_chair@clean_saddle@male_a@react_look@enter@high
 amb_work@prop_human_seat_chair@clean_saddle@male_a@react_look@enter@low
+amb_work@prop_human_seat_chair@clean_saddle@male_a@react_look@enter@med
 amb_work@prop_human_seat_chair@clean_saddle@male_a@react_look@exit@dismissive
 amb_work@prop_human_seat_chair@clean_saddle@male_a@react_look@exit@generic
 amb_work@prop_human_seat_chair@clean_saddle@male_a@react_look@exit@relieved
@@ -129,6 +130,7 @@ amb_work@prop_human_wood_chop@axe_stuck@male_a@react_look@exit@dismissive
 amb_work@prop_human_wood_chop@axe_stuck@male_a@react_look@exit@generic
 amb_work@prop_human_wood_chop@axe_stuck@male_a@react_look@exit@relieved
 amb_work@prop_human_wood_chop@axe_stuck@male_a@react_look@loop@generic
+amb_work@prop_human_wood_chop@axe_stuck@male_a@trans
 amb_work@prop_human_wood_chop@carrylog1@male_a@base
 amb_work@prop_human_wood_chop@carrylog1@male_a@react_look@enter@high
 amb_work@prop_human_wood_chop@carrylog1@male_a@react_look@enter@low
@@ -170,6 +172,7 @@ amb_work@prop_human_wood_chop@grab_log@male_a@react_look@loop@generic
 amb_work@prop_human_wood_chop@grab_log@male_a@stand_enter
 amb_work@prop_human_wood_chop@grab_log@male_a@trans
 amb_work@prop_human_wood_chop@grab_log_far@arthur@stand_exit
+amb_work@prop_human_wood_chop@grab_log_far@arthur@trans
 amb_work@prop_human_wood_chop@grab_log_far@male_a@base
 amb_work@prop_human_wood_chop@grab_log_far@male_a@react_look@enter@high
 amb_work@prop_human_wood_chop@grab_log_far@male_a@react_look@enter@low
@@ -178,6 +181,7 @@ amb_work@prop_human_wood_chop@grab_log_far@male_a@react_look@exit@dismissive
 amb_work@prop_human_wood_chop@grab_log_far@male_a@react_look@exit@generic
 amb_work@prop_human_wood_chop@grab_log_far@male_a@react_look@exit@relieved
 amb_work@prop_human_wood_chop@grab_log_far@male_a@react_look@loop@generic
+amb_work@prop_human_wood_chop@grab_log_far@male_a@trans
 amb_work@prop_human_wood_chop@logdrop1@male_a@base
 amb_work@prop_human_wood_chop@logdrop1@male_a@react_look@enter@high
 amb_work@prop_human_wood_chop@logdrop1@male_a@react_look@enter@low
@@ -192,6 +196,7 @@ amb_work@prop_human_wood_chop@logdrop2@male_a@react_look@enter@high
 amb_work@prop_human_wood_chop@logdrop2@male_a@react_look@enter@low
 amb_work@prop_human_wood_chop@logdrop2@male_a@react_look@enter@med
 amb_work@prop_human_wood_chop@logdrop2@male_a@react_look@exit@dismissive
+amb_work@prop_human_wood_chop@logdrop2@male_a@react_look@exit@generic
 amb_work@prop_human_wood_chop@logdrop2@male_a@react_look@exit@relieved
 amb_work@prop_human_wood_chop@logdrop2@male_a@react_look@loop@generic
 amb_work@prop_human_wood_chop@logdrop2@male_a@trans
@@ -384,6 +389,7 @@ amb_work@world_human_bartender@serve_whiskey@female_a@return_glass@over_bar@base
 amb_work@world_human_bartender@serve_whiskey@female_a@return_glass@over_bar@trans
 amb_work@world_human_bartender@serve_whiskey@female_a@return_glass@under_bar@base
 amb_work@world_human_bartender@serve_whiskey@female_a@return_glass@under_bar@trans
+amb_work@world_human_bartender@serve_whiskey@male_a@pour_glass@front@trans
 amb_work@world_human_bartender@serve_whiskey@male_a@pour_glass@over_bar@base
 amb_work@world_human_bartender@serve_whiskey@male_a@pour_glass@over_bar@trans
 amb_work@world_human_bartender@serve_whiskey@male_a@pour_glass@under_bar_one_hand@base
@@ -539,6 +545,7 @@ amb_work@world_human_clean_table@female_a@stand_enter
 amb_work@world_human_clean_table@female_a@stand_exit
 amb_work@world_human_clean_table@female_a@trans
 amb_work@world_human_clean_table@female_a@walk_enter
+amb_work@world_human_clean_table@female_a@walk_exit
 amb_work@world_human_clean_table@female_b@idle_a
 amb_work@world_human_clean_table@female_b@idle_b
 amb_work@world_human_clean_table@female_b@idle_c
@@ -549,6 +556,7 @@ amb_work@world_human_clean_table@female_b@walk_exit
 amb_work@world_human_clean_table@male_a@idle_a
 amb_work@world_human_clean_table@male_a@idle_b
 amb_work@world_human_clean_table@male_a@idle_c
+amb_work@world_human_clean_table@male_a@idle_d
 amb_work@world_human_clean_table@male_a@stand_exit
 amb_work@world_human_clean_table@male_a@walk_exit
 amb_work@world_human_clean_table@male_b@base
@@ -557,6 +565,7 @@ amb_work@world_human_clean_table@male_b@idle_b
 amb_work@world_human_clean_table@male_b@idle_c
 amb_work@world_human_clean_table@male_b@idle_d
 amb_work@world_human_clean_table@male_b@react_look@active_look
+amb_work@world_human_clean_table@male_b@react_look@enter@high
 amb_work@world_human_clean_table@male_b@react_look@enter@low
 amb_work@world_human_clean_table@male_b@react_look@enter@med
 amb_work@world_human_clean_table@male_b@react_look@exit@dismissive
@@ -886,6 +895,7 @@ amb_work@world_human_shopkeeper_lockup@male@exit
 amb_work@world_human_shovel_coal_pickup@male_a@wip_exit
 amb_work@world_human_shovel_coal_pickup@male_b@wip_base
 amb_work@world_human_shovel_coal_pickup@male_b@wip_enter
+amb_work@world_human_shovel_coal_pickup@male_b@wip_exit
 amb_work@world_human_shovel_coal_pickup@male_c@wip_base
 amb_work@world_human_shovel_coal_pickup@male_c@wip_enter
 amb_work@world_human_shovel_coal_pickup@male_c@wip_exit
@@ -909,6 +919,7 @@ amb_work@world_human_sledgehammer_new@working@male_a@stand_exit
 amb_work@world_human_sledgehammer_new@working@male_a@trans
 amb_work@world_human_sling_put_down@male_a@base
 amb_work@world_human_sling_put_down@male_a@react_look@enter@high
+amb_work@world_human_sling_put_down@male_a@react_look@enter@low
 amb_work@world_human_sling_put_down@male_a@react_look@enter@med
 amb_work@world_human_sling_put_down@male_a@react_look@exit@dismissive
 amb_work@world_human_sling_put_down@male_a@react_look@exit@generic
@@ -939,6 +950,7 @@ amb_work@world_human_stand_fishing@male_b@react_look@enter@high
 amb_work@world_human_stand_fishing@male_b@react_look@enter@low
 amb_work@world_human_stand_fishing@male_b@react_look@enter@med
 amb_work@world_human_stand_fishing@male_b@react_look@exit@dismissive
+amb_work@world_human_stand_fishing@male_b@react_look@exit@generic
 amb_work@world_human_stand_fishing@male_b@react_look@exit@relieved
 amb_work@world_human_stand_fishing@male_b@react_look@loop@generic
 amb_work@world_human_stand_fishing@male_b@stand_enter_withprop
@@ -992,6 +1004,7 @@ amb_work@world_human_twnrec_scrub_blood@floor@male_a@idle_a
 amb_work@world_human_twnrec_scrub_blood@floor@male_a@idle_b
 amb_work@world_human_twnrec_scrub_blood@floor@male_a@idle_c
 amb_work@world_human_twnrec_scrub_blood@floor@male_a@stand_exit_withprop
+amb_work@world_human_twnrec_scrub_blood@floor@male_a@walk_enter_withprop
 amb_work@world_human_twnrec_scrub_blood@floor@male_a@walk_exit_withprop
 amb_work@world_human_valve@med@male_a@wip_base
 amb_work@world_human_valve@med@male_b@wip_base

@@ -25,3 +25,4 @@ gua_cmp_01_0
 hi@gua_cmp_01_0
 hi@gua_cmp_01_1
 hi@gua_cmp_01_2
+gua_cmp_01_lod

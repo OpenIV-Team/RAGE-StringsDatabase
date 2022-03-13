@@ -1,1 +1,3 @@
+@creatures_mammal_low_lod@elk@injured_critical
+@creatures_mammal_low_lod@rat@normal
 _manifest

@@ -1,7 +1,0 @@
-cutscene@ntv2_ext
-cutscene@ntv2_ext_p1a3_t04
-cutscene@ntv2_ext_p1a4_t04
-cutscene@ntv2_int
-cutscene@ntv2_int_p2a4_t05
-cutscene@ntv2_mcs1
-cutscene@ntv2_mcs3

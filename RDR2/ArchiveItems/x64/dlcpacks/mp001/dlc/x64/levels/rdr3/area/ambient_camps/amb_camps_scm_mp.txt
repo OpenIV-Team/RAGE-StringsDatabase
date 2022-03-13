@@ -1,5 +1,6 @@
 _cache
 _manifest
+mp001_amb_camps_scm_mp
 mp001_clay2_rhodes01
 mp001_mp_intro_gang_rhodes4
 mp001_mp_intro_gang_rhodes4_1

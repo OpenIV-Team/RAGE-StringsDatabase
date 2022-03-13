@@ -62,3 +62,4 @@ lak_shack01_love+hidr
 lak_shack05_altar
 lak_shack05_altar_shadowproxy
 lak_stable
+lak_01_lod

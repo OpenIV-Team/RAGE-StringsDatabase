@@ -1,4 +1,0 @@
-cutscene@mprev1_ext
-cutscene@mprev1_int
-cutscene@mprev1_mcs1
-cutscene@mprev1_mcs2

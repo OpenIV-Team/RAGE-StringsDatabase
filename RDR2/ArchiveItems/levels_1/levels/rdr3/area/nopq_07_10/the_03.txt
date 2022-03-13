@@ -13,3 +13,4 @@ the_03_pigpen+hidr
 the_03_stable
 the_03_stable+hidr
 the_03_vfx_stable
+the_03_lod

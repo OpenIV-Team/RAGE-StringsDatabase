@@ -1,2 +1,4 @@
 _manifest
 mega_mech_weapons_longarms@stand
+mega_mech_weapons_longarms@elephant_female
+mega_mech_weapons_longarms@elephant

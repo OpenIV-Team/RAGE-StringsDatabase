@@ -1,1 +1,11 @@
-cutscene@gua2_mcs2
+cutscene@gua2_mcs2_p3d_t01
+cutscene@gua2_mcs2_p3f_t02
+cutscene@gua2_mcs2_p3b_t02_merge
+cutscene@gua2_mcs2_p3e_t02
+cutscene@gua2_mcs2_p3bm1_t04
+cutscene@gua2_mcs2_p3b_t02
+cutscene@gua2_mcs2_p3_t02
+cutscene@gua2_mcs2_p3g_t02
+cutscene@gua2_mcs2_p3bm2_t03
+cutscene@gua2_mcs2_p4_t03
+cutscene@gua2_mcs2_p1_t07

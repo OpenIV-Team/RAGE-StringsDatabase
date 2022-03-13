@@ -1,0 +1,5 @@
+cutscene@rckpt_s1_ext
+cutscene@rckpt_s1_int
+cutscene@rckpt_s2_ext
+cutscene@rckpt_s2_int
+cutscene@rckpt_s2_mcs1

@@ -3,6 +3,7 @@ mech_weapons_dual@base@sweep_additives@block@aim@sweep
 mech_weapons_dual@base@sweep_iron_sight
 mech_weapons_dual@base@trans@carry_to_ready@low
 mech_weapons_dual@base@trans@ready_to_carry@low
+mech_weapons_dual@base@weapon@volcanic_long_barrel_str@left
 mech_weapons_dual@base@weapon@volcanic_long_barrel_str@right
 mech_weapons_dual@carry@base@sweep
 mech_weapons_dual@carry@base@sweep@intro

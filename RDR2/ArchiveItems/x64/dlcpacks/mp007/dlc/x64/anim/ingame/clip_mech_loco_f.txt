@@ -1,0 +1,2 @@
+mech_loco_f@type@mp@normal@unarmed@idle_offset_left
+mech_loco_f@type@mp@normal@unarmed@idle_offset_left_right

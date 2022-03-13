@@ -1,0 +1,9 @@
+cutscene@rhntn_s1_ext
+cutscene@rhntn_s1_int
+cutscene@rhntn_s1_mcs1
+cutscene@rhntn_s2_ext
+cutscene@rhntn_s2_int
+cutscene@rhntn_s4_int
+cutscene@rhntn_s4_int_p1a1_t05
+cutscene@rhntn_s5_mcs1
+cutscene@rhntn_s6_int

@@ -75,3 +75,14 @@ w_13_decal004
 w_13_decal005
 w_13_decal006
 w_13_decal007
+w_13__collision_0
+w_13__collision_1
+w_13__collision_2
+w_13__collision_3
+w_13__collision_4
+w_13__collision_5
+w_13__collision_6
+w_13__collision_7
+w_13__collision_8
+hi@w_13__collision_0
+hi@w_13__collision_1

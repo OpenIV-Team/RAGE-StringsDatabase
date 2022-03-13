@@ -1,0 +1,5 @@
+cutscene@rdtc1_rsc_1
+cutscene@rdtc1_rsc2
+cutscene@rdtc1_rsc4
+cutscene@rdtc1_rsc5
+cutscene@rdtc1_rsc6

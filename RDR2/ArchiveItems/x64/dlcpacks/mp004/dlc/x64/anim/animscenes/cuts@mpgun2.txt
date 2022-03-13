@@ -1,2 +1,0 @@
-cutscene@mpgun2_ext
-cutscene@mpgun2_int

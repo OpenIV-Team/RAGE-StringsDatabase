@@ -1795,3 +1795,5 @@ levels/rdr3/terrain/win_01_
 levels/rdr3/terrain/win_snow
 levels/rdr3/terrain/win1_intro
 levels/rdr3/terrain/win1_intro_placement
+levels/rdr3/scenario/levdes_vanhorn
+levels/rdr3/scenario/ransack_beechers

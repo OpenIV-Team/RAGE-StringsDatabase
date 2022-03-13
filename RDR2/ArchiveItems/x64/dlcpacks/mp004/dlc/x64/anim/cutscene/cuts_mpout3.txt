@@ -1,4 +1,10 @@
 mpout3_ext
+mpout3_ext-0
+mpout3_ext-1
+mpout3_ext-2
+mpout3_ext-3
+mpout3_ext-4
+mpout3_ext-5
 mpout3_int
 mpout3_int-0
 mpout3_int-1

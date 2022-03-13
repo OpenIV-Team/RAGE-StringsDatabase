@@ -1,1 +1,3 @@
 mech_dynamic@world_player_dynamic_kneel_ground@generic@male_a@trans
+mech_dynamic@world_player_camp_squat@male_a@trans
+mech_dynamic@world_player_camp_sit@male_a@trans

@@ -1,0 +1,3 @@
+cutscene@rgng0_rsc1
+cutscene@rgng0_rsc2
+cutscene@rgng0_s2_int

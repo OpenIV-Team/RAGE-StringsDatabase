@@ -1,0 +1,3 @@
+_manifest
+mega_mech_weapons_longarms@evans
+mega_mech_weapons_longarms@evans_female

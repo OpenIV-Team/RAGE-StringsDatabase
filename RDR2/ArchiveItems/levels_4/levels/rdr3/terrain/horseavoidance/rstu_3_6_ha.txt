@@ -1,2 +1,10 @@
 _cache
 rstu_3_6_ha
+rstu_3_6_ha_collision_0
+rstu_3_6_ha_collision_1
+rstu_3_6_ha_collision_2
+rstu_3_6_ha_collision_3
+rstu_3_6_ha_collision_4
+rstu_3_6_ha_collision_5
+rstu_3_6_ha_collision_6
+rstu_3_6_ha_collision_7

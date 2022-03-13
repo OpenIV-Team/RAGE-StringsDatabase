@@ -42,3 +42,7 @@ dis_bay_tinychurchext+hidr
 dis_bay_tinychurchveg_dne
 dis_bay_tinychurchveg_dne+hidr
 hi@dis_bay_00_0
+dis_bay_00_interior_dis_1rmchurch_int_milo_
+dis_bay_00_hosea_grave
+dis_bay_00_lenny_grave
+dis_bay_00_sean_grave

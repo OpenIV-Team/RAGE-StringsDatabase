@@ -70,3 +70,9 @@ t_08__hd_0_-4_3
 t_08__hd_0_-4_-3
 t_08__hd_0_-4_-4
 t_08_+hi
+t_08__collision_0
+t_08__collision_1
+t_08__collision_2
+t_08__collision_3
+hi@t_08__collision_0
+hi@t_08__collision_1

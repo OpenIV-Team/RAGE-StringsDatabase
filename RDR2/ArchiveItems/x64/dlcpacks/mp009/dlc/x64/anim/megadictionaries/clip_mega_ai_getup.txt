@@ -1,0 +1,5 @@
+_manifest
+mega_gen@ai_getup@exit@from_knees@action
+mega_gen@ai_getup@exit@from_knees@urgent
+mega_gen@ai_getup@exit@from_seated@action
+mega_gen@ai_getup@exit@from_seated@urgent

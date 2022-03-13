@@ -1,4 +1,5 @@
 mp_mech_inventory@apply_pomade
+mp_mech_inventory@book@w15-8_h20-6
 mp_mech_inventory@document@female@paper_w15-1_h24_foldvertical
 mp_mech_inventory@document@paper_w15-1_h24_foldvertical
 mp_mech_inventory@item@fallbacks@large_drink@combat@bottle_oval_l5-5w9-5h10_neck_a6_b2-5@female@left_handed
@@ -10,6 +11,7 @@ mp_mech_inventory@item@fallbacks@large_drink@combat@bottle_oval_l5-5w9-5h10_neck
 mp_mech_inventory@item@fallbacks@large_drink@combat@bottle_oval_l6-5w12h9-5_neck_a12-5_b4@female@left_handed
 mp_mech_inventory@item@fallbacks@large_drink@combat@bottle_oval_l6-5w12h9-5_neck_a12-5_b4@female@rifle
 mp_mech_inventory@item@fallbacks@large_drink@combat@bottle_oval_l6-5w12h9-5_neck_a12-5_b4@female@unarmed
+mp_mech_inventory@item@fallbacks@large_drink@combat@bottle_oval_l6-5w12h9-5_neck_a12-5_b4@left_handed
 mp_mech_inventory@item@fallbacks@large_drink@combat@bottle_oval_l6-5w12h9-5_neck_a12-5_b4@rifle
 mp_mech_inventory@item@fallbacks@large_drink@combat@bottle_oval_l6-5w12h9-5_neck_a12-5_b4@unarmed
 mp_mech_inventory@item@fallbacks@large_drink@combat@female@left_handed

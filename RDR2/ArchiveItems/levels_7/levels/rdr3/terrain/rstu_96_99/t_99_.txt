@@ -74,3 +74,15 @@ t_99_03_decal
 t_99_03_junc_decal
 t_99_03_junc_decal+hidr
 t_99_decal_01
+t_99__collision_0
+t_99__collision_1
+t_99__collision_2
+t_99__collision_3
+t_99__collision_4
+t_99__collision_5
+t_99__collision_6
+t_99__collision_7
+hi@t_99__collision_0
+hi@t_99__collision_1
+hi@t_99__collision_2
+hi@t_99__collision_3

@@ -1,3 +1,4 @@
+amb_misc@world_human_doublebass_handoff@sober@performer@male_a@trans
 amb_rest_drunk@prop_human_seat_bench@porch@drinking@moonshine@male_a@base
 amb_rest_drunk@prop_human_seat_bench@porch@drinking@moonshine@male_a@idle_a
 amb_rest_drunk@prop_human_seat_bench@porch@drinking@moonshine@male_a@idle_b

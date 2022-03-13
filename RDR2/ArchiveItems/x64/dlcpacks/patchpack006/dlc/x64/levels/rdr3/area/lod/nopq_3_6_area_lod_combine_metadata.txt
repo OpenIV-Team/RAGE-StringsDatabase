@@ -47,3 +47,5 @@ tan_01_
 tax_01_
 tax_shutters_closed
 tax_shutters_opened
+hrs_01_interior_jum_horseshop_int_milo_
+nopq_3_6_rails_a_interior_q0304_tunnel_int_milo_

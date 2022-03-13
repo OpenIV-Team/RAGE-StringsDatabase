@@ -405,3 +405,4 @@ sp_missions_6
 sp_missions_7
 sp_missions_8
 sp_missions_9
+pausemenu_completion

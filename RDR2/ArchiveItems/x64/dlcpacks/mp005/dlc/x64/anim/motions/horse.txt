@@ -1,1 +1,4 @@
+@horse@agitated_snow
+@horse@snow
+@horse@wading
 _manifest

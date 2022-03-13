@@ -1,1 +1,5 @@
+@mech_pickup@weapons@exits@action
+@mech_pickup@weapons@exits@action@idle
+@mech_pickup@weapons@exits@normal
+@mech_pickup@weapons@exits@normal@idle
 _manifest

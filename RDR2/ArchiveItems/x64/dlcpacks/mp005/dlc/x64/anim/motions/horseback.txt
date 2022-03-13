@@ -1,1 +1,2 @@
+@horseback@seat_rear@types@female@right@normal
 _manifest

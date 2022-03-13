@@ -1,3 +1,9 @@
+@horse@agitated
 @horse@normal
+@horse@normal@emergency
+@horse@normal@jump_land
+@horse@normal@shunt
 @horse@normal@skid
+@horse@snow
+@horse@wading
 _manifest

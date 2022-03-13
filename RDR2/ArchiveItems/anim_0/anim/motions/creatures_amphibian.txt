@@ -1,1 +1,3 @@
+@creatures_amphibian@frogbull@normal
+@creatures_amphibian@toad@normal
 _manifest

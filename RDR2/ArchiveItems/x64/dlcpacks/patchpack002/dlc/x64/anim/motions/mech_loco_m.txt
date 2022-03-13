@@ -1,1 +1,10 @@
+@mech_loco_m@generic@intimidate@unarmed
+@mech_loco_m@generic@terrain@unarmed@mud
+@mech_loco_m@generic@terrain@unarmed@swamp
+@mech_loco_m@type@mp@casual@unarmed
+@mech_loco_m@type@mp@crazy@unarmed
+@mech_loco_m@type@mp@flamboyant@unarmed
+@mech_loco_m@type@mp@gentleman@unarmed
+@mech_loco_m@type@mp@gunslinger@unarmed
+@mech_loco_m@type@mp@silent_type@unarmed
 _manifest

@@ -1,1 +1,6 @@
+@creatures_bird@chicken@land
+@creatures_bird@pelican@land
+@creatures_bird@rooster@land
+@creatures_bird@turkey@land
+@creatures_bird@turkeywild@land
 _manifest

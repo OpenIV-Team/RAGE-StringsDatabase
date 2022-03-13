@@ -1,1 +1,8 @@
+@creatures_bird@cranewhooping@air
+@creatures_bird@cranewhooping@land
+@creatures_bird@hawk@air
+@creatures_bird@hawk@land
+@creatures_bird@heron@air
+@creatures_bird@heron@land
+@creatures_bird@woodpecker@land
 _manifest

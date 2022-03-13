@@ -1,1 +1,5 @@
+@creatures_mammal@bighornram@normal
+@creatures_mammal@bull@normal
+@creatures_mammal@cougar@normal
+@creatures_mammal@cougar@stealth
 _manifest

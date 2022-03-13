@@ -1,1 +1,3 @@
+@mech_loco_f@generic@normal@unarmed
+@mech_loco_f@type@mp@normal@unarmed
 _manifest

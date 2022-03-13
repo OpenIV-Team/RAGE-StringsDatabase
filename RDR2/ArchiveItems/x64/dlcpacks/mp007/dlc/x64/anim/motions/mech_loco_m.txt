@@ -1,1 +1,6 @@
+@mech_loco_m@character@arthur@normal@interior
+@mech_loco_m@character@arthur@normal@unarmed
+@mech_loco_m@generic@normal@unarmed
+@mech_loco_m@type@mp@drunk@unarmed
+@mech_loco_m@type@mp@inquisitive@unarmed
 _manifest

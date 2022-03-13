@@ -1,2 +1,8 @@
+@creatures_reptile_low_lod@alligator@normal
+@creatures_reptile_low_lod@alligator@panic
+@creatures_reptile_low_lod@alligator@wading
+@creatures_reptile_low_lod@alligator_03@normal
+@creatures_reptile_low_lod@alligator_03@panic
 @creatures_reptile_low_lod@snake@normal
+@creatures_reptile_low_lod@turtlesnapping@normal
 _manifest

@@ -1,1 +1,2 @@
+@horse@normal@rearing
 _manifest

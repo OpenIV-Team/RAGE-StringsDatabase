@@ -1,1 +1,6 @@
+@horseback@seat_rear@types@female@right@normal@rearing
+@horseback@seat_rear@types@male@normal@rearing
+@horseback@seat_saddle@character@jack@normal
+@horseback@seat_saddle@types@male@normal@2h
+@horseback@seat_saddle@types@male@normal@2h@rearing
 _manifest

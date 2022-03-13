@@ -1,1 +1,5 @@
+@creatures_mammal@boar@normal
+@creatures_mammal@deer@normal
+@creatures_mammal@possum@normal
+@creatures_mammal@rabbit@normal
 _manifest

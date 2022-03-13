@@ -1,1 +1,5 @@
+@mech_weapons@dual@base
+@mech_weapons@longarms@base
+@mech_weapons@shortarms@base
+@mech_weapons@special@loco@lantern
 _manifest

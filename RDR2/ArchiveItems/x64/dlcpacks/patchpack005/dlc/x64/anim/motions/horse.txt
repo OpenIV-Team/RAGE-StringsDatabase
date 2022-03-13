@@ -1,1 +1,4 @@
+@horse@injured_critical
+@horse@normal@emergency
+@horse@normal@rearing
 _manifest

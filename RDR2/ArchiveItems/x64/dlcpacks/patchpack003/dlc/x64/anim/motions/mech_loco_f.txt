@@ -1,1 +1,2 @@
+@mech_loco_f@type@mp@normal@unarmed
 _manifest

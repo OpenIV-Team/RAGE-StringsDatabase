@@ -1,2 +1,3 @@
+@mech_weapons@special@loco@lantern
 @mech_weapons@special@loco@metal_detector
 _manifest

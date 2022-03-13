@@ -1,1 +1,2 @@
+@creatures_arthropod@crab@normal
 _manifest

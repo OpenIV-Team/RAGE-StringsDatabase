@@ -1,1 +1,4 @@
+@creatures_reptile@alligator@normal
+@creatures_reptile@alligator@wading
+@creatures_reptile@turtlesnapping@normal
 _manifest

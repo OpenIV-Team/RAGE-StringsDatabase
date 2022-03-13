@@ -1,1 +1,5 @@
+@creatures_mammal_low_lod@beaver@normal
+@creatures_mammal_low_lod@cat@normal
+@creatures_mammal_low_lod@cow@normal
+@creatures_mammal_low_lod@moose@normal
 _manifest

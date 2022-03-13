@@ -1,1 +1,15 @@
+@horseback@seat_rear@types@female@right@bucking
+@horseback@seat_rear@types@female@right@climb_exit
+@horseback@seat_rear@types@female@right@normal@emergency
+@horseback@seat_rear@types@male@bucking
+@horseback@seat_rear@types@male@climb_exit
+@horseback@seat_rear@types@male@jump_land
+@horseback@seat_rear@types@male@normal
+@horseback@seat_rear@types@male@normal@emergency
+@horseback@seat_rear@types@male@normal@rearing
+@horseback@seat_saddle@types@female@normal@2h
+@horseback@seat_saddle@types@male@bucking@2h
+@horseback@seat_saddle@types@male@climb_exit
+@horseback@seat_saddle@types@male@normal@2h@emergency
+@horseback@seat_saddle@types@male@normal@2h@rearing
 _manifest

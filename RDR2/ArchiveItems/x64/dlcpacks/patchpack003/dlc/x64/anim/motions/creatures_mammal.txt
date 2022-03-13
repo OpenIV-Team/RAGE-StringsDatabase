@@ -1,1 +1,8 @@
+@creatures_mammal@beaver@normal
+@creatures_mammal@bull@normal
+@creatures_mammal@lionmangy@normal
+@creatures_mammal@possum@normal
+@creatures_mammal@rabbit@normal
+@creatures_mammal@rat@normal
+@creatures_mammal@squirrel@normal
 _manifest

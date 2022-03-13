@@ -1,1 +1,5 @@
+@creatures_mammal_low_lod@boar@normal
+@creatures_mammal_low_lod@deer@normal
+@creatures_mammal_low_lod@possum@normal
+@creatures_mammal_low_lod@rabbit@normal
 _manifest

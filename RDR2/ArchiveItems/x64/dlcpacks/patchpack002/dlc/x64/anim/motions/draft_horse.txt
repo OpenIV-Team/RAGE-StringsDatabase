@@ -1,1 +1,4 @@
+@draft_horse@agitated
+@draft_horse@normal
+@draft_horse@normal@strain
 _manifest

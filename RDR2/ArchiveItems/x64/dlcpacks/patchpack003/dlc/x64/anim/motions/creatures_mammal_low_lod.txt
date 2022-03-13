@@ -1,1 +1,8 @@
+@creatures_mammal_low_lod@beaver@normal
+@creatures_mammal_low_lod@bull@normal
+@creatures_mammal_low_lod@lionmangy@normal
+@creatures_mammal_low_lod@possum@normal
+@creatures_mammal_low_lod@rabbit@normal
+@creatures_mammal_low_lod@rat@normal
+@creatures_mammal_low_lod@squirrel@normal
 _manifest

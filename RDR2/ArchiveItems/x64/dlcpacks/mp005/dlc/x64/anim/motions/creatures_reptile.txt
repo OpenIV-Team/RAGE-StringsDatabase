@@ -1,1 +1,2 @@
+@creatures_reptile@alligator@normal
 _manifest

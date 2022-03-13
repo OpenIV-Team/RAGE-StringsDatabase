@@ -1,1 +1,3 @@
+@creatures_arthropod@crab@normal
+@creatures_arthropod@crawfish@normal
 _manifest

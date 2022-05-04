@@ -1182,6 +1182,7 @@ MP_U_M_M_DYINGPOACHER_02
 MP_U_M_M_DYINGPOACHER_03
 MP_U_M_M_DYINGPOACHER_04
 MP_U_M_M_DYINGPOACHER_05
+mp_u_m_m_fos_musician_01
 mp_u_m_m_gunforhireclerk_01
 mp_u_m_m_gunslinger3_rifleman_01
 mp_u_m_m_gunslinger3_sharpshooter_02

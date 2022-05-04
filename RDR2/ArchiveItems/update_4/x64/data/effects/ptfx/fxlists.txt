@@ -67,6 +67,7 @@ des_utopia2
 des_val_jail
 eagle_eye
 markers_core
+scr_adv_hp
 scr_adv_ova_hunter
 scr_adv_ph
 scr_adv_sok

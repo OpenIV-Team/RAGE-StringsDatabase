@@ -1144,6 +1144,7 @@ sad2_escape_route2
 sad2_logwagon
 sad2_sadie_chase2
 sad2_sadie_cut_off
+sad2_sadie_to_centre
 sad2_sadie_to_horses
 sad3_boat_flee
 sad3_cme_timelapse

@@ -87,7 +87,11 @@ amv_zone_175
 amv_zone_176
 amv_zone_177
 amv_zone_178
+amv_zone_179
 amv_zone_18
+amv_zone_180
+amv_zone_181
+amv_zone_182
 amv_zone_19
 amv_zone_2
 amv_zone_20

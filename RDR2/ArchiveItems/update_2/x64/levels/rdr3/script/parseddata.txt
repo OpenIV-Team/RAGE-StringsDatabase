@@ -4,6 +4,8 @@ adler_ranch
 aguasdulces
 ambientvignettes
 annesburg
+army1
+Army2
 bait_shop_authored_data_sp
 barber_shop_authored_data_sp
 beechers2_2
@@ -34,6 +36,7 @@ companion_activities
 cornwall_kerosene_tar
 cornwall1
 crn1_ext
+demo1
 doctor_shop_authored_data_sp
 downes_ranch
 dst5_int

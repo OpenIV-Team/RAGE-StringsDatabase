@@ -5,6 +5,7 @@ anm_gang2
 anm_human_sick_pee
 anm_impacts
 anm_ind
+anm_lom
 anm_oddf
 anm_smoking
 core

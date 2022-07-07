@@ -1,2 +1,4 @@
 script_mp@endflow@endcelebration@team_grouping@protect@mppro_ig1_endcelebration_v1
 script_mp@endflow@endcelebration@team_grouping@protect@mppro_ig2_endsadwalk_v2
+SCRIPT_MP@PLAYER@CHEST
+SCRIPT_MP@PLAYER@Healing

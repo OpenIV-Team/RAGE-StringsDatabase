@@ -1,4 +1,11 @@
 script@mp@bounty@freeroam@obhebhr_benpoint_reveal@obhebhr_benpoint_reveal
+script@mp@Crossroads@LDTC_MUSICIAN1_CROSSROADS_01
+script@mp@Crossroads@LDTC_MUSICIAN1_DBT3_SCENARIO
 script@mp@endflow@endcelebration@horse_race@horse_race_v6
+SCRIPT@MP@ENDFLOW@ENDCELEBRATION@Protector@mppro_ig1_high
+SCRIPT@MP@ENDFLOW@ENDCELEBRATION@Protector@mppro_ig2_low_v2
+SCRIPT@MP@ENDFLOW@ENDCELEBRATION@Protector@mppro_ig3_medium
+script@mp@introflow@Protect_TeamOnFoot
 script@mp@photo_studio@ig12_m_hogtie@hogtie
 script@mp@photo_studio@ig12_p_drink@drink
+script@mp@player@lightMatchToss@lightMatchToss

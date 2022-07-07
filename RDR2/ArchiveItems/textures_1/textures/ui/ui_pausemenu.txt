@@ -357,6 +357,7 @@ help_general
 help_horse
 pausemenu_challenges
 pausemenu_compendium
+pausemenu_completion
 pausemenu_index
 pausemenu_map
 pausemenu_player

@@ -1,6 +1,7 @@
 anm_animals
 anm_foodprep
 anm_impacts
+anm_lom
 anm_smoking
 anm_work
 core

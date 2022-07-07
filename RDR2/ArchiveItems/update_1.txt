@@ -510,6 +510,7 @@ common/movies/Cutscene_MP_FMTut_Pt5.bk2
 common/movies/Cutscene_MP_FMTut_Pt5_4K.bk2
 common/movies/Cutscene_MP_FMTut_Pt6.bk2
 common/movies/Cutscene_MP_FMTut_Pt6_4K.bk2
+common/movies/Cutscene_MP_FreeModeTutorial.bk2
 common/movies/cutscene_mp_freemodetutorial_4k.bk2
 common/movies/Cutscene_MP_LBEDW.bk2
 common/movies/Cutscene_MP_LBEDW_4K.bk2
@@ -537,6 +538,14 @@ common/movies/cutscene_mp_legbounty_wolfman.bk2
 common/movies/cutscene_mp_legbounty_wolfman_4k.bk2
 common/movies/cutscene_mp_legbounty_yukonnik.bk2
 common/movies/cutscene_mp_legbounty_yukonnik_4k.bk2
+common/movies/Cutscene_MP_LOM_IND.bk2
+common/movies/Cutscene_MP_LOM_IND_4K.bk2
+common/movies/Cutscene_MP_LOM_INTRO.bk2
+common/movies/Cutscene_MP_LOM_INTRO_4K.bk2
+common/movies/Cutscene_MP_LOM_RHO.bk2
+common/movies/Cutscene_MP_LOM_RHO_4K.bk2
+common/movies/Cutscene_MP_LOM_TRAIN.bk2
+common/movies/Cutscene_MP_LOM_TRAIN_4K.bk2
 common/movies/cutscene_mp_moonshineintro.bk2
 common/movies/cutscene_mp_moonshineintro_4k.bk2
 common/movies/cutscene_mpintro.bk2

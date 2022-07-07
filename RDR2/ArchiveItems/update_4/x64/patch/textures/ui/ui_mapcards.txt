@@ -1,6 +1,8 @@
 map_card_amd_depot
+map_card_blood_money_gudio
 map_card_bounty_board
 map_card_bounty_hunter_intro
+map_card_camp_general
 map_card_collector_intro
 map_card_cripps
 map_card_fast_travel_annesburg

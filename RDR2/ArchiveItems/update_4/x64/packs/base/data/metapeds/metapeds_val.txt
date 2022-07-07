@@ -26,6 +26,7 @@ mp_dr_u_m_m_bigvalleycave_01
 mp_dr_u_m_m_bigvalleycliff_01
 mp_re_rivalcollector_males_01
 mp_rescue_rivalshack_males_01
+mp_u_m_m_protect_valentine_01
 s_m_m_valbankguards_01
 s_m_m_valcowpoke_01
 s_m_m_valdealer_01

@@ -251,6 +251,7 @@ pause_compendium_grid_horz
 pause_completion_detail
 pause_gamesaves_index
 pause_gamesaves_mp_index
+pause_gamesaves_mp_index_standalone
 pause_player_mp_detail
 pause_player_mp_index
 pause_player_mp_skills
